@@ -1,0 +1,66 @@
+name: Daily API Scrape
+
+on:
+  schedule:
+    # Run daily at 06:00 UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Scrape mode: all, daily, or bulk'
+        required: false
+        default: 'daily'
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run scraper
+        run: |
+          MODE="${{ github.event.inputs.mode || 'daily' }}"
+          if [ "$MODE" = "bulk" ]; then
+            node scraper/run-all.js --bulk
+          elif [ "$MODE" = "daily" ]; then
+            node scraper/run-all.js --daily
+          else
+            node scraper/run-all.js
+          fi
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet src/data/apis.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No new APIs found"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            ADDED=$(git diff src/data/apis.json | grep "^+" | grep -c '"name"' || true)
+            echo "count=$ADDED" >> $GITHUB_OUTPUT
+            echo "Found $ADDED new APIs"
+          fi
+
+      - name: Commit and push if changed
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "API Finder Bot"
+          git add src/data/apis.json
+          git commit -m "🤖 Auto-scraped ${{ steps.changes.outputs.count }} new APIs [$(date +'%Y-%m-%d')]"
+          git push
+
+      - name: Build production bundle
+        if: steps.changes.outputs.changed == 'true'
+        run: npm run build
