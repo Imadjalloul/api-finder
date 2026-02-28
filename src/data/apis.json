@@ -1,5 +1,75 @@
 [
     {
+        "name": "Aawu",
+        "description": "Show HN: I built a labor union for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aawu.ai",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Agentweb",
+        "description": "Show HN: AgentWeb – Free business directory API for AI agents (11M+ businesses)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agentweb.live",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Ai-olympics",
+        "description": "Show HN: AI Olympics – Claude vs. GPT-4 vs. Gemini in live browser competitions",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ai-olympics.vercel.app",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Ainb",
+        "description": "Show HN: Ainb.dev a Jupyter inspired AI notebook that runs in the browser",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ainb.dev/",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Apekey",
+        "description": "Show HN: ApeKey – One API for multiple AI providers, predictable pricing",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apekey.ai",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Blog",
+        "description": "Show HN: NSED 0.3 Release. Steer Multi-Agent AI Swarm for Frontier Performance",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.peeramid.xyz/nsed-public/",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Chat",
+        "description": "Show HN: Aru AI local-first AI assistant with semantic memory in browser SQLite",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://chat.aru-lab.space",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "Clarifai",
         "description": "Image and video recognition, NLP, and generative AI",
         "category": "AI & Machine Learning",
@@ -25,6 +95,26 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.deepl.com/docs-api"
+    },
+    {
+        "name": "Dypai",
+        "description": "Show HN: Dypai – Build backends from your IDE using AI and MCP",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.dypai.ai/",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Eliezer",
+        "description": "Show HN: Eliezer – Tiny (~7K LOC) Self-Hosted AI Agent (PWA, Self-Editing)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.eliezer.app/",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "Google Gemini",
@@ -54,6 +144,16 @@
         "url": "https://huggingface.co/docs/api-inference/"
     },
     {
+        "name": "Llmskirmish",
+        "description": "Show HN: A real-time strategy game that AI agents can play",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://llmskirmish.com/",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "Mistral AI",
         "description": "Powerful open-weight LLMs via API",
         "category": "AI & Machine Learning",
@@ -73,6 +173,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Novyxlabs",
+        "description": "Show HN: Novyx – Memory API for AI agents (rollback, replay, semantic search)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.novyxlabs.com/",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "OpenAI",
         "description": "GPT, DALL-E, Whisper — advanced AI models via API",
         "category": "AI & Machine Learning",
@@ -80,6 +190,36 @@
         "https": true,
         "cors": "yes",
         "url": "https://platform.openai.com/docs"
+    },
+    {
+        "name": "Personalassistantdeploy",
+        "description": "Show HN: Private AI assistant for $1.99 -Free AI",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://personalassistantdeploy.com/",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Pypi",
+        "description": "Show HN: InferShrink – Cut LLM API costs 10x with automatic model routing",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pypi.org/project/infershrink/",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Queryveil",
+        "description": "Show HN: QueryVeil – An AI data analyst that investigates your data",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.queryveil.com",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "Replicate",
@@ -91,6 +231,66 @@
         "url": "https://replicate.com/docs"
     },
     {
+        "name": "Rigour",
+        "description": "Show HN: Rigour – Open-source quality gates for AI coding agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rigour.run",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Ryvos",
+        "description": "Show HN: Ryvos – Autonomous AI assistant in Rust(15MB RAM,50 tools,16 providers)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ryvos.dev",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Sarvita",
+        "description": "Show HN: Sarvita – AI coach that tracks and reverses your biological age",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sarvita.app/",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Shiporslop",
+        "description": "Show HN: Ship or Slop – AI agents submit projects, humans judge them",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://shiporslop.xyz",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Shuttleai",
+        "description": "Show HN: ShuttleAI – One API for Claude Opus 4.6 and GPT-5.2",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://shuttleai.com/",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Skillscan",
+        "description": "Show HN: SkillScan – Free API to detect malicious AI agent skill files",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://skillscan.chitacloud.dev",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "Stability AI",
         "description": "Stable Diffusion image generation API",
         "category": "AI & Machine Learning",
@@ -98,6 +298,26 @@
         "https": true,
         "cors": "yes",
         "url": "https://platform.stability.ai/"
+    },
+    {
+        "name": "Sysdesai",
+        "description": "Show HN: I built an AI senior architect – vibe coding meets system design",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.sysdesai.com",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Thisorthis",
+        "description": "Show HN: Thisorthis.ai – Compare responses from 50 AI models side-by-side",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thisorthis.ai/ai-playground",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "Together AI",
@@ -109,6 +329,16 @@
         "url": "https://docs.together.ai/"
     },
     {
+        "name": "Vault",
+        "description": "Show HN: We built a public CTF to stress-test AI agent guardrails",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vault.aport.io/",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "Wolfram Alpha",
         "description": "Computational knowledge engine and answer API",
         "category": "AI & Machine Learning",
@@ -116,6 +346,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://products.wolframalpha.com/api/"
+    },
+    {
+        "name": "Zuckerbot",
+        "description": "Show HN: ZuckerBot. API and MCP server for AI agents to run Meta/Facebook ads",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://zuckerbot.ai/",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "Abusive Experience Report API",
@@ -2986,6 +3226,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Ladybird",
+        "description": "Ladybird adopts Rust, with help from AI",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ladybird.org/posts/adopting-rust/",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "Nookipedia",
         "description": "The Nookipedia API provides endpoints for retrieving *Animal Crossing* data pulled from the [Nookipedia wiki](https://nookipedia.com/wiki/Main_Page). A couple of the key benefits of using the Nookiped",
         "category": "Animals",
@@ -3129,6 +3379,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Human-pass",
+        "description": "Show HN: Humanpass – Proof of humanness using WebAuthn, no data collected",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://human-pass.org/v/20260227-0710-PGY0",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "Okta",
         "description": "Enterprise identity and access management",
         "category": "Auth & Identity",
@@ -3155,6 +3415,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://supabase.com/docs/guides/auth"
+    },
+    {
+        "name": "Weykon",
+        "description": "Show HN: Agent Hand – Tmux session manager for AI coding agents (Rust)",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://weykon.github.io/agent-hand/",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "climateKuul live",
@@ -3233,6 +3503,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Crustdata",
+        "description": "Show HN: Crustdata (YC F24) – Web Search API for Token-Efficient AI Agents",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://crustdata.com",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "Etherscan",
         "description": "Ethereum blockchain explorer and analytics",
         "category": "Blockchain",
@@ -3240,6 +3520,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://docs.etherscan.io/"
+    },
+    {
+        "name": "Evolvingintelligence",
+        "description": "Show HN: Anno – API that cuts AI web-scraping token costs by 90%",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.evolvingintelligence.ai/anno",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "Marketplace Protocol",
@@ -3250,6 +3540,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/vtex/openapi-schemas/master/VTEX - Marketplace Protocol.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Oxlo",
+        "description": "Show HN: Oxlo.ai – AI APIs with unlimited tokens and request based pricing",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.oxlo.ai/",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "Alerter System API",
@@ -8717,6 +9017,26 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Apps",
+        "description": "Show HN: Mockingjay – Video recorder that encrypts and uploads as you record",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apps.apple.com/no/app/mockingjay-secure-recorder/id6758616261",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Budgetfast",
+        "description": "Show HN: BudgetFast – Upload a bank statement screenshot, AI does the rest",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://budgetfast.co",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "Bulk Data Storage System Services",
         "description": "Bulk Data Storage System (BDSS) allows the public to discover, search, and download patent and trademark data in bulk form.",
         "category": "Cloud & Storage",
@@ -8793,6 +9113,26 @@
         "url": "https://apidocs.imgur.com/"
     },
     {
+        "name": "Mantledb",
+        "description": "Show HN: MantleDB – Anonymous JSON storage for your side projects",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mantledb.sh/",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Openbrowserclaw",
+        "description": "Show HN: OpenBrowserClaw – No Mac Mini. No VPS. No Cloud Deploy. Just Open a Tab",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.openbrowserclaw.com/",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "Pastebin",
         "description": "Plain text storage and sharing service",
         "category": "Cloud & Storage",
@@ -8800,6 +9140,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://pastebin.com/doc_api"
+    },
+    {
+        "name": "Rmirror",
+        "description": "Show HN: RMirror Cloud – Open-Source OCR and Notion Sync for ReMarkable Tablets",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rmirror.io",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "Service Broker",
@@ -8812,6 +9162,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Smplogs",
+        "description": "Show HN: Smplogs – Local-first AWS Cloudwatch log analyzer via WASM",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.smplogs.com",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "User API",
         "description": "The Vonage Business Cloud User API enables you to retrieve information about users.\n\nYour application must subscribe to the Provisioning API suite to use this API.",
         "category": "Cloud & Storage",
@@ -8820,6 +9180,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/nexmo/api-specification/master/definitions/vonage-business-cloud/user.yml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Vram",
+        "description": "Show HN: Vram.run – Compare API providers, local GPUs, and cloud for any model",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vram.run",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "Avaza API Documentation",
@@ -9037,6 +9407,16 @@
         "cors": "unknown",
         "url": "https://api.hubspot.com/api-catalog-public/v1/apis/communication-preferences/v3",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Ttslab",
+        "description": "Show HN: TTSLab – A voice AI agent and TTS lab running in the browser via WebGPU",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ttslab.dev",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "Twilio",
@@ -40047,6 +40427,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Amux",
+        "description": "Show HN: Amux – A tmux-based multiplexer for running parallel Claude Code agents",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://amux.io",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "Analyze Image",
         "description": "Unlock powerful AI analysis with just one upload. Detect objects, styles, colors, emotions, and more in seconds. Perfect for designers, researchers, and creators who want to understand images deeply.",
         "category": "Development",
@@ -40895,6 +41285,16 @@
         "cors": "unknown",
         "url": "https://apify.com/scrape-creators/best-youtube-transcripts-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Better-hub",
+        "description": "Show HN: Better Hub – A better GitHub experience",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.better-hub.com/",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "BibleGateway.com Scraper",
@@ -47958,6 +48358,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Light-handle",
+        "description": "Show HN: MCPSpec – Ship reliable MCP servers without writing test code",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://light-handle.github.io/mcpspec/",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "LighterImage - Image Compressor With No Quality Loss",
         "description": "Compress images & convert to WebP in one API call. Input via URL, Base64, or KV store. Output: optimized original + WebP with compression stats. TinyPNG-quality algorithms (mozjpeg, palette mode,...",
         "category": "Development",
@@ -49718,6 +50128,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Openclawsetup",
+        "description": "Show HN: Deploy OpenClaw in 60 seconds – one-click setup, no DevOps needed",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.openclawsetup.tech/",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "OpenFDA Drug Intelligence + AI Severity",
         "description": "Extract FDA drug adverse events, recalls, and safety data with AI severity scoring (0-100). Perfect for pharma research, pharmacovigilance, and healthcare analytics. Free FDA API - no keys needed.",
         "category": "Development",
@@ -50166,6 +50586,16 @@
         "cors": "unknown",
         "url": "https://apify.com/codenest/pinterest-video-scraper-downloader",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Pipelineiq",
+        "description": "Show HN: PipelineIQ – AI diagnoses CI/CD failures and sends fixes to Slack",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pipelineiq.dev",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "Planning School Resource Scraper",
@@ -55594,6 +56024,16 @@
         "cors": "unknown",
         "url": "https://apify.com/openai/x-user-profile-tweets-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Xaml",
+        "description": "Show HN: Browser-based .NET IDE with visual designer, NuGet packages, code share",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://xaml.io/s/Samples/Newtonsoft",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "XML to JSON Converter",
@@ -63705,6 +64145,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Moltgram-api-production",
+        "description": "Show HN: Moltgram, a social network where only AI agents can post",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://moltgram-api-production.up.railway.app",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "Molto Urls Spider",
         "description": "The Molto Urls Spider is an Apify Actor that efficiently scrapes Molto's website to extract structured product and brand data, including descriptions, logos, and social links....",
         "category": "E-Commerce",
@@ -64403,6 +64853,16 @@
         "cors": "unknown",
         "url": "https://apify.com/getdataforme/opentable-urls-description-spider",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Opportunai",
+        "description": "Show HN: OpportuAI – remote jobs, AI tools and digital products aggregator",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://opportunai.vercel.app",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "Oralb Reviews Spider",
@@ -70654,6 +71114,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Notaryos",
+        "description": "Show HN: NotaryOS – Cryptographic proof of what your AI agent chose not to do",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://notaryos.org",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "Open Banking - Payments initiation service",
         "description": "Open Banking - Payments initiation service",
         "category": "Finance",
@@ -70672,6 +71142,16 @@
         "cors": "unknown",
         "url": "https://developer.mastercard.com/devzone/api/portal/swagger/personalized-offers",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Psychosomat",
+        "description": "Show HN: I built a sub-20ms crypto API in Go",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://psychosomat.github.io/LimpioRelease-hn-article/",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "Real Estate Deal Finder Pro",
@@ -70694,6 +71174,26 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Shouldiswap",
+        "description": "Show HN: ShouldISwap – Compare crypto pair rates against historical averages",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://shouldiswap.com/",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Sprime",
+        "description": "Show HN: Sprime – weather, crypto, news, forex all normalized to one JSON schema",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sprime.us/",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "Subscriptions API (v3)",
         "description": "A **Subscription** is a list of items (SKUs) tied to certain recurring purchase settings:\r\n\r\n- User profile\r\n- Address\r\n- Payment method\r\n- Frequency\r\n- Cycle\r\n\r\nOnce you have [configured subscripti",
         "category": "Finance",
@@ -70711,6 +71211,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://twelvedata.com/"
+    },
+    {
+        "name": "X402-api",
+        "description": "Show HN: A DeFi data API where AI agents pay per call via HTTP 402 micropayments",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://x402-api.fly.dev",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "1Forge Finance APIs",
@@ -71550,6 +72060,16 @@
         "url": "https://restcountries.com/"
     },
     {
+        "name": "App",
+        "description": "Show HN: We wrapped US healthcare API in MCP and it became surprisingly usable",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.healthporta.com/mcp",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "COVID-19",
         "description": "Coronavirus statistics and tracking data",
         "category": "Government & Health",
@@ -71595,6 +72115,16 @@
         "cors": "unknown",
         "url": "http://regulationsgov.github.io/developers/api-docs.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Sekha",
+        "description": "Show HN: OpenClaw remembers for OpenClaw. Sekha remembers for your full workflow",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sekha.dev",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "UK Police",
@@ -71992,6 +72522,16 @@
         "cors": "unknown",
         "url": "https://gist.githubusercontent.com/MikeRalphson/77bb693d4cf9213909527b9cc4566609/raw/9febc5d16d8d162c93f3503510ce0808a8075d5b/openuv.yaml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Signalcend",
+        "description": "Show HN: SignalCend – API that resolves conflicting IoT device state in 47ms",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://signalcend.com/",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "API Reference - Ideal Postcodes",
@@ -73369,6 +73909,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Agentready",
+        "description": "Show HN: Compression API for LLM prompts (40-60% token savings, ~5ms overhead)",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agentready.cloud/hn",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "Article Rewriter and Article Extractor API",
         "description": "Spinbot.net propose a new solution based on high technologies for faster article spinner and extractor that you will love to use it.",
         "category": "News",
@@ -73377,6 +73927,16 @@
         "cors": "unknown",
         "url": "http://spinbot.net/spinbot_api_swagger.yaml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Blog",
+        "description": "Show HN: API checks show three suppression strategies on X",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.karljtaylor.com/blog/2026-02-28-xai-search-api-suppression/",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "Currents API",
@@ -73431,6 +73991,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://open-platform.theguardian.com/"
+    },
+    {
+        "name": "Thedataproject",
+        "description": "The Data Project – data journalism sites built from public government datasets",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.thedataproject.ai",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "Accountants General, Tripura",
@@ -76343,6 +76913,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Agentplace",
+        "description": "Show HN: Agentplace, the tool we built to become a 20x company",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agentplace.io/",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "API",
         "description": "Web API for TL mobile and web app",
         "category": "Other",
@@ -76373,6 +76953,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Browse2api",
+        "description": "Show HN: Browse2API – Turn any website into an API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.browse2api.com/",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "Business Unit",
         "description": "Retrieve Business Unit information.",
         "category": "Other",
@@ -76381,6 +76971,36 @@
         "cors": "unknown",
         "url": "https://api.hubspot.com/api-catalog-public/v1/apis/business-units/v3",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Charityverify",
+        "description": "Show HN: CharityVerify – Trust scores for 138K Canadian charities",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://charityverify.com/",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Checkapi",
+        "description": "Show HN: CheckAPI – open-source API monitoring built with FastAPI and Next.js",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.checkapi.io/",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Claude",
+        "description": "System prompt change Claude's reasoning depth – side-by-side comparison tool",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://claude.ai/public/artifacts/eba2a270-dd61-4f0c-a276-34a53e604f13",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "clickup20",
@@ -76463,6 +77083,36 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Engram",
+        "description": "Show HN: Engram – Open-source agent memory that beats Mem0 by 20% on LOCOMO",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.engram.fyi/",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Exactonce",
+        "description": "Show HN: ExactOnce – API for actions that can only happen once",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://exactonce.com/",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Flexprice",
+        "description": "Show HN: Prompt your billing system – Flexprice MCP Server",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://flexprice.io/",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "GererMesAffaires {REST:API}",
         "description": "Sécurisez vos données en interfaçant votre logiciel métier avec le service en ligne GererMesAffaires",
         "category": "Other",
@@ -76471,6 +77121,16 @@
         "cors": "unknown",
         "url": "https://api.gerermesaffaires.com/wp-content/uploads/2022/09/GmaAPI-GererMesAffairesAPI-1.0.6-swagger.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Ghostklan",
+        "description": "Show HN: Shibuya – A High-Performance WAF in Rust with eBPF and ML Engine",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ghostklan.com/shibuya.html",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "Google Mirror",
@@ -76523,6 +77183,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Humanrootoftrust",
+        "description": "The Human Root of Trust – public domain framework for agent accountability",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://humanrootoftrust.org/",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "Increase API",
         "description": "Increase API API",
         "category": "Other",
@@ -76533,6 +77203,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Inkgest",
+        "description": "Show HN: Inkgest, Link to Gest",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.inkgest.com/",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "IPQualityScore API",
         "description": "IPQualityScore API API",
         "category": "Other",
@@ -76541,6 +77221,26 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/IPQualityScore/IP_Quality_Score_API_Spec/Review1/postman/collections/IP%20API%20Spec%20Review%201.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Jackonomics",
+        "description": "Giving Is a Public Good: Slightly Contra Scott Alexander on Foreign Aid",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jackonomics.substack.com/p/giving-is-a-public-good-slightly",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Letsclarify",
+        "description": "Show HN: LetsClarify – A dead-simple API for Human-in-the-loop AI\"",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://letsclarify.ai/",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "Lucidtech API",
@@ -76603,6 +77303,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Mcpx",
+        "description": "A Solution to the MCP and REST API Problem",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mcpx.rest/proposal",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "Meilisearch v1.0",
         "description": "Meilisearch v1.0 API",
         "category": "Other",
@@ -76663,6 +77373,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Pivotordie",
+        "description": "A public startup survival tracker (30 days inactive = dead)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pivotordie.club",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "Pricing Hub",
         "description": "> This feature is in closed beta, available only for selected customers. If you have any questions, contact our [Support](https://support.vtex.com/hc/en-us/requests). \r\n\r\n In the B2B scenario, it is c",
         "category": "Other",
@@ -76701,6 +77421,16 @@
         "cors": "unknown",
         "url": "https://developer.mastercard.com/devzone/api/portal/swagger/mastercard-repower",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Retrotick",
+        "description": "Show HN: RetroTick – Run classic Windows EXEs in the browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://retrotick.com/",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "SimpliVPNAPI",
@@ -76763,6 +77493,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Textyoursite",
+        "description": "Show HN: Multiplayer realtime text-to-website demo (live edits via Sonnet 4.6)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://textyoursite.com/demo",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "Travel Partner API",
         "description": "The Travel Partner API provides you with a RESTful interface to the Google Hotel Center platform. It enables an app to efficiently retrieve and change Hotel Center data, and is thus suitable for manag",
         "category": "Other",
@@ -76771,6 +77511,26 @@
         "cors": "unknown",
         "url": "https://travelpartner.googleapis.com/$discovery/rest?version=v3",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Waggle",
+        "description": "Show HN: Waggle – A search engine for A2A protocol agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://waggle.zone",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Warnfirehose",
+        "description": "Show HN: WARN Firehose – Every US layoff notice in one searchable database",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://warnfirehose.com",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "Wealth Reader API",
@@ -77123,6 +77883,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Geoquests",
+        "description": "Show HN: I built GeoQuests where people can request photos of a place",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://geoquests.io",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "Lorem Picsum",
         "description": "Random placeholder images with customizable dimensions",
         "category": "Photography",
@@ -77148,6 +77918,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://pixabay.com/api/docs/"
+    },
+    {
+        "name": "Pixshot",
+        "description": "Show HN: PixShot – Screenshot and OG Image API",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pixshot.dev",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "PlaceKitten",
@@ -78035,6 +78815,16 @@
         "cors": "unknown",
         "url": "https://apify.com/easyapi/app-store-search-suggestions",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Applyflowtracker",
+        "description": "Show HN: ApplyFlow – Free Kanban job tracker with multi-tier Chrome capture",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.applyflowtracker.com",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "AppSumo Product Scraper 🛍️",
@@ -82425,6 +83215,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Oxynote",
+        "description": "Show HN: Oxynote – Technical knowledge base with live Prometheus charts",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://oxynote.io/",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "Page Printer",
         "description": "Performs screenshots or print web pages in PDF format.",
         "category": "Productivity",
@@ -85732,6 +86532,36 @@
         "url": "https://arxiv.org/help/api/"
     },
     {
+        "name": "Breezko",
+        "description": "Show HN: I Created an Interactive Resume Space Invader Game",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://breezko.dev",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Gdbs",
+        "description": "Show HN: GDBS – Browser geometric physics engine replacing HPC cluster workloads",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gdbs.getvaultsync.com",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Heimdallspace",
+        "description": "Show HN: Real-Time Satellite Tracking and Intelligence Dashboard",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://heimdallspace.com/",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "NASA",
         "description": "Astronomy pictures, Mars rover photos, and more",
         "category": "Science",
@@ -86026,6 +86856,26 @@
         "url": "https://docs.abuseipdb.com/"
     },
     {
+        "name": "Cifer-security",
+        "description": "Show HN: Cifer, zero-key custody using threshold cryptography",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cifer-security.com",
+        "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Federalregister",
+        "description": "NIST Seeking Public Comment on AI Agent Security (Deadline: March 9, 2026)",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.federalregister.gov/documents/2026/01/08/2026-00206/request-for-information-regarding-security-considerations-for-artificial-intelligence-agents",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "Have I Been Pwned",
         "description": "Check if email addresses have been in data breaches",
         "category": "Security",
@@ -86033,6 +86883,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://haveibeenpwned.com/API/v3"
+    },
+    {
+        "name": "Ipinsights",
+        "description": "Show HN: Ipinsights.io – Free IP threat intelligence with API",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.ipinsights.io",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "KumpeApps API",
@@ -86074,6 +86934,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Techxplore",
+        "description": "I swarms can threaten democracy by manufacturing fake public consensus",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://techxplore.com/news/2026-01-generation-disinformation-ai-swarms-threaten.html",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "URLScan",
         "description": "Scan and analyze websites for security threats",
         "category": "Security",
@@ -86100,6 +86970,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://developers.virustotal.com/"
+    },
+    {
+        "name": "Ziosec",
+        "description": "Show HN: We built free adversarial security testing for agents (OpenClaw too)",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ziosec.com",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "Bandsintown API",
@@ -86290,6 +87170,16 @@
         "url": "https://docs.joinmastodon.org/api/"
     },
     {
+        "name": "Openclawdiscord",
+        "description": "Show HN: Meet Alfonso: My OpenClaw Put on Public Discord",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.openclawdiscord.ai/",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "Reddit",
         "description": "Posts, comments, subreddits, and user data",
         "category": "Social",
@@ -86354,6 +87244,16 @@
         "cors": "unknown",
         "url": "https://api.hubspot.com/api-catalog-public/v1/apis/conversations/v3/visitor-identification",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Yeethook",
+        "description": "Show HN: Yeethook, Enriched App Store Connect Webhooks to Slack",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.yeethook.com",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "API-Football",
@@ -87550,6 +88450,16 @@
         "url": "https://www.purgomalum.com/"
     },
     {
+        "name": "Semanticapi",
+        "description": "Show HN: Semantic API – Find Any API with Natural Language (LangChain, MCP, CLI)",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://semanticapi.dev",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "TCGdex API",
         "description": "A Multilanguage Pokémon TCG Database with Cards Pictures and most of the informations contained on the cards.\nYou can find out more about TCGdex at [https://www.tcgdex.net](https://www.tcgdex.net) or",
         "category": "Text & Language",
@@ -87929,6 +88839,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Brandomica",
+        "description": "Show HN: Brandomica – Check if a brand name is safe to launch 1n one search",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.brandomica.com",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "CountAPI",
         "description": "Simple counter API for tracking page views",
         "category": "Utilities",
@@ -88012,6 +88932,16 @@
         "url": "https://developers.deezer.com/api"
     },
     {
+        "name": "Findaivideo",
+        "description": "Show HN: I tested 50 AI video APIs and built a comparison platform",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://findaivideo.com",
+        "discovered_at": "2026-02-28"
+    },
+    {
         "name": "Giphy",
         "description": "GIFs, stickers, and animated content search",
         "category": "Video & Media",
@@ -88039,6 +88969,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/nexmo/api-specification/master/definitions/media.yml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Sentienttube",
+        "description": "Show HN: SentientTube – The YouTube for AI Agents",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.sentienttube.com/",
+        "discovered_at": "2026-02-28"
     },
     {
         "name": "Tenor",
