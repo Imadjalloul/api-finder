@@ -10,6 +10,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Agentlookup",
+        "description": "Show HN: AgentLookup – A public registry where AI agents find each other",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agentlookup.dev",
+        "discovered_at": "2026-03-01"
+    },
+    {
         "name": "Agentweb",
         "description": "Show HN: AgentWeb – Free business directory API for AI agents (11M+ businesses)",
         "category": "AI & Machine Learning",
@@ -117,6 +127,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Frogapi",
+        "description": "Show HN: Get GPT-5.2, Grok-4.1-fast, KimiK2.5 and more LLMs at half the cost",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://frogapi.app",
+        "discovered_at": "2026-03-01"
+    },
+    {
         "name": "Google Gemini",
         "description": "Google's multimodal AI model with free tier",
         "category": "AI & Machine Learning",
@@ -142,6 +162,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://huggingface.co/docs/api-inference/"
+    },
+    {
+        "name": "Limits",
+        "description": "Show HN: Limits – Control layer for AI agents that take real actions",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://limits.dev",
+        "discovered_at": "2026-03-01"
     },
     {
         "name": "Llmskirmish",
@@ -220,6 +250,16 @@
         "cors": "unknown",
         "url": "https://www.queryveil.com",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Quoroom",
+        "description": "Show HN: Quoroom – local AI swarm (public research)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://quoroom.ai/",
+        "discovered_at": "2026-03-01"
     },
     {
         "name": "Replicate",
@@ -3635,6 +3675,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://poetrydb.org"
+    },
+    {
+        "name": "Userunbook",
+        "description": "Show HN: RunbookAI – Hypothesis-driven incident investigation agent(open source)",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://userunbook.ai/",
+        "discovered_at": "2026-03-01"
     },
     {
         "name": "Access Analyzer",
@@ -9329,6 +9379,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.abstractapi.com/sms-verification-api"
+    },
+    {
+        "name": "Clwnt",
+        "description": "Show HN: ClawNet – Agent-first communication infrastructure (email, DMs, feed)",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://clwnt.com",
+        "discovered_at": "2026-03-01"
     },
     {
         "name": "Conversation API",
@@ -49568,6 +49628,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Mowgli",
+        "description": "Show HN: Mowgli – Figma for the agent era, with Claude Code and design export",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mowgli.ai/",
+        "discovered_at": "2026-03-01"
+    },
+    {
         "name": "Multichain Wallet Analytics API",
         "description": "The fastest & cheapest API to scrape wallet trading stats across multiple blockchains. Instantly access PnL, trade history, win/loss ratio & performance metrics for any crypto wallet. Perfect for...",
         "category": "Development",
@@ -77103,6 +77173,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Feedfluffy",
+        "description": "Show HN: FeedFluffy a dead man switch for people living alone",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://feedfluffy.com",
+        "discovered_at": "2026-03-01"
+    },
+    {
         "name": "Flexprice",
         "description": "Show HN: Prompt your billing system – Flexprice MCP Server",
         "category": "Other",
@@ -77333,6 +77413,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Nishal21",
+        "description": "Show HN: CarbonLint – Open-source real-time energy&carbon profiler for software",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nishal21.github.io/CarbonLint/",
+        "discovered_at": "2026-03-01"
+    },
+    {
         "name": "OpenChannel Market API",
         "description": "OpenChannel Market API API",
         "category": "Other",
@@ -77483,6 +77573,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Statuslane",
+        "description": "Show HN: StatusLane – Minimal status pages and uptime for small SaaS",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://statuslane.dev",
+        "discovered_at": "2026-03-01"
+    },
+    {
         "name": "TechPort",
         "description": "TechPort RESTful API",
         "category": "Other",
@@ -77511,6 +77611,16 @@
         "cors": "unknown",
         "url": "https://travelpartner.googleapis.com/$discovery/rest?version=v3",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Unfudged",
+        "description": "Show HN: Unfucked - version all changes (by any tool) - local-first/source avail",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.unfudged.io/",
+        "discovered_at": "2026-03-01"
     },
     {
         "name": "Waggle",
@@ -77551,6 +77661,16 @@
         "cors": "unknown",
         "url": "http://webservice.wikipathways.org/index.php?swagger",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Yarn6",
+        "description": "Yarn 6 has been implemented in Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://yarn6.netlify.app/blog/2026-01-28-yarn-6-preview/",
+        "discovered_at": "2026-03-01"
     },
     {
         "name": "Account API",
