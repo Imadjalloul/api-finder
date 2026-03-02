@@ -203,6 +203,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Notanainotepad",
+        "description": "Show HN: Not an AI Notepad. 5MB local only notes app for Windows (Rust, SQLite)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://notanainotepad.gumroad.com/l/mfqjtl",
+        "discovered_at": "2026-03-02"
+    },
+    {
         "name": "Novyxlabs",
         "description": "Show HN: Novyx – Memory API for AI agents (rollback, replay, semantic search)",
         "category": "AI & Machine Learning",
@@ -386,6 +396,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://products.wolframalpha.com/api/"
+    },
+    {
+        "name": "Word-orb-api",
+        "description": "Show HN: Orb Platform – 3 content APIs for AI agents that teach",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://word-orb-api.nicoletterankin.workers.dev/playground",
+        "discovered_at": "2026-03-02"
     },
     {
         "name": "Zuckerbot",
@@ -3685,6 +3705,16 @@
         "cors": "unknown",
         "url": "https://userunbook.ai/",
         "discovered_at": "2026-03-01"
+    },
+    {
+        "name": "Yourservicebook",
+        "description": "Show HN: Service Book – Smart maintenance tracking for every car owner",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://yourservicebook.com/",
+        "discovered_at": "2026-03-02"
     },
     {
         "name": "Access Analyzer",
@@ -52806,6 +52836,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Smashlanding",
+        "description": "Show HN: Built a tool that turns your GitHub commits into build-in-public posts",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.smashlanding.xyz",
+        "discovered_at": "2026-03-02"
+    },
+    {
         "name": "Snapchat Spotlight, Story Video Downloader & Metadata Extractor",
         "description": "🚀 Download Snapchat Spotlight 🌟 & Stories 📖 videos 🎥 + metadata 📊! Get titles, durations ⏱️, owner images 👤, HD quality 🖼️ Choose Apify 🔐 or direct links ⚡Bulk URLs 🔄, for devs 🛠️,...",
         "category": "Development",
@@ -77133,6 +77173,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Dividdy",
+        "description": "Show HN: Tired of making accounts to split a pizza bill, I built Dividdy",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dividdy.com/en",
+        "discovered_at": "2026-03-02"
+    },
+    {
         "name": "Domains",
         "description": "Domains API",
         "category": "Other",
@@ -77383,6 +77433,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Maurycyz",
+        "description": "Why does C have the best file API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://maurycyz.com/misc/c_files/",
+        "discovered_at": "2026-03-02"
+    },
+    {
         "name": "Mcpx",
         "description": "A Solution to the MCP and REST API Problem",
         "category": "Other",
@@ -77441,6 +77501,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/vtex/openapi-schemas/master/VTEX - Orders API (PII version).json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Panel-panic",
+        "description": "Show HN: Panel Panic a Rust/Macroquad/WASM Panel de Pon/Tetris Attack Clone",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://panel-panic.com",
+        "discovered_at": "2026-03-02"
     },
     {
         "name": "PatientView",
@@ -77521,6 +77591,16 @@
         "cors": "unknown",
         "url": "https://retrotick.com/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Seoscoreapi",
+        "description": "Show HN: SEO Score API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://seoscoreapi.com",
+        "discovered_at": "2026-03-02"
     },
     {
         "name": "SimpliVPNAPI",
@@ -77621,6 +77701,16 @@
         "cors": "unknown",
         "url": "https://www.unfudged.io/",
         "discovered_at": "2026-03-01"
+    },
+    {
+        "name": "Vote-demo",
+        "description": "Show HN: \"Vote-MCP\" -- a bit like Google Forms, but for AIs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vote-demo.dapp32.com/about",
+        "discovered_at": "2026-03-02"
     },
     {
         "name": "Waggle",
@@ -78020,6 +78110,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://picsum.photos/"
+    },
+    {
+        "name": "Nobolee88",
+        "description": "Major AI companies build weapons.Here' the full picture,sourced to public record",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nobolee88.github.io/three-doors/",
+        "discovered_at": "2026-03-02"
     },
     {
         "name": "Pexels",
@@ -89108,6 +89208,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://tenor.com/gifapi/documentation"
+    },
+    {
+        "name": "Videolyti",
+        "description": "Show HN: Videolyti – Free video downloader with built-in AI transcription",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://videolyti.com/en",
+        "discovered_at": "2026-03-02"
     },
     {
         "name": "Vimeo",
