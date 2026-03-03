@@ -98,6 +98,26 @@
         "url": "https://docs.cohere.com/"
     },
     {
+        "name": "Crowpay",
+        "description": "Show HN: CrowPay – add x402 in a few lines, let AI agents pay per request",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.crowpay.ai/",
+        "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Csv-analyzer-green",
+        "description": "Show HN: CSV Analyzer – drag-and-drop data analysis with AI insights",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://csv-analyzer-green.vercel.app",
+        "discovered_at": "2026-03-03"
+    },
+    {
         "name": "DeepL",
         "description": "AI-powered machine translation for 30+ languages",
         "category": "AI & Machine Learning",
@@ -201,6 +221,16 @@
         "cors": "unknown",
         "url": "http://moonmoonmoonmoon.com/api/api-docs.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Nightmarket",
+        "description": "Show HN: Nightmarket – API marketplace where AI agents pay per call in USDC",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.nightmarket.ai/",
+        "discovered_at": "2026-03-03"
     },
     {
         "name": "Notanainotepad",
@@ -45555,6 +45585,26 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Get-colibri",
+        "description": "Show HN:Turn any GitHub .MD into a collaborative editor by replace \"g\" with tune",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.get-colibri.com/",
+        "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Ghcommits",
+        "description": "Show HN: GitHub Commits Leaderboard",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ghcommits.com",
+        "discovered_at": "2026-03-03"
+    },
+    {
         "name": "GiftCard API",
         "description": ">ℹ️ Onboarding guide\r\n>\r\n> Check the new [Payments onboarding guide](https://developers.vtex.com/docs/guides/payments-overview). We created this guide to improve the onboarding experience for develope",
         "category": "Development",
@@ -45583,6 +45633,16 @@
         "cors": "unknown",
         "url": "https://apify.com/caring_dizi/gimmie-dat-shyt",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Gitagent",
+        "description": "Show HN: GitAgent – Clone a repo, get an AI agent – Claude Code / OpenClaw",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.gitagent.sh/",
+        "discovered_at": "2026-03-03"
     },
     {
         "name": "GitAgent",
@@ -45702,6 +45762,16 @@
         "cors": "unknown",
         "url": "https://apify.com/fornace/githubscraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Gitlab",
+        "description": "Show HN: Ed – A modern take on ancient codebook technology",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gitlab.com/here_forawhile/ed",
+        "discovered_at": "2026-03-03"
     },
     {
         "name": "GitLab",
@@ -57494,6 +57564,16 @@
         "cors": "unknown",
         "url": "https://apify.com/actums/ai-ugc-video-maker",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Ai-api-monitor-production",
+        "description": "Show HN: Independent monitoring of AI API reliability",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ai-api-monitor-production.up.railway.app",
+        "discovered_at": "2026-03-03"
     },
     {
         "name": "Airbnb Host Details Scraper",
@@ -71234,6 +71314,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Omghost",
+        "description": "Show HN: SVG icons via API, payment via HTTP 402 (like 1991)",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://omghost.xyz/",
+        "discovered_at": "2026-03-03"
+    },
+    {
         "name": "Open Banking - Payments initiation service",
         "description": "Open Banking - Payments initiation service",
         "category": "Finance",
@@ -72614,6 +72704,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Crowdsupply",
+        "description": "Show HN: A Software-Defined USB PD Charger (ESP32, FPGA, Open Source Hardware)",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.crowdsupply.com/candysign/hummingkit",
+        "discovered_at": "2026-03-03"
+    },
+    {
         "name": "Google Home",
         "description": "# Google Home Local API\nThis is an unofficial documentation of the local API used by the Home app to communicate with GH devices.\n[GitHub Repo](https://github.com/rithvikvibhu/GHLocalApi)\n\n[![GitHub s",
         "category": "IoT & Hardware",
@@ -72632,6 +72732,16 @@
         "cors": "unknown",
         "url": "https://gist.githubusercontent.com/MikeRalphson/77bb693d4cf9213909527b9cc4566609/raw/9febc5d16d8d162c93f3503510ce0808a8075d5b/openuv.yaml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Qrvpn",
+        "description": "Show HN: Qrvpn – deploy and run VPN server on any device and behind NAT/FW",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://qrvpn.com/",
+        "discovered_at": "2026-03-03"
     },
     {
         "name": "Signalcend",
@@ -77053,6 +77163,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Axiora",
+        "description": "Show HN: I parsed 10 years of Japanese corporate filings into an API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://axiora.dev/en",
+        "discovered_at": "2026-03-03"
+    },
+    {
         "name": "bridgedb webservices",
         "description": "bridgedb webservices API",
         "category": "Other",
@@ -77123,6 +77243,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Crawler",
+        "description": "Show HN: Rust Based SEO and AEO Crawler",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://crawler.sh/",
+        "discovered_at": "2026-03-03"
+    },
+    {
         "name": "Custom Behavioral Events API",
         "description": "HTTP API for triggering instances of custom behavioral events",
         "category": "Other",
@@ -77151,6 +77281,16 @@
         "cors": "unknown",
         "url": "https://app.api2crm.com/swagger/spec/data2crm_api.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Devreel",
+        "description": "Show HN: DevReel – A virtual gym for practical software engineering challenges",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.devreel.tech/",
+        "discovered_at": "2026-03-03"
     },
     {
         "name": "DFlight API",
@@ -77343,6 +77483,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Instantcli",
+        "description": "Show HN: I built a tool that turns any API into a CLI for agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://instantcli.com",
+        "discovered_at": "2026-03-03"
+    },
+    {
         "name": "IPQualityScore API",
         "description": "IPQualityScore API API",
         "category": "Other",
@@ -77513,6 +77663,16 @@
         "discovered_at": "2026-03-02"
     },
     {
+        "name": "Passage",
+        "description": "Show HN: MCP server ONLY app for personal finances",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://passage.money/",
+        "discovered_at": "2026-03-03"
+    },
+    {
         "name": "PatientView",
         "description": "The recommended REST API endpoints to be used when integrating with PatientView",
         "category": "Other",
@@ -77553,6 +77713,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Rdapapi",
+        "description": "Show HN: RDAP API – Normalized JSON for Domain/IP Lookups (Whois Replacement)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rdapapi.io",
+        "discovered_at": "2026-03-03"
+    },
+    {
         "name": "Redact API",
         "description": "The [Redact API](/redact/overview) helps organisations meet their privacy compliance obligations. It provides controlled, on-demand redaction of private information from transactional records in the l",
         "category": "Other",
@@ -77561,6 +77731,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/nexmo/api-specification/master/definitions/redact.yml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Rep-protocol",
+        "description": "Show HN: REP – build-once, run anywhere. Secure runtime config for web apps",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rep-protocol.dev/",
+        "discovered_at": "2026-03-03"
     },
     {
         "name": "Reports API",
@@ -77593,6 +77773,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Salt-lang",
+        "description": "Show HN: Write and Run Salt v0.9.2 in the Browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://salt-lang.dev/playground/",
+        "discovered_at": "2026-03-03"
+    },
+    {
         "name": "Seoscoreapi",
         "description": "Show HN: SEO Score API",
         "category": "Other",
@@ -77601,6 +77791,16 @@
         "cors": "unknown",
         "url": "https://seoscoreapi.com",
         "discovered_at": "2026-03-02"
+    },
+    {
+        "name": "Sift",
+        "description": "Show HN: Sift – 10-12 HN discussions daily, ranked by practitioner depth",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sift.1mb.dev/",
+        "discovered_at": "2026-03-03"
     },
     {
         "name": "SimpliVPNAPI",
@@ -77681,6 +77881,16 @@
         "cors": "unknown",
         "url": "https://textyoursite.com/demo",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Tradefacts",
+        "description": "Show HN: Tradefacts.io – US HTS tariff schedule, a JSON API and change detection",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tradefacts.io",
+        "discovered_at": "2026-03-03"
     },
     {
         "name": "Travel Partner API",
@@ -87521,6 +87731,16 @@
         "url": "https://www.thesportsdb.com/api.php"
     },
     {
+        "name": "War",
+        "description": "Show HN: War.direct – Real-time conflict intelligence dashboard for the Iran war",
+        "category": "Sports",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://war.direct",
+        "discovered_at": "2026-03-03"
+    },
+    {
         "name": "ExaVault",
         "description": "ExaVaults API allows you to incorporate ExaVaults suite of file transfer and user management tools into your own application.\\nExaVault supports both POST (recommended when requesting large data sets)",
         "category": "storage",
@@ -89078,6 +89298,16 @@
         "url": "https://countapi.xyz/"
     },
     {
+        "name": "Gitauto",
+        "description": "Fix broken link in request-changes blog post using public sample-calculator PR",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gitauto.ai/blog/how-to-request-changes",
+        "discovered_at": "2026-03-03"
+    },
+    {
         "name": "LinQR",
         "description": "This is LinQR QR Code API documentation. This API allows you to generate custom, visually attractive QR Codes. The cloud infrastructure guarantees high availability and autoscalability of the service.",
         "category": "Utilities",
@@ -89095,6 +89325,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://loripsum.net/"
+    },
+    {
+        "name": "Meiguodz",
+        "description": "Show HN: Generate random, valid US residential addresses for testing",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://meiguodz.com",
+        "discovered_at": "2026-03-03"
     },
     {
         "name": "PhantAuth",
@@ -89125,6 +89365,16 @@
         "url": "https://randomuser.me/"
     },
     {
+        "name": "U2m",
+        "description": "Show HN: U2m.io – Free URL shortener with bulk API, QR codes, and geo analytics",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://u2m.io",
+        "discovered_at": "2026-03-03"
+    },
+    {
         "name": "URL Shortener (CleanURI)",
         "description": "Simple URL shortening with no rate limits",
         "category": "Utilities",
@@ -89141,6 +89391,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.uuidtools.com/api"
+    },
+    {
+        "name": "Cloakshare",
+        "description": "CloakShare – Open-source API for secure document and video sharing",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cloakshare.dev/",
+        "discovered_at": "2026-03-03"
     },
     {
         "name": "Deezer",
@@ -89227,6 +89487,26 @@
         "https": true,
         "cors": "yes",
         "url": "https://developer.vimeo.com/api/reference"
+    },
+    {
+        "name": "Vynix",
+        "description": "Show HN: Vynix – Mobile app with 100 AI models for image/video/audio generation",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.vynix.app",
+        "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Webaudio",
+        "description": "Show HN: Web Audio Studio – A Visual Debugger for Web Audio API Graphs",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://webaudio.studio/",
+        "discovered_at": "2026-03-03"
     },
     {
         "name": "YouTube Data",
