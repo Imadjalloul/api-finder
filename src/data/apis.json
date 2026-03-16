@@ -100,6 +100,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Apify",
+        "description": "Show HN: I made an API letting people search in real AI – human conversations",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apify.com/aiso/aiso-conversations-intelligence",
+        "discovered_at": "2026-03-16"
+    },
+    {
         "name": "Autoicdapi",
         "description": "Show HN: AutoICD API – AI clinical coding platform for ICD-10 and SNOMED",
         "category": "AI & Machine Learning",
@@ -265,6 +275,16 @@
         "cors": "unknown",
         "url": "https://www.getcostly.dev/",
         "discovered_at": "2026-03-15"
+    },
+    {
+        "name": "Getspine",
+        "description": "Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.getspine.ai/",
+        "discovered_at": "2026-03-16"
     },
     {
         "name": "Google Gemini",
@@ -502,6 +522,16 @@
         "discovered_at": "2026-03-06"
     },
     {
+        "name": "Openlegion",
+        "description": "Show HN: OpenLegion – AI agent fleet with container isolation and vault proxy",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.openlegion.ai",
+        "discovered_at": "2026-03-16"
+    },
+    {
         "name": "Personalassistantdeploy",
         "description": "Show HN: Private AI assistant for $1.99 -Free AI",
         "category": "AI & Machine Learning",
@@ -510,6 +540,16 @@
         "cors": "unknown",
         "url": "https://personalassistantdeploy.com/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Port42",
+        "description": "Show HN: Port42 – AI companions that build and act on your Mac (v0.5.0)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://port42.ai/",
+        "discovered_at": "2026-03-16"
     },
     {
         "name": "Publicai",
@@ -560,6 +600,16 @@
         "cors": "unknown",
         "url": "https://qurt.ai/",
         "discovered_at": "2026-03-07"
+    },
+    {
+        "name": "Raccoonai",
+        "description": "Show HN: Raccoon AI – Collaborative AI Agent for Anything",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://raccoonai.tech",
+        "discovered_at": "2026-03-16"
     },
     {
         "name": "Replicate",
@@ -4176,6 +4226,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://openlibrary.org/developers/api"
+    },
+    {
+        "name": "Opsorch",
+        "description": "Show HN: OpsOrch – a unified API for incidents, logs, metrics, and runbooks",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.opsorch.com/",
+        "discovered_at": "2026-03-16"
     },
     {
         "name": "PoetryDB",
@@ -9939,6 +9999,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.abstractapi.com/sms-verification-api"
+    },
+    {
+        "name": "Agentmailr",
+        "description": "Show HN: AgentMailr – dedicated email inboxes for AI agents",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.agentmailr.com/",
+        "discovered_at": "2026-03-16"
     },
     {
         "name": "Clwnt",
@@ -59176,6 +59246,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Axoworks",
+        "description": "Show HN: Dumped Wix, my AEC consultancy's storefront is now an AI Edge",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://axoworks.com/",
+        "discovered_at": "2026-03-16"
+    },
+    {
         "name": "Azuro Republic Scraper",
         "description": "Scrape Azuro Republic and extract data on cookware and diningware from azuro-republic.com. Our Azuro Republic API lets you crawl product information and pricing. The saved data can be downloaded as...",
         "category": "E-Commerce",
@@ -71061,6 +71141,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Hyper",
+        "description": "Show HN: Run the popular LLM-Course tutorials on HyperAI",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hyper.ai/cn/notebooks/49873",
+        "discovered_at": "2026-03-16"
+    },
+    {
         "name": "Theregister",
         "description": "Moody humans should let AI handle bad public feedback first, study finds",
         "category": "Education",
@@ -78563,6 +78653,26 @@
         "discovered_at": "2026-03-10"
     },
     {
+        "name": "Gasnearme",
+        "description": "Show HN: Crowd-sourced LPG cylinder availability tracker for India's gas crisis",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.gasnearme.in/",
+        "discovered_at": "2026-03-16"
+    },
+    {
+        "name": "Gemini-speedrun",
+        "description": "Show HN: API Key Speedrun- A parody where generating an API key is the challenge",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gemini-speedrun.vercel.app/",
+        "discovered_at": "2026-03-16"
+    },
+    {
         "name": "GererMesAffaires {REST:API}",
         "description": "Sécurisez vos données en interfaçant votre logiciel métier avec le service en ligne GererMesAffaires",
         "category": "Other",
@@ -78741,6 +78851,16 @@
         "cors": "unknown",
         "url": "https://jackonomics.substack.com/p/giving-is-a-public-good-slightly",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Javadecompiler",
+        "description": "Show HN: Javadecompiler.org – a unified Java decompiler and transformer API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://javadecompiler.org/",
+        "discovered_at": "2026-03-16"
     },
     {
         "name": "Jcs",
@@ -78951,6 +79071,16 @@
         "cors": "unknown",
         "url": "https://netwall.org",
         "discovered_at": "2026-03-06"
+    },
+    {
+        "name": "Nikomatsakis",
+        "description": "Rust Project Perspectives on AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/",
+        "discovered_at": "2026-03-16"
     },
     {
         "name": "Nishal21",
@@ -86045,6 +86175,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Repple",
+        "description": "Show HN: Spaced repetition API – decks, cards, reviews, scheduling",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://repple.sh/developers",
+        "discovered_at": "2026-03-16"
+    },
+    {
         "name": "ResearchGate Scraper",
         "description": "Input a direct URL of an researchgate.net article and extract its title, authors, overview, citations, references, and other specifications. Export acquired data into HTML, JSON, CSV, or Excel.",
         "category": "Productivity",
@@ -89381,6 +89521,16 @@
         "url": "https://www.thesportsdb.com/api.php"
     },
     {
+        "name": "Tracingwoodgrains",
+        "description": "Wikipedia Admin David Gerard Launders His Grudges into the Public Record",
+        "category": "Sports",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.tracingwoodgrains.com/p/reliable-sources-how-wikipedia-admin",
+        "discovered_at": "2026-03-16"
+    },
+    {
         "name": "War",
         "description": "Show HN: War.direct – Real-time conflict intelligence dashboard for the Iran war",
         "category": "Sports",
@@ -91025,6 +91175,16 @@
         "cors": "unknown",
         "url": "https://meiguodz.com",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Pdf2markdown",
+        "description": "PDF2Markdown – Free online converter and API for PDF/images to Markdown",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pdf2markdown.io",
+        "discovered_at": "2026-03-16"
     },
     {
         "name": "PhantAuth",
