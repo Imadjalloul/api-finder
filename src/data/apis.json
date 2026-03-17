@@ -30,6 +30,16 @@
         "discovered_at": "2026-03-01"
     },
     {
+        "name": "Agentpen",
+        "description": "Show HN: AgentPen – macOS dashboard for managing OpenClaw AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agentpen.io",
+        "discovered_at": "2026-03-17"
+    },
+    {
         "name": "Agents",
         "description": "Show HN: Automated Testing for AI Agents",
         "category": "AI & Machine Learning",
@@ -177,6 +187,16 @@
         "cors": "unknown",
         "url": "https://clawscribble.com/",
         "discovered_at": "2026-03-15"
+    },
+    {
+        "name": "Cnbc",
+        "description": "Bill Gurley on AI bubble: A bunch of people got rich quick and a reset is coming",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html",
+        "discovered_at": "2026-03-17"
     },
     {
         "name": "Cohere",
@@ -691,6 +711,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Signb",
+        "description": "Show HN: Signbee – An API that lets AI agents send documents for signature",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://signb.ee",
+        "discovered_at": "2026-03-17"
+    },
+    {
         "name": "Skillscan",
         "description": "Show HN: SkillScan – Free API to detect malicious AI agent skill files",
         "category": "AI & Machine Learning",
@@ -866,6 +896,16 @@
         "cors": "unknown",
         "url": "https://www.zapcode.dev",
         "discovered_at": "2026-03-15"
+    },
+    {
+        "name": "Zero-human-labs",
+        "description": "Show HN: Deploy a full autonomous AI org from a single YAML file",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://zero-human-labs.com",
+        "discovered_at": "2026-03-17"
     },
     {
         "name": "Zuckerbot",
@@ -58326,6 +58366,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Agentdiscuss",
+        "description": "Show HN: AgentDiscuss – a place where AI agents discuss products",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agentdiscuss.com/",
+        "discovered_at": "2026-03-17"
+    },
+    {
         "name": "AI Facebook Post Analyzer",
         "description": "This actor transforms Facebook posts into actionable business insights. Search for posts about any topic, analyze them with AI, and get intelligent answers to your business questions. Perfect for...",
         "category": "E-Commerce",
@@ -78233,6 +78283,16 @@
         "discovered_at": "2026-03-09"
     },
     {
+        "name": "Aletheia",
+        "description": "Chemical safety API – Free for public",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aletheia.holisticquality.io/",
+        "discovered_at": "2026-03-17"
+    },
+    {
         "name": "Aminrj",
         "description": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
         "category": "Other",
@@ -78281,6 +78341,16 @@
         "cors": "unknown",
         "url": "https://axiora.dev/en",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Blacktwist",
+        "description": "Show HN: I built an MCP server that lets you manage Meta's Threads from Claude",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blacktwist.app/mcp",
+        "discovered_at": "2026-03-17"
     },
     {
         "name": "Blog",
@@ -78793,6 +78863,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Iggy",
+        "description": "Apache Iggy: thread-per-core with io_uring in Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://iggy.apache.org/blogs/2026/02/27/thread-per-core-io_uring/",
+        "discovered_at": "2026-03-17"
+    },
+    {
         "name": "Increase API",
         "description": "Increase API API",
         "category": "Other",
@@ -78881,6 +78961,16 @@
         "cors": "unknown",
         "url": "https://jottit.org",
         "discovered_at": "2026-03-11"
+    },
+    {
+        "name": "Kcorehypervisor",
+        "description": "Show HN: Kcore – A modern, API-first virtualization platform built on NixOS",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kcorehypervisor.com/blog/why-i-built-kcore.html",
+        "discovered_at": "2026-03-17"
     },
     {
         "name": "Keirolabs",
@@ -79091,6 +79181,36 @@
         "cors": "unknown",
         "url": "https://nishal21.github.io/CarbonLint/",
         "discovered_at": "2026-03-01"
+    },
+    {
+        "name": "Onlyfansapi",
+        "description": "Show HN: OnlyFans API – REST API with 260 endpoints for OF creator data",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://onlyfansapi.com",
+        "discovered_at": "2026-03-17"
+    },
+    {
+        "name": "Openapi-test-generator",
+        "description": "Show HN: Generate pytest API tests from an OpenAPI spec",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://openapi-test-generator.vercel.app/",
+        "discovered_at": "2026-03-17"
+    },
+    {
+        "name": "Openbrand",
+        "description": "Show HN: Open-source, extract any brand's logos, colors, and assets from a URL",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://openbrand.sh/",
+        "discovered_at": "2026-03-17"
     },
     {
         "name": "OpenChannel Market API",
@@ -89036,6 +89156,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Cordon-server-production",
+        "description": "Show HN: Cordon – open-source security gateway for MCP tool calls",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cordon-server-production.up.railway.app/dashboard/",
+        "discovered_at": "2026-03-17"
+    },
+    {
         "name": "Federalregister",
         "description": "NIST Seeking Public Comment on AI Agent Security (Deadline: March 9, 2026)",
         "category": "Security",
@@ -89398,6 +89528,16 @@
         "cors": "unknown",
         "url": "https://www.openclawdiscord.ai/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Pincer",
+        "description": "Show HN: Pincer – Twitter/X for bots. No humans allowed",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pincer.wtf",
+        "discovered_at": "2026-03-17"
     },
     {
         "name": "Reddit",
