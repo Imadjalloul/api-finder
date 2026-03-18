@@ -120,6 +120,16 @@
         "discovered_at": "2026-03-16"
     },
     {
+        "name": "Asksoros",
+        "description": "Show HN: Soros – AI for geopolitical macro investing",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.asksoros.com",
+        "discovered_at": "2026-03-18"
+    },
+    {
         "name": "Autoicdapi",
         "description": "Show HN: AutoICD API – AI clinical coding platform for ICD-10 and SNOMED",
         "category": "AI & Machine Learning",
@@ -138,6 +148,16 @@
         "cors": "unknown",
         "url": "https://blog.peeramid.xyz/nsed-public/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Bracketmadness",
+        "description": "Show HN: March Madness Bracket Challenge for AI Agents Only",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.Bracketmadness.ai",
+        "discovered_at": "2026-03-18"
     },
     {
         "name": "Caravo",
@@ -265,6 +285,16 @@
         "cors": "unknown",
         "url": "https://www.eliezer.app/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Factagora",
+        "description": "Show HN: AI agents debating questions that stump LLMs",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://factagora.com/",
+        "discovered_at": "2026-03-18"
     },
     {
         "name": "Frogapi",
@@ -42996,6 +43026,16 @@
         "discovered_at": "2026-03-04"
     },
     {
+        "name": "Codeledger",
+        "description": "Show HN: CodeLedger – deterministic context and guardrails for AI",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://codeledger.dev",
+        "discovered_at": "2026-03-18"
+    },
+    {
         "name": "CoinGecko Crypto Intelligence",
         "description": "Extract real-time cryptocurrency market data from CoinGecko for 10,000+ coins. Get prices, market caps, volume, 24h/7d/30d changes, ATH/ATL, supply metrics, and historical charts. Access trending...",
         "category": "Development",
@@ -60346,6 +60386,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Chromewebstore",
+        "description": "Show HN: I built a Chrome extension to block Instagram's feed and keep only DMs",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://chromewebstore.google.com/detail/mindful-instagram/neiedkilefemabefjohneedlemngfdjh",
+        "discovered_at": "2026-03-18"
+    },
+    {
         "name": "Chrono24 Listing Scraper",
         "description": "Extracting structured watch data from Chrono24. Provide a listing URL, and it returns clean JSON with images, brand, model, reference, price, condition, specs, seller ratings, reviews, delivery...",
         "category": "E-Commerce",
@@ -73278,6 +73328,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Klausai",
+        "description": "Show HN: Klaus – OpenClaw on a VM, batteries included",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://klausai.com/",
+        "discovered_at": "2026-03-18"
+    },
+    {
         "name": "Open FDA",
         "description": "U.S. FDA drug, food, and device data",
         "category": "Government & Health",
@@ -74262,6 +74322,16 @@
         "cors": "unknown",
         "url": "https://buildvote.com/",
         "discovered_at": "2026-03-07"
+    },
+    {
+        "name": "Drakkar",
+        "description": "Show HN: Drakkar.one – Google Maps embed replacement, no API keys, GDPR-ready",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://drakkar.one/",
+        "discovered_at": "2026-03-18"
     },
     {
         "name": "Feedvote",
@@ -78273,6 +78343,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Albertapulsecheck",
+        "description": "Show HN: Open-data dashboard aggregating 143 feeds for Alberta municipalities",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://albertapulsecheck.ca",
+        "discovered_at": "2026-03-18"
+    },
+    {
         "name": "Alertmole",
         "description": "Show HN: AlertMole – I stopped checking the internet, it now checks for me",
         "category": "Other",
@@ -79571,6 +79651,16 @@
         "cors": "unknown",
         "url": "https://developer.mastercard.com/devzone/api/portal/swagger/spendingpulse",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Statusdrop",
+        "description": "Show HN: I Built StatusDrop",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://statusdrop.dev",
+        "discovered_at": "2026-03-18"
     },
     {
         "name": "Statuslane",
@@ -91259,6 +91349,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Best-gpu",
+        "description": "Show HN: Most GPU Upgrades Aren't Worth It, I Built a Calculator to Prove It",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://best-gpu.com/upgrade.php",
+        "discovered_at": "2026-03-18"
+    },
+    {
         "name": "Brandomica",
         "description": "Show HN: Brandomica – Check if a brand name is safe to launch 1n one search",
         "category": "Utilities",
@@ -91583,6 +91683,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.tomorrow.io/weather-api/"
+    },
+    {
+        "name": "Tripclimate",
+        "description": "Show HN: Travel calendar with festivals, weather, visa, crowds (no DB, free API)",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tripclimate.com",
+        "discovered_at": "2026-03-18"
     },
     {
         "name": "Visual Crossing",
