@@ -297,6 +297,16 @@
         "discovered_at": "2026-03-18"
     },
     {
+        "name": "Flint",
+        "description": "Flint – local AI runtime for Rust (no internet, no API keys)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://flint.brantandco.com",
+        "discovered_at": "2026-03-19"
+    },
+    {
         "name": "Frogapi",
         "description": "Show HN: Get GPT-5.2, Grok-4.1-fast, KimiK2.5 and more LLMs at half the cost",
         "category": "AI & Machine Learning",
@@ -10139,6 +10149,16 @@
         "cors": "unknown",
         "url": "https://knock.app/email-api-benchmarks",
         "discovered_at": "2026-03-13"
+    },
+    {
+        "name": "Kommun",
+        "description": "AI powered analysis of public sector invoices in Sweden by Jens Nylander",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kommun.jensnylander.com",
+        "discovered_at": "2026-03-19"
     },
     {
         "name": "License Manager API",
@@ -46445,6 +46465,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Gitcomet",
+        "description": "Show HN: GitComet speedy Git GUI written in Rust end-to-end",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gitcomet.dev/",
+        "discovered_at": "2026-03-19"
+    },
+    {
         "name": "Github",
         "description": "GitHub – REST API version 2026-03-10 is now available",
         "category": "Development",
@@ -78303,6 +78333,16 @@
         "discovered_at": "2026-03-13"
     },
     {
+        "name": "Absentkey",
+        "description": "Show HN: AbsentKey E2E encrypted vault that releases secrets when you can't",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://absentkey.com/en/",
+        "discovered_at": "2026-03-19"
+    },
+    {
         "name": "Aegisoptikon",
         "description": "Free nonce and API key generator",
         "category": "Other",
@@ -78573,6 +78613,16 @@
         "discovered_at": "2026-03-04"
     },
     {
+        "name": "Crates",
+        "description": "Show HN: Fin-primitives Zero-panic, decimal-precise trading types for Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://crates.io/crates/fin-primitives",
+        "discovered_at": "2026-03-19"
+    },
+    {
         "name": "Crawlapi",
         "description": "Show HN: Crawl API",
         "category": "Other",
@@ -78621,6 +78671,16 @@
         "cors": "unknown",
         "url": "https://app.api2crm.com/swagger/spec/data2crm_api.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Deariary",
+        "description": "Show HN: deariary – An automated diary generated from the tools you use",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://deariary.com/en",
+        "discovered_at": "2026-03-19"
     },
     {
         "name": "Devreel",
@@ -78963,6 +79023,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Ingelt",
+        "description": "Show HN: Parsing hostile industrial data in 64MB WASM sandboxes",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ingelt.com",
+        "discovered_at": "2026-03-19"
+    },
+    {
         "name": "Inkgest",
         "description": "Show HN: Inkgest, Link to Gest",
         "category": "Other",
@@ -79063,6 +79133,16 @@
         "discovered_at": "2026-03-08"
     },
     {
+        "name": "Konbiniapi",
+        "description": "Show HN: KonbiniAPI – One API for Instagram and TikTok Data, Same JSON Shape",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://konbiniapi.com",
+        "discovered_at": "2026-03-19"
+    },
+    {
         "name": "Lasersell",
         "description": "Show HN: I benchmarked every major Solana trading API (open-source)",
         "category": "Other",
@@ -79101,6 +79181,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/LucidtechAI/cradl-docs/master/static/oas.yaml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Lukan",
+        "description": "Show HN: Lukan – An open-source agentic workstation in a single Rust binary",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lukan.ai",
+        "discovered_at": "2026-03-19"
     },
     {
         "name": "Marketing Events Extension",
@@ -79391,6 +79481,16 @@
         "cors": "unknown",
         "url": "https://services.scideas.net/perfectpdf/resources/openapi3.0.0-perfectpdf-1.0.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Personalwebsites",
+        "description": "Show HN: Personalwebsites.org – The Official Homepage of Homepages",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://personalwebsites.org/",
+        "discovered_at": "2026-03-19"
     },
     {
         "name": "Pivotordie",
@@ -79751,6 +79851,16 @@
         "cors": "unknown",
         "url": "https://www.unfudged.io/",
         "discovered_at": "2026-03-01"
+    },
+    {
+        "name": "Ups",
+        "description": "Show HN: Open-source status pages for Agents (Rails 8 and SQLite)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ups.dev/",
+        "discovered_at": "2026-03-19"
     },
     {
         "name": "Voie",
@@ -89694,6 +89804,16 @@
         "cors": "unknown",
         "url": "https://api.hubspot.com/api-catalog-public/v1/apis/conversations/v3/visitor-identification",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Vrt",
+        "description": "New app provides secure messaging service for [Belgian] public sector employees",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.vrt.be/vrtnws/en/2026/03/18/new-app-provides-secure-messaging-service-for-public-sector-empl/",
+        "discovered_at": "2026-03-19"
     },
     {
         "name": "Yeethook",
