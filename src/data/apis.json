@@ -160,6 +160,16 @@
         "discovered_at": "2026-03-18"
     },
     {
+        "name": "Budibase",
+        "description": "Show HN: Budibase Agents Beta – model-agnostic AI agents for internal workflows",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://budibase.com/blog/updates/ai-agents-beta/",
+        "discovered_at": "2026-03-20"
+    },
+    {
         "name": "Caravo",
         "description": "Show HN: Service marketplace for AI agents, 300 APIs and data sources",
         "category": "AI & Machine Learning",
@@ -4297,6 +4307,16 @@
         "cors": "unknown",
         "url": "https://imagehost.ing",
         "discovered_at": "2026-03-11"
+    },
+    {
+        "name": "Mdrbx",
+        "description": "Show HN: NERV-UI – A brutalist React UI library inspired by Evangelion",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mdrbx.github.io/nerv-ui/",
+        "discovered_at": "2026-03-20"
     },
     {
         "name": "Open Library",
@@ -68691,6 +68711,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Theconversation",
+        "description": "Magic mushroom‑infused products appear in Colorado gas stations",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://theconversation.com/magic-mushroom-infused-products-appear-in-colorado-gas-stations-what-public-health-officials-want-consumers-to-know-274935",
+        "discovered_at": "2026-03-20"
+    },
+    {
         "name": "ThirdLove Scraper",
         "description": "Scrape ThirdLove and extract data on undergarments from thirdlove.com. Our ThirdLove API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and",
         "category": "E-Commerce",
@@ -78493,6 +78523,16 @@
         "discovered_at": "2026-03-10"
     },
     {
+        "name": "Blog",
+        "description": "Show HN: llamafile 0.10.0 rebuilt, Qwen3.5, lfm2, Anthropic API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.mozilla.ai/llamafile-reloaded-whats-new-in-v0-10-0/",
+        "discovered_at": "2026-03-20"
+    },
+    {
         "name": "bridgedb webservices",
         "description": "bridgedb webservices API",
         "category": "Other",
@@ -78981,6 +79021,16 @@
         "cors": "unknown",
         "url": "https://developer.hetras.com/swagger/spec/HotelAPIv0.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Hnshah",
+        "description": "Idea Killshot: stress-test your startup idea before the market does",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hnshah.github.io/idea-killshot/",
+        "discovered_at": "2026-03-20"
     },
     {
         "name": "HubSpot Events API",
@@ -79603,6 +79653,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Ripl",
+        "description": "Show HN: Ripl – A unified 2D/3D engine for Canvas, SVG, WebGPU, and the Terminal",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.ripl.rocks",
+        "discovered_at": "2026-03-20"
+    },
+    {
         "name": "Runcaptain",
         "description": "Launch HN: Captain (YC W26) – Automated RAG for Files",
         "category": "Other",
@@ -79661,6 +79721,16 @@
         "cors": "unknown",
         "url": "https://www.shiftapi.dev/",
         "discovered_at": "2026-03-12"
+    },
+    {
+        "name": "Shim",
+        "description": "Show HN: I built an API for my own bank account",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.shim.finance/blog/why-i-built-an-api-for-my-own-bank-account/",
+        "discovered_at": "2026-03-20"
     },
     {
         "name": "Sift",
@@ -91650,6 +91720,16 @@
         "cors": "unknown",
         "url": "https://findaivideo.com",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Game",
+        "description": "Show HN: We benchmarked 3 AI video detection APIs on 190 videos",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://game.defakes.com/feed",
+        "discovered_at": "2026-03-20"
     },
     {
         "name": "Getdull",
