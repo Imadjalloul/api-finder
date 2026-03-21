@@ -120,6 +120,26 @@
         "discovered_at": "2026-03-16"
     },
     {
+        "name": "Arc-agi-swarm",
+        "description": "Show HN: Launch an AI agent swarm for ARC-AGI-3 with plain-English prompts",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://arc-agi-swarm.vercel.app/",
+        "discovered_at": "2026-03-21"
+    },
+    {
+        "name": "Asaagent",
+        "description": "Show HN: I built an AI agent that does marketing for my apps",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://asaagent.xyz",
+        "discovered_at": "2026-03-21"
+    },
+    {
         "name": "Asksoros",
         "description": "Show HN: Soros – AI for geopolitical macro investing",
         "category": "AI & Machine Learning",
@@ -266,6 +286,16 @@
         "cors": "unknown",
         "url": "https://csv-analyzer-green.vercel.app",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Ctxoverflow",
+        "description": "Show HN: Context Overflow – a Stack Overflow for AI Agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.ctxoverflow.dev/",
+        "discovered_at": "2026-03-21"
     },
     {
         "name": "DeepL",
@@ -600,6 +630,16 @@
         "cors": "unknown",
         "url": "https://www.openlegion.ai",
         "discovered_at": "2026-03-16"
+    },
+    {
+        "name": "Pairform",
+        "description": "Show HN: Pairform Running – Great AI coaching with excellent fitness context",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.pairform.io/",
+        "discovered_at": "2026-03-21"
     },
     {
         "name": "Personalassistantdeploy",
@@ -28407,6 +28447,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Old",
+        "description": "The Tufte Test: Teaching an AI Agent to Make Better Data Visualizations",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://old.reddit.com/r/dataisbeautiful/comments/1rz0c94/the_tufte_test_teaching_an_ai_agent_to_make/",
+        "discovered_at": "2026-03-21"
+    },
+    {
         "name": "Olx India Scraper",
         "description": "Scrape ads data from olx.in with this powerful tool. You can use it to extract title, price, images, description, and more. Download your data as HTML table, JSON, CSV, Excel, XML, and RSS feed.",
         "category": "Data & Analytics",
@@ -46423,6 +46473,16 @@
         "cors": "unknown",
         "url": "https://www.get-colibri.com/",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Getcloak",
+        "description": "Show HN: Cloak – .env on disk has fakes, your editor shows them (CLI and VSCode)",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getcloak.dev",
+        "discovered_at": "2026-03-21"
     },
     {
         "name": "Ghcommits",
@@ -78473,6 +78533,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Arstechnica",
+        "description": "Apple can delist apps \"with or without cause,\" judge says in loss for Musi app",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://arstechnica.com/tech-policy/2026/03/judge-upholds-apple-delisting-of-free-musi-app-that-streams-songs-from-youtube/",
+        "discovered_at": "2026-03-21"
+    },
+    {
         "name": "Automata Market Intelligence API",
         "description": "This document provides the documentation for the Market Intelligence API by Automata. Get your API Key at https://apis.byautomata.io and check out our Postman Collection.The root API endpoint is https",
         "category": "Other",
@@ -78491,6 +78561,46 @@
         "cors": "unknown",
         "url": "https://axiora.dev/en",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Bambuddy",
+        "description": "Show HN: BamBuddy – a self-hosted print archive for Bambu Lab 3D printers",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bambuddy.cool",
+        "discovered_at": "2026-03-21"
+    },
+    {
+        "name": "Basalt-docs",
+        "description": "Show HN: Basalt – IDE-like documentation for infrastructure and API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://basalt-docs.com",
+        "discovered_at": "2026-03-21"
+    },
+    {
+        "name": "Bbc",
+        "description": "Race on to establish globally recognised 'AI-free' logo",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.bbc.com/news/articles/cj0d6el50ppo",
+        "discovered_at": "2026-03-21"
+    },
+    {
+        "name": "Bestresource-ai",
+        "description": "Best Resource AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bestresource-ai.web.app",
+        "discovered_at": "2026-03-21"
     },
     {
         "name": "Blacktwist",
@@ -78823,6 +78933,16 @@
         "discovered_at": "2026-03-07"
     },
     {
+        "name": "Eepublicdownloads",
+        "description": "Final Report of Grid Incident in Spain and Portugal on 28 April 2025 [pdf]",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://eepublicdownloads.blob.core.windows.net/public-cdn-container/clean-documents/Publications/2025/iberian-blackout/Final%20Report%20on%20the%20Grid%20Incident%20in%20Spain%20and%20Portugal%20on%2028%20April%202025.pdf",
+        "discovered_at": "2026-03-21"
+    },
+    {
         "name": "Engram",
         "description": "Show HN: Engram – Open-source agent memory that beats Mem0 by 20% on LOCOMO",
         "category": "Other",
@@ -79153,6 +79273,16 @@
         "discovered_at": "2026-03-10"
     },
     {
+        "name": "Jeffgeerling",
+        "description": "The Best Laptop Apple Ever Made",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/",
+        "discovered_at": "2026-03-21"
+    },
+    {
         "name": "Jottit",
         "description": "Show HN: Jottit – Reviving the Original from 2007",
         "category": "Other",
@@ -79191,6 +79321,16 @@
         "cors": "unknown",
         "url": "https://konbiniapi.com",
         "discovered_at": "2026-03-19"
+    },
+    {
+        "name": "Kontext",
+        "description": "Show HN: Kontext.dev – Runtime Credentials for Agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kontext.dev/blog/announcing-kontext",
+        "discovered_at": "2026-03-21"
     },
     {
         "name": "Lasersell",
@@ -79523,6 +79663,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Payo",
+        "description": "Show HN: A personal CRM for events, meetups, IRL",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://payo.tech/",
+        "discovered_at": "2026-03-21"
+    },
+    {
         "name": "perfectpdf api",
         "description": "The perfectpdf api does one thing, perfectly: it converts html to pdf. The perfectpdf api uses headless Google Chrome to provide a low cost, high quality, simple to use service.",
         "category": "Other",
@@ -79581,6 +79731,16 @@
         "cors": "unknown",
         "url": "https://qed.systems",
         "discovered_at": "2026-03-15"
+    },
+    {
+        "name": "Ras",
+        "description": "Places to Look for Alien Life",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ras.ac.uk/news-and-press/research-highlights/best-places-look-alien-life-scientists-identify-45-earth-worlds",
+        "discovered_at": "2026-03-21"
     },
     {
         "name": "Ratschn",
@@ -79661,6 +79821,16 @@
         "cors": "unknown",
         "url": "https://www.ripl.rocks",
         "discovered_at": "2026-03-20"
+    },
+    {
+        "name": "Rtrvr",
+        "description": "Show HN: Reverse-engineer any site's API from inside the browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.rtrvr.ai/blog/vibe-hacking-rover-gemini-flash-lite",
+        "discovered_at": "2026-03-21"
     },
     {
         "name": "Runcaptain",
@@ -79881,6 +80051,16 @@
         "cors": "unknown",
         "url": "https://timesofindia.indiatimes.com/technology/tech-news/h-1b-visa-employers-database-goes-offline-key-public-records-of-last-three-years-disappear-uscis-says-sorry-and-we-appreciate-your-/articleshow/129506365.cms",
         "discovered_at": "2026-03-15"
+    },
+    {
+        "name": "Trackm",
+        "description": "Show HN: Trackm, a personal finance web app",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://trackm.net",
+        "discovered_at": "2026-03-21"
     },
     {
         "name": "Tradefacts",
@@ -89855,6 +90035,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://core.telegram.org/bots/api"
+    },
+    {
+        "name": "Theguardian",
+        "description": "US startup advertises 'AI bully' role to test patience of leading chatbots",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.theguardian.com/technology/2026/mar/19/us-startup-advertises-ai-bully-role-to-test-patience-of-leading-chatbots",
+        "discovered_at": "2026-03-21"
     },
     {
         "name": "Twitch",
