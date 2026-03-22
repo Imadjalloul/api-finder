@@ -415,6 +415,16 @@
         "discovered_at": "2026-03-05"
     },
     {
+        "name": "Hive",
+        "description": "Show HN: We Built Kaggle for AI Agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hive.rllm-project.com/",
+        "discovered_at": "2026-03-22"
+    },
+    {
         "name": "Hugging Face",
         "description": "Host and run ML models with the Inference API",
         "category": "AI & Machine Learning",
@@ -620,6 +630,16 @@
         "cors": "unknown",
         "url": "https://openclawhub.uk/",
         "discovered_at": "2026-03-06"
+    },
+    {
+        "name": "Opencode",
+        "description": "OpenCode – Open source AI coding agent",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://opencode.ai/",
+        "discovered_at": "2026-03-22"
     },
     {
         "name": "Openlegion",
@@ -848,6 +868,16 @@
         "cors": "unknown",
         "url": "https://www.sysdesai.com",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Tailortojob",
+        "description": "Show HN: How I built a resume editor using AI with zero web dev experience",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.tailortojob.app/",
+        "discovered_at": "2026-03-22"
     },
     {
         "name": "Tangelo-ltd",
@@ -4262,6 +4292,16 @@
         "discovered_at": "2026-03-14"
     },
     {
+        "name": "Umarise",
+        "description": "Show HN: Anchor any file to Bitcoin to prove it existed at a specific time",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://umarise.com/blog/proof-of-existence",
+        "discovered_at": "2026-03-22"
+    },
+    {
         "name": "Alerter System API",
         "description": "This is the Alerter System API playground. More documentation is available at the API Help Center.The \"Available Authorizations\" in the Authorize popup only applies to this playground web interface. O",
         "category": "Books",
@@ -4289,6 +4329,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://scripture.api.bible/"
+    },
+    {
+        "name": "Bkmker",
+        "description": "Bookmarks, encrypted and private. First users grandfathered into free paid",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bkmker.com",
+        "discovered_at": "2026-03-22"
     },
     {
         "name": "Flight Most Booked Destinations",
@@ -10199,6 +10249,16 @@
         "cors": "unknown",
         "url": "https://www.meteosource.com/api/v1/premium/openapi.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Joonote",
+        "description": "Show HN: Joonote – A note-taking app on your lock screen and notification panel",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://joonote.com/",
+        "discovered_at": "2026-03-22"
     },
     {
         "name": "Knock",
@@ -73243,6 +73303,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Butterwell",
+        "description": "Show HN: I built a pricing tool for home bakers that reads recipe photos",
+        "category": "Food & Drink",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://butterwell.io",
+        "discovered_at": "2026-03-22"
+    },
+    {
         "name": "Edamam",
         "description": "Nutrition analysis and recipe search API",
         "category": "Food & Drink",
@@ -75409,6 +75479,16 @@
         "discovered_at": "2026-03-14"
     },
     {
+        "name": "Crawltimes",
+        "description": "Show HN: The Crawl Times – Newspaper-style front pages for tech news sites",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://crawltimes.com/hacker-news",
+        "discovered_at": "2026-03-22"
+    },
+    {
         "name": "Currents API",
         "description": "Latest news published in various news sources",
         "category": "News",
@@ -75463,6 +75543,16 @@
         "https": true,
         "cors": "unknown",
         "url": "https://developer.nytimes.com/"
+    },
+    {
+        "name": "News",
+        "description": "Werner Herzog: Is Math Art?",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://news.artnet.com/art-world/werner-herzog-brooklyn-public-library-pi-day-2754957",
+        "discovered_at": "2026-03-22"
     },
     {
         "name": "NewsAPI",
@@ -78753,6 +78843,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Clifton-topaz",
+        "description": "Show HN: Clinical Trial Finder and Ranker",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://clifton-topaz.vercel.app/",
+        "discovered_at": "2026-03-22"
+    },
+    {
         "name": "Coindesk",
         "description": "BTC miners pivoting towards AI",
         "category": "Other",
@@ -78761,6 +78861,16 @@
         "cors": "unknown",
         "url": "https://www.coindesk.com/markets/2026/03/03/end-of-bitcoin-hodl-public-miners-going-all-in-on-ai-signaling-more-btc-selling",
         "discovered_at": "2026-03-04"
+    },
+    {
+        "name": "Context",
+        "description": "Show HN: Context.dev – One API to scrape, enrich, and understand the web",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.context.dev",
+        "discovered_at": "2026-03-22"
     },
     {
         "name": "Crates",
@@ -79313,6 +79423,16 @@
         "discovered_at": "2026-03-08"
     },
     {
+        "name": "Kmrjohnson55",
+        "description": "Show HN: The Two by Two Truth Diagram",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kmrjohnson55.github.io/truth-diagram/",
+        "discovered_at": "2026-03-22"
+    },
+    {
         "name": "Konbiniapi",
         "description": "Show HN: KonbiniAPI – One API for Instagram and TikTok Data, Same JSON Shape",
         "category": "Other",
@@ -79521,6 +79641,16 @@
         "cors": "unknown",
         "url": "https://netwall.org",
         "discovered_at": "2026-03-06"
+    },
+    {
+        "name": "Nightingale",
+        "description": "Nightingale – open-source karaoke app that works with any song on your computer",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nightingale.cafe/",
+        "discovered_at": "2026-03-22"
     },
     {
         "name": "Nikomatsakis",
@@ -79821,6 +79951,16 @@
         "cors": "unknown",
         "url": "https://www.ripl.rocks",
         "discovered_at": "2026-03-20"
+    },
+    {
+        "name": "Royalbhati",
+        "description": "HopTab–free,open source macOS app switcher and tiler that replaces Cmd+Tab",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.royalbhati.com/hoptab",
+        "discovered_at": "2026-03-22"
     },
     {
         "name": "Rtrvr",
@@ -91881,6 +92021,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.uuidtools.com/api"
+    },
+    {
+        "name": "Classicvideopoker",
+        "description": "Show HN: Classic Video Poker v2",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.classicvideopoker.com/classicvideopokerv2/",
+        "discovered_at": "2026-03-22"
     },
     {
         "name": "Cloakshare",
