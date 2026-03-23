@@ -170,6 +170,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Borg",
+        "description": "Achieving Zero Bugs: Rust, Specs, and AI Coding",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.borg.org/?p=1472",
+        "discovered_at": "2026-03-23"
+    },
+    {
         "name": "Bracketmadness",
         "description": "Show HN: March Madness Bracket Challenge for AI Agents Only",
         "category": "AI & Machine Learning",
@@ -454,6 +464,16 @@
         "discovered_at": "2026-03-07"
     },
     {
+        "name": "Launchkit-5g9",
+        "description": "Show HN: Free AI Business Plan Generator",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://launchkit-5g9.pages.dev/tools/business-plan-generator/",
+        "discovered_at": "2026-03-23"
+    },
+    {
         "name": "Ledgi",
         "description": "Show HN: Ledgi: UK net worth tracker with a CLI for AI agents",
         "category": "AI & Machine Learning",
@@ -571,6 +591,16 @@
         "cors": "unknown",
         "url": "http://moonmoonmoonmoon.com/api/api-docs.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Nesbitt",
+        "description": "How to Attract AI Bots to Your Open Source Project",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html",
+        "discovered_at": "2026-03-23"
     },
     {
         "name": "Nexus-gateway",
@@ -702,6 +732,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Quantaintellect",
+        "description": "Show HN: Vessel Browser – An open-source browser built for AI agents, not humans",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://quantaintellect.com/",
+        "discovered_at": "2026-03-23"
+    },
+    {
         "name": "Queryveil",
         "description": "Show HN: QueryVeil – An AI data analyst that investigates your data",
         "category": "AI & Machine Learning",
@@ -740,6 +780,16 @@
         "cors": "unknown",
         "url": "https://raccoonai.tech",
         "discovered_at": "2026-03-16"
+    },
+    {
+        "name": "Redmonk",
+        "description": "The Generative AI Policy Landscape in Open Source",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://redmonk.com/kholterhoff/2026/02/26/generative-ai-policy-landscape-in-open-source/",
+        "discovered_at": "2026-03-23"
     },
     {
         "name": "Replicate",
@@ -4106,6 +4156,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://developer.okta.com/docs/reference/"
+    },
+    {
+        "name": "Pattern",
+        "description": "Show HN: Association rule mining on 21.6M poker hands",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pattern.poker",
+        "discovered_at": "2026-03-23"
     },
     {
         "name": "Session Manager API",
@@ -10338,6 +10398,16 @@
         "cors": "unknown",
         "url": "https://pitchkit.dev/",
         "discovered_at": "2026-03-09"
+    },
+    {
+        "name": "Plasas",
+        "description": "Show HN: A New Social Network Called Plasas",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://plasas.com",
+        "discovered_at": "2026-03-23"
     },
     {
         "name": "SendGrid",
@@ -51458,6 +51528,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Outdex",
+        "description": "Show HN: I built an outdoors data API for developers",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://outdex.dev/",
+        "discovered_at": "2026-03-23"
+    },
+    {
         "name": "Owid Scrapper",
         "description": "Scrapper and Automation serving dataset of charts from Our World In Data, make fast your projects",
         "category": "Development",
@@ -59616,6 +59696,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Bbc",
+        "description": "Is this product 'human-made'? The race to establish an AI-free logo",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.bbc.co.uk/news/articles/cj0d6el50ppo",
+        "discovered_at": "2026-03-23"
+    },
+    {
         "name": "BBC Shop US Scraper",
         "description": "Scrape BBC Shop US and extract data on entertainment from shop.bbc.com. Our BBC Shop US API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel,.",
         "category": "E-Commerce",
@@ -65123,6 +65213,16 @@
         "cors": "unknown",
         "url": "https://apify.com/mshopik/mcgee-and-co-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Mcp-marketplace-zeta",
+        "description": "MCP Marketplace – an App Store for AI agent tools (17 servers, free to list)",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mcp-marketplace-zeta.vercel.app",
+        "discovered_at": "2026-03-23"
     },
     {
         "name": "Meijer Parser Spider",
@@ -75429,6 +75529,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "App",
+        "description": "Show HN: 20 years of Hacker News discussions, clustered and visualized",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.lenzy.ai/projects/prj_public_01KKKENH0W0JEFHETN74AYDD87/reports/rpt_01KKKENH0W0JEFHETN74AYDD8D?from=2006-10-10&to=2026-03-22",
+        "discovered_at": "2026-03-23"
+    },
+    {
         "name": "Article Rewriter and Article Extractor API",
         "description": "Spinbot.net propose a new solution based on high technologies for faster article spinner and extractor that you will love to use it.",
         "category": "News",
@@ -75534,6 +75644,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://github.com/HackerNews/API"
+    },
+    {
+        "name": "Nanostat",
+        "description": "Show HN: Nanostat – automated particle analysis for electron microscopy images",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nanostat.ai/",
+        "discovered_at": "2026-03-23"
     },
     {
         "name": "New York Times",
@@ -79183,6 +79303,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Giovannicarlino04",
+        "description": "Show HN: A C/C++ IDE written in C from scratch with zero dependencies",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://giovannicarlino04.itch.io/icarus",
+        "discovered_at": "2026-03-23"
+    },
+    {
         "name": "Glad-ia-tor",
         "description": "Show HN: Glad-AI-Tor – A public arena where startups get roasted or crowned",
         "category": "Other",
@@ -79191,6 +79321,16 @@
         "cors": "unknown",
         "url": "https://glad-ia-tor.com/",
         "discovered_at": "2026-03-13"
+    },
+    {
+        "name": "Glama",
+        "description": "Prompt Injecting Contributing.md",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://glama.ai/blog/2026-03-19-open-source-has-a-bot-problem",
+        "discovered_at": "2026-03-23"
     },
     {
         "name": "Google Mirror",
@@ -79413,6 +79553,26 @@
         "discovered_at": "2026-03-17"
     },
     {
+        "name": "Kdb-academy",
+        "description": "I built a free interactive platform to learn KDB/q",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kdb-academy.web.app/",
+        "discovered_at": "2026-03-23"
+    },
+    {
+        "name": "Keelo",
+        "description": "Stop churning customers and acquire your best customer",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.keelo.ai/",
+        "discovered_at": "2026-03-23"
+    },
+    {
         "name": "Keirolabs",
         "description": "Show HN: Llama 3.2 3B and Keiro Research achieves 85% on SimpleQA",
         "category": "Other",
@@ -79483,6 +79643,16 @@
         "discovered_at": "2026-03-04"
     },
     {
+        "name": "Lifelog",
+        "description": "Why I Vibe in Go, Not Rust or Python",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lifelog.my/episode/why-i-vibe-in-go-not-rust-or-python",
+        "discovered_at": "2026-03-23"
+    },
+    {
         "name": "Lucidtech API",
         "description": "Lucidtech API API",
         "category": "Other",
@@ -79501,6 +79671,16 @@
         "cors": "unknown",
         "url": "https://lukan.ai",
         "discovered_at": "2026-03-19"
+    },
+    {
+        "name": "Magaornot",
+        "description": "Show HN: MAGA or Not? Political alignment scores for people and companies",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://magaornot.ai",
+        "discovered_at": "2026-03-23"
     },
     {
         "name": "Marketing Events Extension",
@@ -79593,6 +79773,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Mistral",
+        "description": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mistral.ai/news/leanstral",
+        "discovered_at": "2026-03-23"
+    },
+    {
         "name": "Mnemos",
         "description": "Mnemos – scoped local memory for coding agents (public beta)",
         "category": "Other",
@@ -79641,6 +79831,16 @@
         "cors": "unknown",
         "url": "https://netwall.org",
         "discovered_at": "2026-03-06"
+    },
+    {
+        "name": "Nial",
+        "description": "Did the Agile Manifesto, Scrum and open source kill the programmer?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nial.se/blog/agile-manifesto/",
+        "discovered_at": "2026-03-23"
     },
     {
         "name": "Nightingale",
@@ -79741,6 +79941,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/vtex/openapi-schemas/master/VTEX - Orders API (PII version).json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Originary",
+        "description": "Show HN: Agent Auditor: verify signed agent, API, and MCP records offline",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.originary.xyz/agent-auditor",
+        "discovered_at": "2026-03-23"
     },
     {
         "name": "Panel-panic",
@@ -79901,6 +80111,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/nexmo/api-specification/master/definitions/redact.yml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Refrax",
+        "description": "Show HN: Refrax – my Arc Browser replacement I made from scratch",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://refrax.website/",
+        "discovered_at": "2026-03-23"
     },
     {
         "name": "Rep-protocol",
@@ -80223,6 +80443,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Turso",
+        "description": "What Happens with Open Source in the Age of AI?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://turso.tech/blog/what-happens-with-oss-in-the-age-of-ai",
+        "discovered_at": "2026-03-23"
+    },
+    {
         "name": "Typewhisper",
         "description": "Show HN: TypeWhisper – speech-to-text with multiple engines, profiles",
         "category": "Other",
@@ -80321,6 +80551,26 @@
         "cors": "unknown",
         "url": "http://webservice.wikipathways.org/index.php?swagger",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Wormhole",
+        "description": "Show HN: Wormhole.page – Magic Wormhole file transfer in the browser via WASM",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wormhole.page",
+        "discovered_at": "2026-03-23"
+    },
+    {
+        "name": "Writermark",
+        "description": "Show HN: Writermark – Open protocol to help prove text is human-written",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.writermark.org/",
+        "discovered_at": "2026-03-23"
     },
     {
         "name": "Yarn6",
