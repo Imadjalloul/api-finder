@@ -170,6 +170,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Blog",
+        "description": "What is the best agentic AI today?",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.alcazarsec.com/tech/posts/openclaw-vs-nemoclaw",
+        "discovered_at": "2026-03-24"
+    },
+    {
         "name": "Borg",
         "description": "Achieving Zero Bugs: Rust, Specs, and AI Coding",
         "category": "AI & Machine Learning",
@@ -55646,6 +55656,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Tril",
+        "description": "Show HN: I replaced every function in a codebase with English – it still works",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tril.cc",
+        "discovered_at": "2026-03-24"
+    },
+    {
         "name": "Trip Parser",
         "description": "Before using this API, we recommend you read our **[Authorization Guide](https://developers.amadeus.com/self-service/apis-docs/guides/authorization-262)** for more information on how to generate an a",
         "category": "Development",
@@ -71531,6 +71551,16 @@
         "discovered_at": "2026-03-16"
     },
     {
+        "name": "Planetofthepaul",
+        "description": "Show HN: Story Trainer, a self-guided tool for learning story structure",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://planetofthepaul.github.io/StoryTrainer/",
+        "discovered_at": "2026-03-24"
+    },
+    {
         "name": "Theregister",
         "description": "Moody humans should let AI handle bad public feedback first, study finds",
         "category": "Education",
@@ -78853,6 +78883,16 @@
         "discovered_at": "2026-03-20"
     },
     {
+        "name": "Breakfree-orpin",
+        "description": "Show HN: BreakFree – Break free from bad habits",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://breakfree-orpin.vercel.app",
+        "discovered_at": "2026-03-24"
+    },
+    {
         "name": "bridgedb webservices",
         "description": "bridgedb webservices API",
         "category": "Other",
@@ -78973,6 +79013,16 @@
         "discovered_at": "2026-03-22"
     },
     {
+        "name": "Coached",
+        "description": "Show HN: Behavioral analysis of your career decisions from your LinkedIn",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://coached.com/career-deep-read",
+        "discovered_at": "2026-03-24"
+    },
+    {
         "name": "Coindesk",
         "description": "BTC miners pivoting towards AI",
         "category": "Other",
@@ -78991,6 +79041,16 @@
         "cors": "unknown",
         "url": "https://www.context.dev",
         "discovered_at": "2026-03-22"
+    },
+    {
+        "name": "Craigm26",
+        "description": "Show HN: OpenCastor Agent Harness Evaluator Leaderboard",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://craigm26.github.io/OpenCastor/",
+        "discovered_at": "2026-03-24"
     },
     {
         "name": "Crates",
@@ -79403,6 +79463,16 @@
         "discovered_at": "2026-03-20"
     },
     {
+        "name": "Homelabinator",
+        "description": "Show HN: Homelabinator, the easiest way to self-host",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://homelabinator.com/",
+        "discovered_at": "2026-03-24"
+    },
+    {
         "name": "HubSpot Events API",
         "description": "API for accessing CRM object events.",
         "category": "Other",
@@ -79771,6 +79841,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/vtex/openapi-schemas/master/VTEX - Message Center API.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Mintai",
+        "description": "Monetize apps, in seconds, for free (42/50 open spots for beta filled)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mintai.base44.app",
+        "discovered_at": "2026-03-24"
     },
     {
         "name": "Mistral",
@@ -80273,6 +80353,16 @@
         "discovered_at": "2026-03-03"
     },
     {
+        "name": "Simplerouting",
+        "description": "Show HN: Simple Routing – Low Cost Vehicle Routing APIs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.simplerouting.io",
+        "discovered_at": "2026-03-24"
+    },
+    {
         "name": "SimpliVPNAPI",
         "description": "SimpliVPNAPI API",
         "category": "Other",
@@ -80481,6 +80571,26 @@
         "cors": "unknown",
         "url": "https://ups.dev/",
         "discovered_at": "2026-03-19"
+    },
+    {
+        "name": "Uruky",
+        "description": "Show HN: Kagi alternative (simpler and EU-based) – Uruky",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://uruky.com/kagi-alternative?il=en",
+        "discovered_at": "2026-03-24"
+    },
+    {
+        "name": "Veerhost",
+        "description": "Built a free website speed test tool for anyone with a public site",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://veerhost.com/website-speed-test/",
+        "discovered_at": "2026-03-24"
     },
     {
         "name": "Voie",
@@ -92271,6 +92381,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.uuidtools.com/api"
+    },
+    {
+        "name": "Workflowpick",
+        "description": "Free calculator: Zapier pricing vs. Make.com, Pabbly Connect, and n8n",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://workflowpick.com/zapier-pricing-calculator/",
+        "discovered_at": "2026-03-24"
     },
     {
         "name": "Classicvideopoker",
