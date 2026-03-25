@@ -160,6 +160,16 @@
         "discovered_at": "2026-03-12"
     },
     {
+        "name": "Bix",
+        "description": "Let AI make software free-as-in-freedom",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bix.computer/blog/blog/ai-free-software/",
+        "discovered_at": "2026-03-25"
+    },
+    {
         "name": "Blog",
         "description": "Show HN: NSED 0.3 Release. Steer Multi-Agent AI Swarm for Frontier Performance",
         "category": "AI & Machine Learning",
@@ -318,6 +328,16 @@
         "discovered_at": "2026-03-21"
     },
     {
+        "name": "Danubeai",
+        "description": "Show HN: Danube – AI Tools Marketplace",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://danubeai.com",
+        "discovered_at": "2026-03-25"
+    },
+    {
         "name": "DeepL",
         "description": "AI-powered machine translation for 30+ languages",
         "category": "AI & Machine Learning",
@@ -325,6 +345,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.deepl.com/docs-api"
+    },
+    {
+        "name": "Doodleduel",
+        "description": "Show HN: I built DoodleDuel, a free browser drawing game with an AI judge",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://doodleduel.co/?a=9000",
+        "discovered_at": "2026-03-25"
     },
     {
         "name": "Dypai",
@@ -454,6 +484,16 @@
         "url": "https://huggingface.co/docs/api-inference/"
     },
     {
+        "name": "Inariwatch",
+        "description": "InariWatch – Open-source AI monitoring that writes the fix while you sleep",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.inariwatch.com/",
+        "discovered_at": "2026-03-25"
+    },
+    {
         "name": "Jobbi",
         "description": "Show HN: Jobbi – Free AI resume tailoring with unlimited PDF exports",
         "category": "AI & Machine Learning",
@@ -502,6 +542,16 @@
         "cors": "unknown",
         "url": "https://limits.dev",
         "discovered_at": "2026-03-01"
+    },
+    {
+        "name": "Linuxtoaster",
+        "description": "The Pincer Attack – How AI Killed Open Source",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://linuxtoaster.com/blog/aikilledopensource.html?hn",
+        "discovered_at": "2026-03-25"
     },
     {
         "name": "Litestep",
@@ -603,6 +653,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Needhuman",
+        "description": "Show HN: NeedHuman – API that lets AI agents hire a real human when stuck",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://needhuman.ai",
+        "discovered_at": "2026-03-25"
+    },
+    {
         "name": "Nesbitt",
         "description": "How to Attract AI Bots to Your Open Source Project",
         "category": "AI & Machine Learning",
@@ -690,6 +750,16 @@
         "cors": "unknown",
         "url": "https://www.openlegion.ai",
         "discovered_at": "2026-03-16"
+    },
+    {
+        "name": "Opper",
+        "description": "Show HN: AI Roundtable – Let 200 models debate your question",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://opper.ai/ai-roundtable/",
+        "discovered_at": "2026-03-25"
     },
     {
         "name": "Pairform",
@@ -901,6 +971,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Socworkflows",
+        "description": "SOC.Workflows – Free AI investigation workflows for SoC analysts",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://socworkflows.com/",
+        "discovered_at": "2026-03-25"
+    },
+    {
         "name": "Spidra",
         "description": "Show HN: Spidra – AI web scraper that adapts to any website",
         "category": "AI & Machine Learning",
@@ -980,6 +1060,16 @@
         "discovered_at": "2026-03-11"
     },
     {
+        "name": "Tluma",
+        "description": "Tluma suggests unlimited free Ask AI for Open Source",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tluma.ai",
+        "discovered_at": "2026-03-25"
+    },
+    {
         "name": "Together AI",
         "description": "Run 100+ open-source models with free credits",
         "category": "AI & Machine Learning",
@@ -1029,6 +1119,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Visidata",
+        "description": "Using AI to Contribute to Open Source",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.visidata.org/blog/2026/ai/",
+        "discovered_at": "2026-03-25"
+    },
+    {
         "name": "Vr",
         "description": "Show HN: VR.dev – Open-source verifiers for what AI agents did",
         "category": "AI & Machine Learning",
@@ -1047,6 +1147,16 @@
         "cors": "unknown",
         "url": "https://whycantwehaveanagentforthis.com",
         "discovered_at": "2026-03-04"
+    },
+    {
+        "name": "Wiz",
+        "description": "CVE-2026-33413 found in ETCD by open source AI agent (strix.ai), 8.8 CVSS",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.wiz.io/vulnerability-database/cve/cve-2026-33413",
+        "discovered_at": "2026-03-25"
     },
     {
         "name": "Wolfram Alpha",
@@ -4091,6 +4201,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://thedogapi.com/"
+    },
+    {
+        "name": "Wired",
+        "description": "A Billionaire-Backed Startup Wants to Grow 'Organ Sacks' to Replace Animal Test",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/",
+        "discovered_at": "2026-03-25"
     },
     {
         "name": "XTRF Home Portal API",
@@ -10033,6 +10153,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Nekoni",
+        "description": "Show HN: Nekoni – local AI agent accessible from your phone, no cloud",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nekoni.dev/",
+        "discovered_at": "2026-03-25"
+    },
+    {
         "name": "Oblien",
         "description": "Show HN: Cloud VMs with a Built-In REST API for AI Agents",
         "category": "Cloud & Storage",
@@ -10271,6 +10401,16 @@
         "discovered_at": "2026-03-16"
     },
     {
+        "name": "Clarity",
+        "description": "Show HN: Clarity – An AI Slack coach for better work communication",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://clarity.rocktangle.com/",
+        "discovered_at": "2026-03-25"
+    },
+    {
         "name": "Clwnt",
         "description": "Show HN: ClawNet – Agent-first communication infrastructure (email, DMs, feed)",
         "category": "Communication",
@@ -10299,6 +10439,16 @@
         "cors": "unknown",
         "url": "https://docs.inboxapp.com",
         "discovered_at": "2026-03-11"
+    },
+    {
+        "name": "Firethering",
+        "description": "Open-Source AI Text-to-Speech Models You Can Run Locally for Natural Voice",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://firethering.com/best-open-source-tts-models/",
+        "discovered_at": "2026-03-25"
     },
     {
         "name": "Freecustom",
@@ -10457,6 +10607,16 @@
         "cors": "unknown",
         "url": "https://api.hubspot.com/api-catalog-public/v1/apis/communication-preferences/v3",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Topmail",
+        "description": "Show HN: TopMail – LaunchFest Winner, $20/Mo Unlimited Email, Coding Agents API",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.topmail.so",
+        "discovered_at": "2026-03-25"
     },
     {
         "name": "Ttslab",
@@ -43117,6 +43277,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Claudescode",
+        "description": "Show HN: Claude's Code – tracking the 19M+ commits generated by Claude on GitHub",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.claudescode.dev/",
+        "discovered_at": "2026-03-25"
+    },
+    {
         "name": "Clean Email Verifier",
         "description": "Professional email validation tool that checks deliverability and identifies risky or invalid addresses. Validate bulk email lists with detailed status reports. Ideal for lead validation, CRM...",
         "category": "Development",
@@ -46023,6 +46193,16 @@
         "cors": "unknown",
         "url": "https://apify.com/gnyselcuk/findify-best",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Fingerprint",
+        "description": "A free tool for bot and AI agent developers to validate their Web Bot Auth setup",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fingerprint.com/blog/web-bot-auth-guide/",
+        "discovered_at": "2026-03-25"
     },
     {
         "name": "FINRA BrokerCheck Scraper",
@@ -51468,6 +51648,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Ossature",
+        "description": "Show HN: Ossature – Spec-driven code generation with LLMs",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ossature.dev",
+        "discovered_at": "2026-03-25"
+    },
+    {
         "name": "Otodom Property Details Scraper",
         "description": "Advanced Otodom.pl scraper tool for extracting comprehensive property data from Poland's leading real estate platform. Get detailed listings, pricing, location data, and market insights for investment",
         "category": "Development",
@@ -51796,6 +51986,16 @@
         "cors": "unknown",
         "url": "https://apify.com/zenapi/phone-number-validator",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Phoronix",
+        "description": "Firefox 149 Available with XDG Portal File Picker, Rust-Based JPEG-XL Decoder",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.phoronix.com/news/Mozilla-Firefox-149",
+        "discovered_at": "2026-03-25"
     },
     {
         "name": "Pieceauto Discount Scraper",
@@ -52466,6 +52666,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Pureinference",
+        "description": "Designing a Test Runner for Claude Code",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.pureinference.com/insights/designing-a-test-runner-for-ai-agents",
+        "discovered_at": "2026-03-25"
+    },
+    {
         "name": "Python Empty Template",
         "description": "**Python Empty Template is a minimal starter actor for building Python-based automations and scrapers on Apify. It provides a clean structure, basic input/output handling, and integration with the...",
         "category": "Development",
@@ -52574,6 +52784,16 @@
         "cors": "unknown",
         "url": "https://apify.com/fatihtahta/quora-scraper-mo",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Quretests",
+        "description": "Show HN: Record manual QA flows, get E2E test code that fits your repo",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://quretests.com",
+        "discovered_at": "2026-03-25"
     },
     {
         "name": "RAG Browser",
@@ -57304,6 +57524,16 @@
         "cors": "unknown",
         "url": "https://apify.com/xmiso_scrapers/wordpress-sites-vulnerabilities-scanner",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Workovernight",
+        "description": "Show HN: Using Claude Code history to predict your next messages while you sleep",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://workovernight.com",
+        "discovered_at": "2026-03-25"
     },
     {
         "name": "X (Twitter) Post Replies Scraper",
@@ -72409,6 +72639,16 @@
         "url": "https://api.chucknorris.io/"
     },
     {
+        "name": "Eu-west-1a",
+        "description": "ShowTracker – Free social tracker for TV, movies, anime, and manga",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://eu-west-1a.online.tableau.com/#/site/3visionshowtracker/views/ShowTracker-NewDesign/HomePage",
+        "discovered_at": "2026-03-25"
+    },
+    {
         "name": "Jikan",
         "description": "Unofficial MyAnimeList API for anime & manga data",
         "category": "Entertainment",
@@ -74690,6 +74930,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://docs.mapbox.com/"
+    },
+    {
+        "name": "Neobotnet",
+        "description": "Show HN: I built a site that maps the web from a bounty hunter's perspective",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.neobotnet.com/",
+        "discovered_at": "2026-03-25"
     },
     {
         "name": "Onlineocrfree",
@@ -78753,6 +79003,26 @@
         "discovered_at": "2026-03-14"
     },
     {
+        "name": "Animaj",
+        "description": "Integrating Rust into ML Workflows",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.animaj.com/post/animaj-supercharging-ml-workflows-with-rust-integration",
+        "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Antejavor",
+        "description": "What is the best data model for AI?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://antejavor.github.io/blog/2026/best-data-model-for-AI/",
+        "discovered_at": "2026-03-25"
+    },
+    {
         "name": "Anything",
         "description": "Show HN: Anything API – Get APIs from Websites Without APIs",
         "category": "Other",
@@ -79363,6 +79633,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Giantjson",
+        "description": "Show HN: Updated GiantJSON Viewer – Opening 100GB JSONs on Android (Rust+SIMD)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://giantjson.com/",
+        "discovered_at": "2026-03-25"
+    },
+    {
         "name": "Giovannicarlino04",
         "description": "Show HN: A C/C++ IDE written in C from scratch with zero dependencies",
         "category": "Other",
@@ -79391,6 +79671,16 @@
         "cors": "unknown",
         "url": "https://glama.ai/blog/2026-03-19-open-source-has-a-bot-problem",
         "discovered_at": "2026-03-23"
+    },
+    {
+        "name": "Glanceway",
+        "description": "Show HN: Glanceway – A programmable menu bar info aggregator for macOS",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://glanceway.app",
+        "discovered_at": "2026-03-25"
     },
     {
         "name": "Google Mirror",
@@ -80491,6 +80781,16 @@
         "cors": "unknown",
         "url": "https://www.thetimes.com/culture/art/article/painting-turner-abergavenny-bridge-rcvx8hglh",
         "discovered_at": "2026-03-05"
+    },
+    {
+        "name": "Theverge",
+        "description": "Welp, I Bought an iPhone Again",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.theverge.com/tech/899602/best-phone-android-ios-app-store",
+        "discovered_at": "2026-03-25"
     },
     {
         "name": "Timesofindia",
@@ -92491,6 +92791,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Streamhouse",
+        "description": "Show HN: Streamhouse – all-in-one event streaming for startups",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://streamhouse.app",
+        "discovered_at": "2026-03-25"
+    },
+    {
         "name": "Tenor",
         "description": "GIF search engine with trending and categories",
         "category": "Video & Media",
@@ -92556,6 +92866,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://developers.google.com/youtube/v3"
+    },
+    {
+        "name": "Forecast-planner",
+        "description": "Show HN: Forecast Planner, personal finance app that forecasts instead of tracks",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.forecast-planner.com/",
+        "discovered_at": "2026-03-25"
     },
     {
         "name": "Open-Meteo",
