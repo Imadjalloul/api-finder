@@ -465,6 +465,16 @@
         "discovered_at": "2026-03-05"
     },
     {
+        "name": "Hiredtoday",
+        "description": "Show HN: HiredToday.app – AI resume tailoring, cover letters and interview prep",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.hiredtoday.app",
+        "discovered_at": "2026-03-26"
+    },
+    {
         "name": "Hive",
         "description": "Show HN: We Built Kaggle for AI Agents",
         "category": "AI & Machine Learning",
@@ -634,6 +644,16 @@
         "discovered_at": "2026-03-13"
     },
     {
+        "name": "Meetrick",
+        "description": "Show HN: Rick – Open-source AI CEO that autonomously runs your startup",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://meetrick.ai",
+        "discovered_at": "2026-03-26"
+    },
+    {
         "name": "Mistral AI",
         "description": "Powerful open-weight LLMs via API",
         "category": "AI & Machine Learning",
@@ -641,6 +661,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://docs.mistral.ai/"
+    },
+    {
+        "name": "Monkepay",
+        "description": "Show HN: MonkePay – Charge AI Agents per API Request in USDC",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.monkepay.xyz/",
+        "discovered_at": "2026-03-26"
     },
     {
         "name": "Moon by Ai Weiwei & Olafur Eliasson",
@@ -651,6 +681,16 @@
         "cors": "unknown",
         "url": "http://moonmoonmoonmoon.com/api/api-docs.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Mustgo",
+        "description": "Show HN: Got fed up missing cool AI events: built tool to match them to my goals",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mustgo.ai",
+        "discovered_at": "2026-03-26"
     },
     {
         "name": "Needhuman",
@@ -4529,6 +4569,16 @@
         "cors": "unknown",
         "url": "https://bkmker.com",
         "discovered_at": "2026-03-22"
+    },
+    {
+        "name": "Evanshunt",
+        "description": "Show HN: E is for ENSHITTIFICATION – An illustrated children's book on big tech",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.evanshunt.com/enshittification/",
+        "discovered_at": "2026-03-26"
     },
     {
         "name": "Flight Most Booked Destinations",
@@ -10530,6 +10580,16 @@
         "discovered_at": "2026-03-15"
     },
     {
+        "name": "Marcoapp",
+        "description": "Show HN: Marco, a privacy-first, offline-first email client (IMAP-native, no AI)",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://marcoapp.io/",
+        "discovered_at": "2026-03-26"
+    },
+    {
         "name": "Messages API",
         "description": "The Messages API consolidates and normalises exchanges across all messaging channels. It allows you to use a single API to interact with our various channels such as SMS, MMS, WhatsApp, Viber and Face",
         "category": "Communication",
@@ -10675,6 +10735,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/nexmo/api-specification/master/definitions/vonage-business-cloud/vgis.yml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Zernio",
+        "description": "Show HN: Building a WhatsApp API with 0 markup on Meta pricing",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://zernio.com",
+        "discovered_at": "2026-03-26"
     },
     {
         "name": "CompanyAPI",
@@ -58496,6 +58566,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Zippy",
+        "description": "Show HN: CI/CD in your terminal, zero YAML",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://zippy.sh",
+        "discovered_at": "2026-03-26"
+    },
+    {
         "name": "Zoho Help Center",
         "description": "Get Categories and Articles from a Zoho Desk Help Center. It's fast and costs little.",
         "category": "Development",
@@ -62895,6 +62975,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Grafos",
+        "description": "Show HN: We are building a production agent to turn your code into cloud infra",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://grafos.ai/early-access/",
+        "discovered_at": "2026-03-26"
+    },
+    {
         "name": "Grailed.com - Fashion product scraper",
         "description": "Grailed Scraper will enable you to scrape products from Grailed.com with ease. You can scrape all the products from a search result, category, collection, or designer page. The scraper will return a..",
         "category": "E-Commerce",
@@ -65103,6 +65193,16 @@
         "cors": "unknown",
         "url": "https://apify.com/mshopik/lisa-says-gah-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Livedemo",
+        "description": "Show HN: Building an open-source product demo platform",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://livedemo.ai",
+        "discovered_at": "2026-03-26"
     },
     {
         "name": "LIVELY Scraper",
@@ -79433,6 +79533,16 @@
         "discovered_at": "2026-03-02"
     },
     {
+        "name": "Dl",
+        "description": "Co-Design of B+-Tree Index with Emerging Zone Interfaces for Small KV Pairs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dl.acm.org/doi/10.1145/3778171",
+        "discovered_at": "2026-03-26"
+    },
+    {
         "name": "Docs",
         "description": "Show HN: I've just launched my own API",
         "category": "Other",
@@ -80113,6 +80223,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Medium",
+        "description": "I Built a Public REST API from Scratch on Supabase Edge Functions",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://medium.com/@rodba/building-a-developer-friendly-rest-api-on-supabase-edge-functions-what-i-learned-shipping-polydata-a293d0c723b2",
+        "discovered_at": "2026-03-26"
+    },
+    {
         "name": "Meilisearch v1.0",
         "description": "Meilisearch v1.0 API",
         "category": "Other",
@@ -80523,6 +80643,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Retrospectiveonline",
+        "description": "Show HN: Retrospective Online – Sprint Retros for dev teams",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://retrospectiveonline.com/",
+        "discovered_at": "2026-03-26"
+    },
+    {
         "name": "Retrotick",
         "description": "Show HN: RetroTick – Run classic Windows EXEs in the browser",
         "category": "Other",
@@ -80753,6 +80883,16 @@
         "discovered_at": "2026-03-01"
     },
     {
+        "name": "Stellafoster",
+        "description": "Show HN: Stella Foster – iMessage on Any Phone",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stellafoster.com/",
+        "discovered_at": "2026-03-26"
+    },
+    {
         "name": "TechPort",
         "description": "TechPort RESTful API",
         "category": "Other",
@@ -80883,6 +81023,16 @@
         "discovered_at": "2026-03-24"
     },
     {
+        "name": "Vectree",
+        "description": "Show HN: Vectree – Learn complex concepts through AI-generated interactive SVGs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vectree.io",
+        "discovered_at": "2026-03-26"
+    },
+    {
         "name": "Veerhost",
         "description": "Built a free website speed test tool for anyone with a public site",
         "category": "Other",
@@ -80981,6 +81131,16 @@
         "cors": "unknown",
         "url": "https://www.writermark.org/",
         "discovered_at": "2026-03-23"
+    },
+    {
+        "name": "Yaninatrekhleb",
+        "description": "Show HN: Daily Reflections – A private, zero-dependency, local-first PWA journal",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://yaninatrekhleb.com/daily-reflections/",
+        "discovered_at": "2026-03-26"
     },
     {
         "name": "Yarn6",
@@ -81311,6 +81471,16 @@
         "cors": "unknown",
         "url": "https://facecheck.id/Swagger/v1/swagger.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Filecrank",
+        "description": "FileCrank – +134 free tools for PDFs, images, A&V and Dev",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://filecrank.app/en",
+        "discovered_at": "2026-03-26"
     },
     {
         "name": "Framefit",
@@ -92857,6 +93027,16 @@
         "cors": "unknown",
         "url": "https://webaudio.studio/",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Webcameffects",
+        "description": "Show HN: LookGood Live – Chrome plugin enhances your appearance on camera video",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://webcameffects.app/en/extensions/looksgood-live/",
+        "discovered_at": "2026-03-26"
     },
     {
         "name": "YouTube Data",
