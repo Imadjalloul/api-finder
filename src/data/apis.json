@@ -417,6 +417,16 @@
         "discovered_at": "2026-03-19"
     },
     {
+        "name": "Foryouriver",
+        "description": "Show HN: For You – AI art floats down a river for strangers to find",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.foryouriver.com/",
+        "discovered_at": "2026-03-28"
+    },
+    {
         "name": "Frogapi",
         "description": "Show HN: Get GPT-5.2, Grok-4.1-fast, KimiK2.5 and more LLMs at half the cost",
         "category": "AI & Machine Learning",
@@ -455,6 +465,16 @@
         "cors": "unknown",
         "url": "https://www.getspine.ai/",
         "discovered_at": "2026-03-16"
+    },
+    {
+        "name": "Goodbyewatermark",
+        "description": "Show HN: Goodbye Watermark – Free AI watermark remover",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://goodbyewatermark.com",
+        "discovered_at": "2026-03-28"
     },
     {
         "name": "Google Gemini",
@@ -532,6 +552,16 @@
         "cors": "unknown",
         "url": "https://jobbi.app",
         "discovered_at": "2026-03-05"
+    },
+    {
+        "name": "Kagento",
+        "description": "Show HN: Kagento – LeetCode for AI Agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kagento.io",
+        "discovered_at": "2026-03-28"
     },
     {
         "name": "Kybernis",
@@ -632,6 +662,16 @@
         "cors": "unknown",
         "url": "https://lobsterlair.xyz",
         "discovered_at": "2026-03-12"
+    },
+    {
+        "name": "Longtermresilience",
+        "description": "CLTR finds a 5x increase in scheming-related AI incidents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.longtermresilience.org/reports/v5-scheming-in-the-wild_-detecting-real-world-ai-scheming-incidents-through-open-source-intelligence-pdf/",
+        "discovered_at": "2026-03-28"
     },
     {
         "name": "Loseylabs",
@@ -4311,6 +4351,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://thedogapi.com/"
+    },
+    {
+        "name": "Tsolman",
+        "description": "Show HN: Open-source API for IACS vessel classification data",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tsolman.github.io/vessel-class-finder/",
+        "discovered_at": "2026-03-28"
     },
     {
         "name": "Wired",
@@ -43596,6 +43646,16 @@
         "discovered_at": "2026-03-04"
     },
     {
+        "name": "Codeberg",
+        "description": "Show HN: Zitrus – A 3DS SDK written in pure Zig",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://codeberg.org/GasInfinity/zitrus",
+        "discovered_at": "2026-03-28"
+    },
+    {
         "name": "Codeledger",
         "description": "Show HN: CodeLedger – deterministic context and guardrails for AI",
         "category": "Development",
@@ -50098,6 +50158,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Liorcodev",
+        "description": "Show HN: Doofpi – Edge-first TypeScript API framework with zero boilerplate",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://liorcodev.github.io/doofpi-docs/",
+        "discovered_at": "2026-03-28"
+    },
+    {
         "name": "Liquid Noble Blog Scraper",
         "description": "Liquid Noble (liquidnoble.com) Blog Scraper lets you easily extract blog content in HTML, JSON and plaintext formats. Get authors, create date, update date, images, readtime, RSS, titles, Seo Titles,.",
         "category": "Development",
@@ -51776,6 +51846,16 @@
         "cors": "unknown",
         "url": "https://apify.com/benthepythondev/openfda-drug-intelligence",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Openhelm",
+        "description": "Show HN: OpenHelm – OpenClaw but free (using your Claude Code subscription)",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.openhelm.ai/",
+        "discovered_at": "2026-03-28"
     },
     {
         "name": "OpenPayments Scraper",
@@ -59774,6 +59854,16 @@
         "cors": "unknown",
         "url": "https://apify.com/epctex/appstore-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Appdesk",
+        "description": "Show HN: AppDesk – Native macOS Client for App Store Connect",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://appdesk.dev",
+        "discovered_at": "2026-03-28"
     },
     {
         "name": "Apple App Store Review Scraper",
@@ -72897,6 +72987,16 @@
         "discovered_at": "2026-03-09"
     },
     {
+        "name": "Offby",
+        "description": "Show HN: Off By – a daily game about how wrong we are about the American economy",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://offby.io",
+        "discovered_at": "2026-03-28"
+    },
+    {
         "name": "OMDb",
         "description": "Movie and TV show information from IMDb data",
         "category": "Entertainment",
@@ -79363,6 +79463,16 @@
         "discovered_at": "2026-03-21"
     },
     {
+        "name": "Billingengine",
+        "description": "Show HN: BillingEngine – usage-based billing for APIs with real-time rating",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://billingengine.cloud/cs/",
+        "discovered_at": "2026-03-28"
+    },
+    {
         "name": "Blacktwist",
         "description": "Show HN: I built an MCP server that lets you manage Meta's Threads from Claude",
         "category": "Other",
@@ -79681,6 +79791,16 @@
         "cors": "unknown",
         "url": "https://deariary.com/en",
         "discovered_at": "2026-03-19"
+    },
+    {
+        "name": "Devinthakker",
+        "description": "I Built a Public RAG App for Chicago Budget Documents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.devinthakker.com/blog/chicago-budget-rag",
+        "discovered_at": "2026-03-28"
     },
     {
         "name": "Devreel",
@@ -80341,6 +80461,16 @@
         "cors": "unknown",
         "url": "https://linzichun.com/posts/tauri-image-desktop-app-rust-sveltekit/",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Loony",
+        "description": "Show HN: Built Loony for builders who want to spin up data infrastructure fast",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://loony.dev",
+        "discovered_at": "2026-03-28"
     },
     {
         "name": "Lucidtech API",
@@ -81173,6 +81303,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Sylve",
+        "description": "Show HN: Sylve – A management plane for FreeBSD (ZFS, VMs, jails, clustering)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sylve.io",
+        "discovered_at": "2026-03-28"
+    },
+    {
         "name": "TechPort",
         "description": "TechPort RESTful API",
         "category": "Other",
@@ -81331,6 +81471,16 @@
         "cors": "unknown",
         "url": "https://veerhost.com/website-speed-test/",
         "discovered_at": "2026-03-24"
+    },
+    {
+        "name": "Viztools",
+        "description": "Show HN: VizTools – 16 free tools for PMs and freelancers, deliberately no AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://viztools.app/",
+        "discovered_at": "2026-03-28"
     },
     {
         "name": "Voie",
