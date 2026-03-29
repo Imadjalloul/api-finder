@@ -991,6 +991,16 @@
         "url": "https://replicate.com/docs"
     },
     {
+        "name": "Reuters",
+        "description": "China AI labs face growing open-source dilemma",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.reuters.com/commentary/breakingviews/china-ai-labs-face-growing-open-source-dilemma-2026-03-25/",
+        "discovered_at": "2026-03-29"
+    },
+    {
         "name": "Rigour",
         "description": "Show HN: Rigour – Open-source quality gates for AI coding agents",
         "category": "AI & Machine Learning",
@@ -1316,6 +1326,16 @@
         "cors": "unknown",
         "url": "https://word-orb-api.nicoletterankin.workers.dev/playground",
         "discovered_at": "2026-03-02"
+    },
+    {
+        "name": "Wsj",
+        "description": "The People Who Are Using AI at Home to Free Up Their Time",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.wsj.com/tech/ai/the-people-who-are-using-ai-at-home-to-free-up-their-time-30940cec",
+        "discovered_at": "2026-03-29"
     },
     {
         "name": "Zapcode",
@@ -4620,6 +4640,16 @@
         "cors": "unknown",
         "url": "https://www.oxlo.ai/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Resolvio",
+        "description": "We built an open-source ENS resolution API for Web3 apps",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.resolvio.xyz/",
+        "discovered_at": "2026-03-29"
     },
     {
         "name": "Satsapi",
@@ -43666,6 +43696,16 @@
         "discovered_at": "2026-03-18"
     },
     {
+        "name": "Codesota",
+        "description": "One endpoint. Best model. Any task",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.codesota.com/api-landing",
+        "discovered_at": "2026-03-29"
+    },
+    {
         "name": "CoinGecko Crypto Intelligence",
         "description": "Extract real-time cryptocurrency market data from CoinGecko for 10,000+ coins. Get prices, market caps, volume, 24h/7d/30d changes, ATH/ATL, supply metrics, and historical charts. Access trending...",
         "category": "Development",
@@ -51668,6 +51708,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Octopus-review",
+        "description": "Show HN: Octopus, Open-source alternative to CodeRabbit and Greptile",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://octopus-review.ai",
+        "discovered_at": "2026-03-29"
+    },
+    {
         "name": "OK4WD Blog Scraper",
         "description": "OK4WD Blog Scraper (ok4wd.com) lets you extract blog content in HTML, JSON, and plaintext. Get authors, create/update date, images, read time, RSS, titles, SEO titles, featured images & videos, and...",
         "category": "Development",
@@ -54856,6 +54906,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Startrail",
+        "description": "Show HN: Why I built another GitHub star tracker",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.startrail.dev/",
+        "discovered_at": "2026-03-29"
+    },
+    {
         "name": "StartupJobs and JazzHR integration",
         "description": "Automatically transfers job applications from StartupJobs that are connected to a job offer that exists in JazzHR and puts them into JazzHR. The transferred applications are saved into the dataset so.",
         "category": "Development",
@@ -56014,6 +56074,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/amadeus4dev/amadeus-open-api-specification/main/spec/json/ToursandActivities_v1_swagger_specification.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Tracetics",
+        "description": "Show HN: Tracetics – Funnel analytics for developers via REST API",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tracetics.com",
+        "discovered_at": "2026-03-29"
     },
     {
         "name": "TradeMe Scraper",
@@ -75204,6 +75274,16 @@
         "discovered_at": "2026-03-07"
     },
     {
+        "name": "Docs",
+        "description": "FCC Prohibits New Approval of Foreign-Made Consumer Routers",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://docs.fcc.gov/public/attachments/DOC-420034A1.txt",
+        "discovered_at": "2026-03-29"
+    },
+    {
         "name": "Drakkar",
         "description": "Show HN: Drakkar.one – Google Maps embed replacement, no API keys, GDPR-ready",
         "category": "Maps & Transport",
@@ -79303,6 +79383,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Aisaastemplate",
+        "description": "Show HN: Web-based setup tool for Django Cookiecutter",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aisaastemplate.com/tools/cookiecutter/",
+        "discovered_at": "2026-03-29"
+    },
+    {
         "name": "Albertapulsecheck",
         "description": "Show HN: Open-data dashboard aggregating 143 feeds for Alberta municipalities",
         "category": "Other",
@@ -79541,6 +79631,16 @@
         "cors": "unknown",
         "url": "https://breakfree-orpin.vercel.app",
         "discovered_at": "2026-03-24"
+    },
+    {
+        "name": "Breezepdf",
+        "description": "Show HN: Free, in-browser PDF editor",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://breezepdf.com/?v=2",
+        "discovered_at": "2026-03-29"
     },
     {
         "name": "bridgedb webservices",
@@ -79933,6 +80033,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Enlidea",
+        "description": "Show HN: We built a multi-agent research hub. The waitlist is a reverse-CAPTCHA",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://enlidea.com",
+        "discovered_at": "2026-03-29"
+    },
+    {
         "name": "Exactonce",
         "description": "Show HN: ExactOnce – API for actions that can only happen once",
         "category": "Other",
@@ -79991,6 +80101,16 @@
         "cors": "unknown",
         "url": "https://flexprice.io/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Free",
+        "description": "Show HN: Free.ai",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://free.ai/",
+        "discovered_at": "2026-03-29"
     },
     {
         "name": "Frontbot",
@@ -80321,6 +80441,16 @@
         "cors": "unknown",
         "url": "https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/",
         "discovered_at": "2026-03-21"
+    },
+    {
+        "name": "Jigsawml",
+        "description": "Show HN: Live, interactive architecture diagrams for open-source projects",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jigsawml.com/open-source-projects",
+        "discovered_at": "2026-03-29"
     },
     {
         "name": "Jottit",
@@ -80911,6 +81041,16 @@
         "cors": "unknown",
         "url": "https://pivotordie.club",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Pneuma",
+        "description": "Show HN: I built an OS that is pure AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pneuma.computer",
+        "discovered_at": "2026-03-29"
     },
     {
         "name": "Policygen",
@@ -91114,6 +91254,16 @@
         "url": "https://developer.shodan.io/"
     },
     {
+        "name": "Shoofly",
+        "description": "Show HN: Shoofly – pre-execution security for Claude Code Cowork and OpenClaw",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://shoofly.dev/",
+        "discovered_at": "2026-03-29"
+    },
+    {
         "name": "Stellastra",
         "description": "Stellastra makes it easy to get reviews for your cybersecurity solution in real-time with its platform-agnostic REST API.",
         "category": "Security",
@@ -92686,6 +92836,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Cranki",
+        "description": "Show HN: Cranki – Crosswords meet Anki flashcards",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cranki.app",
+        "discovered_at": "2026-03-29"
+    },
+    {
         "name": "Datamuse",
         "description": "Word-finding queries: rhymes, synonyms, completions",
         "category": "Text & Language",
@@ -93293,6 +93453,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://randomuser.me/"
+    },
+    {
+        "name": "Redgridtactical",
+        "description": "Show HN: Coordinate converter in a single HTML file",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://redgridtactical.github.io/RedGridMGRS/tools.html",
+        "discovered_at": "2026-03-29"
     },
     {
         "name": "U2m",
