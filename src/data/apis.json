@@ -1031,6 +1031,16 @@
         "discovered_at": "2026-03-09"
     },
     {
+        "name": "Sairc",
+        "description": "Free AI Research Resources, Student Journal, & Open Discussion Forum",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.sairc.net",
+        "discovered_at": "2026-03-30"
+    },
+    {
         "name": "Sarvita",
         "description": "Show HN: Sarvita – AI coach that tracks and reverses your biological age",
         "category": "AI & Machine Learning",
@@ -1217,6 +1227,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://docs.together.ai/"
+    },
+    {
+        "name": "Tombedor",
+        "description": "Is the Future of AI Local?",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tombedor.dev/open-source-models/",
+        "discovered_at": "2026-03-30"
     },
     {
         "name": "Tracium",
@@ -32927,6 +32947,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Statisticsoftheworld",
+        "description": "Statistics of the World – Free API for 490 global economic indicators",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://statisticsoftheworld.com",
+        "discovered_at": "2026-03-30"
+    },
+    {
         "name": "Steam Email Scraper",
         "description": "Steam Email Scraper – Extract verified Steam emails with ease! 🚀 Perfect for game devs, marketers, and researchers, this tool scrapes emails using keywords, locations & custom domains. Supports proxy",
         "category": "Data & Analytics",
@@ -55176,6 +55206,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Stretchping",
+        "description": "Show HN: StretchPing – Free break reminders with guided stretches for developers",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stretchping.polsia.app/",
+        "discovered_at": "2026-03-30"
+    },
+    {
         "name": "Stripe App Marketplace Scraper",
         "description": "🚀 Comprehensive Stripe App Marketplace scraper that extracts detailed data from 370+ apps including pricing models, technical specifications, integration capabilities, and business information....",
         "category": "Development",
@@ -60454,6 +60494,16 @@
         "cors": "unknown",
         "url": "https://apify.com/scraped/better-business-bureau-bbb-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Beval",
+        "description": "Show HN: Beval – Simple evaluations for your AI product",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.beval.space/",
+        "discovered_at": "2026-03-30"
     },
     {
         "name": "Beyond Yoga Scraper",
@@ -79483,6 +79533,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Appnull",
+        "description": "Show HN: Null. – Free RSVP speed reader built for ADHD brains",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.appnull.com/landing",
+        "discovered_at": "2026-03-30"
+    },
+    {
         "name": "Arstechnica",
         "description": "Apple can delist apps \"with or without cause,\" judge says in loss for Musi app",
         "category": "Other",
@@ -80193,6 +80253,16 @@
         "discovered_at": "2026-03-23"
     },
     {
+        "name": "Gjlondon",
+        "description": "Coding Agents Could Make Free Software Matter Again",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
+        "discovered_at": "2026-03-30"
+    },
+    {
         "name": "Glad-ia-tor",
         "description": "Show HN: Glad-AI-Tor – A public arena where startups get roasted or crowned",
         "category": "Other",
@@ -80761,6 +80831,16 @@
         "cors": "unknown",
         "url": "https://mistral.ai/news/leanstral",
         "discovered_at": "2026-03-23"
+    },
+    {
+        "name": "Mlpatron",
+        "description": "Show HN: ML Patron – Run reproducible ML experiments with integrated funding",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mlpatron.com",
+        "discovered_at": "2026-03-30"
     },
     {
         "name": "Mnemos",
@@ -81493,6 +81573,16 @@
         "discovered_at": "2026-03-25"
     },
     {
+        "name": "Tidbits",
+        "description": "Show HN: Tidbits – Quick save any text without switching windows",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.tidbits.tools",
+        "discovered_at": "2026-03-30"
+    },
+    {
         "name": "Timesofindia",
         "description": "H-1B Visa employers database goes offline, key public records disappear",
         "category": "Other",
@@ -81551,6 +81641,16 @@
         "cors": "unknown",
         "url": "https://turso.tech/blog/what-happens-with-oss-in-the-age-of-ai",
         "discovered_at": "2026-03-23"
+    },
+    {
+        "name": "Typedwith",
+        "description": "Show HN: Free, Open-Source WhisperFlow That Just Works",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://typedwith.ai/",
+        "discovered_at": "2026-03-30"
     },
     {
         "name": "Typewhisper",
