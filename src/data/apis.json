@@ -210,6 +210,16 @@
         "discovered_at": "2026-03-24"
     },
     {
+        "name": "Blog",
+        "description": "Free eBook: Runtime Intelligence – The New AI Architecture (Manning)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.manning.com/runtime-intelligence",
+        "discovered_at": "2026-03-31"
+    },
+    {
         "name": "Borg",
         "description": "Achieving Zero Bugs: Rust, Specs, and AI Coding",
         "category": "AI & Machine Learning",
@@ -574,6 +584,16 @@
         "discovered_at": "2026-03-07"
     },
     {
+        "name": "Labs",
+        "description": "Show HN: Designing an API for LLMs, Not Humans",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://labs.tryopendata.ai/designing-an-api-for-llms",
+        "discovered_at": "2026-03-31"
+    },
+    {
         "name": "Launchkit-5g9",
         "description": "Show HN: Free AI Business Plan Generator",
         "category": "AI & Machine Learning",
@@ -813,6 +833,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Oneproject",
+        "description": "How to Make AI Serve the Public",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://oneproject.org/how-to-make-ai-serve-the-public/",
+        "discovered_at": "2026-03-31"
+    },
+    {
         "name": "OpenAI",
         "description": "GPT, DALL-E, Whisper — advanced AI models via API",
         "category": "AI & Machine Learning",
@@ -880,6 +910,16 @@
         "cors": "unknown",
         "url": "https://personalassistantdeploy.com/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Point-wild",
+        "description": "Catching the LiteLLM and Telnyx supply chain zero-days via semantic analysis",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://point-wild.github.io/who-touched-my-packages/",
+        "discovered_at": "2026-03-31"
     },
     {
         "name": "Port42",
@@ -1059,6 +1099,16 @@
         "cors": "unknown",
         "url": "https://www.sayit.chat/",
         "discovered_at": "2026-03-09"
+    },
+    {
+        "name": "Screamer",
+        "description": "Screamer – The fastest free speech to text AI in the world",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.screamer.app/",
+        "discovered_at": "2026-03-31"
     },
     {
         "name": "Shiporslop",
@@ -1307,6 +1357,16 @@
         "cors": "unknown",
         "url": "https://www.vr.dev/",
         "discovered_at": "2026-03-11"
+    },
+    {
+        "name": "Websites2know",
+        "description": "My Hands-On Guide to the Best AI HR Software in 2026",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://websites2know.com/best-ai-hr-software/",
+        "discovered_at": "2026-03-31"
     },
     {
         "name": "Whycantwehaveanagentforthis",
@@ -4432,6 +4492,16 @@
         "url": "https://zoo-animal-api.herokuapp.com/"
     },
     {
+        "name": "Agentlair",
+        "description": "Show HN: AgentLair – Give your AI agent an email identity and credential vault",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agentlair.dev/",
+        "discovered_at": "2026-03-31"
+    },
+    {
         "name": "Auth0",
         "description": "Authentication and authorization as a service",
         "category": "Auth & Identity",
@@ -4592,6 +4662,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.blockcypher.com/dev/"
+    },
+    {
+        "name": "Boilerworks",
+        "description": "Show HN: Boilerworks – don't pay tokens to re-solve auth and CI on every project",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://boilerworks.ai",
+        "discovered_at": "2026-03-31"
     },
     {
         "name": "CoinLayer",
@@ -47313,6 +47393,16 @@
         "url": "https://docs.gitlab.com/ee/api/"
     },
     {
+        "name": "Gitvelocity",
+        "description": "Show HN: We scored 50k PRs with AI – what we learned about code complexity",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gitvelocity.dev",
+        "discovered_at": "2026-03-31"
+    },
+    {
         "name": "Global",
         "description": "-",
         "category": "Development",
@@ -55326,6 +55416,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Sweetcli",
+        "description": "Show HN: I made a cheaper alternative to Claude Code or Codex CLI",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sweetcli.com/",
+        "discovered_at": "2026-03-31"
+    },
+    {
         "name": "Swiggy Restaurant Scraper",
         "description": "Effortlessly extract restaurant data from Swiggy with our powerful scraper. Get restaurants URL ,and their ratings, offers, ads, delivery times, distances, cuisines, and more in few seconds.",
         "category": "Development",
@@ -62893,6 +62993,16 @@
         "cors": "unknown",
         "url": "https://apify.com/natanielsantos/flipkart-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Flowtester",
+        "description": "We tasked 9 browser agents to shop on Amazon, only 2 picked the right product",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.flowtester.ai/articles/same-test-9-models",
+        "discovered_at": "2026-03-31"
     },
     {
         "name": "Flowzz Products Vendors Scraper",
@@ -73069,6 +73179,16 @@
         "discovered_at": "2026-03-25"
     },
     {
+        "name": "Gameplan",
+        "description": "Show HN: Gameplan – Play poker against a solver",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gameplan.poker/",
+        "discovered_at": "2026-03-31"
+    },
+    {
         "name": "Jikan",
         "description": "Unofficial MyAnimeList API for anime & manga data",
         "category": "Entertainment",
@@ -74270,6 +74390,16 @@
         "url": "https://restcountries.com/"
     },
     {
+        "name": "Aka",
+        "description": "Show HN: I made my fitness dashboard public and Apple Health needs an API",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aka.me/blog/personal-software-to-stay-healthy/",
+        "discovered_at": "2026-03-31"
+    },
+    {
         "name": "App",
         "description": "Show HN: We wrapped US healthcare API in MCP and it became surprisingly usable",
         "category": "Government & Health",
@@ -75439,6 +75569,16 @@
         "url": "https://rapidapi.com/transloc/api/openapi-1-2/"
     },
     {
+        "name": "Usegenosis",
+        "description": "Show HN: Genosis – LLM cost optimization that learns from your traffic",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://usegenosis.ai/",
+        "discovered_at": "2026-03-31"
+    },
+    {
         "name": "Adobe Experience Manager (AEM) API",
         "description": "Swagger AEM is an OpenAPI specification for Adobe Experience Manager (AEM) API",
         "category": "marketing",
@@ -76461,6 +76601,16 @@
         "cors": "unknown",
         "url": "https://www.thedataproject.ai",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Thenewstack",
+        "description": "Kelsey Hightower: \"Everyone is a junior engineer when it comes to AI\"",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thenewstack.io/hightower-ai-open-source-kubecon/",
+        "discovered_at": "2026-03-31"
     },
     {
         "name": "Accountants General, Tripura",
@@ -79543,6 +79693,16 @@
         "discovered_at": "2026-03-30"
     },
     {
+        "name": "Appsec",
+        "description": "Show HN: Appsec.fi – Interactive AppSec training matched to your stack",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://appsec.fi/en",
+        "discovered_at": "2026-03-31"
+    },
+    {
         "name": "Arstechnica",
         "description": "Apple can delist apps \"with or without cause,\" judge says in loss for Musi app",
         "category": "Other",
@@ -80153,6 +80313,16 @@
         "discovered_at": "2026-03-04"
     },
     {
+        "name": "Flashmesh",
+        "description": "Show HN: Vulnerabilities in a Multi-Million ARR Corp as 17(my 5-month journey)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://flashmesh.netlify.app/",
+        "discovered_at": "2026-03-31"
+    },
+    {
         "name": "Flexprice",
         "description": "Show HN: Prompt your billing system – Flexprice MCP Server",
         "category": "Other",
@@ -80161,6 +80331,16 @@
         "cors": "unknown",
         "url": "https://flexprice.io/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Fluxvector",
+        "description": "FluxVector – Free vector search API with built-in multilingual embeddings",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fluxvector.dev",
+        "discovered_at": "2026-03-31"
     },
     {
         "name": "Free",
@@ -80791,6 +80971,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/meilisearch/documentation/master/.vuepress/public/postman/meilisearch-collection.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Mentwire",
+        "description": "Show HN: Built Paul Graham's Intellectual CAPTCHA Idea",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mentwire.com/",
+        "discovered_at": "2026-03-31"
     },
     {
         "name": "Message Center API",
@@ -82141,6 +82331,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/Adyen/adyen-openapi/main/json/TransferService-v3.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Ai",
+        "description": "Meta open-sources a model that predicts brain responses to images and video",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ai.meta.com/blog/tribe-v2-brain-predictive-foundation-model/?_fb_noscript=1",
+        "discovered_at": "2026-03-31"
     },
     {
         "name": "Facial Recognition Reverse Image Face Search API",
@@ -91296,6 +91496,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Frozensecurity",
+        "description": "Show HN: I built a Bitcoin signing device where the private key is physical",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://frozensecurity.com/",
+        "discovered_at": "2026-03-31"
+    },
+    {
         "name": "Getvet",
         "description": "Show HN: Vet – Security registry for 88K+ MCP servers and AI tools",
         "category": "Security",
@@ -92914,6 +93124,16 @@
         "cors": "unknown",
         "url": "https://developer.wordnik.com/api-docs/swagger.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Anyvali",
+        "description": "Show HN: AnyVali – Validation library that works the same across 10 languages",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://anyvali.com/",
+        "discovered_at": "2026-03-31"
     },
     {
         "name": "Arespass",
