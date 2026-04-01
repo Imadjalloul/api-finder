@@ -100,6 +100,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Aki",
+        "description": "Aki.io – Open-source AI models via API on EU infrastructure (OpenAI-compatible)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aki.io",
+        "discovered_at": "2026-04-01"
+    },
+    {
         "name": "Antarraksha",
         "description": "Show HN: We attacked 8 AI agents with adversarial probes – 5 failed",
         "category": "AI & Machine Learning",
@@ -238,6 +248,16 @@
         "cors": "unknown",
         "url": "https://www.Bracketmadness.ai",
         "discovered_at": "2026-03-18"
+    },
+    {
+        "name": "Browserbeam",
+        "description": "Show HN: Browserbeam – a browser API built for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://browserbeam.com/",
+        "discovered_at": "2026-04-01"
     },
     {
         "name": "Budibase",
@@ -455,6 +475,16 @@
         "cors": "unknown",
         "url": "https://www.gallup.com/workplace/702983/adoption-rapidly-growing-public-sector.aspx",
         "discovered_at": "2026-03-15"
+    },
+    {
+        "name": "Geohot",
+        "description": "Closed Source AI = Neofeudalism",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html",
+        "discovered_at": "2026-04-01"
     },
     {
         "name": "Getcostly",
@@ -724,6 +754,16 @@
         "discovered_at": "2026-03-13"
     },
     {
+        "name": "Meetdewey",
+        "description": "Show HN: Dewey – Ingest docs, search semantically, get cited AI answers",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://meetdewey.com",
+        "discovered_at": "2026-04-01"
+    },
+    {
         "name": "Meetrick",
         "description": "Show HN: Rick – Open-source AI CEO that autonomously runs your startup",
         "category": "AI & Machine Learning",
@@ -910,6 +950,16 @@
         "cors": "unknown",
         "url": "https://personalassistantdeploy.com/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Phail",
+        "description": "Show HN: PhAIL – Real-robot benchmark for AI models",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://phail.ai",
+        "discovered_at": "2026-04-01"
     },
     {
         "name": "Point-wild",
@@ -10451,6 +10501,16 @@
         "cors": "unknown",
         "url": "https://mantledb.sh/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Migas",
+        "description": "Show HN: Migas – Meeting copilot with live speaker labels (no bot, no cloud STT)",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://migas.ai/",
+        "discovered_at": "2026-04-01"
     },
     {
         "name": "Nekoni",
@@ -74307,6 +74367,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Bamwor",
+        "description": "Show HN: Bamwor – Country data API and MCP server after CIA Factbook shutdown",
+        "category": "Geocoding",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bamwor.com/en/developers/mcp",
+        "discovered_at": "2026-04-01"
+    },
+    {
         "name": "BigDataCloud",
         "description": "Reverse geocoding and IP geolocation",
         "category": "Geocoding",
@@ -79593,6 +79663,16 @@
         "discovered_at": "2026-03-29"
     },
     {
+        "name": "Ajh",
+        "description": "Show HN: EU Leadership – Live API data site comparing Europe to the world",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ajh.ovh/",
+        "discovered_at": "2026-04-01"
+    },
+    {
         "name": "Albertapulsecheck",
         "description": "Show HN: Open-data dashboard aggregating 143 feeds for Alberta municipalities",
         "category": "Other",
@@ -80181,6 +80261,16 @@
         "cors": "unknown",
         "url": "https://docs.simpleblogapi.com",
         "discovered_at": "2026-03-13"
+    },
+    {
+        "name": "Docs",
+        "description": "Show HN: DeepTable – an API that converts messy Excel files into structured data",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://docs.deeptable.com/",
+        "discovered_at": "2026-04-01"
     },
     {
         "name": "Domains",
@@ -80833,6 +80923,16 @@
         "discovered_at": "2026-03-23"
     },
     {
+        "name": "Linkedrecords",
+        "description": "Show HN: I stopped designing APIs for my apps",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://linkedrecords.com/",
+        "discovered_at": "2026-04-01"
+    },
+    {
         "name": "Linzichun",
         "description": "Cross-platform desktop app with YOLOv8, Tauri, Rust, and SvelteKit",
         "category": "Other",
@@ -81233,6 +81333,16 @@
         "discovered_at": "2026-03-02"
     },
     {
+        "name": "Par-ai",
+        "description": "Show HN: ParAI – Parenting Assistant App",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://par-ai.app/",
+        "discovered_at": "2026-04-01"
+    },
+    {
         "name": "Parsewise",
         "description": "Show HN: Parsewise – Cursor for Business Documents",
         "category": "Other",
@@ -81311,6 +81421,16 @@
         "cors": "unknown",
         "url": "https://pivotordie.club",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Pmo",
+        "description": "Microeconomics in Public Policy: A Practitioner's View",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.pmo.gov.sg/newsroom/essay-by-sm-lee-hsien-loong-microeconomics-in-public-policy-a-practioners-view-mar-2026/",
+        "discovered_at": "2026-04-01"
     },
     {
         "name": "Pneuma",
@@ -81721,6 +81841,16 @@
         "cors": "unknown",
         "url": "https://sylve.io",
         "discovered_at": "2026-03-28"
+    },
+    {
+        "name": "Techcrunch",
+        "description": "Google attributes Axios hack to North Korea",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://techcrunch.com/2026/03/31/hacker-hijacks-axios-open-source-project-used-by-millions-to-push-malware/",
+        "discovered_at": "2026-04-01"
     },
     {
         "name": "TechPort",
@@ -91842,6 +91972,16 @@
         "discovered_at": "2026-03-11"
     },
     {
+        "name": "Cosmicjs",
+        "description": "Show HN: Team agents that manage your CMS from Slack, WhatsApp, and Telegram",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.cosmicjs.com/blog/introducing-team-agents-and-cosmic-agent",
+        "discovered_at": "2026-04-01"
+    },
+    {
         "name": "Discord",
         "description": "Build bots and integrations for Discord servers",
         "category": "Social",
@@ -93843,6 +93983,16 @@
         "discovered_at": "2026-03-03"
     },
     {
+        "name": "Cutia",
+        "description": "Cutia: An AI-native, open-source video editor and free alternative to CapCut",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cutia.msgbyte.com/en",
+        "discovered_at": "2026-04-01"
+    },
+    {
         "name": "Deezer",
         "description": "Music streaming with tracks, albums, and playlists",
         "category": "Video & Media",
@@ -94063,6 +94213,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.tomorrow.io/weather-api/"
+    },
+    {
+        "name": "Travismiller",
+        "description": "Show HN: Paper Console – Handmade thermal printer for news, weather, notes, more",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://travismiller.design/paper-console/",
+        "discovered_at": "2026-04-01"
     },
     {
         "name": "Tripclimate",
