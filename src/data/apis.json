@@ -4318,6 +4318,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Apindex",
+        "description": "Show HN: Apindex – self-hosted API catalog to map and understand internal APIs",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apindex.dev/",
+        "discovered_at": "2026-04-02"
+    },
+    {
         "name": "Application API",
         "description": "Vonage provides an Application API to allow management of your Vonage Applications.\n\nThis API is backwards compatible with version 1. Applications created using version 1 of the API can also be manage",
         "category": "Animals",
@@ -4687,6 +4697,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Agentboard",
+        "description": "Show HN: AgentBoard – Track your hours and tokens spent coding with AI",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agentboard.cc",
+        "discovered_at": "2026-04-02"
+    },
+    {
         "name": "Alchemy",
         "description": "Web3 development platform for Ethereum and more",
         "category": "Blockchain",
@@ -4810,6 +4830,16 @@
         "cors": "unknown",
         "url": "https://satsapi.dev/",
         "discovered_at": "2026-03-09"
+    },
+    {
+        "name": "Tamp",
+        "description": "Tamp.dev – save up to 63% on AI tokens (free, works with Claude Code)",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tamp.dev",
+        "discovered_at": "2026-04-02"
     },
     {
         "name": "Tokenwatch-ten",
@@ -4947,6 +4977,16 @@
         "cors": "unknown",
         "url": "https://mdrbx.github.io/nerv-ui/",
         "discovered_at": "2026-03-20"
+    },
+    {
+        "name": "Notebookcheck",
+        "description": "43 hours battery life: Dell XPS 14 2026 lasts almost 3x longer vs MacBook Air 15",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.notebookcheck.net/43-hours-battery-life-Dell-XPS-14-2026-lasts-almost-3x-longer-vs-MacBook-Air-15-M5-in-web-browsing-test.1262947.0.html",
+        "discovered_at": "2026-04-02"
     },
     {
         "name": "Open Library",
@@ -41467,6 +41507,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Agent-arnold",
+        "description": "Show HN: Agent Arnold – Gym tracker 100% vibe-coded from my phone between sets",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agent-arnold.app/",
+        "discovered_at": "2026-04-02"
+    },
+    {
         "name": "Agentic AI For Good",
         "description": "Fetches the latest agentic AI tools, models, frameworks, and research from top developer sources, then delivers structured insights and examples that keep you up to date every day",
         "category": "Development",
@@ -55466,6 +55516,26 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Supertommy",
+        "description": "Show HN: I made a Mario Galaxy game with Claude Code and Three.js in 53 days",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://supertommy.com/games/super-mario-galaxy-movie-game/",
+        "discovered_at": "2026-04-02"
+    },
+    {
+        "name": "Suprlogs",
+        "description": "Show HN: SuprLogs – Autopilot changelogs from GitHub commits",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.suprlogs.com",
+        "discovered_at": "2026-04-02"
+    },
+    {
         "name": "Swapter.io Blog Scraper",
         "description": "Swapter.io Blog Scraper (swapter.io) lets you extract blog content in HTML, JSON, and plaintext. Get authors, create/update date, images, read time, RSS, titles, SEO titles, featured images & videos,.",
         "category": "Development",
@@ -58934,6 +59004,16 @@
         "cors": "unknown",
         "url": "https://apify.com/pintostudio/zara-similar-product",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Zdnet",
+        "description": "AI has suddenly become more useful to open-source developers",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.zdnet.com/article/maybe-open-source-needs-ai/",
+        "discovered_at": "2026-04-02"
     },
     {
         "name": "Zendesk Help Center",
@@ -67783,6 +67863,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Productimpossible",
+        "description": "Every app you buy has an expiration date",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://productimpossible.com/review/app-expiration-date/",
+        "discovered_at": "2026-04-02"
+    },
+    {
         "name": "Productreviews Reviews Spider",
         "description": "The Productreviews Reviews Spider scrapes customer reviews from ProductReview.com.au, extracting ratings, titles, and feedback. Input URLs and get structured JSON for sentiment analysis, product...",
         "category": "E-Commerce",
@@ -72371,6 +72461,16 @@
         "discovered_at": "2026-03-16"
     },
     {
+        "name": "Mediquest-en",
+        "description": "MediQuest: Free quiz matching med students to their ideal specialty",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mediquest-en.vercel.app",
+        "discovered_at": "2026-04-02"
+    },
+    {
         "name": "Planetofthepaul",
         "description": "Show HN: Story Trainer, a self-guided tool for learning story structure",
         "category": "Education",
@@ -74545,6 +74645,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://open.fda.gov/apis/"
+    },
+    {
+        "name": "Radiologybusiness",
+        "description": "CEO of largest public hospital says he's ready to replace radiologists with AI",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://radiologybusiness.com/topics/artificial-intelligence/ceo-americas-largest-public-hospital-system-says-hes-ready-replace-radiologists-ai",
+        "discovered_at": "2026-04-02"
     },
     {
         "name": "Regulations.gov",
@@ -79783,6 +79893,16 @@
         "discovered_at": "2026-03-31"
     },
     {
+        "name": "Arcee",
+        "description": "Trinity-Large-Thinking: Scaling an Open Source Frontier Agent",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.arcee.ai/blog/trinity-large-thinking",
+        "discovered_at": "2026-04-02"
+    },
+    {
         "name": "Arstechnica",
         "description": "Apple can delist apps \"with or without cause,\" judge says in loss for Musi app",
         "category": "Other",
@@ -79911,6 +80031,26 @@
         "cors": "unknown",
         "url": "https://blog.mozilla.org/en/mozilla/mila-open-source-sovereign-ai/",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Blog",
+        "description": "Modeling Complex Business Processes in REST APIs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.ivankahl.com/practical-guide-to-modeling-business-processes-in-rest-apis/",
+        "discovered_at": "2026-04-02"
+    },
+    {
+        "name": "Bloomberg",
+        "description": "OpenAI Is Almost Public",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.bloomberg.com/opinion/newsletters/2026-04-01/openai-is-almost-public",
+        "discovered_at": "2026-04-02"
     },
     {
         "name": "Boosterpack",
@@ -80083,6 +80223,16 @@
         "discovered_at": "2026-03-04"
     },
     {
+        "name": "Computerpoker",
+        "description": "Show HN: ComputerPoker.ai – Learn GTO tournament poker strategy vs. GTO bots",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://computerpoker.ai",
+        "discovered_at": "2026-04-02"
+    },
+    {
         "name": "Context",
         "description": "Show HN: Context.dev – One API to scrape, enrich, and understand the web",
         "category": "Other",
@@ -80171,6 +80321,16 @@
         "cors": "unknown",
         "url": "https://dataverse001.net/AxyU5_5vWmP2tO_klN4UpbZzRsuJEvJTrdwdg_gODxZJ.00000000-0000-0000-0000-000000000000",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Datris",
+        "description": "Datris – Open-source data platform built around MCP",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://datris.ai",
+        "discovered_at": "2026-04-02"
     },
     {
         "name": "Davefriedman",
@@ -80423,6 +80583,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Flight-viz",
+        "description": "Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://flight-viz.com",
+        "discovered_at": "2026-04-02"
+    },
+    {
         "name": "Fluxvector",
         "description": "FluxVector – Free vector search API with built-in multilingual embeddings",
         "category": "Other",
@@ -80671,6 +80841,26 @@
         "cors": "unknown",
         "url": "https://iggy.apache.org/blogs/2026/02/27/thread-per-core-io_uring/",
         "discovered_at": "2026-03-17"
+    },
+    {
+        "name": "Ignav",
+        "description": "Show HN: API for Flight Prices",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ignav.com/",
+        "discovered_at": "2026-04-02"
+    },
+    {
+        "name": "Implicitmarkets",
+        "description": "Show HN: Let your local agents trade on internal prediction markets",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.implicitmarkets.com/",
+        "discovered_at": "2026-04-02"
     },
     {
         "name": "Increase API",
@@ -80993,6 +81183,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Marmelab",
+        "description": "Show HN: UX Quest",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://marmelab.com/ux-quest/",
+        "discovered_at": "2026-04-02"
+    },
+    {
         "name": "Master Data API - v2",
         "description": "# ATTENTION: **This version isn't compliant with data entities of old version (e.g. CL and AD). It's possible to use this configuration only to new data entities.**\r\n\r\n\r\n## Welcome!\r\n\r\nVTEX Master Dat",
         "category": "Other",
@@ -81311,6 +81511,16 @@
         "cors": "unknown",
         "url": "https://www.originary.xyz/agent-auditor",
         "discovered_at": "2026-03-23"
+    },
+    {
+        "name": "Oy-agent",
+        "description": "Show HN: Oy – The Yo App for Agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://oy-agent.com",
+        "discovered_at": "2026-04-02"
     },
     {
         "name": "Panavy",
@@ -81873,6 +82083,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Thedream",
+        "description": "Show HN: A platform to help you find the best tech jobs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thedream.work/",
+        "discovered_at": "2026-04-02"
+    },
+    {
         "name": "Thetimes",
         "description": "Painting that made Turner's name gets second public showing since 1799",
         "category": "Other",
@@ -82051,6 +82271,16 @@
         "cors": "unknown",
         "url": "https://voie.eu/",
         "discovered_at": "2026-03-05"
+    },
+    {
+        "name": "Voight",
+        "description": "My new \"AI FREE\" text based social platform",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://voight.vercel.app/post/this-is-a-test-article-just-to-see-how-it-looks-v1b61",
+        "discovered_at": "2026-04-02"
     },
     {
         "name": "Vote-demo",
@@ -91242,6 +91472,16 @@
         "url": "https://arxiv.org/help/api/"
     },
     {
+        "name": "Axios",
+        "description": "Elon Musk's SpaceX files to go public",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.axios.com/2026/04/01/spacex-elon-musk-ipo",
+        "discovered_at": "2026-04-02"
+    },
+    {
         "name": "Breezko",
         "description": "Show HN: I Created an Interactive Resume Space Invader Game",
         "category": "Science",
@@ -93420,6 +93660,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Yesify",
+        "description": "Show HN: Yesify – We raised $40M to return the word \"yes\" from an API endpoint",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://yesify.net/",
+        "discovered_at": "2026-04-02"
+    },
+    {
         "name": "Apacta",
         "description": "API for a tool to craftsmen used to register working hours, material usage and quality assurance.\n# Endpoint\nThe endpoint `https://app.apacta.com/api/v1` should be used to communicate with the API. AP",
         "category": "time_management",
@@ -94049,6 +94299,16 @@
         "cors": "unknown",
         "url": "https://json2video.com/docs/api/json2video-api.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Krisdigital",
+        "description": "Show HN: Audio Visualizer HUD for macOS",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.krisdigital.com/en/blog/2026/03/28/macos-audio-visualizer-rust/",
+        "discovered_at": "2026-04-02"
     },
     {
         "name": "Media API",
