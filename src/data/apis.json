@@ -150,6 +150,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Aptselect",
+        "description": "Show HN: AptSelect – A local desktop app to test LLMs side-by-side",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aptselect.com/",
+        "discovered_at": "2026-04-03"
+    },
+    {
         "name": "Arc-agi-swarm",
         "description": "Show HN: Launch an AI agent swarm for ARC-AGI-3 with plain-English prompts",
         "category": "AI & Machine Learning",
@@ -507,6 +517,16 @@
         "discovered_at": "2026-03-16"
     },
     {
+        "name": "Getwick",
+        "description": "Show HN: Wick – censorship circumvention tech repurposed for AI web access",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getwick.dev",
+        "discovered_at": "2026-04-03"
+    },
+    {
         "name": "Goodbyewatermark",
         "description": "Show HN: Goodbye Watermark – Free AI watermark remover",
         "category": "AI & Machine Learning",
@@ -642,6 +662,16 @@
         "cors": "unknown",
         "url": "https://www.ledgi.app/",
         "discovered_at": "2026-03-07"
+    },
+    {
+        "name": "Lemonade-server",
+        "description": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lemonade-server.ai",
+        "discovered_at": "2026-04-03"
     },
     {
         "name": "Limits",
@@ -1359,6 +1389,16 @@
         "discovered_at": "2026-03-04"
     },
     {
+        "name": "Trytet",
+        "description": "Show HN: Trytet – Deterministic WASM substrate for stateful AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://trytet.com",
+        "discovered_at": "2026-04-03"
+    },
+    {
         "name": "Underpricedai",
         "description": "Show HN: I added barcode scanning to my AI pricing app – 92% cheaper per scan",
         "category": "AI & Machine Learning",
@@ -1367,6 +1407,16 @@
         "cors": "unknown",
         "url": "https://underpricedai.com",
         "discovered_at": "2026-03-15"
+    },
+    {
+        "name": "Usecomposer",
+        "description": "Show HN: Composer – AI architect / MCP for software architecture diagrams",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.usecomposer.com/",
+        "discovered_at": "2026-04-03"
     },
     {
         "name": "Vault",
@@ -5015,6 +5065,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://poetrydb.org"
+    },
+    {
+        "name": "Ubik",
+        "description": "Show HN: Ubik – Analyze local files like NotebookLM, with Cursor-like power",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.ubik.studio/features",
+        "discovered_at": "2026-04-03"
     },
     {
         "name": "Userunbook",
@@ -73377,6 +73437,16 @@
         "discovered_at": "2026-03-08"
     },
     {
+        "name": "Mehuleo",
+        "description": "Show HN: Minimal Brain Teaser Web Game (Handcrafted, No AI)",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mehuleo.github.io/encircle/",
+        "discovered_at": "2026-04-03"
+    },
+    {
         "name": "Neonetrek",
         "description": "Show HN: NeoNetrek – modernizing the internet's first team game (1988)",
         "category": "Entertainment",
@@ -80153,6 +80223,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Captainfredric",
+        "description": "Show HN: ContentForge – Content scoring API (42 endpoints, 12 platforms)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://captainfredric.github.io/ContentForge/",
+        "discovered_at": "2026-04-03"
+    },
+    {
         "name": "Charityverify",
         "description": "Show HN: CharityVerify – Trust scores for 138K Canadian charities",
         "category": "Other",
@@ -80411,6 +80491,16 @@
         "cors": "unknown",
         "url": "https://dl.acm.org/doi/10.1145/3778171",
         "discovered_at": "2026-03-26"
+    },
+    {
+        "name": "Dochia",
+        "description": "Show HN: Dochia – automated API testing for agentic build-test-fix loops",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dochia.dev/",
+        "discovered_at": "2026-04-03"
     },
     {
         "name": "Docs",
@@ -81433,6 +81523,16 @@
         "discovered_at": "2026-03-01"
     },
     {
+        "name": "Occam",
+        "description": "Show HN: Symbolic regression as an MCP tool (SINDy and PySR, free, no install)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://occam.fit/",
+        "discovered_at": "2026-04-03"
+    },
+    {
         "name": "Onlyfansapi",
         "description": "Show HN: OnlyFans API – REST API with 260 endpoints for OF creator data",
         "category": "Other",
@@ -81521,6 +81621,16 @@
         "cors": "unknown",
         "url": "https://oy-agent.com",
         "discovered_at": "2026-04-02"
+    },
+    {
+        "name": "Pacetraining",
+        "description": "Show HN: Pace MCP server that connects all your wearables to Claude",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pacetraining.co/",
+        "discovered_at": "2026-04-03"
     },
     {
         "name": "Panavy",
@@ -81693,6 +81803,26 @@
         "discovered_at": "2026-03-15"
     },
     {
+        "name": "Quillium",
+        "description": "Show HN: Quillium, the non-linear writing app",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://quillium.bryanhu.com/",
+        "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Quip",
+        "description": "Show HN: Open-source distributed quantum compute network",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://quip.network",
+        "discovered_at": "2026-04-03"
+    },
+    {
         "name": "Ras",
         "description": "Places to Look for Alien Life",
         "category": "Other",
@@ -81801,6 +81931,16 @@
         "cors": "unknown",
         "url": "https://retrotick.com/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Reviewskits",
+        "description": "Show HN: Reviewskits – Open-source, headless, and self-hostable social proof",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://reviewskits.com",
+        "discovered_at": "2026-04-03"
     },
     {
         "name": "Ripl",
@@ -82333,6 +82473,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Weco",
+        "description": "Show HN: Is autoresearch better than classic hyperparameter tuning?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.weco.ai/blog/autoresearch-vs-classical-hpo",
+        "discovered_at": "2026-04-03"
+    },
+    {
         "name": "WikiPathways Webservices",
         "description": "WikiPathways Webservices API",
         "category": "Other",
@@ -82701,6 +82851,16 @@
         "cors": "unknown",
         "url": "https://ai.meta.com/blog/tribe-v2-brain-predictive-foundation-model/?_fb_noscript=1",
         "discovered_at": "2026-03-31"
+    },
+    {
+        "name": "Animateoldphotos",
+        "description": "Show HN: AI tool to merge people from two photos into one realistic group photo",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://animateoldphotos.org/add-loved-one-to-photo",
+        "discovered_at": "2026-04-03"
     },
     {
         "name": "Facial Recognition Reverse Image Face Search API",
@@ -87496,6 +87656,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Meetlink",
+        "description": "Show HN: I use macOS calendar and have calls. MeetLink adds vid links to events",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://meetlink.nicemohawk.com/",
+        "discovered_at": "2026-04-03"
+    },
+    {
         "name": "MercadoLibre Product Detail Scraper 🛍️",
         "description": "🛍️ Extract detailed product information from MercadoLibre listings including prices, reviews, specifications, and seller details. Perfect for e-commerce analytics, price monitoring, and market...",
         "category": "Productivity",
@@ -91925,6 +92095,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Opensource",
+        "description": "Open-source runtime security toolkit for autonomous AI agents covering OWASP Top",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/",
+        "discovered_at": "2026-04-03"
+    },
+    {
         "name": "Shodan",
         "description": "Internet-wide scanning and device search engine",
         "category": "Security",
@@ -94059,6 +94239,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Calcfi",
+        "description": "Show HN: CalcFi – 160 free financial calculators, no ads, no signup",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://calcfi.app",
+        "discovered_at": "2026-04-03"
+    },
+    {
         "name": "CountAPI",
         "description": "Simple counter API for tracking page views",
         "category": "Utilities",
@@ -94289,6 +94479,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://developers.giphy.com/"
+    },
+    {
+        "name": "Heyaio",
+        "description": "Show HN: Hey Aio – Video Editing Assistant You Can Talk To",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.heyaio.com/",
+        "discovered_at": "2026-04-03"
     },
     {
         "name": "JSON2Video API",
