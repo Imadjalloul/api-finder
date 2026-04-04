@@ -130,6 +130,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Apfel",
+        "description": "Show HN: Apfel – The free AI already on your Mac",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apfel.franzai.com",
+        "discovered_at": "2026-04-04"
+    },
+    {
         "name": "Apify",
         "description": "Show HN: I made an API letting people search in real AI – human conversations",
         "category": "AI & Machine Learning",
@@ -407,6 +417,16 @@
         "url": "https://www.deepl.com/docs-api"
     },
     {
+        "name": "Domainsearcher",
+        "description": "Show HN: Startup Domain Search – Free AI Domain Generator with Scoring and RDAP",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://domainsearcher.app/",
+        "discovered_at": "2026-04-04"
+    },
+    {
         "name": "Doodleduel",
         "description": "Show HN: I built DoodleDuel, a free browser drawing game with an AI judge",
         "category": "AI & Machine Learning",
@@ -425,6 +445,16 @@
         "cors": "unknown",
         "url": "https://www.dypai.ai/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Efficienist",
+        "description": "Netflix just released its first public AI model, because why not",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://efficienist.com/netflix-just-release-its-first-public-ai-model-because-why-not/",
+        "discovered_at": "2026-04-04"
     },
     {
         "name": "Eliezer",
@@ -1417,6 +1447,16 @@
         "cors": "unknown",
         "url": "https://www.usecomposer.com/",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Vakr",
+        "description": "Show HN: A task market where AI agents post work, claim it, and build reputation",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vakr.me",
+        "discovered_at": "2026-04-04"
     },
     {
         "name": "Vault",
@@ -4621,6 +4661,16 @@
         "url": "https://auth0.com/docs/api"
     },
     {
+        "name": "Autheona",
+        "description": "Show HN: Autheona – The API That Stops Fake Sign-Ups",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://autheona.com/",
+        "discovered_at": "2026-04-04"
+    },
+    {
         "name": "Clerk",
         "description": "User management, authentication, and session handling",
         "category": "Auth & Identity",
@@ -4840,6 +4890,16 @@
         "cors": "unknown",
         "url": "https://www.evolvingintelligence.ai/anno",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Maki",
+        "description": "Maki the efficient AI coder – Rust TUI (saves 40% tokens and low RAM)",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://maki.sh",
+        "discovered_at": "2026-04-04"
     },
     {
         "name": "Marketplace Protocol",
@@ -11057,6 +11117,16 @@
         "cors": "unknown",
         "url": "https://sniffmail.io",
         "discovered_at": "2026-03-05"
+    },
+    {
+        "name": "Speechsdk",
+        "description": "Show HN: SpeechSDK – free, open-source SDK that unifies all AI voice models",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.speechsdk.dev/",
+        "discovered_at": "2026-04-04"
     },
     {
         "name": "Steadwing",
@@ -41767,6 +41837,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Aidevboard",
+        "description": "Show HN: AI Dev Board – Job Board for AI Developers with a Full REST API",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aidevboard.com/",
+        "discovered_at": "2026-04-04"
+    },
+    {
         "name": "Airbnb Property Scraper",
         "description": "High-performance Airbnb property data scraper with optimized pagination and memory management. Extracts detailed property information (URLs, titles, prices, travel dates, images) from Airbnb search...",
         "category": "Development",
@@ -59586,6 +59666,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Age-of-product",
+        "description": "Food for Agile Thought #538: Your Team Is Too Big; Vibe Coding Best Practices",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://age-of-product.com/food-agile-thought-538-vibe-coding-best-practices/",
+        "discovered_at": "2026-04-04"
+    },
+    {
         "name": "Agentdiscuss",
         "description": "Show HN: AgentDiscuss – a place where AI agents discuss products",
         "category": "E-Commerce",
@@ -61664,6 +61754,16 @@
         "cors": "unknown",
         "url": "https://apify.com/getdataforme/clarks-review-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Clawtrak",
+        "description": "ClawTrak – free tool to check if your AI product is invisible to AI agents",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://clawtrak.com/",
+        "discovered_at": "2026-04-04"
     },
     {
         "name": "Clorebeauty Actor",
@@ -72511,6 +72611,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Detawk",
+        "description": "Show HN: I built a small app for FSI German Course",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://detawk.com/",
+        "discovered_at": "2026-04-04"
+    },
+    {
         "name": "Hyper",
         "description": "Show HN: Run the popular LLM-Course tutorials on HyperAI",
         "category": "Education",
@@ -81321,6 +81431,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/vtex/openapi-schemas/master/VTEX - MasterData API - v10.2.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Matrix-os",
+        "description": "Show HN: Matrix OS, like Lovable, but for personal apps",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://matrix-os.com/",
+        "discovered_at": "2026-04-04"
     },
     {
         "name": "Maurycyz",
