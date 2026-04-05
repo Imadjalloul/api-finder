@@ -1479,6 +1479,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Virtualuncle",
+        "description": "Hermes Agent: The self-improving open source AI agent Complete Guide for 2026",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://virtualuncle.com/hermes-agent-complete-guide-2026/",
+        "discovered_at": "2026-04-05"
+    },
+    {
         "name": "Visidata",
         "description": "Using AI to Contribute to Open Source",
         "category": "AI & Machine Learning",
@@ -4406,6 +4416,16 @@
         "cors": "unknown",
         "url": "https://agentsaegis.com/assessment",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Akshay326",
+        "description": "Show HN: Using RasPi and Qwen 2.5 VL to find out when birds visit my balcony",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://akshay326.com/bird-feeder/",
+        "discovered_at": "2026-04-05"
     },
     {
         "name": "Apindex",
@@ -54916,6 +54936,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Sllm",
+        "description": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sllm.cloud",
+        "discovered_at": "2026-04-05"
+    },
+    {
         "name": "Smart Apify Actor Scraper (+70 Fields + Actor Quality Metrics)",
         "description": "Scrape actor information from Apify store including stats, pricing, quality scores, and feedback. Only tool with actor quality scores, percentiles & user feedback. Save 90% on research costs. The most",
         "category": "Development",
@@ -73794,6 +73824,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Rayfinance",
+        "description": "Show HN: Ray – an open-source AI financial advisor that runs in your terminal",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rayfinance.app",
+        "discovered_at": "2026-04-05"
+    },
+    {
         "name": "Real Estate Deal Finder Pro",
         "description": "Professional real estate investment tool. Identifies undervalued properties and market trends. Provides comprehensive data for real estate professionals.",
         "category": "Finance",
@@ -75861,6 +75901,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://developers.google.com/maps"
+    },
+    {
+        "name": "Inc",
+        "description": "OpenRouter Raises $120M at a $1.3B Valuation",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.inc.com/ben-sherry/openrouter-helps-companies-pick-the-best-ai-for-the-job-and-could-be-worth-1-3-billion/91325983",
+        "discovered_at": "2026-04-05"
     },
     {
         "name": "Ionrouter",
@@ -79993,6 +80043,16 @@
         "discovered_at": "2026-03-17"
     },
     {
+        "name": "Alignmentforum",
+        "description": "Test your interpretability techniques by de-censoring Chinese models",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.alignmentforum.org/posts/7gp76q4rWLFi6sFqm/test-your-interpretability-techniques-by-de-censoring-1",
+        "discovered_at": "2026-04-05"
+    },
+    {
         "name": "Aminrj",
         "description": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
         "category": "Other",
@@ -80091,6 +80151,16 @@
         "cors": "unknown",
         "url": "https://arstechnica.com/tech-policy/2026/03/judge-upholds-apple-delisting-of-free-musi-app-that-streams-songs-from-youtube/",
         "discovered_at": "2026-03-21"
+    },
+    {
+        "name": "Artemis",
+        "description": "Show HN: Artemis.fyi - Real-time tracker for the Artemis II Moon mission",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://artemis.fyi/",
+        "discovered_at": "2026-04-05"
     },
     {
         "name": "Automata Market Intelligence API",
@@ -80231,6 +80301,16 @@
         "cors": "unknown",
         "url": "https://www.bloomberg.com/opinion/newsletters/2026-04-01/openai-is-almost-public",
         "discovered_at": "2026-04-02"
+    },
+    {
+        "name": "Bmi",
+        "description": "German implementation of eIDAS will require an Apple/Google account to function",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
+        "discovered_at": "2026-04-05"
     },
     {
         "name": "Boosterpack",
@@ -80471,6 +80551,16 @@
         "cors": "unknown",
         "url": "https://crawler.sh/",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Cristeigabriela",
+        "description": "Show HN: Bb – Windows API viewer for hackers, in the browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cristeigabriela.github.io/bb-viewer/index.html",
+        "discovered_at": "2026-04-05"
     },
     {
         "name": "Custom Behavioral Events API",
@@ -81011,6 +81101,16 @@
         "cors": "unknown",
         "url": "https://homelabinator.com/",
         "discovered_at": "2026-03-24"
+    },
+    {
+        "name": "Homes",
+        "description": "Detroit tries new approach to attract residents: free cash ($15K)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.homes.com/news/detroit-tries-new-approach-to-attract-residents-free-cash/872924477/",
+        "discovered_at": "2026-04-05"
     },
     {
         "name": "HubSpot Events API",
@@ -81841,6 +81941,16 @@
         "cors": "unknown",
         "url": "https://services.scideas.net/perfectpdf/resources/openapi3.0.0-perfectpdf-1.0.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Personality",
+        "description": "Show HN: Dev Personality Test",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://personality.4m1r.dev/",
+        "discovered_at": "2026-04-05"
     },
     {
         "name": "Personalwebsites",
