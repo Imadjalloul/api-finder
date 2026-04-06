@@ -764,6 +764,16 @@
         "discovered_at": "2026-03-09"
     },
     {
+        "name": "Llmwiki",
+        "description": "Show HN: LLM Wiki – Open-Source Implementation of Karpathy's LLM Wiki",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://llmwiki.app",
+        "discovered_at": "2026-04-06"
+    },
+    {
         "name": "Lobsterlair",
         "description": "Show HN: LobsterLair – OpenClaw hosting with AI included ($19/mo)",
         "category": "AI & Machine Learning",
@@ -1161,6 +1171,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Runcabinet",
+        "description": "Show HN: Cabinet – Kb+LLM (Like Paperclip+Obsidian)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://runcabinet.com",
+        "discovered_at": "2026-04-06"
+    },
+    {
         "name": "Ryvos",
         "description": "Show HN: Ryvos – Autonomous AI assistant in Rust(15MB RAM,50 tools,16 providers)",
         "category": "AI & Machine Learning",
@@ -1288,6 +1308,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://platform.stability.ai/"
+    },
+    {
+        "name": "Stagent",
+        "description": "AI Native book – 135 pages, samples, free",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stagent.io/book/",
+        "discovered_at": "2026-04-06"
     },
     {
         "name": "Sysdesai",
@@ -14425,6 +14455,16 @@
         "cors": "unknown",
         "url": "https://apify.com/lexis-solutions/arbetsformedlingen-se-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Arbory",
+        "description": "Show HN: Arbory – Native iOS dashboard and widgets for Plausible Analytics",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://arbory.io/",
+        "discovered_at": "2026-04-06"
     },
     {
         "name": "Argus Auto Scraper",
@@ -58306,6 +58346,16 @@
         "discovered_at": "2026-03-25"
     },
     {
+        "name": "Writer",
+        "description": "LMMs-Lab Writer: AI-native LaTeX editor. Git built-in, open source",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://writer.lmms-lab.com/",
+        "discovered_at": "2026-04-06"
+    },
+    {
         "name": "X (Twitter) Post Replies Scraper",
         "description": "Extract replies/comments from X posts (tweets) provided as input URLs. Retrieve comment text, author, timestamp, reactions, and more. Ideal for social media monitoring, sentiment analysis, and...",
         "category": "Development",
@@ -73597,6 +73647,16 @@
         "discovered_at": "2026-03-09"
     },
     {
+        "name": "Nerdcube",
+        "description": "Show HN: I made a free daily puzzle game",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.nerdcube.games/carom",
+        "discovered_at": "2026-04-06"
+    },
+    {
         "name": "Offby",
         "description": "Show HN: Off By – a daily game about how wrong we are about the American economy",
         "category": "Entertainment",
@@ -75950,6 +76010,16 @@
         "cors": "unknown",
         "url": "https://onlineocrfree.qzz.io",
         "discovered_at": "2026-03-04"
+    },
+    {
+        "name": "Openrouter",
+        "description": "Qwen 3.6 Free",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://openrouter.ai/qwen/qwen3.6-plus:free",
+        "discovered_at": "2026-04-06"
     },
     {
         "name": "OpenRouteService",
@@ -80663,6 +80733,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Diffvoid",
+        "description": "Show HN: Diffvoid.com – private, open source client side text comparison tool",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": false,
+        "cors": "unknown",
+        "url": "http://diffvoid.com",
+        "discovered_at": "2026-04-06"
+    },
+    {
         "name": "Discovery Market Research",
         "description": "This API drives the Discovery Market Research Tool.\nIt contains information on the vendors that are part of the OASIS and OASIS Small Business contracting vehicles, such as their contracting history,",
         "category": "Other",
@@ -81061,6 +81141,16 @@
         "cors": "unknown",
         "url": "https://gui.new",
         "discovered_at": "2026-03-11"
+    },
+    {
+        "name": "Guillim",
+        "description": "Show HN: AI-first PostgreSQL client for Mac",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://guillim.github.io/products/paul",
+        "discovered_at": "2026-04-06"
     },
     {
         "name": "Hcap",
@@ -81473,6 +81563,16 @@
         "discovered_at": "2026-03-23"
     },
     {
+        "name": "Markbin",
+        "description": "Show HN: A simple sharing platform for Markdown Files",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://markbin.net",
+        "discovered_at": "2026-04-06"
+    },
+    {
         "name": "Marketing Events Extension",
         "description": "These APIs allow you to interact with HubSpot's Marketing Events Extension. It allows you to:\n* Create, Read or update Marketing Event information in HubSpot\n* Specify whether a HubSpot contact has re",
         "category": "Other",
@@ -81683,6 +81783,16 @@
         "discovered_at": "2026-03-12"
     },
     {
+        "name": "Nativesoft",
+        "description": "NativeRest – Native REST API Client",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nativesoft.com/",
+        "discovered_at": "2026-04-06"
+    },
+    {
         "name": "Necessarycuts",
         "description": "Show HN: Necessary Cuts – an interactive fiction fragment",
         "category": "Other",
@@ -81831,6 +81941,16 @@
         "cors": "unknown",
         "url": "https://www.originary.xyz/agent-auditor",
         "discovered_at": "2026-03-23"
+    },
+    {
+        "name": "Oroboroslabs-ai",
+        "description": "AGI asking for new data in public demo interface",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://oroboroslabs-ai.github.io/liber-fontis/agi-demo.html",
+        "discovered_at": "2026-04-06"
     },
     {
         "name": "Oy-agent",
@@ -82003,6 +82123,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Predictionhunt",
+        "description": "Show HN: Prediction Hunt API – A unified layer for Polymarket, Kalshi, and more",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.predictionhunt.com/api/docs",
+        "discovered_at": "2026-04-06"
+    },
+    {
         "name": "Pricing Hub",
         "description": "> This feature is in closed beta, available only for selected customers. If you have any questions, contact our [Support](https://support.vtex.com/hc/en-us/requests). \r\n\r\n In the B2B scenario, it is c",
         "category": "Other",
@@ -82061,6 +82191,16 @@
         "cors": "unknown",
         "url": "https://ras.ac.uk/news-and-press/research-highlights/best-places-look-alien-life-scientists-identify-45-earth-worlds",
         "discovered_at": "2026-03-21"
+    },
+    {
+        "name": "Ratemyaisite",
+        "description": "Show HN: hot or not for .ai websites",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ratemyaisite.com/",
+        "discovered_at": "2026-04-06"
     },
     {
         "name": "Ratschn",
@@ -82711,6 +82851,16 @@
         "cors": "unknown",
         "url": "https://www.weco.ai/blog/autoresearch-vs-classical-hpo",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Whereisartemis",
+        "description": "Show HN: Where Is Artemis?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.whereisartemis.com/",
+        "discovered_at": "2026-04-06"
     },
     {
         "name": "WikiPathways Webservices",
@@ -93389,6 +93539,16 @@
         "url": "https://fakerjs.dev/"
     },
     {
+        "name": "Infinitymock",
+        "description": "InfinityMock – AI-powered mock test generator for 110 global exams",
+        "category": "Testing",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://infinitymock.com/",
+        "discovered_at": "2026-04-06"
+    },
+    {
         "name": "MockAPI",
         "description": "Create custom mock REST APIs in seconds",
         "category": "Testing",
@@ -94749,6 +94909,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/nexmo/api-specification/master/definitions/media.yml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Sankara",
+        "description": "Show HN: Artemis II interactive 3D animation",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sankara.net/astro/lunar-missions/mission.html?mission=artemis2",
+        "discovered_at": "2026-04-06"
     },
     {
         "name": "Sentienttube",
