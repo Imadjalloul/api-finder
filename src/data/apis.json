@@ -110,6 +110,16 @@
         "discovered_at": "2026-04-01"
     },
     {
+        "name": "Akitaonrails",
+        "description": "Testing Open Source and Commercial LLMs – Can Anyone Beat Claude Opus?",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://akitaonrails.com/en/2026/04/05/testing-llms-open-source-and-commercial-can-anyone-beat-claude-opus/",
+        "discovered_at": "2026-04-07"
+    },
+    {
         "name": "Antarraksha",
         "description": "Show HN: We attacked 8 AI agents with adversarial probes – 5 failed",
         "category": "AI & Machine Learning",
@@ -477,6 +487,16 @@
         "discovered_at": "2026-03-18"
     },
     {
+        "name": "Feynman",
+        "description": "Feynman: Open-source AI research agent",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.feynman.is/",
+        "discovered_at": "2026-04-07"
+    },
+    {
         "name": "Flint",
         "description": "Flint – local AI runtime for Rust (no internet, no API keys)",
         "category": "AI & Machine Learning",
@@ -555,6 +575,16 @@
         "cors": "unknown",
         "url": "https://getwick.dev",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Gizmodo",
+        "description": "As Meta Flounders, It Reportedly Plans to Open Source Its New AI Models",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gizmodo.com/as-meta-flounders-it-reportedly-plans-to-open-source-its-new-ai-models-2000743047",
+        "discovered_at": "2026-04-07"
     },
     {
         "name": "Goodbyewatermark",
@@ -923,6 +953,16 @@
         "discovered_at": "2026-03-03"
     },
     {
+        "name": "Noetron",
+        "description": "Show HN: Free AI Business Name Generator with Domain Screening",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://noetron.ai/namegen",
+        "discovered_at": "2026-04-07"
+    },
+    {
         "name": "Notanainotepad",
         "description": "Show HN: Not an AI Notepad. 5MB local only notes app for Windows (Rust, SQLite)",
         "category": "AI & Machine Learning",
@@ -1030,6 +1070,16 @@
         "cors": "unknown",
         "url": "https://phail.ai",
         "discovered_at": "2026-04-01"
+    },
+    {
+        "name": "Play",
+        "description": "CarriFit – Free AI Calorie Counter",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://play.google.com/store/apps/details?id=com.carrifit.app&hl=en_US",
+        "discovered_at": "2026-04-07"
     },
     {
         "name": "Point-wild",
@@ -1318,6 +1368,16 @@
         "cors": "unknown",
         "url": "https://stagent.io/book/",
         "discovered_at": "2026-04-06"
+    },
+    {
+        "name": "Swarmed",
+        "description": "Show HN: Swarmed.DEV – The Autonomous AI Development Swarm",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.swarmed.dev",
+        "discovered_at": "2026-04-07"
     },
     {
         "name": "Sysdesai",
@@ -4544,6 +4604,16 @@
         "cors": "unknown",
         "url": "https://ladybird.org/posts/adopting-rust/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Macrumors",
+        "description": "Netflix Launches Free Kids Gaming App to Compete with Apple Arcade",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.macrumors.com/2026/04/06/netflix-playground-kids-app/",
+        "discovered_at": "2026-04-07"
     },
     {
         "name": "Metagenesis-core",
@@ -72691,6 +72761,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Convexly",
+        "description": "Show HN: I built a 2-min quiz that shows you how bad you are at estimating",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.convexly.app/",
+        "discovered_at": "2026-04-07"
+    },
+    {
         "name": "Detawk",
         "description": "Show HN: I built a small app for FSI German Course",
         "category": "Education",
@@ -80583,6 +80663,16 @@
         "discovered_at": "2026-03-22"
     },
     {
+        "name": "Contrapunk",
+        "description": "Show HN: Contrapunk – Real-time counterpoint harmony from guitar input",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://contrapunk.com/",
+        "discovered_at": "2026-04-07"
+    },
+    {
         "name": "Craigm26",
         "description": "Show HN: OpenCastor Agent Harness Evaluator Leaderboard",
         "category": "Other",
@@ -80781,6 +80871,16 @@
         "cors": "unknown",
         "url": "https://dochia.dev/",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Docking",
+        "description": "Show HN: Docking – Extensible Linux dock in Python",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://docking.cc",
+        "discovered_at": "2026-04-07"
     },
     {
         "name": "Docs",
@@ -94879,6 +94979,16 @@
         "cors": "unknown",
         "url": "https://www.heyaio.com/",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Heyalys",
+        "description": "Show HN: Alys – Chat GPT for video editing",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.heyalys.com/",
+        "discovered_at": "2026-04-07"
     },
     {
         "name": "JSON2Video API",
