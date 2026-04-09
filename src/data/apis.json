@@ -794,6 +794,16 @@
         "discovered_at": "2026-03-01"
     },
     {
+        "name": "Linggen",
+        "description": "Show HN: Linggen – Open-source AI agent with P2P remote access from your phone",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://linggen.dev/",
+        "discovered_at": "2026-04-09"
+    },
+    {
         "name": "Linuxtoaster",
         "description": "The Pincer Attack – How AI Killed Open Source",
         "category": "AI & Machine Learning",
@@ -11337,6 +11347,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://docs.sendgrid.com/"
+    },
+    {
+        "name": "Smolinvoiceagent",
+        "description": "Show HN: Smol Invoice Agent, invoice processor that learns from your corrections",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://smolinvoiceagent.com/",
+        "discovered_at": "2026-04-09"
     },
     {
         "name": "Sniffmail",
@@ -30097,6 +30117,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Pasteur",
+        "description": "Show HN: Pasteur, a Milkdrop Visualization Exporter",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pasteur.cc/",
+        "discovered_at": "2026-04-09"
+    },
+    {
         "name": "Patent Trademark Search",
         "description": "Search patents and trademarks by keyword, company, or inventor. Get structured data with patent IDs, titles, abstracts, and direct URLs. Perfect for IP research, brand checks, and competitive...",
         "category": "Data & Analytics",
@@ -33635,6 +33665,16 @@
         "cors": "unknown",
         "url": "https://apify.com/saswave/storeleads-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Stream-sock-3f5",
+        "description": "Show HN: I built a local data lake for AI powered data engineering and analytics",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stream-sock-3f5.notion.site/Nile-Local-an-AI-Data-IDE-that-runs-on-your-local-machine-33b126c4d01a8052a96cc879c2dea08e?source=copy_link",
+        "discovered_at": "2026-04-09"
     },
     {
         "name": "Streeteasy &#124; Buy &#124; Rent &#124; Sell &#124; Agent &#124; No Limits &#124; PPE",
@@ -73925,6 +73965,16 @@
         "url": "https://rawg.io/apidocs"
     },
     {
+        "name": "Showcount",
+        "description": "Show HN: A website to track live music attendance",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.showcount.com/",
+        "discovered_at": "2026-04-09"
+    },
+    {
         "name": "Spotify",
         "description": "Music catalog, playlists, artist data, and playback",
         "category": "Entertainment",
@@ -81533,6 +81583,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Humaverify",
+        "description": "Show HN: HUMA – Behavioral bot detection API, no CAPTCHAs required",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://humaverify.com",
+        "discovered_at": "2026-04-09"
+    },
+    {
         "name": "Iggy",
         "description": "Apache Iggy: thread-per-core with io_uring in Rust",
         "category": "Other",
@@ -81631,6 +81691,16 @@
         "cors": "unknown",
         "url": "https://isaacus.com/blog/kanon-2-enricher",
         "discovered_at": "2026-03-04"
+    },
+    {
+        "name": "Ishormuzopenyet",
+        "description": "Show HN: Is Hormuz open yet?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.ishormuzopenyet.com/",
+        "discovered_at": "2026-04-09"
     },
     {
         "name": "Jackonomics",
@@ -82473,6 +82543,26 @@
         "discovered_at": "2026-04-06"
     },
     {
+        "name": "Prefab",
+        "description": "Show HN: Prefab – A generative UI framework for Python",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://prefab.prefect.io/docs/welcome",
+        "discovered_at": "2026-04-09"
+    },
+    {
+        "name": "Preview",
+        "description": "Show HN: Preview.thedrive.ai – instant thumbnails for any document URL",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://preview.thedrive.ai",
+        "discovered_at": "2026-04-09"
+    },
+    {
         "name": "Pricing Hub",
         "description": "> This feature is in closed beta, available only for selected customers. If you have any questions, contact our [Support](https://support.vtex.com/hc/en-us/requests). \r\n\r\n In the B2B scenario, it is c",
         "category": "Other",
@@ -82913,6 +83003,16 @@
         "discovered_at": "2026-03-26"
     },
     {
+        "name": "Streams",
+        "description": "Show HN: I got tired of juggling 4 tools for data work – built one instead",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://streams.dbconvert.com",
+        "discovered_at": "2026-04-09"
+    },
+    {
         "name": "Sup",
         "description": "Show HN: Sup AI, a confidence-weighted ensemble (52.15% on Humanity's Last Exam)",
         "category": "Other",
@@ -83031,6 +83131,16 @@
         "cors": "unknown",
         "url": "https://timlenardo.github.io/docklock/",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Tontaube",
+        "description": "Show HN: I bootstrapped a foundational text-to-speech model from scratch",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tontaube.ai/",
+        "discovered_at": "2026-04-09"
     },
     {
         "name": "Trackm",
@@ -94544,6 +94654,16 @@
         "url": "https://dictionaryapi.dev/"
     },
     {
+        "name": "Framework",
+        "description": "We open-sourced an AI-native operating model (CC, 6 languages)",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://framework.ai-native-transformation.com",
+        "discovered_at": "2026-04-09"
+    },
+    {
         "name": "Getbruin",
         "description": "A case for Go as the best language for AI agents",
         "category": "Text & Language",
@@ -94561,6 +94681,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://cloud.google.com/translate/docs"
+    },
+    {
+        "name": "Itsumo",
+        "description": "Show HN: Itsumo: Make yourself fun and interesting academic language lessons",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://itsumo.study/",
+        "discovered_at": "2026-04-09"
     },
     {
         "name": "LibreTranslate",
@@ -95203,6 +95333,16 @@
         "discovered_at": "2026-03-24"
     },
     {
+        "name": "Audioeditor",
+        "description": "Show HN: AudioEditor – Free Online Audio Tools",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://audioeditor.org",
+        "discovered_at": "2026-04-09"
+    },
+    {
         "name": "Classicvideopoker",
         "description": "Show HN: Classic Video Poker v2",
         "category": "Video & Media",
@@ -95504,6 +95644,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://openweathermap.org/api"
+    },
+    {
+        "name": "Portal",
+        "description": "Geneva Forecasting API: classical time-series forecasting via REST API",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://portal.roadmap-tech.com",
+        "discovered_at": "2026-04-09"
     },
     {
         "name": "Preflightapi",
