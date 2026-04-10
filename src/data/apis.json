@@ -120,6 +120,16 @@
         "discovered_at": "2026-04-07"
     },
     {
+        "name": "Anj",
+        "description": "Data analysis via AI coding tools, directly in the codebase",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://anj.me/data-analysis-in-the-age-of-ai-good-better-best/",
+        "discovered_at": "2026-04-10"
+    },
+    {
         "name": "Antarraksha",
         "description": "Show HN: We attacked 8 AI agents with adversarial probes – 5 failed",
         "category": "AI & Machine Learning",
@@ -734,6 +744,16 @@
         "discovered_at": "2026-03-28"
     },
     {
+        "name": "Kodama",
+        "description": "Let your AI agent talk to someone else's – open-source MCP rooms",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.kodama.run/",
+        "discovered_at": "2026-04-10"
+    },
+    {
         "name": "Kybernis",
         "description": "Show HN: Kybernis – Prevent AI agents from executing the same action twice",
         "category": "AI & Machine Learning",
@@ -973,6 +993,16 @@
         "discovered_at": "2026-03-26"
     },
     {
+        "name": "Mvrckhckr",
+        "description": "AI is a self-esteem test",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mvrckhckr.com/articles/ai-is-a-self-esteem-test",
+        "discovered_at": "2026-04-10"
+    },
+    {
         "name": "Needhuman",
         "description": "Show HN: NeedHuman – API that lets AI agents hire a real human when stuck",
         "category": "AI & Machine Learning",
@@ -1041,6 +1071,16 @@
         "cors": "unknown",
         "url": "https://www.novyxlabs.com/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Noxscan",
+        "description": "Show HN: Noxscan.io 65K Port and Vuln scanner with LLM false-positive filtering",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://noxscan.io/",
+        "discovered_at": "2026-04-10"
     },
     {
         "name": "One-man-company",
@@ -1170,6 +1210,16 @@
         "cors": "unknown",
         "url": "https://port42.ai/",
         "discovered_at": "2026-03-16"
+    },
+    {
+        "name": "Privent",
+        "description": "Free Chrome extension to see what employees send to AI tools",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.privent.ai/use-cases/employee-ai-monitoring",
+        "discovered_at": "2026-04-10"
     },
     {
         "name": "Prompt-privacy",
@@ -1518,6 +1568,16 @@
         "cors": "unknown",
         "url": "https://www.techdirt.com/2026/03/25/ai-might-be-our-best-shot-at-taking-back-the-open-web/",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Thehill",
+        "description": "Anthropic says new AI model too dangerous for public release",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thehill.com/policy/technology/5824219-anthropic-new-ai-dangerous-public/",
+        "discovered_at": "2026-04-10"
     },
     {
         "name": "Thewebsite",
@@ -4899,6 +4959,16 @@
         "cors": "unknown",
         "url": "https://autheona.com/",
         "discovered_at": "2026-04-04"
+    },
+    {
+        "name": "Barrasso",
+        "description": "Show HN: I built a local coding agent using Apple Intelligence",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://barrasso.me/posts/2026-04-09-on-device-coding-with-apple-intelligence/",
+        "discovered_at": "2026-04-10"
     },
     {
         "name": "Clerk",
@@ -10931,6 +11001,16 @@
         "cors": "unknown",
         "url": "https://www.openbrowserclaw.com/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Opensource-ai-cloud",
+        "description": "Peer-to-peer GPU rental marketplace",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://opensource-ai-cloud.uk/login",
+        "discovered_at": "2026-04-10"
     },
     {
         "name": "Pastebin",
@@ -31437,6 +31517,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Recure",
+        "description": "Show HN: Free tool to search datasets across Kaggle and HF in one place",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://recure.ai",
+        "discovered_at": "2026-04-10"
+    },
+    {
         "name": "Redbubble Email Scraper",
         "description": "Redbubble Email Scraper – Efficiently scrape Redbubble emails with speed & accuracy! 🔍 Search by keywords, location & domain to find specific contacts. Supports Redbubble listings ✅ Proxy support for",
         "category": "Data & Analytics",
@@ -44924,6 +45014,16 @@
         "cors": "unknown",
         "url": "https://apify.com/danielherman/csfd-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Cssstudio",
+        "description": "Show HN: CSS Studio. Design by hand, code by agent",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cssstudio.ai",
+        "discovered_at": "2026-04-10"
     },
     {
         "name": "CSV File to Dataset",
@@ -68573,6 +68673,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Readytotouch",
+        "description": "Show HN: Job-focused lists of product companies using Go, Rust, Scala, Elixir",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://readytotouch.com/",
+        "discovered_at": "2026-04-10"
+    },
+    {
         "name": "REAL Watersports Scraper",
         "description": "Scrape REAL Watersports and extract data on surfing from realwatersports.com. Our REAL Watersports API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON,..",
         "category": "E-Commerce",
@@ -80293,6 +80403,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "3dsvg",
+        "description": "Show HN: I built a free open-source SVG to 3D tool",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://3dsvg.design",
+        "discovered_at": "2026-04-10"
+    },
+    {
         "name": "A2apex",
         "description": "Show HN: A2Apex – Test, certify, and discover trusted A2A agents",
         "category": "Other",
@@ -80523,6 +80643,16 @@
         "discovered_at": "2026-04-05"
     },
     {
+        "name": "Aspire",
+        "description": "MS Aspire – Open-source stack, streamlined",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aspire.dev/",
+        "discovered_at": "2026-04-10"
+    },
+    {
         "name": "Automata Market Intelligence API",
         "description": "This document provides the documentation for the Market Intelligence API by Automata. Get your API Key at https://apis.byautomata.io and check out our Postman Collection.The root API endpoint is https",
         "category": "Other",
@@ -80591,6 +80721,16 @@
         "cors": "unknown",
         "url": "https://billingengine.cloud/cs/",
         "discovered_at": "2026-03-28"
+    },
+    {
+        "name": "Blackdesk",
+        "description": "Blackdesk – open-source market research terminal (Go, TUI, local AI)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blackdesk.ai/",
+        "discovered_at": "2026-04-10"
     },
     {
         "name": "Blacktwist",
@@ -80903,6 +81043,16 @@
         "discovered_at": "2026-04-07"
     },
     {
+        "name": "Contxt",
+        "description": "Show HN: We made 25 years of a NYC gallery's exhibitions conversational with AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://contxt.art/bitforms",
+        "discovered_at": "2026-04-10"
+    },
+    {
         "name": "Craigm26",
         "description": "Show HN: OpenCastor Agent Harness Evaluator Leaderboard",
         "category": "Other",
@@ -80911,6 +81061,16 @@
         "cors": "unknown",
         "url": "https://craigm26.github.io/OpenCastor/",
         "discovered_at": "2026-03-24"
+    },
+    {
+        "name": "Craneledger",
+        "description": "Crane Ledger – Headless Accounting API with REST, GraphQL, and MCP",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://craneledger.ai",
+        "discovered_at": "2026-04-10"
     },
     {
         "name": "Crates",
@@ -81081,6 +81241,16 @@
         "cors": "unknown",
         "url": "https://discovery.gsa.gov/docs/api-docs/",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Dispatch",
+        "description": "Dispatch – Open-source event routing for webhooks, APIs, and real-time data",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dispatch.tech",
+        "discovered_at": "2026-04-10"
     },
     {
         "name": "Dividdy",
@@ -82493,6 +82663,16 @@
         "discovered_at": "2026-03-19"
     },
     {
+        "name": "Piecely",
+        "description": "Show HN: Piecely – Content marketplace using dominant assurance contracts",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://piecely.app/johndebord/iyVsG23NbWv9xv2RJz2Tyv",
+        "discovered_at": "2026-04-10"
+    },
+    {
         "name": "Pivotordie",
         "description": "A public startup survival tracker (30 days inactive = dead)",
         "category": "Other",
@@ -82531,6 +82711,16 @@
         "cors": "unknown",
         "url": "https://policygen.app/",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Polypane",
+        "description": "The Intl API: The best browser API you're not using",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://polypane.app/blog/the-intl-api-the-best-browser-api-youre-not-using/",
+        "discovered_at": "2026-04-10"
     },
     {
         "name": "Predictionhunt",
@@ -82651,6 +82841,16 @@
         "cors": "unknown",
         "url": "https://ratschn.com",
         "discovered_at": "2026-03-10"
+    },
+    {
+        "name": "Raw",
+        "description": "Show HN: Linear RNN/Reservoir hybrid generative model, one C file (no deps.)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://raw.githubusercontent.com/bggb7781-collab/lrnnsmdds/refs/heads/main/lrnnsmdds",
+        "discovered_at": "2026-04-10"
     },
     {
         "name": "Rdapapi",
@@ -82883,6 +83083,16 @@
         "discovered_at": "2026-03-03"
     },
     {
+        "name": "Simonwillison",
+        "description": "GLM 5.1: Pelican Test",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://simonwillison.net/2026/Apr/7/glm-51/",
+        "discovered_at": "2026-04-10"
+    },
+    {
         "name": "Simplerouting",
         "description": "Show HN: Simple Routing – Low Cost Vehicle Routing APIs",
         "category": "Other",
@@ -83021,6 +83231,16 @@
         "cors": "unknown",
         "url": "https://sup.ai",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Sweatdiary",
+        "description": "Show HN: SweatDiary – simple workout journal, native iOS and macOS app",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sweatdiary.app",
+        "discovered_at": "2026-04-10"
     },
     {
         "name": "Sylve",
@@ -90015,6 +90235,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Render",
+        "description": "Show HN: Render Workflows – Durable task orchestration without queues or workers",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://render.com/workflows",
+        "discovered_at": "2026-04-10"
+    },
+    {
         "name": "Repple",
         "description": "Show HN: Spaced repetition API – decks, cards, reviews, scheduling",
         "category": "Productivity",
@@ -93311,6 +93541,16 @@
         "url": "https://discord.com/developers/docs/intro"
     },
     {
+        "name": "Gitinspect",
+        "description": "Show HN: Replace \"hub\" with \"inspect\" on any GitHub url and chat with any repo",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.gitinspect.com",
+        "discovered_at": "2026-04-10"
+    },
+    {
         "name": "Mastodon",
         "description": "Decentralized social media API (ActivityPub)",
         "category": "Social",
@@ -94702,6 +94942,16 @@
         "url": "https://libretranslate.com/"
     },
     {
+        "name": "Lingle",
+        "description": "Show HN: Lingle – Voice agent to simulate zoom-based personal language lessons",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lingle.ai/",
+        "discovered_at": "2026-04-10"
+    },
+    {
         "name": "Lingotify",
         "description": "Show HN: I built a language app that generates songs from your vocab list",
         "category": "Text & Language",
@@ -95499,6 +95749,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/nexmo/api-specification/master/definitions/media.yml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Resilientcyber",
+        "description": "Vulnpocalypse: AI, Open Source, and the Race to Remediate",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.resilientcyber.io/p/vulnpocalypse-ai-open-source-and",
+        "discovered_at": "2026-04-10"
     },
     {
         "name": "Sankara",
