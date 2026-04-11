@@ -1272,6 +1272,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Quippd",
+        "description": "AI Code Is Hollowing Out Open Source, and Maintainers Are Looking the Other Way",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.quippd.com/writing/2026/04/08/ai-code-is-hollowing-out-open-source-and-maintainers-are-looking-the-other-way.html",
+        "discovered_at": "2026-04-11"
+    },
+    {
         "name": "Quoroom",
         "description": "Show HN: Quoroom – local AI swarm (public research)",
         "category": "AI & Machine Learning",
@@ -5387,6 +5397,16 @@
         "cors": "unknown",
         "url": "https://mdrbx.github.io/nerv-ui/",
         "discovered_at": "2026-03-20"
+    },
+    {
+        "name": "Mydatavalue",
+        "description": "Show HN: Polter – Agent Driven UI (react library)",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mydatavalue.github.io/polter/",
+        "discovered_at": "2026-04-11"
     },
     {
         "name": "Notebookcheck",
@@ -11050,6 +11070,16 @@
         "cors": "unknown",
         "url": "https://www.smplogs.com",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Twill",
+        "description": "Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://twill.ai",
+        "discovered_at": "2026-04-11"
     },
     {
         "name": "User API",
@@ -54546,6 +54576,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Saxi",
+        "description": "Show HN: The API directory for AI agents and developers",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://saxi.ai/",
+        "discovered_at": "2026-04-11"
+    },
+    {
         "name": "Sba Finder",
         "description": "This actor calls the official SBA Small Business website and saves the returned businesses to the default dataset.",
         "category": "Development",
@@ -69902,6 +69942,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Store",
+        "description": "Show HN: Offline AI dev assistant (no API, runs locally)",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://store.steampowered.com/app/4111530/FriedrichAI_Offline_AI_Dev_Assistant/",
+        "discovered_at": "2026-04-11"
+    },
+    {
         "name": "Store Screenshot Url",
         "description": "Effortlessly capture and extract URL screenshots with the Store Screenshot URL Extractor. This powerful Apify actor is designed to streamline your data collection process, providing high-quality...",
         "category": "E-Commerce",
@@ -73111,6 +73161,16 @@
         "discovered_at": "2026-03-24"
     },
     {
+        "name": "Steadcast",
+        "description": "Show HN: Steadcast – Free Mac podcast player for learning, not background noise",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://steadcast.co",
+        "discovered_at": "2026-04-11"
+    },
+    {
         "name": "Theregister",
         "description": "Moody humans should let AI handle bad public feedback first, study finds",
         "category": "Education",
@@ -75277,6 +75337,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://disease.sh/docs/"
+    },
+    {
+        "name": "Eve",
+        "description": "Show HN: Eve – Managed OpenClaw for work",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://eve.new/login",
+        "discovered_at": "2026-04-11"
     },
     {
         "name": "HealthCare.gov",
@@ -81493,6 +81563,16 @@
         "discovered_at": "2026-04-02"
     },
     {
+        "name": "Fluidcad",
+        "description": "Show HN: FluidCAD – Parametric CAD with JavaScript",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fluidcad.io/",
+        "discovered_at": "2026-04-11"
+    },
+    {
         "name": "Fluxvector",
         "description": "FluxVector – Free vector search API with built-in multilingual embeddings",
         "category": "Other",
@@ -81763,6 +81843,16 @@
         "discovered_at": "2026-04-09"
     },
     {
+        "name": "Idontuselinkedin",
+        "description": "Show HN: Idontuselinkedin.com",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://idontuselinkedin.com",
+        "discovered_at": "2026-04-11"
+    },
+    {
         "name": "Iggy",
         "description": "Apache Iggy: thread-per-core with io_uring in Rust",
         "category": "Other",
@@ -81781,6 +81871,16 @@
         "cors": "unknown",
         "url": "https://ignav.com/",
         "discovered_at": "2026-04-02"
+    },
+    {
+        "name": "Imgur",
+        "description": "Show HN: I forced Claude to play Tetris in Emacs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://imgur.com/a/e3nxq5k",
+        "discovered_at": "2026-04-11"
     },
     {
         "name": "Implicitmarkets",
@@ -82423,6 +82523,16 @@
         "discovered_at": "2026-03-01"
     },
     {
+        "name": "Npgsqlrest",
+        "description": "PostgreSQL REST API from SQL Scripts",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://npgsqlrest.github.io/blog/sql-rest-api.html",
+        "discovered_at": "2026-04-11"
+    },
+    {
         "name": "Occam",
         "description": "Show HN: Symbolic regression as an MCP tool (SINDy and PySR, free, no install)",
         "category": "Other",
@@ -82861,6 +82971,16 @@
         "cors": "unknown",
         "url": "https://rdapapi.io",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Rdw",
+        "description": "RDW Approval of Tesla FSD in Netherlands (With Rest of EU to Follow)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.rdw.nl/en/news/2026/rdw-explanation-of-european-type-approval-tesla-with-provisional-validity-in-the-netherlands",
+        "discovered_at": "2026-04-11"
     },
     {
         "name": "Reactnative",
@@ -93233,6 +93353,16 @@
         "cors": "unknown",
         "url": "https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Security",
+        "description": "Bringing Rust to the Pixel Baseband",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://security.googleblog.com/2026/04/bringing-rust-to-pixel-baseband.html",
+        "discovered_at": "2026-04-11"
     },
     {
         "name": "Shodan",
