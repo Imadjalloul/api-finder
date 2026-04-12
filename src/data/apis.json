@@ -467,6 +467,16 @@
         "url": "https://www.deepl.com/docs-api"
     },
     {
+        "name": "Docs",
+        "description": "EU AI Act compliance layer for Claude Managed Agents (MCP, open source)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://docs.geiant.com/integrations/claude-managed-agents/",
+        "discovered_at": "2026-04-12"
+    },
+    {
         "name": "Domainsearcher",
         "description": "Show HN: Startup Domain Search – Free AI Domain Generator with Scoring and RDAP",
         "category": "AI & Machine Learning",
@@ -703,6 +713,16 @@
         "cors": "unknown",
         "url": "https://hive.rllm-project.com/",
         "discovered_at": "2026-03-22"
+    },
+    {
+        "name": "Hormuz-havoc",
+        "description": "Show HN: Hormuz Havoc, a satirical game that got overrun by AI bots in 24 hours",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.hormuz-havoc.com/",
+        "discovered_at": "2026-04-12"
     },
     {
         "name": "Hugging Face",
@@ -4726,6 +4746,16 @@
         "cors": "unknown",
         "url": "https://bekasbah.com/",
         "discovered_at": "2026-03-05"
+    },
+    {
+        "name": "Brasilia-phi",
+        "description": "Show HN: A living Vancouver. Connor is walking dogs at the SPCA this morning",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://brasilia-phi.vercel.app",
+        "discovered_at": "2026-04-12"
     },
     {
         "name": "Cat Facts",
@@ -10971,6 +11001,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://apidocs.imgur.com/"
+    },
+    {
+        "name": "Kampfinsel",
+        "description": "Show HN: I rebuilt a 2000s browser strategy game on Cloudflare's edge",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kampfinsel.com/",
+        "discovered_at": "2026-04-12"
     },
     {
         "name": "Mantledb",
@@ -41997,6 +42037,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Adkit",
+        "description": "Show HN: Run ads with code, earn 17% more than AdSense",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://adkit.dev",
+        "discovered_at": "2026-04-12"
+    },
+    {
         "name": "Adondevivir Property Listings Scraper",
         "description": "Professional Peru property data scraper for Adondevivir marketplace. Extracts comprehensive real estate listings, pricing analytics, location data & seller contacts. Automated JSON export for database",
         "category": "Development",
@@ -59976,6 +60026,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "88hours",
+        "description": "Show HN: Helix – open-source self-healing back end for production crashes",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://88hours.github.io/helix-community/",
+        "discovered_at": "2026-04-12"
+    },
+    {
         "name": "A1 Scraper",
         "description": "-",
         "category": "E-Commerce",
@@ -74001,6 +74061,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Bal",
+        "description": "Show HN: Bal – a Knights and Knaves logic puzzle game with Glicko rating system",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bal.sciforge.ai/",
+        "discovered_at": "2026-04-12"
+    },
+    {
         "name": "Bored API",
         "description": "Suggestions for random activities when bored",
         "category": "Entertainment",
@@ -74037,6 +74107,16 @@
         "cors": "unknown",
         "url": "https://gameplan.poker/",
         "discovered_at": "2026-03-31"
+    },
+    {
+        "name": "Gascraft",
+        "description": "Show HN: I visualized Wasteland as an RTS game",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gascraft.ai",
+        "discovered_at": "2026-04-12"
     },
     {
         "name": "Jikan",
@@ -76422,6 +76502,16 @@
         "cors": "unknown",
         "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Getnadir",
+        "description": "Nadir: Open-source LLM router that cuts API costs 30-60% (MIT License)",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getnadir.com/",
+        "discovered_at": "2026-04-12"
     },
     {
         "name": "Google Maps",
@@ -80603,6 +80693,16 @@
         "discovered_at": "2026-04-05"
     },
     {
+        "name": "Amdson",
+        "description": "Show HN: A General Purpose KMC Crystal Growth Simulator in Rust-WASM",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://amdson.github.io/blog/crystals/",
+        "discovered_at": "2026-04-12"
+    },
+    {
         "name": "Aminrj",
         "description": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
         "category": "Other",
@@ -81011,6 +81111,16 @@
         "cors": "unknown",
         "url": "https://captainfredric.github.io/ContentForge/",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Chainguard",
+        "description": "Open source died in March. It just doesn't know it yet",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.chainguard.dev/unchained/open-source-died-in-march-it-just-doesnt-know-it-yet",
+        "discovered_at": "2026-04-12"
     },
     {
         "name": "Charityverify",
@@ -81483,6 +81593,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Exit1",
+        "description": "Show HN: Uptime monitoring is table stakes",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://exit1.dev/",
+        "discovered_at": "2026-04-12"
+    },
+    {
         "name": "Ezorro",
         "description": "Show HN: EZorro – Describe your trading strategy, and turn it into an algo",
         "category": "Other",
@@ -81761,6 +81881,16 @@
         "cors": "unknown",
         "url": "https://guillim.github.io/products/paul",
         "discovered_at": "2026-04-06"
+    },
+    {
+        "name": "Hamy",
+        "description": "High-Level Rust: Getting 80% of the Benefits with 20% of the Pain",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hamy.xyz/blog/2026-01_high-level-rust",
+        "discovered_at": "2026-04-12"
     },
     {
         "name": "Hcap",
@@ -82523,6 +82653,16 @@
         "discovered_at": "2026-03-01"
     },
     {
+        "name": "Noirlab",
+        "description": "New synthesis of astronomical measurements shows Hubble tension is real",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://noirlab.edu/public/news/noirlab2611/?nocache=true&lang=en",
+        "discovered_at": "2026-04-12"
+    },
+    {
         "name": "Npgsqlrest",
         "description": "PostgreSQL REST API from SQL Scripts",
         "category": "Other",
@@ -82791,6 +82931,16 @@
         "cors": "unknown",
         "url": "https://pivotordie.club",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Pizzalegacy",
+        "description": "Pizza Legacy an Open-Source Reimplementation of Pizza Connection (Pizza Tycoon)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pizzalegacy.nl/",
+        "discovered_at": "2026-04-12"
     },
     {
         "name": "Pmo",
@@ -83273,6 +83423,16 @@
         "discovered_at": "2026-03-04"
     },
     {
+        "name": "Sntlhq",
+        "description": "How HN: Free API that detects antidetect browsers and VPNs in 40ms",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sntlhq.com",
+        "discovered_at": "2026-04-12"
+    },
+    {
         "name": "Solar VPS",
         "description": "This is the Solar VPS Public API. You can find more at http://www.solarvps.com",
         "category": "Other",
@@ -83301,6 +83461,16 @@
         "cors": "unknown",
         "url": "https://developer.mastercard.com/devzone/api/portal/swagger/spendingpulse",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Splitsense",
+        "description": "Free landing page review tool",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://splitsense.ai/tools/free-landing-page-review",
+        "discovered_at": "2026-04-12"
     },
     {
         "name": "Statusdrop",
@@ -93620,6 +93790,16 @@
         "cors": "unknown",
         "url": "https://agentbus.org/",
         "discovered_at": "2026-03-04"
+    },
+    {
+        "name": "Agentdm",
+        "description": "Show HN: AgentDM – Agent to agent messaging over MCP and A2A",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agentdm.ai",
+        "discovered_at": "2026-04-12"
     },
     {
         "name": "Beacon-notify",
