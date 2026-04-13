@@ -844,6 +844,16 @@
         "discovered_at": "2026-04-09"
     },
     {
+        "name": "Linkjob",
+        "description": "Best AI coding interview assistant in 2026",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.linkjob.ai/interview-questions/ai-coding-interview-assistant/",
+        "discovered_at": "2026-04-13"
+    },
+    {
         "name": "Linuxtoaster",
         "description": "The Pincer Attack – How AI Killed Open Source",
         "category": "AI & Machine Learning",
@@ -1538,6 +1548,16 @@
         "cors": "unknown",
         "url": "https://studio.swiperjs.com",
         "discovered_at": "2026-04-08"
+    },
+    {
+        "name": "Superhq",
+        "description": "Show HN: Run AI coding agents in real, local sandboxes, not Git worktrees",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://superhq.ai/",
+        "discovered_at": "2026-04-13"
     },
     {
         "name": "Swarmed",
@@ -70401,6 +70421,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Texastribune",
+        "description": "Record oil production in West Texas helps stabilize U.S. supply amid Iran war",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.texastribune.org/2026/04/09/west-texas-oil-production-iran/",
+        "discovered_at": "2026-04-13"
+    },
+    {
         "name": "The 4ocean Bracelet Scraper",
         "description": "Scrape The 4ocean Bracelet and extract data on clothing accessories from 4ocean.com. Our The 4ocean Bracelet API lets you crawl product information and pricing. The saved data can be downloaded as...",
         "category": "E-Commerce",
@@ -83471,6 +83501,16 @@
         "cors": "unknown",
         "url": "https://splitsense.ai/tools/free-landing-page-review",
         "discovered_at": "2026-04-12"
+    },
+    {
+        "name": "Spuddy",
+        "description": "Show HN: Spuddy.sh – Describe your API in terminal get a hosted API with state",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://spuddy.sh",
+        "discovered_at": "2026-04-13"
     },
     {
         "name": "Statusdrop",
