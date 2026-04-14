@@ -627,6 +627,16 @@
         "discovered_at": "2026-04-08"
     },
     {
+        "name": "Getloreo",
+        "description": "Show HN: Loreo – Bot-free, 8MB AI meeting transcriber using Scribe v2",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getloreo.com/",
+        "discovered_at": "2026-04-14"
+    },
+    {
         "name": "Getspine",
         "description": "Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas",
         "category": "AI & Machine Learning",
@@ -1033,6 +1043,16 @@
         "discovered_at": "2026-04-10"
     },
     {
+        "name": "Nature",
+        "description": "Human scientists trounce the best AI agents on complex tasks",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.nature.com/articles/d41586-026-01199-z",
+        "discovered_at": "2026-04-14"
+    },
+    {
         "name": "Needhuman",
         "description": "Show HN: NeedHuman – API that lets AI agents hire a real human when stuck",
         "category": "AI & Machine Learning",
@@ -1350,6 +1370,16 @@
         "cors": "unknown",
         "url": "https://redmonk.com/kholterhoff/2026/02/26/generative-ai-policy-landscape-in-open-source/",
         "discovered_at": "2026-03-23"
+    },
+    {
+        "name": "Remy",
+        "description": "Show HN: Remy, an AI agent that compiles annotated Markdown into full-stack apps",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://remy.msagent.ai/",
+        "discovered_at": "2026-04-14"
     },
     {
         "name": "Replicate",
@@ -5098,6 +5128,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Strix",
+        "description": "We love open source: finding a critical auth bypass in etcd (CVE-2026-33413)",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.strix.ai/blog/where-others-missed-it-etcd-auth-bypass",
+        "discovered_at": "2026-04-14"
+    },
+    {
         "name": "Supabase Auth",
         "description": "Open-source auth with row-level security",
         "category": "Auth & Identity",
@@ -5310,6 +5350,16 @@
         "cors": "unknown",
         "url": "https://tamp.dev",
         "discovered_at": "2026-04-02"
+    },
+    {
+        "name": "Tokenmonopoly",
+        "description": "Claude down? TokenMonopoly will help you find the best deals in AI subs",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tokenmonopoly.com",
+        "discovered_at": "2026-04-14"
     },
     {
         "name": "Tokenwatch-ten",
@@ -10965,6 +11015,16 @@
         "cors": "unknown",
         "url": "https://construct.computer",
         "discovered_at": "2026-03-04"
+    },
+    {
+        "name": "Darkdrive",
+        "description": "Show HN: Darkdrive – self-hosted encrypted cloud storage with split keys",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://darkdrive.de/en/",
+        "discovered_at": "2026-04-14"
     },
     {
         "name": "Dropbox",
@@ -75914,6 +75974,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Amd-gaia",
+        "description": "GAIA – Open-source framework for building AI agents that run on local hardware",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://amd-gaia.ai/docs",
+        "discovered_at": "2026-04-14"
+    },
+    {
         "name": "Crowdsupply",
         "description": "Show HN: A Software-Defined USB PD Charger (ESP32, FPGA, Open Source Hardware)",
         "category": "IoT & Hardware",
@@ -76544,6 +76614,16 @@
         "discovered_at": "2026-04-12"
     },
     {
+        "name": "Givedirection",
+        "description": "Show HN: Direction – a 4-week course for people afraid of shipping AI slop",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.givedirection.com/",
+        "discovered_at": "2026-04-14"
+    },
+    {
         "name": "Google Maps",
         "description": "Maps, routes, places, and Street View",
         "category": "Maps & Transport",
@@ -76628,6 +76708,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://wiki.openstreetmap.org/wiki/API"
+    },
+    {
+        "name": "Remembermap",
+        "description": "Show HN: RememberMap",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://remembermap.com",
+        "discovered_at": "2026-04-14"
     },
     {
         "name": "TransLoc",
@@ -77652,6 +77742,16 @@
         "cors": "unknown",
         "url": "https://newsletter.danielpaleka.com/p/you-are-going-to-get-priced-out-of",
         "discovered_at": "2026-03-08"
+    },
+    {
+        "name": "Newsletter",
+        "description": "Closing the AI Open-Source Gap",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://newsletter.ownersnotrenters.com/p/closing-the-open-source-gap",
+        "discovered_at": "2026-04-14"
     },
     {
         "name": "The Guardian",
@@ -80853,6 +80953,16 @@
         "discovered_at": "2026-04-10"
     },
     {
+        "name": "Asthi",
+        "description": "Show HN: Asthi – Damn good asset tracker",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.asthi.app/",
+        "discovered_at": "2026-04-14"
+    },
+    {
         "name": "Automata Market Intelligence API",
         "description": "This document provides the documentation for the Market Intelligence API by Automata. Get your API Key at https://apis.byautomata.io and check out our Postman Collection.The root API endpoint is https",
         "category": "Other",
@@ -81393,6 +81503,16 @@
         "discovered_at": "2026-03-19"
     },
     {
+        "name": "Demoday",
+        "description": "Show HN: Beautiful Clickable Demos",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://demoday.work",
+        "discovered_at": "2026-04-14"
+    },
+    {
         "name": "Desktalk",
         "description": "Show HN: DeskTalk – talk to your desktop to build and modify local apps",
         "category": "Other",
@@ -81793,6 +81913,16 @@
         "discovered_at": "2026-03-10"
     },
     {
+        "name": "Getsnatchhub",
+        "description": "Show HN: SnatchHub – An App That Solves The \"who's using staging?\" Problem",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getsnatchhub.com",
+        "discovered_at": "2026-04-14"
+    },
+    {
         "name": "Ghostklan",
         "description": "Show HN: Shibuya – A High-Performance WAF in Rust with eBPF and ML Engine",
         "category": "Other",
@@ -82091,6 +82221,16 @@
         "cors": "unknown",
         "url": "https://instantcli.com",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Interconnected",
+        "description": "Mist: Open-source Markdown editor with AI-native comments and suggested edits",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://interconnected.org/home/2026/04/10/open-mist",
+        "discovered_at": "2026-04-14"
     },
     {
         "name": "Intuitivecompute",
@@ -83333,6 +83473,16 @@
         "discovered_at": "2026-03-03"
     },
     {
+        "name": "Scmp",
+        "description": "Alibaba's Qwen family captures over 50% of global open-source model downloads",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.scmp.com/tech/big-tech/article/3349552/alibabas-qwen-family-captures-over-50-global-open-source-downloads-report-finds",
+        "discovered_at": "2026-04-14"
+    },
+    {
         "name": "Seoscoreapi",
         "description": "Show HN: SEO Score API",
         "category": "Other",
@@ -83783,6 +83933,16 @@
         "discovered_at": "2026-03-24"
     },
     {
+        "name": "Useapparent",
+        "description": "Show HN: Built a lightweight extension to simplify Gmail (free, local)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://useapparent.com/",
+        "discovered_at": "2026-04-14"
+    },
+    {
         "name": "Vectree",
         "description": "Show HN: Vectree – Learn complex concepts through AI-generated interactive SVGs",
         "category": "Other",
@@ -83871,6 +84031,26 @@
         "cors": "unknown",
         "url": "https://warnfirehose.com",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Washingtonpost",
+        "description": "US companies not going public because of hostile litigation environment",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.washingtonpost.com/opinions/2026/04/13/lawyers-class-action-lawsuits-public-companies/",
+        "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Washingtonspectator",
+        "description": "Israel Mounts Lavish Campaign to Win Back Evangelicals",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://washingtonspectator.org/israeli-government-is-spending-millions-to-court-american-evangelicals-amid-plummeting-public-support/",
+        "discovered_at": "2026-04-14"
     },
     {
         "name": "Wealth Reader API",
@@ -89675,6 +89855,16 @@
         "discovered_at": "2026-04-08"
     },
     {
+        "name": "Openstickies",
+        "description": "OpenStickies – Free Sticky Notes App for Windows, Linux and macOS",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://openstickies.com/",
+        "discovered_at": "2026-04-14"
+    },
+    {
         "name": "OpenStreetMap Listing Scraper 🗺️",
         "description": "🗺️ Extract location data from OpenStreetMap search results with comprehensive details including addresses, coordinates, and URLs. Perfect for location-based research, GIS applications, and geographic",
         "category": "Productivity",
@@ -93956,6 +94146,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://api.slack.com/"
+    },
+    {
+        "name": "Socialcrawl",
+        "description": "Show HN: Access X, Reddit, Threads and all social media data from a single API",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.socialcrawl.dev/",
+        "discovered_at": "2026-04-14"
     },
     {
         "name": "Stream Chat API",
