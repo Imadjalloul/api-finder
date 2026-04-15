@@ -130,6 +130,16 @@
         "discovered_at": "2026-04-10"
     },
     {
+        "name": "Anothertodo",
+        "description": "Show HN: A $4/mo AI todo app – 3 todos free, pay for the 4th",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://anothertodo.app",
+        "discovered_at": "2026-04-15"
+    },
+    {
         "name": "Antarraksha",
         "description": "Show HN: We attacked 8 AI agents with adversarial probes – 5 failed",
         "category": "AI & Machine Learning",
@@ -280,6 +290,16 @@
         "discovered_at": "2026-03-31"
     },
     {
+        "name": "Blog",
+        "description": "Turn your best AI prompts into one-click tools in Chrome",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+        "discovered_at": "2026-04-15"
+    },
+    {
         "name": "Boesch",
         "description": "Show HN: Letting an LLM write robot programs",
         "category": "AI & Machine Learning",
@@ -416,6 +436,16 @@
         "cors": "unknown",
         "url": "https://www.conspicuouscognition.com/p/how-ai-will-reshape-public-opinion",
         "discovered_at": "2026-03-08"
+    },
+    {
+        "name": "Costile",
+        "description": "Show HN: Costile – open-source proxy, blocks AI API requests when budget is hit",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://costile.com/",
+        "discovered_at": "2026-04-15"
     },
     {
         "name": "Crowpay",
@@ -772,6 +802,16 @@
         "cors": "unknown",
         "url": "https://kagento.io",
         "discovered_at": "2026-03-28"
+    },
+    {
+        "name": "Kelet",
+        "description": "Show HN: Kelet – Root Cause Analysis agent for your LLM apps",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kelet.ai/",
+        "discovered_at": "2026-04-15"
     },
     {
         "name": "Kodama",
@@ -5441,6 +5481,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Gondola",
+        "description": "Show HN: Hotel MCP server for cash and points search/booking (free)",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.gondola.ai/mcp",
+        "discovered_at": "2026-04-15"
+    },
+    {
         "name": "Google Books",
         "description": "Search and browse the world's largest book catalog",
         "category": "Books",
@@ -5487,6 +5537,16 @@
         "cors": "unknown",
         "url": "https://imagehost.ing",
         "discovered_at": "2026-03-11"
+    },
+    {
+        "name": "Mattitude8861",
+        "description": "Show HN: Three backtested quant strategies as Jupyter notebooks",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mattitude8861.gumroad.com/l/QuantStrategyTemplatesBundle",
+        "discovered_at": "2026-04-15"
     },
     {
         "name": "Mdrbx",
@@ -45506,6 +45566,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Developer",
+        "description": "Show HN: StockFit API – structured SEC EDGAR data with a free tier",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://developer.stockfit.io",
+        "discovered_at": "2026-04-15"
+    },
+    {
         "name": "Developer Intelligence Pro",
         "description": "Advanced developer ecosystem analysis. Tracks technology trends and community insights. Essential for tech companies and developers.",
         "category": "Development",
@@ -45843,6 +45913,16 @@
         "cors": "unknown",
         "url": "https://apify.com/vancura/docling",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Docs",
+        "description": "Show HN: A CLI that writes its own integration code",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://docs.superglue.cloud/getting-started/cli-skills",
+        "discovered_at": "2026-04-15"
     },
     {
         "name": "Doctor Ambrose Blog Scraper",
@@ -75490,6 +75570,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Claw",
+        "description": "Show HN: Make sure your OpenClaw isn't doing things it's not supposed to",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://claw.armoriq.ai/",
+        "discovered_at": "2026-04-15"
+    },
+    {
         "name": "Clawcard",
         "description": "Show HN: Clawcard – Agent inbox, phone number and credit card",
         "category": "Government & Health",
@@ -80873,6 +80963,16 @@
         "discovered_at": "2026-03-13"
     },
     {
+        "name": "Api",
+        "description": "Show HN: Send physical postcards from your coding harness",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://api.melonpost.com/SKILL.md",
+        "discovered_at": "2026-04-15"
+    },
+    {
         "name": "API",
         "description": "Web API for TL mobile and web app",
         "category": "Other",
@@ -80893,6 +80993,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Apipulse",
+        "description": "Show HN: API Changelog Tracker",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apipulse.app/",
+        "discovered_at": "2026-04-15"
+    },
+    {
         "name": "Appnull",
         "description": "Show HN: Null. – Free RSVP speed reader built for ADHD brains",
         "category": "Other",
@@ -80911,6 +81021,16 @@
         "cors": "unknown",
         "url": "https://appsec.fi/en",
         "discovered_at": "2026-03-31"
+    },
+    {
+        "name": "Apropos",
+        "description": "Civilization Is Not the Default. Violence Is",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apropos.substack.com/p/civilization-is-a-public-good",
+        "discovered_at": "2026-04-15"
     },
     {
         "name": "Arcee",
@@ -81713,6 +81833,16 @@
         "discovered_at": "2026-03-21"
     },
     {
+        "name": "En",
+        "description": "Acid-Free Paper",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://en.wikipedia.org/wiki/Acid-free_paper",
+        "discovered_at": "2026-04-15"
+    },
+    {
         "name": "Engram",
         "description": "Show HN: Engram – Open-source agent memory that beats Mem0 by 20% on LOCOMO",
         "category": "Other",
@@ -82313,6 +82443,16 @@
         "discovered_at": "2026-03-21"
     },
     {
+        "name": "Jfrog",
+        "description": "Show HN: Host, share, promote and track release artifacts via your coding agent",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jfrog.com/fly/",
+        "discovered_at": "2026-04-15"
+    },
+    {
         "name": "Jigsawml",
         "description": "Show HN: Live, interactive architecture diagrams for open-source projects",
         "category": "Other",
@@ -82523,6 +82663,16 @@
         "discovered_at": "2026-03-19"
     },
     {
+        "name": "Lumon-live",
+        "description": "Show HN: Lumon, browser agents as interactive sprites",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lumon-live.netlify.app",
+        "discovered_at": "2026-04-15"
+    },
+    {
         "name": "Magaornot",
         "description": "Show HN: MAGA or Not? Political alignment scores for people and companies",
         "category": "Other",
@@ -82531,6 +82681,16 @@
         "cors": "unknown",
         "url": "https://magaornot.ai",
         "discovered_at": "2026-03-23"
+    },
+    {
+        "name": "Marinecharts",
+        "description": "Show HN: Free browser-based vector tile inspector – paste any MVT/PBF URL",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://marinecharts.io/tools/vector-tile-inspector",
+        "discovered_at": "2026-04-15"
     },
     {
         "name": "Markbin",
@@ -83423,6 +83583,16 @@
         "discovered_at": "2026-04-08"
     },
     {
+        "name": "Roy",
+        "description": "REST APIs must be hypertext-driven (2008)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven",
+        "discovered_at": "2026-04-15"
+    },
+    {
         "name": "Royalbhati",
         "description": "HopTab–free,open source macOS app switcher and tiler that replaces Cmd+Tab",
         "category": "Other",
@@ -83733,6 +83903,16 @@
         "discovered_at": "2026-03-28"
     },
     {
+        "name": "Teamdev",
+        "description": "Show HN: MōBrowser, a TypeScript-first desktop app framework with typed IPC",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://teamdev.com/mobrowser/",
+        "discovered_at": "2026-04-15"
+    },
+    {
         "name": "Techcrunch",
         "description": "Google attributes Axios hack to North Korea",
         "category": "Other",
@@ -83941,6 +84121,16 @@
         "cors": "unknown",
         "url": "https://useapparent.com/",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Vaquill",
+        "description": "Show HN: API for 13M+ Indian court cases with citation graphs and vector search",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.vaquill.ai",
+        "discovered_at": "2026-04-15"
     },
     {
         "name": "Vectree",
