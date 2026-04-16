@@ -765,6 +765,16 @@
         "discovered_at": "2026-04-12"
     },
     {
+        "name": "Hormuztrail",
+        "description": "Show HN: Hormuz Trail - Oregon Trail parody/black-box AI coding exercise",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hormuztrail.com/",
+        "discovered_at": "2026-04-16"
+    },
+    {
         "name": "Hugging Face",
         "description": "Host and run ML models with the Inference API",
         "category": "AI & Machine Learning",
@@ -792,6 +802,16 @@
         "cors": "unknown",
         "url": "https://jobbi.app",
         "discovered_at": "2026-03-05"
+    },
+    {
+        "name": "Jonno",
+        "description": "Domain Agents: Teach AI coding agents to evolve your architecture",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jonno.nz/posts/open-source-agent-that-teaches-claude-code-your-architecture/",
+        "discovered_at": "2026-04-16"
     },
     {
         "name": "Kagento",
@@ -1034,6 +1054,16 @@
         "discovered_at": "2026-03-26"
     },
     {
+        "name": "Metabase",
+        "description": "Show HN: We built an AI Agent to reproduce bugs",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.metabase.com/blog/reprobot-github-issue-triage-agent",
+        "discovered_at": "2026-04-16"
+    },
+    {
         "name": "Mistral AI",
         "description": "Powerful open-weight LLMs via API",
         "category": "AI & Machine Learning",
@@ -1041,6 +1071,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://docs.mistral.ai/"
+    },
+    {
+        "name": "Mljar",
+        "description": "Which AI model is best for real data analysis?",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mljar.com/analysis/",
+        "discovered_at": "2026-04-16"
     },
     {
         "name": "Monkepay",
@@ -1797,6 +1837,16 @@
         "cors": "unknown",
         "url": "https://trytet.com",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Unbubble",
+        "description": "Show HN: Glance - An AI fact-checking overlay for X that is actually sustainable",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.unbubble.news/extension",
+        "discovered_at": "2026-04-16"
     },
     {
         "name": "Underpricedai",
@@ -5330,6 +5380,16 @@
         "cors": "unknown",
         "url": "https://www.evolvingintelligence.ai/anno",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "L6e",
+        "description": "Show HN: MCP server gives your agent a budget (save tokens, get smarter results)",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://l6e.ai",
+        "discovered_at": "2026-04-16"
     },
     {
         "name": "Maki",
@@ -76064,6 +76124,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "404privacy",
+        "description": "Show HN: 404 – a localhost proxy that substitutes your device fingerprint",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://404privacy.com/",
+        "discovered_at": "2026-04-16"
+    },
+    {
         "name": "Amd-gaia",
         "description": "GAIA – Open-source framework for building AI agents that run on local hardware",
         "category": "IoT & Hardware",
@@ -76102,6 +76172,16 @@
         "cors": "unknown",
         "url": "https://helloveil.com/sdk/",
         "discovered_at": "2026-03-11"
+    },
+    {
+        "name": "Loudreader",
+        "description": "Show HN: I built on-device TTS app because I run out of audiobooks on a flight",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://loudreader.io",
+        "discovered_at": "2026-04-16"
     },
     {
         "name": "OpenUV - Global Real-Time UV Index Forecast API",
@@ -77813,6 +77893,16 @@
         "cors": "unknown",
         "url": "https://news.artnet.com/art-world/werner-herzog-brooklyn-public-library-pi-day-2754957",
         "discovered_at": "2026-03-22"
+    },
+    {
+        "name": "News",
+        "description": "US Moves to Block Illinois Swipe Fee Law During Banks' Appeal",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://news.bloomberglaw.com/banking-law/us-moves-to-block-illinois-swipe-fee-law-during-banks-appeal",
+        "discovered_at": "2026-04-16"
     },
     {
         "name": "NewsAPI",
@@ -80903,6 +80993,16 @@
         "discovered_at": "2026-03-17"
     },
     {
+        "name": "Aliaskit",
+        "description": "Show HN: AliasKit – API so agents can sign up, pay, and prove who they are",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.aliaskit.com/hn",
+        "discovered_at": "2026-04-16"
+    },
+    {
         "name": "Alignmentforum",
         "description": "Test your interpretability techniques by de-censoring Chinese models",
         "category": "Other",
@@ -81631,6 +81731,16 @@
         "cors": "unknown",
         "url": "https://demoday.work",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Descriptinc",
+        "description": "Show HN: Dependicus, a dashboard for your monorepo's dependencies",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://descriptinc.github.io/dependicus/",
+        "discovered_at": "2026-04-16"
     },
     {
         "name": "Desktalk",
@@ -82933,6 +83043,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Netscopeapp",
+        "description": "Show HN: Netscope – Inspect HAR Files on Your Desktop",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://netscopeapp.com",
+        "discovered_at": "2026-04-16"
+    },
+    {
         "name": "Netwall",
         "description": "Show HN: Netwall",
         "category": "Other",
@@ -83363,6 +83483,16 @@
         "discovered_at": "2026-04-08"
     },
     {
+        "name": "Ptecorepractice",
+        "description": "PTEcorepractice – Free PTE Core Practice Platform for Canada PR Applicants",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ptecorepractice.com",
+        "discovered_at": "2026-04-16"
+    },
+    {
         "name": "Pyrefly",
         "description": "Pandas' Public API Is Now Type-Complete",
         "category": "Other",
@@ -83693,6 +83823,16 @@
         "discovered_at": "2026-03-20"
     },
     {
+        "name": "Shujisado",
+        "description": "Why the World Needs Open Source AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://shujisado.org/2026/04/15/why-the-world-needs-open-source-ai/",
+        "discovered_at": "2026-04-16"
+    },
+    {
         "name": "Sift",
         "description": "Show HN: Sift – 10-12 HN discussions daily, ranked by practitioner depth",
         "category": "Other",
@@ -83831,6 +83971,16 @@
         "cors": "unknown",
         "url": "https://spuddy.sh",
         "discovered_at": "2026-04-13"
+    },
+    {
+        "name": "Stagewise",
+        "description": "Show HN: Stagewise Reads Files Without Depending on the Model API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stagewise.io/news/file-transformation-pipeline",
+        "discovered_at": "2026-04-16"
     },
     {
         "name": "Statusdrop",
@@ -84013,6 +84163,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Tiobe",
+        "description": "Rust's rise shows signs of slowing",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.tiobe.com/tiobe-index/",
+        "discovered_at": "2026-04-16"
+    },
+    {
         "name": "Tontaube",
         "description": "Show HN: I bootstrapped a foundational text-to-speech model from scratch",
         "category": "Other",
@@ -84031,6 +84191,16 @@
         "cors": "unknown",
         "url": "https://trackm.net",
         "discovered_at": "2026-03-21"
+    },
+    {
+        "name": "Tracksuccession",
+        "description": "Show HN: Every CEO and CFO change at US public companies, live from SEC",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tracksuccession.com/explore",
+        "discovered_at": "2026-04-16"
     },
     {
         "name": "Tradefacts",
@@ -84071,6 +84241,16 @@
         "cors": "unknown",
         "url": "https://typedwith.ai/",
         "discovered_at": "2026-03-30"
+    },
+    {
+        "name": "Typefire",
+        "description": "I used Claude to build a free alternative to TextExpander",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://typefire.app",
+        "discovered_at": "2026-04-16"
     },
     {
         "name": "Typewhisper",
@@ -84161,6 +84341,16 @@
         "cors": "unknown",
         "url": "https://viztools.app/",
         "discovered_at": "2026-03-28"
+    },
+    {
+        "name": "Voiden",
+        "description": "Show HN: Voiden – API Workflows as Markdown Files (Obsidian × Curl)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://voiden.md/download",
+        "discovered_at": "2026-04-16"
     },
     {
         "name": "Voie",
@@ -84301,6 +84491,16 @@
         "cors": "unknown",
         "url": "https://www.writermark.org/",
         "discovered_at": "2026-03-23"
+    },
+    {
+        "name": "Xata",
+        "description": "Xata OSS: Postgres platform with branching, now Apache 2.0",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://xata.io/blog/open-source-postgres-branching-copy-on-write",
+        "discovered_at": "2026-04-16"
     },
     {
         "name": "Yaninatrekhleb",
@@ -84757,6 +84957,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://placekitten.com/"
+    },
+    {
+        "name": "Terraink",
+        "description": "Terraink: Free and Open Source Map Poster and Wallpaper Creator",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://terraink.app",
+        "discovered_at": "2026-04-16"
     },
     {
         "name": "Unsplash",
@@ -92064,6 +92274,16 @@
         "url": "https://developer.todoist.com/"
     },
     {
+        "name": "Tokanban",
+        "description": "Show HN: Tokanban, an agent-first task management system",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tokanban.com/",
+        "discovered_at": "2026-04-16"
+    },
+    {
         "name": "Tokopedia Product Scraper 🛍️",
         "description": "Efficiently scrape product data from Tokopedia search results. Extract detailed information including prices, shop details, sales metrics, and more. Perfect for market research, price monitoring, and.",
         "category": "Productivity",
@@ -93529,6 +93749,16 @@
         "cors": "unknown",
         "url": "https://networkedthought.substack.com/p/petrarca-an-intelligent-companion",
         "discovered_at": "2026-04-08"
+    },
+    {
+        "name": "Ntrs",
+        "description": "Free Space Optical Link Utilizing a Modulated Retro-Reflector [pdf]",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ntrs.nasa.gov/api/citations/20200000354/downloads/20200000354.pdf",
+        "discovered_at": "2026-04-16"
     },
     {
         "name": "Numbers API",
