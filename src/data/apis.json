@@ -677,6 +677,16 @@
         "discovered_at": "2026-03-16"
     },
     {
+        "name": "Getstack",
+        "description": "Show HN: Stack – the control plane for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getstack.run/",
+        "discovered_at": "2026-04-17"
+    },
+    {
         "name": "Getwick",
         "description": "Show HN: Wick – censorship circumvention tech repurposed for AI web access",
         "category": "AI & Machine Learning",
@@ -1471,6 +1481,16 @@
         "url": "https://replicate.com/docs"
     },
     {
+        "name": "Resolved",
+        "description": "Show HN: Ask your AI to start a business for you, resolved.sh",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://resolved.sh/",
+        "discovered_at": "2026-04-17"
+    },
+    {
         "name": "Reuters",
         "description": "China AI labs face growing open-source dilemma",
         "category": "AI & Machine Learning",
@@ -1728,6 +1748,16 @@
         "cors": "unknown",
         "url": "https://www.techdirt.com/2026/03/25/ai-might-be-our-best-shot-at-taking-back-the-open-web/",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "The-designengineer",
+        "description": "Show HN: A tool to calculate LLM model API costs when coding",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://the-designengineer.com/model-cost-estimator/",
+        "discovered_at": "2026-04-17"
     },
     {
         "name": "Thehill",
@@ -81513,6 +81543,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Cli",
+        "description": "Show HN: Deepgram releases Deepgram CLI (`dg`) an agent-aware CLI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cli.deepgram.com/",
+        "discovered_at": "2026-04-17"
+    },
+    {
         "name": "clickup20",
         "description": "Polls is a simple API allowing consumers to view polls and vote in them.",
         "category": "Other",
@@ -81591,6 +81631,16 @@
         "cors": "unknown",
         "url": "https://contxt.art/bitforms",
         "discovered_at": "2026-04-10"
+    },
+    {
+        "name": "Covalence",
+        "description": "Show HN: Covalence – Cross-Client Memory for Claude, Cursor, and MCP (macOS)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://covalence.app/",
+        "discovered_at": "2026-04-17"
     },
     {
         "name": "Craigm26",
@@ -82311,6 +82361,16 @@
         "cors": "unknown",
         "url": "https://developer.hetras.com/swagger/spec/HotelAPIv0.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Hmx",
+        "description": "Show HN: Honeymux, a TUI wrapper for tmux that simplifies agent-driven workflows",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hmx.dev",
+        "discovered_at": "2026-04-17"
     },
     {
         "name": "Hnshah",
@@ -83663,6 +83723,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Repscontact",
+        "description": "Show HN: Free API and widget to look up US representatives",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://repscontact.com/",
+        "discovered_at": "2026-04-17"
+    },
+    {
         "name": "Retrospectiveonline",
         "description": "Show HN: Retrospective Online – Sprint Retros for dev teams",
         "category": "Other",
@@ -84101,6 +84171,16 @@
         "cors": "unknown",
         "url": "https://thedream.work/",
         "discovered_at": "2026-04-02"
+    },
+    {
+        "name": "Thepublictab",
+        "description": "Show HN: The Public Tab – See every federal dollar flowing through your district",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thepublictab.com/",
+        "discovered_at": "2026-04-17"
     },
     {
         "name": "Thetimes",
