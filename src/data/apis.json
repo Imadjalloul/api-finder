@@ -90,6 +90,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Aicw",
+        "description": "Show HN: AICW Summarize – widget for asking AI about current page (open-source)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aicw.io/aicw-summarize",
+        "discovered_at": "2026-04-18"
+    },
+    {
         "name": "Ainb",
         "description": "Show HN: Ainb.dev a Jupyter inspired AI notebook that runs in the browser",
         "category": "AI & Machine Learning",
@@ -208,6 +218,16 @@
         "cors": "unknown",
         "url": "https://arc-agi-swarm.vercel.app/",
         "discovered_at": "2026-03-21"
+    },
+    {
+        "name": "Archestra",
+        "description": "Let's talk about AI slop in open source",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://archestra.ai/blog/only-responsible-ai",
+        "discovered_at": "2026-04-18"
     },
     {
         "name": "Arthur",
@@ -792,6 +812,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://huggingface.co/docs/api-inference/"
+    },
+    {
+        "name": "Iamalex-afk",
+        "description": "Show HN: Mind-OS – First free online AI dependency self‑assessment",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://iamalex-afk.github.io/human-os-patch-33-protocols/",
+        "discovered_at": "2026-04-18"
     },
     {
         "name": "Inariwatch",
@@ -2026,6 +2056,16 @@
         "cors": "unknown",
         "url": "https://www.wsj.com/tech/ai/the-people-who-are-using-ai-at-home-to-free-up-their-time-30940cec",
         "discovered_at": "2026-03-29"
+    },
+    {
+        "name": "Yashkapure",
+        "description": "The Guide to Free AI API Keys: 6 Platforms You Need to Know",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.yashkapure.com/en/blog/free-api-key-platforms-for-ai-usage/",
+        "discovered_at": "2026-04-18"
     },
     {
         "name": "Zapcode",
@@ -5152,6 +5192,16 @@
         "discovered_at": "2026-03-31"
     },
     {
+        "name": "Agents",
+        "description": "Show HN: Agents.ml – a public identity page and A2A card for your AI agent",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agents.ml",
+        "discovered_at": "2026-04-18"
+    },
+    {
         "name": "Auth0",
         "description": "Authentication and authorization as a service",
         "category": "Auth & Identity",
@@ -5442,6 +5492,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Nilbox",
+        "description": "Show HN: Nilbox – Run OpenClaw without exposing your API tokens",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nilbox.run/",
+        "discovered_at": "2026-04-18"
+    },
+    {
         "name": "Oxlo",
         "description": "Show HN: Oxlo.ai – AI APIs with unlimited tokens and request based pricing",
         "category": "Blockchain",
@@ -5450,6 +5510,16 @@
         "cors": "unknown",
         "url": "https://www.oxlo.ai/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Repogauge",
+        "description": "Show HN: RepoGauge – save token costs and compare agents on your own repos",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://repogauge.org",
+        "discovered_at": "2026-04-18"
     },
     {
         "name": "Resolvio",
@@ -11569,6 +11639,16 @@
         "cors": "unknown",
         "url": "https://docs.inboxapp.com",
         "discovered_at": "2026-03-11"
+    },
+    {
+        "name": "Ejectify",
+        "description": "Show HN: Ejectify 2 Launched: No More \"Disk Not Ejected Properly\" notifications",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ejectify.app?discount=EJECTIFY2",
+        "discovered_at": "2026-04-18"
     },
     {
         "name": "Firethering",
@@ -42527,6 +42607,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Ai-admissibility",
+        "description": "Show HN: External admission gate for GitHub Actions before execution",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ai-admissibility.com/",
+        "discovered_at": "2026-04-18"
+    },
+    {
         "name": "AI-Powered Web Content & Link Extractor",
         "description": "Crawls websites to extract clean, structured content for AI/LLM use, ideal for training datasets, knowledge bases, and RAG systems. Json output includes: * text: Normalized page content * links:...",
         "category": "Development",
@@ -48175,6 +48265,16 @@
         "discovered_at": "2026-03-21"
     },
     {
+        "name": "Getcomper",
+        "description": "GeoGuessr for Code",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getcomper.ai/blog/open-source-announcement",
+        "discovered_at": "2026-04-18"
+    },
+    {
         "name": "Ghcommits",
         "description": "Show HN: GitHub Commits Leaderboard",
         "category": "Development",
@@ -53805,6 +53905,16 @@
         "cors": "unknown",
         "url": "https://apify.com/lukaskrivka/print-env-vars",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Prismstudio",
+        "description": "Show HN: Prism, one inbox for GitHub and GitLab PRs",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://prismstudio.dev/",
+        "discovered_at": "2026-04-18"
     },
     {
         "name": "Probe Page Resources",
@@ -74466,6 +74576,16 @@
         "url": "https://www.omdbapi.com/"
     },
     {
+        "name": "Planedrift",
+        "description": "Show HN: Planedrift – Play Infocom games in the browser",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://planedrift.app/",
+        "discovered_at": "2026-04-18"
+    },
+    {
         "name": "RAWG",
         "description": "The largest open video games database",
         "category": "Entertainment",
@@ -76214,6 +76334,16 @@
         "discovered_at": "2026-04-16"
     },
     {
+        "name": "Namirsab",
+        "description": "Show HN: An MCP server that lets AI compose music on a hardware synth",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://namirsab.dev/blog/teaching-claude-to-use-my-novation-circuit-tracks-part-3/",
+        "discovered_at": "2026-04-18"
+    },
+    {
         "name": "OpenUV - Global Real-Time UV Index Forecast API",
         "description": "The missing minimalistic JSON real-time UV Index API for awesome Developers, Innovators and Smart Home Enthusiasts",
         "category": "IoT & Hardware",
@@ -77933,6 +78063,16 @@
         "cors": "unknown",
         "url": "https://news.bloomberglaw.com/banking-law/us-moves-to-block-illinois-swipe-fee-law-during-banks-appeal",
         "discovered_at": "2026-04-16"
+    },
+    {
+        "name": "News",
+        "description": "Logfare.ai – Free LLM Inference. No Auth. No Limits",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://news.ycombinator.com/submit",
+        "discovered_at": "2026-04-18"
     },
     {
         "name": "NewsAPI",
@@ -81133,6 +81273,16 @@
         "discovered_at": "2026-04-15"
     },
     {
+        "name": "App",
+        "description": "Show HN: Soforce – Describe a process, get a free automation plan from our team",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.soforce.ai",
+        "discovered_at": "2026-04-18"
+    },
+    {
         "name": "Appnull",
         "description": "Show HN: Null. – Free RSVP speed reader built for ADHD brains",
         "category": "Other",
@@ -81221,6 +81371,16 @@
         "cors": "unknown",
         "url": "https://s3.amazonaws.com/api.specs.byautomata.io/automata_api.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Axiomoverclock",
+        "description": "Free tool for WebP and SVG optimization. Privat data",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://axiomoverclock.ca/",
+        "discovered_at": "2026-04-18"
     },
     {
         "name": "Axiora",
@@ -82433,6 +82593,16 @@
         "discovered_at": "2026-04-09"
     },
     {
+        "name": "Ibanforge",
+        "description": "Show HN: IBANforge – $6/mo alternative to $9,500/yr IBAN validation APIs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.ibanforge.com/en",
+        "discovered_at": "2026-04-18"
+    },
+    {
         "name": "Idontuselinkedin",
         "description": "Show HN: Idontuselinkedin.com",
         "category": "Other",
@@ -83331,6 +83501,16 @@
         "cors": "unknown",
         "url": "https://panel-panic.com",
         "discovered_at": "2026-03-02"
+    },
+    {
+        "name": "Paperlantern",
+        "description": "Show HN: Paper Lantern – on-demand techniques from 2M+ papers for coding agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.paperlantern.ai/code",
+        "discovered_at": "2026-04-18"
     },
     {
         "name": "Par-ai",
@@ -84581,6 +84761,16 @@
         "cors": "unknown",
         "url": "https://xata.io/blog/open-source-postgres-branching-copy-on-write",
         "discovered_at": "2026-04-16"
+    },
+    {
+        "name": "Xcancel",
+        "description": "Universal INCOME via check is best way to deal with unemployment caused by AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://xcancel.com/elonmusk/status/2044990537145753894#m",
+        "discovered_at": "2026-04-18"
     },
     {
         "name": "Yaninatrekhleb",
@@ -96070,6 +96260,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Wordfor",
+        "description": "Show HN: WordFor – a free, open, private reverse dictionary running on browser",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wordfor.xyz/",
+        "discovered_at": "2026-04-18"
+    },
+    {
         "name": "Yesify",
         "description": "Show HN: Yesify – We raised $40M to return the word \"yes\" from an API endpoint",
         "category": "Text & Language",
@@ -96623,6 +96823,16 @@
         "url": "https://www.uuidtools.com/api"
     },
     {
+        "name": "Victorpoughon",
+        "description": "Show HN: I made a calculator that works over disjoint sets of intervals",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://victorpoughon.github.io/interval-calculator/",
+        "discovered_at": "2026-04-18"
+    },
+    {
         "name": "Workflowpick",
         "description": "Free calculator: Zapier pricing vs. Make.com, Pabbly Connect, and n8n",
         "category": "Utilities",
@@ -96799,6 +97009,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/nexmo/api-specification/master/definitions/media.yml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Podads",
+        "description": "Show HN: Podads – An Ad Blocker for Your Podcasts",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://podads.yet-to-be.com/",
+        "discovered_at": "2026-04-18"
     },
     {
         "name": "Resilientcyber",
