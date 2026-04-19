@@ -78008,6 +78008,16 @@
         "discovered_at": "2026-03-11"
     },
     {
+        "name": "Euronews",
+        "description": "Berlin offers free entry for litter picking to make tourists do their bit",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.euronews.com/my-europe/2026/04/16/berlin-offers-free-entry-for-litter-picking-to-make-tourists-do-their-bit",
+        "discovered_at": "2026-04-19"
+    },
+    {
         "name": "GNews",
         "description": "Search news articles from multiple sources worldwide",
         "category": "News",
@@ -84563,6 +84573,16 @@
         "discovered_at": "2026-04-14"
     },
     {
+        "name": "Utcc",
+        "description": "Tiny Go and Rust programs appear to start equally fast (on some machines)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoVsRustStartupDelays",
+        "discovered_at": "2026-04-19"
+    },
+    {
         "name": "Vaquill",
         "description": "Show HN: API for 13M+ Indian court cases with citation graphs and vector search",
         "category": "Other",
@@ -85180,6 +85200,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://picsum.photos/"
+    },
+    {
+        "name": "Makevideofromphoto",
+        "description": "Show HN: Make Video from Photo for Free",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://makevideofromphoto.com/",
+        "discovered_at": "2026-04-19"
     },
     {
         "name": "Nobolee88",
@@ -94740,6 +94770,16 @@
         "cors": "unknown",
         "url": "https://burnroom.chat",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Community",
+        "description": "ChatGPT plan purchasing bug: Free to buy",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://community.openai.com/t/security-report-apple-pay-receipt-validation-does-not-bind-to-purchaser-apple-id-potential-subscription-bypass/1379167",
+        "discovered_at": "2026-04-19"
     },
     {
         "name": "Conkoa",
