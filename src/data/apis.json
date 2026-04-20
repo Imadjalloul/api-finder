@@ -557,6 +557,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "E10v",
+        "description": "Open source contribution and job search as matching markets under AI congestion",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://e10v.me/matching-markets-congestion/",
+        "discovered_at": "2026-04-20"
+    },
+    {
         "name": "Efficienist",
         "description": "Netflix just released its first public AI model, because why not",
         "category": "AI & Machine Learning",
@@ -587,6 +597,16 @@
         "discovered_at": "2026-04-08"
     },
     {
+        "name": "Fabraix",
+        "description": "Show HN: Nyx – multi-turn, adaptive, offensive testing harness for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fabraix.com",
+        "discovered_at": "2026-04-20"
+    },
+    {
         "name": "Factagora",
         "description": "Show HN: AI agents debating questions that stump LLMs",
         "category": "AI & Machine Learning",
@@ -595,6 +615,16 @@
         "cors": "unknown",
         "url": "https://factagora.com/",
         "discovered_at": "2026-03-18"
+    },
+    {
+        "name": "Feralhq",
+        "description": "Show HN: FeralHq – The funniest AI driven content generation engine",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://feralhq.com/",
+        "discovered_at": "2026-04-20"
     },
     {
         "name": "Feynman",
@@ -1211,6 +1241,16 @@
         "cors": "unknown",
         "url": "https://www.nightmarket.ai/",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Nmn",
+        "description": "AI Is Killing Open Source SaaS Too",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nmn.gl/blog/open-source-killed-ai",
+        "discovered_at": "2026-04-20"
     },
     {
         "name": "Noetron",
@@ -1997,6 +2037,16 @@
         "cors": "unknown",
         "url": "https://www.vr.dev/",
         "discovered_at": "2026-03-11"
+    },
+    {
+        "name": "Webagentbride",
+        "description": "Web Agent Bridge – An Open-Source OS for AI Agents (MIT and Open Core)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://webagentbride.com",
+        "discovered_at": "2026-04-20"
     },
     {
         "name": "Websites2know",
@@ -5756,6 +5806,16 @@
         "cors": "unknown",
         "url": "https://www.opsorch.com/",
         "discovered_at": "2026-03-16"
+    },
+    {
+        "name": "Passmark",
+        "description": "Passmark: Open-source Playwright library for AI regression testing",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://passmark.dev",
+        "discovered_at": "2026-04-20"
     },
     {
         "name": "PoetryDB",
@@ -11266,6 +11326,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Ffmpeg-api",
+        "description": "Show HN: FFmpeg API Cloud – Run FFmpeg over HTTP",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ffmpeg-api.cloud",
+        "discovered_at": "2026-04-20"
+    },
+    {
         "name": "Files",
         "description": "Upload and manage files.",
         "category": "Cloud & Storage",
@@ -11301,6 +11371,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://apidocs.imgur.com/"
+    },
+    {
+        "name": "Infrawiseai",
+        "description": "Show HN: Infrawise Azure Cloud Optimization",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://infrawiseai.com",
+        "discovered_at": "2026-04-20"
     },
     {
         "name": "Kampfinsel",
@@ -11380,6 +11460,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://pastebin.com/doc_api"
+    },
+    {
+        "name": "Rigorcloud",
+        "description": "Show HN: Rigor – Anti-Enshittification Proxy for Your AI Agents",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rigorcloud.com/",
+        "discovered_at": "2026-04-20"
     },
     {
         "name": "Rmirror",
@@ -11599,6 +11689,16 @@
         "cors": "unknown",
         "url": "https://www.agentmailr.com/",
         "discovered_at": "2026-03-16"
+    },
+    {
+        "name": "App",
+        "description": "Show HN: Qapir – Generate API tests automatically from docs",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.qapir.io/",
+        "discovered_at": "2026-04-20"
     },
     {
         "name": "Clarity",
@@ -73591,6 +73691,16 @@
         "discovered_at": "2026-03-24"
     },
     {
+        "name": "Quiz",
+        "description": "Show HN: A free, offline-capable math quiz app",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://quiz.neuralrad.com",
+        "discovered_at": "2026-04-20"
+    },
+    {
         "name": "Steadcast",
         "description": "Show HN: Steadcast – Free Mac podcast player for learning, not background noise",
         "category": "Education",
@@ -75800,6 +75910,16 @@
         "discovered_at": "2026-03-12"
     },
     {
+        "name": "Coloradosun",
+        "description": "In Telluride, regulations designed to help renters drive many out of town",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://coloradosun.com/2026/04/19/telluride-rent-regulations-renters-affordability-shandoka-sunnyside-voodoo-apartments/",
+        "discovered_at": "2026-04-20"
+    },
+    {
         "name": "COVID-19",
         "description": "Coronavirus statistics and tracking data",
         "category": "Government & Health",
@@ -76372,6 +76492,16 @@
         "cors": "unknown",
         "url": "https://signalcend.com/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Tomshardware",
+        "description": "Apollo 11 code open-sourced by NASA – Command Module and Lunar Module code repos",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.tomshardware.com/software/original-apollo-11-code-open-sourced-by-nasa-original-command-module-and-lunar-module-code-repos-are-now-public-domain-resources",
+        "discovered_at": "2026-04-20"
     },
     {
         "name": "API Reference - Ideal Postcodes",
@@ -81383,6 +81513,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Auxx",
+        "description": "Show HN: Auxx.ai – Customer Support CRM (Mix of Attio and N8n)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://auxx.ai",
+        "discovered_at": "2026-04-20"
+    },
+    {
         "name": "Axiomoverclock",
         "description": "Free tool for WebP and SVG optimization. Privat data",
         "category": "Other",
@@ -81751,6 +81891,16 @@
         "cors": "unknown",
         "url": "https://coached.com/career-deep-read",
         "discovered_at": "2026-03-24"
+    },
+    {
+        "name": "Coelanox",
+        "description": "Show HN: Coelanox – auditable inference runtime in Rust (BERT runs today)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.coelanox.com/",
+        "discovered_at": "2026-04-20"
     },
     {
         "name": "Coindesk",
@@ -82823,6 +82973,16 @@
         "discovered_at": "2026-03-11"
     },
     {
+        "name": "Juanpabloaj",
+        "description": "Show HN: A lightweight way to make agents talk without paying for API usage",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/",
+        "discovered_at": "2026-04-20"
+    },
+    {
         "name": "Kaxil",
         "description": "Server-Side MCP vs. CLIs vs. REST APIs: When Each Wins",
         "category": "Other",
@@ -83041,6 +83201,16 @@
         "cors": "unknown",
         "url": "https://marinecharts.io/tools/vector-tile-inspector",
         "discovered_at": "2026-04-15"
+    },
+    {
+        "name": "Marius-ciclistu",
+        "description": "Show HN: A Roman fable about a PHP suite that exposed 100 tables in 3 days",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://marius-ciclistu.medium.com/list/the-api-grand-prix-486dc1becb36",
+        "discovered_at": "2026-04-20"
     },
     {
         "name": "Markbin",
@@ -84193,6 +84363,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Solyto",
+        "description": "Show HN: Solyto – a free, open-source all-in-one personal management app",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://solyto.app",
+        "discovered_at": "2026-04-20"
+    },
+    {
         "name": "Somniavault",
         "description": "Show HN: Somnia – a dream journal that locks 2 minutes after your alarm fires",
         "category": "Other",
@@ -84571,6 +84751,16 @@
         "cors": "unknown",
         "url": "https://useapparent.com/",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Users",
+        "description": "NNA (Natural Number Array)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://users.rust-lang.org/t/this-is-my-first-project-i-invented-a-new-algorithm-that-even-ai-dont-know-its-about-bigint-and-im-15-thanks-for-watching-by-the-way-my-crate-named-nna/139633",
+        "discovered_at": "2026-04-20"
     },
     {
         "name": "Utcc",
@@ -94435,6 +94625,16 @@
         "url": "https://haveibeenpwned.com/API/v3"
     },
     {
+        "name": "Heise",
+        "description": "EU age verification app: \"Worry-free package\" with security vulnerabilities",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.heise.de/en/news/EU-age-verification-app-Worry-free-package-with-security-vulnerabilities-11262921.html",
+        "discovered_at": "2026-04-20"
+    },
+    {
         "name": "Ipinsights",
         "description": "Show HN: Ipinsights.io – Free IP threat intelligence with API",
         "category": "Security",
@@ -96726,6 +96926,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://countapi.xyz/"
+    },
+    {
+        "name": "Cutearr",
+        "description": "Show HN: I couldn't find any BS-free QR code generator, so I built one",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.cutearr.com/",
+        "discovered_at": "2026-04-20"
     },
     {
         "name": "Gitauto",
