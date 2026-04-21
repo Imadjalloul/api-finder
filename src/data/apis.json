@@ -448,6 +448,16 @@
         "url": "https://docs.cohere.com/"
     },
     {
+        "name": "Console",
+        "description": "Show HN: Seltz – The fastest, high quality, search API for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://console.seltz.ai/login",
+        "discovered_at": "2026-04-21"
+    },
+    {
         "name": "Conspicuouscognition",
         "description": "AI Will Reshape Public Opinion",
         "category": "AI & Machine Learning",
@@ -11838,6 +11848,16 @@
         "cors": "unknown",
         "url": "https://www.mailparse.dev",
         "discovered_at": "2026-03-15"
+    },
+    {
+        "name": "Mailto",
+        "description": "Show HN: Mailto.Bot – Email API for AI agents with native MCP support",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mailto.bot",
+        "discovered_at": "2026-04-21"
     },
     {
         "name": "Marcoapp",
@@ -75939,6 +75959,16 @@
         "discovered_at": "2026-04-11"
     },
     {
+        "name": "Flyingpenguin",
+        "description": "OpenClaw isn't fooling me. I remember MS-DOS",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
+        "discovered_at": "2026-04-21"
+    },
+    {
         "name": "HealthCare.gov",
         "description": "U.S. healthcare marketplace articles and glossary",
         "category": "Government & Health",
@@ -76404,6 +76434,16 @@
         "discovered_at": "2026-04-16"
     },
     {
+        "name": "Aigadgetexpert",
+        "description": "Smart Home for Beginners: Where to Start",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aigadgetexpert.com/best-smart-home-beginners-2026",
+        "discovered_at": "2026-04-21"
+    },
+    {
         "name": "Amd-gaia",
         "description": "GAIA – Open-source framework for building AI agents that run on local hardware",
         "category": "IoT & Hardware",
@@ -76422,6 +76462,16 @@
         "cors": "unknown",
         "url": "https://www.crowdsupply.com/candysign/hummingkit",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Cyberwriter",
+        "description": "Show HN: CyberWriter – a .md editor built on Apple's (barely-used) on-device AI",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cyberwriter.app",
+        "discovered_at": "2026-04-21"
     },
     {
         "name": "Google Home",
@@ -77052,6 +77102,16 @@
         "cors": "unknown",
         "url": "https://feedvote.app/linear",
         "discovered_at": "2026-03-06"
+    },
+    {
+        "name": "Geofastmap",
+        "description": "Show HN: GeoFastMapAPI – open-source Fast vector and raster server for mapmakers",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://geofastmap.com/",
+        "discovered_at": "2026-04-21"
     },
     {
         "name": "Georgelarson",
@@ -82483,6 +82543,16 @@
         "discovered_at": "2026-03-10"
     },
     {
+        "name": "Galaxybrain",
+        "description": "Show HN: GalaxyBrain – an information operating system powered by local files",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://galaxybrain.com",
+        "discovered_at": "2026-04-21"
+    },
+    {
         "name": "Gasnearme",
         "description": "Show HN: Crowd-sourced LPG cylinder availability tracker for India's gas crisis",
         "category": "Other",
@@ -83071,6 +83141,16 @@
         "cors": "unknown",
         "url": "https://kontext.dev/blog/announcing-kontext",
         "discovered_at": "2026-03-21"
+    },
+    {
+        "name": "Kvark",
+        "description": "Local ML inference benchmark: PyTorch vs. llama.cpp vs. the Rust ecosystem",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": false,
+        "cors": "unknown",
+        "url": "http://kvark.github.io/ai/performance/2026/04/19/tales-from-the-inference-land.html",
+        "discovered_at": "2026-04-21"
     },
     {
         "name": "Lasersell",
@@ -97520,5 +97600,15 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.weatherbit.io/api"
+    },
+    {
+        "name": "What2wear-two",
+        "description": "Show HN: Website that recommends outfit using weather and AI",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://what2wear-two.vercel.app",
+        "discovered_at": "2026-04-21"
     }
 ]
