@@ -1,5 +1,15 @@
 [
     {
+        "name": "12gramsofcarbon",
+        "description": "OSS Maintainers Need an Answer to AI Clean Rooms",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://12gramsofcarbon.com/p/open-source-maintainers-need-an-answer",
+        "discovered_at": "2026-04-22"
+    },
+    {
         "name": "Aawu",
         "description": "Show HN: I built a labor union for AI agents",
         "category": "AI & Machine Learning",
@@ -18,6 +28,16 @@
         "cors": "unknown",
         "url": "https://aegissolisarchive.org/",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Agensi",
+        "description": "Show HN: Agensi – Curated marketplace for AI agent skills (SKILL.md)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.agensi.io",
+        "discovered_at": "2026-04-22"
     },
     {
         "name": "Agent-smith",
@@ -228,6 +248,16 @@
         "cors": "unknown",
         "url": "https://archestra.ai/blog/only-responsible-ai",
         "discovered_at": "2026-04-18"
+    },
+    {
+        "name": "Arize",
+        "description": "Code is free, technical debt isn't: Notes from AI Engineer Europe",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://arize.com/blog/code-is-free-technical-debt-isnt-notes-from-ai-engineer-europe/",
+        "discovered_at": "2026-04-22"
     },
     {
         "name": "Arthur",
@@ -597,6 +627,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Elvean",
+        "description": "Show HN: Modern AI client for Mac with agentic tools, clean UI, builtin privacy",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://elvean.app/",
+        "discovered_at": "2026-04-22"
+    },
+    {
         "name": "Enterprise",
         "description": "Show HN: Factagora API – Before your AI hallucinates, Factagora verifies",
         "category": "AI & Machine Learning",
@@ -675,6 +715,16 @@
         "cors": "unknown",
         "url": "https://frogapi.app",
         "discovered_at": "2026-03-01"
+    },
+    {
+        "name": "Gabidev",
+        "description": "Show HN: An AI workflow to automate your LinkedIn job search",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gabidev.gumroad.com/l/grasshopper",
+        "discovered_at": "2026-04-22"
     },
     {
         "name": "Gallup",
@@ -872,6 +922,16 @@
         "cors": "unknown",
         "url": "https://www.inariwatch.com/",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Interest",
+        "description": "NZ is using AI to take minutes and draft honours citations",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.interest.co.nz/public-policy/137822/new-zealand-using-ai-take-minutes-and-draft-honours-citations-other-side",
+        "discovered_at": "2026-04-22"
     },
     {
         "name": "Jobbi",
@@ -1163,6 +1223,16 @@
         "discovered_at": "2026-04-16"
     },
     {
+        "name": "Model-x",
+        "description": "Show HN: ModelX – Prediction Exchange for LLMs",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://model-x.up.railway.app/",
+        "discovered_at": "2026-04-22"
+    },
+    {
         "name": "Monkepay",
         "description": "Show HN: MonkePay – Charge AI Agents per API Request in USDC",
         "category": "AI & Machine Learning",
@@ -1261,6 +1331,16 @@
         "cors": "unknown",
         "url": "https://nmn.gl/blog/open-source-killed-ai",
         "discovered_at": "2026-04-20"
+    },
+    {
+        "name": "Nodeops",
+        "description": "Show HN: AI agents deploy apps autonomously (no accounts, no API keys)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nodeops.network/createos/docs/MPP/Overview",
+        "discovered_at": "2026-04-22"
     },
     {
         "name": "Noetron",
@@ -1691,6 +1771,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Sigmashake",
+        "description": "Show HN: AI Coding Agent Guardrails enforced at runtime",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sigmashake.com",
+        "discovered_at": "2026-04-22"
+    },
+    {
         "name": "Signb",
         "description": "Show HN: Signbee – An API that lets AI agents send documents for signature",
         "category": "AI & Machine Learning",
@@ -1758,6 +1848,16 @@
         "cors": "unknown",
         "url": "https://studio.swiperjs.com",
         "discovered_at": "2026-04-08"
+    },
+    {
+        "name": "Sungeuns",
+        "description": "Foundation Model Engineering: A free textbook for AI engineers",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sungeuns.github.io/founation-model-engineering/",
+        "discovered_at": "2026-04-22"
     },
     {
         "name": "Superhq",
@@ -5387,6 +5487,16 @@
         "discovered_at": "2026-03-08"
     },
     {
+        "name": "Togetherletters",
+        "description": "Show HN: TogetherLetters – Group newsletters with no app, no feed, no login",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.togetherletters.com",
+        "discovered_at": "2026-04-22"
+    },
+    {
         "name": "Weykon",
         "description": "Show HN: Agent Hand – Tmux session manager for AI coding agents (Rust)",
         "category": "Auth & Identity",
@@ -5610,6 +5720,16 @@
         "cors": "unknown",
         "url": "https://tamp.dev",
         "discovered_at": "2026-04-02"
+    },
+    {
+        "name": "Tokenizer",
+        "description": "Show HN: Actual Claude Tokenizer",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tokenizer.robkopel.me",
+        "discovered_at": "2026-04-22"
     },
     {
         "name": "Tokenmonopoly",
@@ -11699,6 +11819,16 @@
         "cors": "unknown",
         "url": "https://www.agentmailr.com/",
         "discovered_at": "2026-03-16"
+    },
+    {
+        "name": "Aideassistant",
+        "description": "Show HN: Aide – A customizable Android assistant (voice, choose your provider)",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aideassistant.com/",
+        "discovered_at": "2026-04-22"
     },
     {
         "name": "App",
@@ -29587,6 +29717,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Mintypick",
+        "description": "Cognitive self-test (reaction/memory/Stroop), AI coach, open dataset",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mintypick.com/brain-scan",
+        "discovered_at": "2026-04-22"
+    },
+    {
         "name": "MioDottore scraper",
         "description": "Extract detailed info from miodottore.it: names, addresses, specialties, coordinates, images, and profile links. Ideal for directories, medical trends analysis, and app integration. Easy setup on...",
         "category": "Data & Analytics",
@@ -44017,6 +44157,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Bendansby",
+        "description": "Show HN: Designer creates first app, with Claude Code",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bendansby.com/cest/",
+        "discovered_at": "2026-04-22"
+    },
+    {
         "name": "Best Tiktok Following Scraper",
         "description": "Extract the list of TikTok accounts a user is following, including their usernames, bios, follower counts, and more. Just enter one or more TikTok usernames and get structured data for research,...",
         "category": "Development",
@@ -47795,6 +47945,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Fittohire",
+        "description": "Show HN: We replaced 5 ML models with 1 shared encoder on an $11/month VPS",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fittohire.com",
+        "discovered_at": "2026-04-22"
+    },
+    {
         "name": "Flight Availibilities Search",
         "description": "Before using this API, we recommend you read our **[Authorization Guide](https://developers.amadeus.com/self-service/apis-docs/guides/authorization-262)** for more information on how to generate an a",
         "category": "Development",
@@ -49140,6 +49300,16 @@
         "cors": "unknown",
         "url": "https://apify.com/fatihtahta/grab-food-restaurants-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Graphcompose",
+        "description": "Show HN: Graph Compose – Temporal workflows with visual builder, SDK, and AI",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.graphcompose.io/",
+        "discovered_at": "2026-04-22"
     },
     {
         "name": "GraphQL Extractor",
@@ -51918,6 +52088,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Marketplace",
+        "description": "Show HN: New way to explore code in vs. code ( vs. code extension)",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://marketplace.visualstudio.com/items?itemName=AhmedRakan.structura-v2",
+        "discovered_at": "2026-04-22"
+    },
+    {
         "name": "Marketplace API",
         "description": "The **Marketplace API** enables marketplaces and sellers hosted on VTEX to perform their collaborative operations.  \r\n\r\n>⚠️ The marketplace must [create an appKey and appToken](https://developers.vt",
         "category": "Development",
@@ -53036,6 +53216,16 @@
         "cors": "unknown",
         "url": "https://apify.com/danielmilevski9/google-maps-pins-map-ocr",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Octokraft",
+        "description": "Heritage vs. AI: code quality across popular open source projects",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://octokraft.com/blog/heritage-vs-ai-24-open-source-projects/",
+        "discovered_at": "2026-04-22"
     },
     {
         "name": "Octopus-review",
@@ -74561,6 +74751,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Arcadelab",
+        "description": "Show HN: Easily share games made by you/ your kids/ your dog etc.",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://arcadelab.ai",
+        "discovered_at": "2026-04-22"
+    },
+    {
         "name": "Bal",
         "description": "Show HN: Bal – a Knights and Knaves logic puzzle game with Glicko rating system",
         "category": "Entertainment",
@@ -75908,6 +76108,16 @@
         "cors": "unknown",
         "url": "https://app.healthporta.com/mcp",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "App",
+        "description": "Show HN: Octokraft – code health and PR review for AI-assisted teams",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.octokraft.com",
+        "discovered_at": "2026-04-22"
     },
     {
         "name": "Claw",
@@ -81243,6 +81453,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "1clicklinux",
+        "description": "Show HN: Linux installer .exe without pendrives (secure-boot compatible)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.1clicklinux.org/",
+        "discovered_at": "2026-04-22"
+    },
+    {
         "name": "3dsvg",
         "description": "Show HN: I built a free open-source SVG to 3D tool",
         "category": "Other",
@@ -81261,6 +81481,16 @@
         "cors": "unknown",
         "url": "https://a2apex.io",
         "discovered_at": "2026-03-13"
+    },
+    {
+        "name": "Abigail",
+        "description": "I made a research test suite for analysis of software metrics overtime",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://abigail.sh/writing/historical-analysis-of-software-metrics/",
+        "discovered_at": "2026-04-22"
     },
     {
         "name": "Absentkey",
@@ -81311,6 +81541,16 @@
         "cors": "unknown",
         "url": "https://agentplace.io/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Aibodh",
+        "description": "The Impatient Programmer's Guide to Bevy and Rust: Ch 12 Let There Be Networking",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aibodh.com/posts/bevy-rust-game-development-chapter-12/",
+        "discovered_at": "2026-04-22"
     },
     {
         "name": "Aisaastemplate",
@@ -81403,6 +81643,16 @@
         "discovered_at": "2026-03-14"
     },
     {
+        "name": "Andycappdev",
+        "description": "Show HN: Stet – PostScript Level 3 interpreter and PDF toolkit in Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://andycappdev.github.io/stet/",
+        "discovered_at": "2026-04-22"
+    },
+    {
         "name": "Animaj",
         "description": "Integrating Rust into ML Workflows",
         "category": "Other",
@@ -81431,6 +81681,26 @@
         "cors": "unknown",
         "url": "https://anything.notte.cc/",
         "discovered_at": "2026-03-13"
+    },
+    {
+        "name": "Apeirron",
+        "description": "Apeirron – open-source knowledge graph of humanity's biggest questions",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.apeirron.com",
+        "discovered_at": "2026-04-22"
+    },
+    {
+        "name": "Aperturasdeajedrez",
+        "description": "Show HN: Minimal visual chess openings explorer",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aperturasdeajedrez.com.ar/en/",
+        "discovered_at": "2026-04-22"
     },
     {
         "name": "Api",
@@ -81491,6 +81761,16 @@
         "cors": "unknown",
         "url": "https://www.appnull.com/landing",
         "discovered_at": "2026-03-30"
+    },
+    {
+        "name": "Apps",
+        "description": "Show HN: A document snapshot solution to counter backups with name \"Final_final\"",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apps.microsoft.com/detail/9nsd7jd58g17?hl=en-US&gl=US",
+        "discovered_at": "2026-04-22"
     },
     {
         "name": "Appsec",
@@ -81601,6 +81881,16 @@
         "cors": "unknown",
         "url": "https://axiora.dev/en",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Bacist",
+        "description": "Show HN: Irregular German Verbs – a simple app, no ads or tracking",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bacist.com/german-irregular-verbs-app/",
+        "discovered_at": "2026-04-22"
     },
     {
         "name": "Bambuddy",
@@ -81721,6 +82011,16 @@
         "cors": "unknown",
         "url": "https://blog.ivankahl.com/practical-guide-to-modeling-business-processes-in-rest-apis/",
         "discovered_at": "2026-04-02"
+    },
+    {
+        "name": "Blogmaker",
+        "description": "Show HN: I built a blogging platform (5 years in, struggling with distribution)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blogmaker.app/",
+        "discovered_at": "2026-04-22"
     },
     {
         "name": "Blogs",
@@ -82313,6 +82613,16 @@
         "discovered_at": "2026-04-08"
     },
     {
+        "name": "Docs",
+        "description": "Show HN: DataFrey – MCP server for Snowflake with text-to-SQL agent",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://docs.datafrey.ai",
+        "discovered_at": "2026-04-22"
+    },
+    {
         "name": "Domains",
         "description": "Domains API",
         "category": "Other",
@@ -82431,6 +82741,16 @@
         "cors": "unknown",
         "url": "https://ezorro.app/",
         "discovered_at": "2026-03-05"
+    },
+    {
+        "name": "Family-tree-maker",
+        "description": "Show HN: Family Tree Maker",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://family-tree-maker.mnapoli.fr/",
+        "discovered_at": "2026-04-22"
     },
     {
         "name": "Familytreeeasy",
@@ -83383,6 +83703,16 @@
         "discovered_at": "2026-03-02"
     },
     {
+        "name": "Mcpfinder",
+        "description": "Show HN: MCPfinder – An MCP server that finds and installs other MCP servers",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mcpfinder.dev/",
+        "discovered_at": "2026-04-22"
+    },
+    {
         "name": "Mcpx",
         "description": "A Solution to the MCP and REST API Problem",
         "category": "Other",
@@ -83843,6 +84173,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Perryts",
+        "description": "Perry, a TypeScript compiler written in Rust that targets nine platforms",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.perryts.com/",
+        "discovered_at": "2026-04-22"
+    },
+    {
         "name": "Personality",
         "description": "Show HN: Dev Personality Test",
         "category": "Other",
@@ -83981,6 +84321,16 @@
         "cors": "unknown",
         "url": "https://promptjuggler.com",
         "discovered_at": "2026-04-08"
+    },
+    {
+        "name": "Protowall",
+        "description": "Show HN: ProtoWall – NDA wall and reverse proxy for sharing prototypes",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://protowall.app",
+        "discovered_at": "2026-04-22"
     },
     {
         "name": "Ptecorepractice",
@@ -84343,6 +84693,16 @@
         "discovered_at": "2026-04-16"
     },
     {
+        "name": "Sidequick",
+        "description": "SideQuick – A free desktop app to stop abandoning side projects",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.sidequick.co",
+        "discovered_at": "2026-04-22"
+    },
+    {
         "name": "Sift",
         "description": "Show HN: Sift – 10-12 HN discussions daily, ranked by practitioner depth",
         "category": "Other",
@@ -84571,6 +84931,16 @@
         "cors": "unknown",
         "url": "https://sylve.io",
         "discovered_at": "2026-03-28"
+    },
+    {
+        "name": "Tapfi",
+        "description": "Show HN: TapFi – Join any WiFi just by scanning the details with your camera",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tapfi.uno/",
+        "discovered_at": "2026-04-22"
     },
     {
         "name": "Teamdev",
@@ -85461,6 +85831,16 @@
         "cors": "unknown",
         "url": "https://geoquests.io",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Hushbee",
+        "description": "HushBee – Open-source Python engine for redacting PII in images, PDFs, & sheets",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hushbee.app/engine/",
+        "discovered_at": "2026-04-22"
     },
     {
         "name": "Lorem Picsum",
@@ -95130,6 +95510,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Photon",
+        "description": "Show HN: Spectrum – Deploy AI Agents to iMessage, WhatsApp, Telegram, and More",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://photon.codes/spectrum",
+        "discovered_at": "2026-04-22"
+    },
+    {
         "name": "Pincer",
         "description": "Show HN: Pincer – Twitter/X for bots. No humans allowed",
         "category": "Social",
@@ -97171,6 +97561,16 @@
         "cors": "unknown",
         "url": "https://workflowpick.com/zapier-pricing-calculator/",
         "discovered_at": "2026-03-24"
+    },
+    {
+        "name": "404media",
+        "description": "AI Tool Rips Off Open Source Software Without Violating Copyright",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.404media.co/this-ai-tool-rips-off-open-source-software-without-violating-copyright/",
+        "discovered_at": "2026-04-22"
     },
     {
         "name": "Audioeditor",
