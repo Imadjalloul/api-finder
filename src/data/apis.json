@@ -290,6 +290,16 @@
         "discovered_at": "2026-03-18"
     },
     {
+        "name": "Athletedata",
+        "description": "Show HN: AthleteData – AI coach for endurance athletes that messages you first",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.athletedata.health",
+        "discovered_at": "2026-04-23"
+    },
+    {
         "name": "Autoicdapi",
         "description": "Show HN: AutoICD API – AI clinical coding platform for ICD-10 and SNOMED",
         "category": "AI & Machine Learning",
@@ -1034,6 +1044,16 @@
         "discovered_at": "2026-04-03"
     },
     {
+        "name": "Librethinker",
+        "description": "Show HN: LibreThinker, free AI assistant for LibreOffice Writer, 10k installs",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://librethinker.com/",
+        "discovered_at": "2026-04-23"
+    },
+    {
         "name": "Limits",
         "description": "Show HN: Limits – Control layer for AI agents that take real actions",
         "category": "AI & Machine Learning",
@@ -1381,6 +1401,16 @@
         "cors": "unknown",
         "url": "https://noxscan.io/",
         "discovered_at": "2026-04-10"
+    },
+    {
+        "name": "Ohita",
+        "description": "Show HN: Ohita – a tool to simplify API key management for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ohita.tech/",
+        "discovered_at": "2026-04-23"
     },
     {
         "name": "One-man-company",
@@ -11871,6 +11901,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Deadsimple",
+        "description": "Show HN: Dead Simple Email – Email API for AI Agents",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://deadsimple.email/",
+        "discovered_at": "2026-04-23"
+    },
+    {
         "name": "Docs",
         "description": "Show HN: Inbox – An API and MCP server for managing DMs programmatically",
         "category": "Communication",
@@ -12048,6 +12088,16 @@
         "cors": "unknown",
         "url": "https://plasas.com",
         "discovered_at": "2026-03-23"
+    },
+    {
+        "name": "Platform",
+        "description": "Show HN: CatchAll – slowest web search API that outperforms everything on recall",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://platform.newscatcherapi.com/catchall/try",
+        "discovered_at": "2026-04-23"
     },
     {
         "name": "SendGrid",
@@ -71591,6 +71641,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Trainlyai",
+        "description": "Show HN: Trainly – Free 72-hour audit of your AI agent's production traces",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.trainlyai.com/audit",
+        "discovered_at": "2026-04-23"
+    },
+    {
         "name": "trayv/my-actor",
         "description": "I fully manage an online store www.elitetreasuresclub.shop and is a current Pro member with Advanced performance and security features on Cloudflare.",
         "category": "E-Commerce",
@@ -73889,6 +73949,16 @@
         "cors": "unknown",
         "url": "https://mediquest-en.vercel.app",
         "discovered_at": "2026-04-02"
+    },
+    {
+        "name": "Mykana",
+        "description": "Show HN: MyKana, a Japanese learning app I built for my own study",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mykana.app/",
+        "discovered_at": "2026-04-23"
     },
     {
         "name": "Planetofthepaul",
@@ -82913,6 +82983,16 @@
         "discovered_at": "2026-03-10"
     },
     {
+        "name": "Getpostchi",
+        "description": "Show HN: Postchi, An ide like api client, clean and local",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getpostchi.com",
+        "discovered_at": "2026-04-23"
+    },
+    {
         "name": "Getsnatchhub",
         "description": "Show HN: SnatchHub – An App That Solves The \"who's using staging?\" Problem",
         "category": "Other",
@@ -83463,6 +83543,16 @@
         "discovered_at": "2026-03-21"
     },
     {
+        "name": "Kumbukum",
+        "description": "Show HN: Kumbukum, open source memory infrastructure for teams",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kumbukum.com/",
+        "discovered_at": "2026-04-23"
+    },
+    {
         "name": "Kvark",
         "description": "Local ML inference benchmark: PyTorch vs. llama.cpp vs. the Rust ecosystem",
         "category": "Other",
@@ -83531,6 +83621,16 @@
         "cors": "unknown",
         "url": "https://linkedrecords.com/",
         "discovered_at": "2026-04-01"
+    },
+    {
+        "name": "Linuxfoundation",
+        "description": "OCUDU ecosystem foundation to accelerate open source AI-RAN innovation",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.linuxfoundation.org/press/linux-foundation-announces-ocudu-ecosystem-foundation-to-accelerate-open-source-ai-ran-innovation",
+        "discovered_at": "2026-04-23"
     },
     {
         "name": "Linzichun",
@@ -85371,6 +85471,16 @@
         "cors": "unknown",
         "url": "https://www.weco.ai/blog/autoresearch-vs-classical-hpo",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Weejur",
+        "description": "Show HN: A free tool for non-technical folks to easily publish a website",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://weejur.com",
+        "discovered_at": "2026-04-23"
     },
     {
         "name": "Whereisartemis",
@@ -94623,6 +94733,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "App",
+        "description": "Show HN: Physics-accurate 3D assets for robotics simulations from any input",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.rigyd.com/",
+        "discovered_at": "2026-04-23"
+    },
+    {
         "name": "arXiv",
         "description": "Open access to scientific papers in multiple fields",
         "category": "Science",
@@ -95624,6 +95744,16 @@
         "cors": "unknown",
         "url": "https://www.vrt.be/vrtnws/en/2026/03/18/new-app-provides-secure-messaging-service-for-public-sector-empl/",
         "discovered_at": "2026-03-19"
+    },
+    {
+        "name": "Webmatrices",
+        "description": "Twitter API is $100/month. Reddit API is a maze. so we built a free one",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://webmatrices.com/post/twitter-api-is-100-month-reddit-api-is-a-maze-so-we-built-an-mcp-server-that-uses-your-browser-instead",
+        "discovered_at": "2026-04-23"
     },
     {
         "name": "Yeethook",
@@ -96968,6 +97098,16 @@
         "cors": "unknown",
         "url": "https://api.tcgdex.net/v2/openapi.yaml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Timleland",
+        "description": "Show HN: Free Live Speech Translator",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://timleland.com/live-speech-translator/",
+        "discovered_at": "2026-04-23"
     },
     {
         "name": "Wordfor",
