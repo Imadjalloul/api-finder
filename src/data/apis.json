@@ -200,6 +200,16 @@
         "discovered_at": "2026-04-04"
     },
     {
+        "name": "Apicula",
+        "description": "Show HN: When Your Repo Moves, Your AI Coding History Doesn't",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.apicula.com/blog/when-your-repo-moves-your-ai-history-doesnt/",
+        "discovered_at": "2026-04-24"
+    },
+    {
         "name": "Apify",
         "description": "Show HN: I made an API letting people search in real AI – human conversations",
         "category": "AI & Machine Learning",
@@ -677,6 +687,16 @@
         "discovered_at": "2026-03-18"
     },
     {
+        "name": "Feps-europe",
+        "description": "The open future and its enemies: protecting free society from AI dictatorship",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://feps-europe.eu/publication/the-open-future-and-its-enemies/",
+        "discovered_at": "2026-04-24"
+    },
+    {
         "name": "Feralhq",
         "description": "Show HN: FeralHq – The funniest AI driven content generation engine",
         "category": "AI & Machine Learning",
@@ -757,6 +777,26 @@
         "discovered_at": "2026-04-01"
     },
     {
+        "name": "Getcai",
+        "description": "Show HN: Cai – Local AI Action Layer for macOS (Free, MIT, MLX)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getcai.app/",
+        "discovered_at": "2026-04-24"
+    },
+    {
+        "name": "Getcore",
+        "description": "Show HN: Core – open-source AI butler that clears your backlog without you",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.getcore.me/",
+        "discovered_at": "2026-04-24"
+    },
+    {
         "name": "Getcostly",
         "description": "Show HN: Costly – Open-source SDK that audits your LLM API costs",
         "category": "AI & Machine Learning",
@@ -785,6 +825,16 @@
         "cors": "unknown",
         "url": "https://getloreo.com/",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Getregula",
+        "description": "I scanned 10 open-source AI apps for EU AI Act compliance – here's what I found",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getregula.com/blog/blog-scanning-10-ai-apps.html",
+        "discovered_at": "2026-04-24"
     },
     {
         "name": "Getspine",
@@ -1413,6 +1463,16 @@
         "discovered_at": "2026-04-23"
     },
     {
+        "name": "Omens",
+        "description": "Show HN: Omens AI filters my feeds so I spend 0 minutes doomscrolling",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://omens.online",
+        "discovered_at": "2026-04-24"
+    },
+    {
         "name": "One-man-company",
         "description": "Show HN: OneManCompany The first AI company with real corporate org structure",
         "category": "AI & Machine Learning",
@@ -1642,6 +1702,16 @@
         "discovered_at": "2026-03-16"
     },
     {
+        "name": "Recif-platform",
+        "description": "Show HN: Récif – Open-source control tower for AI agents on Kubernetes",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://recif-platform.github.io",
+        "discovered_at": "2026-04-24"
+    },
+    {
         "name": "Redmonk",
         "description": "The Generative AI Policy Landscape in Open Source",
         "category": "AI & Machine Learning",
@@ -1849,6 +1919,16 @@
         "cors": "unknown",
         "url": "https://spidra.io",
         "discovered_at": "2026-03-04"
+    },
+    {
+        "name": "Squarefacegenerator",
+        "description": "Show HN: AI Square Face Avatar Generator and Classic Flash Pixel Icon Generator",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.squarefacegenerator.ai",
+        "discovered_at": "2026-04-24"
     },
     {
         "name": "Stability AI",
@@ -5457,6 +5537,16 @@
         "cors": "unknown",
         "url": "https://human-pass.org/v/20260227-0710-PGY0",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Mcp-shark",
+        "description": "Show HN: Interactive knowledge graph for the AAuth (Agent Auth) protocol",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mcp-shark.github.io/aauth-explorer/",
+        "discovered_at": "2026-04-24"
     },
     {
         "name": "Okta",
@@ -11660,6 +11750,16 @@
         "cors": "unknown",
         "url": "https://www.smplogs.com",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Tingouw",
+        "description": "Running Bare-Metal Rust Alongside ESP-IDF on the ESP32-S3's Second Core",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tingouw.com/blog/embedded/esp32/run_rust_on_app_core",
+        "discovered_at": "2026-04-24"
     },
     {
         "name": "Twill",
@@ -42497,6 +42597,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Actionforge",
+        "description": "Show HN: A visual CI/CD system",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.actionforge.dev",
+        "discovered_at": "2026-04-24"
+    },
+    {
         "name": "Actor 2 Dataset Cleaner and Formatter",
         "description": "Automatically cleans and formats datasets by trimming whitespace, fixing capitalization, and removing duplicates. Supports both Apify datasets and uploaded JSON/CSV files.",
         "category": "Development",
@@ -51896,6 +52006,16 @@
         "cors": "unknown",
         "url": "https://apify.com/yourapiservice/lotushouseofyoga-blog-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Lovable",
+        "description": "Lovable admits public project chats and source code were exposed, apologizes",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lovable.dev/blog/our-response-to-the-april-2026-incident",
+        "discovered_at": "2026-04-24"
     },
     {
         "name": "Love Margot Blog Scraper",
@@ -75135,6 +75255,16 @@
         "url": "https://www.frankfurter.app/"
     },
     {
+        "name": "Helmterminal",
+        "description": "Show HN: Free AI Stock analysis in 6 seconds, any US ticker, no signup",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://helmterminal.dev/analyze",
+        "discovered_at": "2026-04-24"
+    },
+    {
         "name": "IEX Cloud",
         "description": "Stock market data, fundamentals, and financial data",
         "category": "Finance",
@@ -76782,6 +76912,16 @@
         "cors": "unknown",
         "url": "https://loudreader.io",
         "discovered_at": "2026-04-16"
+    },
+    {
+        "name": "Mirrorneuron",
+        "description": "Show HN: MirrorNeuron – an open-source runtime for reliable on-device AI agents",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.mirrorneuron.io/",
+        "discovered_at": "2026-04-24"
     },
     {
         "name": "Namirsab",
@@ -82273,6 +82413,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Chestnut",
+        "description": "Show HN: Chestnut – The antidote to AI-induced skill atrophy",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.chestnut.so/",
+        "discovered_at": "2026-04-24"
+    },
+    {
         "name": "Claude",
         "description": "System prompt change Claude's reasoning depth – side-by-side comparison tool",
         "category": "Other",
@@ -82753,6 +82903,16 @@
         "discovered_at": "2026-03-21"
     },
     {
+        "name": "Emergencyapi",
+        "description": "Free API for real-time Australian emergency data (27 feeds, all 8 states)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://emergencyapi.com",
+        "discovered_at": "2026-04-24"
+    },
+    {
         "name": "En",
         "description": "Acid-Free Paper",
         "category": "Other",
@@ -82781,6 +82941,16 @@
         "cors": "unknown",
         "url": "https://enlidea.com",
         "discovered_at": "2026-03-29"
+    },
+    {
+        "name": "Essays",
+        "description": "Open-Source Software in the Age of AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://essays.johnloeber.com/p/31-open-source-software-in-the-age",
+        "discovered_at": "2026-04-24"
     },
     {
         "name": "Exactonce",
@@ -82961,6 +83131,16 @@
         "cors": "unknown",
         "url": "https://gemini-speedrun.vercel.app/",
         "discovered_at": "2026-03-16"
+    },
+    {
+        "name": "Geovalida",
+        "description": "Show HN: GeoValida – Spatial Intelligence reality check to find the best land",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://geovalida.com",
+        "discovered_at": "2026-04-24"
     },
     {
         "name": "GererMesAffaires {REST:API}",
@@ -83453,6 +83633,16 @@
         "discovered_at": "2026-04-20"
     },
     {
+        "name": "Justfyi",
+        "description": "Show HN: JustFYI – a paywall detector for \"free\" online tools",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://justfyi.app",
+        "discovered_at": "2026-04-24"
+    },
+    {
         "name": "Kaxil",
         "description": "Server-Side MCP vs. CLIs vs. REST APIs: When Each Wins",
         "category": "Other",
@@ -83691,6 +83881,16 @@
         "cors": "unknown",
         "url": "https://magaornot.ai",
         "discovered_at": "2026-03-23"
+    },
+    {
+        "name": "Makeuseof",
+        "description": "I stopped using LM Studio once I found this (Jan.ai) open-source alternative",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.makeuseof.com/stopped-using-lm-studio-found-open-source-alternative/",
+        "discovered_at": "2026-04-24"
     },
     {
         "name": "Marinecharts",
@@ -84443,6 +84643,16 @@
         "discovered_at": "2026-04-16"
     },
     {
+        "name": "Pvizgenerator",
+        "description": "Show HN: Reducing a 66-node dependency cycle to 13 in Scrapy",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pvizgenerator.com/showcase/2026-04-scrapy-scc-refactor",
+        "discovered_at": "2026-04-24"
+    },
+    {
         "name": "Pyrefly",
         "description": "Pandas' Public API Is Now Type-Complete",
         "category": "Other",
@@ -84853,6 +85063,16 @@
         "discovered_at": "2026-03-10"
     },
     {
+        "name": "Sklad",
+        "description": "Show HN: Sklad, a key-value database in Zig",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sklad.dev/",
+        "discovered_at": "2026-04-24"
+    },
+    {
         "name": "SKU Bindings API",
         "description": "SKU Bindings API API",
         "category": "Other",
@@ -85001,6 +85221,16 @@
         "cors": "unknown",
         "url": "https://streams.dbconvert.com",
         "discovered_at": "2026-04-09"
+    },
+    {
+        "name": "Stripe",
+        "description": "Selective Test Execution at Stripe: Fast CI for a 50M-Line Ruby Monorepo",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stripe.dev/blog/selective-test-execution-at-stripe-fast-ci-for-a-50m-line-ruby-monorepo",
+        "discovered_at": "2026-04-24"
     },
     {
         "name": "Sup",
@@ -97919,6 +98149,16 @@
         "cors": "unknown",
         "url": "https://www.sentienttube.com/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Stenobird",
+        "description": "Show HN: Stenobird, podcast transcription service for your agent",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stenobird.com",
+        "discovered_at": "2026-04-24"
     },
     {
         "name": "Streamhouse",
