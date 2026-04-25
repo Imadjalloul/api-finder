@@ -100,6 +100,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Ai-hermes-agent",
+        "description": "Show HN: AI Hermes Agent – An independent Hermes Agent install guide",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ai-hermes-agent.com/install",
+        "discovered_at": "2026-04-25"
+    },
+    {
         "name": "Ai-olympics",
         "description": "Show HN: AI Olympics – Claude vs. GPT-4 vs. Gemini in live browser competitions",
         "category": "AI & Machine Learning",
@@ -148,6 +158,16 @@
         "cors": "unknown",
         "url": "https://akitaonrails.com/en/2026/04/05/testing-llms-open-source-and-commercial-can-anyone-beat-claude-opus/",
         "discovered_at": "2026-04-07"
+    },
+    {
+        "name": "Alash3al",
+        "description": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://alash3al.github.io/stash?_v01",
+        "discovered_at": "2026-04-25"
     },
     {
         "name": "Anj",
@@ -82053,6 +82073,16 @@
         "discovered_at": "2026-04-14"
     },
     {
+        "name": "Atomicapp",
+        "description": "Show HN: Atomic – Local-first, AI-augmented personal knowledge base",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://atomicapp.ai/",
+        "discovered_at": "2026-04-25"
+    },
+    {
         "name": "Automata Market Intelligence API",
         "description": "This document provides the documentation for the Market Intelligence API by Automata. Get your API Key at https://apis.byautomata.io and check out our Postman Collection.The root API endpoint is https",
         "category": "Other",
@@ -83153,6 +83183,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Getaivo",
+        "description": "Show HN: A CLI to use any model in your coding agent",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getaivo.dev/",
+        "discovered_at": "2026-04-25"
+    },
+    {
         "name": "Gethopp",
         "description": "The Cost of 'Lightweight' Frameworks: From Tauri to Native Rust",
         "category": "Other",
@@ -83803,6 +83843,16 @@
         "discovered_at": "2026-03-23"
     },
     {
+        "name": "Lightwhale",
+        "description": "Show HN: I've built a nice home server OS",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lightwhale.asklandd.dk/",
+        "discovered_at": "2026-04-25"
+    },
+    {
         "name": "Linkedrecords",
         "description": "Show HN: I stopped designing APIs for my apps",
         "category": "Other",
@@ -84111,6 +84161,16 @@
         "cors": "unknown",
         "url": "https://mnemos.making-minds.ai",
         "discovered_at": "2026-03-11"
+    },
+    {
+        "name": "Mohamedrashard",
+        "description": "Show HN: Free MVP cost estimator – see what agencies charge vs. a 72-hour sprint",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.mohamedrashard.dev/cost-to-build",
+        "discovered_at": "2026-04-25"
     },
     {
         "name": "Moment",
@@ -85353,6 +85413,16 @@
         "discovered_at": "2026-03-25"
     },
     {
+        "name": "Tickstem",
+        "description": "Show HN: How I built a cron job service to advance myself in Go and worker pools",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tickstem.dev/",
+        "discovered_at": "2026-04-25"
+    },
+    {
         "name": "Ticticboom",
         "description": "Show HN: I had no idea I twirled my hair 25 times an hour until my Mac told me",
         "category": "Other",
@@ -85451,6 +85521,16 @@
         "cors": "unknown",
         "url": "https://travelpartner.googleapis.com/$discovery/rest?version=v3",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Turbinefi",
+        "description": "Show HN: TurbineFi – Build, Backtest, Deploy Prediction Market Strategies",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.turbinefi.com",
+        "discovered_at": "2026-04-25"
     },
     {
         "name": "Turso",
