@@ -1393,6 +1393,16 @@
         "discovered_at": "2026-03-23"
     },
     {
+        "name": "Newrepublic",
+        "description": "The AI industry is discovering that the public hates it",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
+        "discovered_at": "2026-04-26"
+    },
+    {
         "name": "Nexus-gateway",
         "description": "Show HN: Nexus Gateway – Reduce LLM API Costs Using Semantic Caching",
         "category": "AI & Machine Learning",
@@ -5326,6 +5336,16 @@
         "discovered_at": "2026-04-07"
     },
     {
+        "name": "Marketplace",
+        "description": "Mortgage lenders to consider rent history in mortgage applications",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.marketplace.org/story/2026/04/23/fannie-freddie-change-to-make-it-easier-for-renters-to-qualify-for-mortgages",
+        "discovered_at": "2026-04-26"
+    },
+    {
         "name": "Metagenesis-core",
         "description": "MetaGenesis Core – offline verification for computational claims",
         "category": "Animals",
@@ -5557,6 +5577,16 @@
         "cors": "unknown",
         "url": "https://human-pass.org/v/20260227-0710-PGY0",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Limenauth",
+        "description": "Show HN: Limen – modern, composable auth for Go",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://limenauth.dev/blog/introducing-limen",
+        "discovered_at": "2026-04-26"
     },
     {
         "name": "Mcp-shark",
@@ -6095,6 +6125,26 @@
         "https": true,
         "cors": "yes",
         "url": "https://poetrydb.org"
+    },
+    {
+        "name": "Readingvault",
+        "description": "Reading Vault – free vocab tool that scores comprehension, not memory",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.readingvault.app",
+        "discovered_at": "2026-04-26"
+    },
+    {
+        "name": "Trees",
+        "description": "Pierre/trees is an open source file tree rendering library",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://trees.software/",
+        "discovered_at": "2026-04-26"
     },
     {
         "name": "Ubik",
@@ -76438,6 +76488,16 @@
         "discovered_at": "2026-03-18"
     },
     {
+        "name": "Lawvm",
+        "description": "Show HN: LawVM, a compiler for replaying amendment acts into point-in-time law",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lawvm.org/",
+        "discovered_at": "2026-04-26"
+    },
+    {
         "name": "Open FDA",
         "description": "U.S. FDA drug, food, and device data",
         "category": "Government & Health",
@@ -76982,6 +77042,16 @@
         "cors": "unknown",
         "url": "https://signalcend.com/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Suprastructure",
+        "description": "Show HN: deterministic oracle for hardware designs with replayable proofs",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://suprastructure.net",
+        "discovered_at": "2026-04-26"
     },
     {
         "name": "Tomshardware",
@@ -81763,6 +81833,16 @@
         "discovered_at": "2026-03-12"
     },
     {
+        "name": "Agentmcp",
+        "description": "Show HN: Agent MCP Studio – build multi-agent MCP systems in a browser tab",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.agentmcp.studio",
+        "discovered_at": "2026-04-26"
+    },
+    {
         "name": "Agentplace",
         "description": "Show HN: Agentplace, the tool we built to become a 20x company",
         "category": "Other",
@@ -82873,6 +82953,16 @@
         "discovered_at": "2026-04-22"
     },
     {
+        "name": "Docs",
+        "description": "Show HN: Outworx Docs – Hosted API docs with an MCP server per project",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://docs.outworx.io",
+        "discovered_at": "2026-04-26"
+    },
+    {
         "name": "Domains",
         "description": "Domains API",
         "category": "Other",
@@ -82951,6 +83041,16 @@
         "cors": "unknown",
         "url": "https://en.wikipedia.org/wiki/Acid-free_paper",
         "discovered_at": "2026-04-15"
+    },
+    {
+        "name": "En",
+        "description": "Llama 4: A Deep Dive into Liquid Transformers 2.0 and Sovereign AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://en.landingfymax.com.br/artificial-intelligence/llama-4-meta-open-source-sovereignty-2026",
+        "discovered_at": "2026-04-26"
     },
     {
         "name": "Engram",
@@ -84311,6 +84411,16 @@
         "cors": "unknown",
         "url": "https://occam.fit/",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Odozi",
+        "description": "Show HN: Odozi – open-source iOS journaling app",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://odozi.app",
+        "discovered_at": "2026-04-26"
     },
     {
         "name": "Onlyfansapi",
@@ -95112,6 +95222,16 @@
         "discovered_at": "2026-04-08"
     },
     {
+        "name": "Mux0",
+        "description": "Show HN: Mux0 – Open-source macOS terminal with workspace tabs and agent hooks",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mux0.com/",
+        "discovered_at": "2026-04-26"
+    },
+    {
         "name": "NASA",
         "description": "Astronomy pictures, Mars rover photos, and more",
         "category": "Science",
@@ -95167,6 +95287,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://pubchem.ncbi.nlm.nih.gov/docs/pug-rest"
+    },
+    {
+        "name": "Scientificamerican",
+        "description": "Electric air taxis. Vertical Aerospace's VX4 just cleared a key test",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.scientificamerican.com/article/can-electric-air-taxis-carry-passengers-vertical-aerospaces-vx4-just-cleared-a-key-test/",
+        "discovered_at": "2026-04-26"
     },
     {
         "name": "SpaceX",
@@ -95575,6 +95705,16 @@
         "discovered_at": "2026-04-11"
     },
     {
+        "name": "Shielddeskhq",
+        "description": "Show HN: I built a free email security checker for small businesses",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://shielddeskhq.com/checker",
+        "discovered_at": "2026-04-26"
+    },
+    {
         "name": "Shodan",
         "description": "Internet-wide scanning and device search engine",
         "category": "Security",
@@ -95901,6 +96041,16 @@
         "url": "https://discord.com/developers/docs/intro"
     },
     {
+        "name": "Flowylabs",
+        "description": "Show HN: Video Messaging for Work",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://flowylabs.ai/llink",
+        "discovered_at": "2026-04-26"
+    },
+    {
         "name": "Gitinspect",
         "description": "Show HN: Replace \"hub\" with \"inspect\" on any GitHub url and chat with any repo",
         "category": "Social",
@@ -96092,6 +96242,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://ergast.com/mrd/"
+    },
+    {
+        "name": "Falsoai",
+        "description": "Show HN: FalsoAI – Detect influence/manipulation patterns in content",
+        "category": "Sports",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.falsoai.com/",
+        "discovered_at": "2026-04-26"
     },
     {
         "name": "Football-Data",
@@ -98189,6 +98349,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/nexmo/api-specification/master/definitions/media.yml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Miguel07code",
+        "description": "Show HN: HyperFrames – OSS Agentic HTML Video Framework for Agents",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://miguel07code.dev/writing/hyperframes",
+        "discovered_at": "2026-04-26"
     },
     {
         "name": "Podads",
