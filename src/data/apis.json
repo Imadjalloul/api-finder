@@ -5492,6 +5492,16 @@
         "url": "https://zoo-animal-api.herokuapp.com/"
     },
     {
+        "name": "Aethergent",
+        "description": "Show HN: Get an Ethereum wallet for your agent with one API call, no OAuth",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aethergent.com",
+        "discovered_at": "2026-04-27"
+    },
+    {
         "name": "Agentlair",
         "description": "Show HN: AgentLair – Give your AI agent an email identity and credential vault",
         "category": "Auth & Identity",
@@ -12327,6 +12337,16 @@
         "cors": "unknown",
         "url": "https://api.hubspot.com/api-catalog-public/v1/apis/communication-preferences/v3",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Thelawin",
+        "description": "Show HN: Thelawin – Generate EU e-invoices from JSON",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thelawin.dev/",
+        "discovered_at": "2026-04-27"
     },
     {
         "name": "Topmail",
@@ -59226,6 +59246,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Websationflow",
+        "description": "Show HN: Vibe Check – Client-side invisible Unicode steganography scanner",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://websationflow.com/",
+        "discovered_at": "2026-04-27"
+    },
+    {
         "name": "Website Availability Checker",
         "description": "Need to monitor your websites and ensure they're always accessible? Check website availability, response times, and server status in real-time. You can use it to get instant alerts on downtime and...",
         "category": "Development",
@@ -68955,6 +68985,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Pair",
+        "description": "Google's best practices document for designing AI products",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pair.withgoogle.com/guidebook/",
+        "discovered_at": "2026-04-27"
+    },
+    {
         "name": "Pampers Reviews Spider",
         "description": "Pampers Reviews Spider is an Apify Actor that scrapes authentic customer reviews from Pampers product pages, delivering ratings, text, and insights for data-driven decisions....",
         "category": "E-Commerce",
@@ -75176,6 +75216,16 @@
         "discovered_at": "2026-04-18"
     },
     {
+        "name": "Playtiao",
+        "description": "Show HN: Tiao, A two-player turn-based board game",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://playtiao.com",
+        "discovered_at": "2026-04-27"
+    },
+    {
         "name": "RAWG",
         "description": "The largest open video games database",
         "category": "Entertainment",
@@ -75342,6 +75392,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://iexcloud.io/docs/api/"
+    },
+    {
+        "name": "Jumpstartsignal",
+        "description": "Show HN: A free ESG stock screener that publishes its losses and methodology",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jumpstartsignal.com/",
+        "discovered_at": "2026-04-27"
     },
     {
         "name": "MDES Customer Service",
@@ -81853,6 +81913,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Agentswarms",
+        "description": "Show HN: AgentSwarms – free hands-on playground to learn agentic AI, no setup",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agentswarms.fyi/",
+        "discovered_at": "2026-04-27"
+    },
+    {
         "name": "Aibodh",
         "description": "The Impatient Programmer's Guide to Bevy and Rust: Ch 12 Let There Be Networking",
         "category": "Other",
@@ -83013,6 +83083,16 @@
         "discovered_at": "2026-03-07"
     },
     {
+        "name": "Economictimes",
+        "description": "Millions Are Turning to a Cheaper, Electricity-Free Cooling Solution",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://economictimes.indiatimes.com/news/international/us/say-goodbye-to-traditional-air-conditioning-millions-are-turning-to-a-cheaper-electricity-free-cooling-solution/articleshow/130510992.cms?from=mdr",
+        "discovered_at": "2026-04-27"
+    },
+    {
         "name": "Eepublicdownloads",
         "description": "Final Report of Grid Incident in Spain and Portugal on 28 April 2025 [pdf]",
         "category": "Other",
@@ -83691,6 +83771,16 @@
         "cors": "unknown",
         "url": "https://www.ishormuzopenyet.com/",
         "discovered_at": "2026-04-09"
+    },
+    {
+        "name": "J-ray-pro",
+        "description": "Show HN: J-RAY PRO – A fast visual JSON profiler in Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://j-ray-pro.com/",
+        "discovered_at": "2026-04-27"
     },
     {
         "name": "Jackonomics",
@@ -98369,6 +98459,16 @@
         "cors": "unknown",
         "url": "https://podads.yet-to-be.com/",
         "discovered_at": "2026-04-18"
+    },
+    {
+        "name": "Read",
+        "description": "Show HN: ReadTube – Turn YouTube subscriptions into a personal Substack",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.read.tube/",
+        "discovered_at": "2026-04-27"
     },
     {
         "name": "Resilientcyber",
