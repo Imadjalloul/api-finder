@@ -100,6 +100,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Aginor",
+        "description": "GPT-5.5 hallucinates at 6 times the rate of Opus 4.7 on degraded insurance docs",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aginor.ai/extraction-test/",
+        "discovered_at": "2026-04-28"
+    },
+    {
         "name": "Ai-hermes-agent",
         "description": "Show HN: AI Hermes Agent – An independent Hermes Agent install guide",
         "category": "AI & Machine Learning",
@@ -1014,6 +1024,16 @@
         "discovered_at": "2026-04-22"
     },
     {
+        "name": "Isitartstudio",
+        "description": "Show HN: Is it art? An art project for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://isitartstudio.com",
+        "discovered_at": "2026-04-28"
+    },
+    {
         "name": "Jobbi",
         "description": "Show HN: Jobbi – Free AI resume tailoring with unlimited PDF exports",
         "category": "AI & Machine Learning",
@@ -1652,6 +1672,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Proxvanta",
+        "description": "Show HN: Built a local-first way to make AI context reusable across tools",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.proxvanta.com/",
+        "discovered_at": "2026-04-28"
+    },
+    {
         "name": "Publicai",
         "description": "Building Public AI with Libraries",
         "category": "AI & Machine Learning",
@@ -2048,6 +2078,16 @@
         "cors": "unknown",
         "url": "https://takt.chat/",
         "discovered_at": "2026-04-08"
+    },
+    {
+        "name": "Talagent",
+        "description": "Show HN: AI agents are having a public meetup tonight 7pm PT",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://talagent.net/promo/opening-day",
+        "discovered_at": "2026-04-28"
     },
     {
         "name": "Tangelo-ltd",
@@ -5236,6 +5276,16 @@
         "cors": "unknown",
         "url": "https://apindex.dev/",
         "discovered_at": "2026-04-02"
+    },
+    {
+        "name": "Apoorvkulkarni",
+        "description": "Show HN: macOS screensaver that displays Google Trends as fish in a deep-ocean",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apoorvkulkarni.com/trending-screensaver/",
+        "discovered_at": "2026-04-28"
     },
     {
         "name": "Application API",
@@ -12099,6 +12149,16 @@
         "cors": "unknown",
         "url": "https://docs.inboxapp.com",
         "discovered_at": "2026-03-11"
+    },
+    {
+        "name": "Echovalue",
+        "description": "Show HN: Webhook API – inbound email –> webhook",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.echovalue.dev/webhook-api/",
+        "discovered_at": "2026-04-28"
     },
     {
         "name": "Ejectify",
@@ -75553,6 +75613,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Xfinlink",
+        "description": "Show HN: Financial Database API for Vibe Coders",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://xfinlink.com",
+        "discovered_at": "2026-04-28"
+    },
+    {
         "name": "Zarq",
         "description": "Show HN: ZARQ – Free crypto risk API for AI agents (205 tokens)",
         "category": "Finance",
@@ -76287,6 +76357,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://spoonacular.com/food-api"
+    },
+    {
+        "name": "Tangled",
+        "description": "Show HN: I made a website to clean up recipe websites",
+        "category": "Food & Drink",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tangled.org/dunkirk.sh/pear",
+        "discovered_at": "2026-04-28"
     },
     {
         "name": "TheCocktailDB",
@@ -77634,6 +77714,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Alit",
+        "description": "Show HN: Alit – AI-generated PBR maps with real-time relighting",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://alit.dev/",
+        "discovered_at": "2026-04-28"
+    },
+    {
         "name": "Buildvote",
         "description": "Show HN: I built an AI-assisted roadmap tool to prioritize SaaS features",
         "category": "Maps & Transport",
@@ -78717,6 +78807,16 @@
         "cors": "unknown",
         "url": "https://bunway.jointops.dev/",
         "discovered_at": "2026-03-10"
+    },
+    {
+        "name": "Cask",
+        "description": "Show HN: Cask.news – discover and track new homebrew Mac apps",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cask.news/",
+        "discovered_at": "2026-04-28"
     },
     {
         "name": "Compressor",
@@ -82323,6 +82423,16 @@
         "discovered_at": "2026-03-21"
     },
     {
+        "name": "Bets",
+        "description": "Show HN: Friendly prediction markets to turn trips into a running tournament",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bets.bernikins.com/",
+        "discovered_at": "2026-04-28"
+    },
+    {
         "name": "Billingengine",
         "description": "Show HN: BillingEngine – usage-based billing for APIs with real-time rating",
         "category": "Other",
@@ -83073,6 +83183,16 @@
         "discovered_at": "2026-03-15"
     },
     {
+        "name": "Earlybell",
+        "description": "Built a free market scanner for options flow, looking for feedback",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://earlybell.app",
+        "discovered_at": "2026-04-28"
+    },
+    {
         "name": "Easemonitor",
         "description": "Show HN: Easemonitor – self‑hosted uptime and performance monitoring",
         "category": "Other",
@@ -83101,6 +83221,16 @@
         "cors": "unknown",
         "url": "https://eepublicdownloads.blob.core.windows.net/public-cdn-container/clean-documents/Publications/2025/iberian-blackout/Final%20Report%20on%20the%20Grid%20Incident%20in%20Spain%20and%20Portugal%20on%2028%20April%202025.pdf",
         "discovered_at": "2026-03-21"
+    },
+    {
+        "name": "Eli",
+        "description": "Show HN: Explain Like I'm Five for ArXiv Papers",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://eli.voxos.ai/",
+        "discovered_at": "2026-04-28"
     },
     {
         "name": "Emergencyapi",
@@ -83151,6 +83281,16 @@
         "cors": "unknown",
         "url": "https://enlidea.com",
         "discovered_at": "2026-03-29"
+    },
+    {
+        "name": "Eran",
+        "description": "Show HN: I ran every Claude agent turn through the Batch API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://eran.sandler.co.il/post/2026-04-27-batch-api-is-terrible-for-one-agent/",
+        "discovered_at": "2026-04-28"
     },
     {
         "name": "Essays",
@@ -83233,6 +83373,16 @@
         "discovered_at": "2026-03-01"
     },
     {
+        "name": "Filestash",
+        "description": "Filestash: Open-Source Platform for File Sharing/Document Management/Archiving",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.filestash.app/",
+        "discovered_at": "2026-04-28"
+    },
+    {
         "name": "Finqual",
         "description": "Show HN: Finqual – Free SEC-based API for fundamentals, insider and 13F data",
         "category": "Other",
@@ -83293,6 +83443,16 @@
         "discovered_at": "2026-03-31"
     },
     {
+        "name": "Fraude",
+        "description": "The AI-free site builder for genius founders",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fraude.design/",
+        "discovered_at": "2026-04-28"
+    },
+    {
         "name": "Free",
         "description": "Show HN: Free.ai",
         "category": "Other",
@@ -83311,6 +83471,16 @@
         "cors": "unknown",
         "url": "https://frontbot.com/blog/how-i-automated-octopus-energy-coffee/",
         "discovered_at": "2026-03-10"
+    },
+    {
+        "name": "Ftwa",
+        "description": "FTWA – Free the Web Apps",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ftwa.mathix.dev/why/",
+        "discovered_at": "2026-04-28"
     },
     {
         "name": "Galaxybrain",
@@ -83621,6 +83791,16 @@
         "cors": "unknown",
         "url": "https://humaverify.com",
         "discovered_at": "2026-04-09"
+    },
+    {
+        "name": "Hurl",
+        "description": "Hurl 8.0.0: run and test HTTP API with plain text",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hurl.dev/blog/2026/04/27/announcing-hurl-8.0.0.html",
+        "discovered_at": "2026-04-28"
     },
     {
         "name": "Ibanforge",
@@ -84561,6 +84741,16 @@
         "cors": "unknown",
         "url": "https://openloom.live/",
         "discovered_at": "2026-03-08"
+    },
+    {
+        "name": "Openseo",
+        "description": "Show HN: Open-source Semrush alternative just passed 1.6k stars",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://openseo.so/",
+        "discovered_at": "2026-04-28"
     },
     {
         "name": "Opensource",
@@ -85523,6 +85713,16 @@
         "discovered_at": "2026-03-28"
     },
     {
+        "name": "Systalyze",
+        "description": "Show HN: Utilyze – an open source GPU monitoring tool more accurate than nvtop",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.systalyze.com/utilyze",
+        "discovered_at": "2026-04-28"
+    },
+    {
         "name": "Tapfi",
         "description": "Show HN: TapFi – Join any WiFi just by scanning the details with your camera",
         "category": "Other",
@@ -85831,6 +86031,16 @@
         "cors": "unknown",
         "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoVsRustStartupDelays",
         "discovered_at": "2026-04-19"
+    },
+    {
+        "name": "Vaava",
+        "description": "Show HN: Vaava – a baby routine tracker / logging app",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.vaava.app/",
+        "discovered_at": "2026-04-28"
     },
     {
         "name": "Vaquill",
@@ -95360,6 +95570,16 @@
         "url": "http://numbersapi.com/"
     },
     {
+        "name": "Polynya",
+        "description": "Show HN: Polynya – Turn your Postgres into workspaces for AI",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://polynya.dev/",
+        "discovered_at": "2026-04-28"
+    },
+    {
         "name": "Prismvideos",
         "description": "Launch HN: Prism (YC X25) – Workspace and API to generate and edit videos",
         "category": "Science",
@@ -95763,6 +95983,16 @@
         "cors": "unknown",
         "url": "https://api.kumpeapps.com/python/swagger/swagger.yaml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Malwaresiblings",
+        "description": "Show HN: Open-source tool to explore malware clusters and shared infrastructure",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://malwaresiblings.up.railway.app/",
+        "discovered_at": "2026-04-28"
     },
     {
         "name": "Nexmo Application API",
