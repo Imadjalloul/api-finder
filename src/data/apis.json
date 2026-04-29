@@ -945,6 +945,16 @@
         "discovered_at": "2026-03-05"
     },
     {
+        "name": "Hahooh",
+        "description": "Show HN: Hahooh – Give AI agents the power to build their own MCP tools",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hahooh.xyz/download",
+        "discovered_at": "2026-04-29"
+    },
+    {
         "name": "Hiredtoday",
         "description": "Show HN: HiredToday.app – AI resume tailoring, cover letters and interview prep",
         "category": "AI & Machine Learning",
@@ -1760,6 +1770,16 @@
         "cors": "unknown",
         "url": "https://raccoonai.tech",
         "discovered_at": "2026-03-16"
+    },
+    {
+        "name": "Ragnerock",
+        "description": "Show HN: Ragnerock, an AI data analysis tool",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.ragnerock.com",
+        "discovered_at": "2026-04-29"
     },
     {
         "name": "Recif-platform",
@@ -5434,6 +5454,16 @@
         "cors": "unknown",
         "url": "https://orghunter.3scale.net/swagger/spec.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Petercsauer",
+        "description": "Show HN: Docktor – I put live window previews and widgets on the macOS 26 Dock",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://petercsauer.github.io/docktor-releases/",
+        "discovered_at": "2026-04-29"
     },
     {
         "name": "Pets Api",
@@ -75266,6 +75296,16 @@
         "url": "https://www.omdbapi.com/"
     },
     {
+        "name": "Phaser",
+        "description": "Phaser: Create 2D games for the web – free, open source, and AI-ready",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://phaser.io/",
+        "discovered_at": "2026-04-29"
+    },
+    {
         "name": "Planedrift",
         "description": "Show HN: Planedrift – Play Infocom games in the browser",
         "category": "Entertainment",
@@ -76528,6 +76568,16 @@
         "cors": "unknown",
         "url": "https://app.octokraft.com",
         "discovered_at": "2026-04-22"
+    },
+    {
+        "name": "Chicago",
+        "description": "Private equity dismantled West Suburban Medical Center and other area hospitals",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://chicago.suntimes.com/other-views/2026/04/24/pipeline-health-west-suburban-weiss-memorial-westlake-hospital-closures-private-equity-matt-parr",
+        "discovered_at": "2026-04-29"
     },
     {
         "name": "Claw",
@@ -82793,6 +82843,16 @@
         "discovered_at": "2026-04-02"
     },
     {
+        "name": "Console",
+        "description": "Show HN: Scan your OSS projects for vulnerabilities",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://console.zeroquarry.com/",
+        "discovered_at": "2026-04-29"
+    },
+    {
         "name": "Context",
         "description": "Show HN: Context.dev – One API to scrape, enrich, and understand the web",
         "category": "Other",
@@ -83031,6 +83091,16 @@
         "cors": "unknown",
         "url": "http://diffvoid.com",
         "discovered_at": "2026-04-06"
+    },
+    {
+        "name": "Dingofind",
+        "description": "Show HN: DingoFind – A sub-10ms Australian address autocomplete API in Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.dingofind.com/",
+        "discovered_at": "2026-04-29"
     },
     {
         "name": "Discovery Market Research",
@@ -83441,6 +83511,16 @@
         "cors": "unknown",
         "url": "https://fluxvector.dev",
         "discovered_at": "2026-03-31"
+    },
+    {
+        "name": "Fortune",
+        "description": "Tech is in turmoil but the rest of corporate America isn't",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fortune.com/2026/04/28/tech-layoffs-ai-disruption-corporate-america-doesnt-one-silicon-valley-ceo-knows-why/",
+        "discovered_at": "2026-04-29"
     },
     {
         "name": "Fraude",
@@ -85393,6 +85473,16 @@
         "discovered_at": "2026-03-03"
     },
     {
+        "name": "Savethearchive",
+        "description": "200 Journalists Applaud the Internet Archive's Role in Preserving Public Record",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.savethearchive.com/journalists/",
+        "discovered_at": "2026-04-29"
+    },
+    {
         "name": "Scmp",
         "description": "Alibaba's Qwen family captures over 50% of global open-source model downloads",
         "category": "Other",
@@ -86011,6 +86101,16 @@
         "cors": "unknown",
         "url": "https://useapparent.com/",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Usepatch",
+        "description": "Show HN: PatchWork – A 5-pass dedup pipeline to merge N resumes into one profile",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://usepatch.work/",
+        "discovered_at": "2026-04-29"
     },
     {
         "name": "Users",
@@ -95616,6 +95716,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://github.com/r-spacex/SpaceX-API"
+    },
+    {
+        "name": "Statespace",
+        "description": "Show HN: I built a search engine for llms.txt sites",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://statespace.com/",
+        "discovered_at": "2026-04-29"
     },
     {
         "name": "Terraviz",
