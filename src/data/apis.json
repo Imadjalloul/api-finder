@@ -400,6 +400,16 @@
         "discovered_at": "2026-04-15"
     },
     {
+        "name": "Blog",
+        "description": "Letting AI play my game – building an agentic test harness to help play-testing",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+        "discovered_at": "2026-04-30"
+    },
+    {
         "name": "Boesch",
         "description": "Show HN: Letting an LLM write robot programs",
         "category": "AI & Machine Learning",
@@ -548,6 +558,16 @@
         "discovered_at": "2026-03-08"
     },
     {
+        "name": "Copilot",
+        "description": "Show HN: Filling PDF forms with AI using client-side tool calling",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
+        "discovered_at": "2026-04-30"
+    },
+    {
         "name": "Costile",
         "description": "Show HN: Costile – open-source proxy, blocks AI API requests when budget is hit",
         "category": "AI & Machine Learning",
@@ -596,6 +616,16 @@
         "cors": "unknown",
         "url": "https://danubeai.com",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Dataconcierge",
+        "description": "Brazil's AI adoption boom in public numbers: what IBGE, Bain and Gartner say",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dataconcierge.dev/en/blog/brazil-ai-adoption-public-numbers",
+        "discovered_at": "2026-04-30"
     },
     {
         "name": "DeepL",
@@ -1032,6 +1062,16 @@
         "cors": "unknown",
         "url": "https://www.interest.co.nz/public-policy/137822/new-zealand-using-ai-take-minutes-and-draft-honours-citations-other-side",
         "discovered_at": "2026-04-22"
+    },
+    {
+        "name": "Interfaze",
+        "description": "Show HN: A new benchmark for testing LLMs for deterministic outputs",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://interfaze.ai/blog/introducing-structured-output-benchmark",
+        "discovered_at": "2026-04-30"
     },
     {
         "name": "Isitartstudio",
@@ -2347,6 +2387,16 @@
         "cors": "unknown",
         "url": "https://www.vr.dev/",
         "discovered_at": "2026-03-11"
+    },
+    {
+        "name": "Vulpinecitrus",
+        "description": "The Day I Logged 1 in Every 2000 Public IPv4: Visualizing the AI Scraper DDoS",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vulpinecitrus.info/blog/one-in-every-2000-ipv4-visualizing-ddos-ai-web-scrapers/",
+        "discovered_at": "2026-04-30"
     },
     {
         "name": "Webagentbride",
@@ -57366,6 +57416,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Tensorlake",
+        "description": "ForgeCode: Top open source coding agent in Terminal-Bench 2.0",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.tensorlake.ai/blog/forgecode-terminal-bench",
+        "discovered_at": "2026-04-30"
+    },
+    {
         "name": "Tesco Product Details Scraper",
         "description": "Powerful Tesco.com product details scraper for extracting comprehensive grocery data including prices, promotions, product information, and availability. Perfect for market research, competitive...",
         "category": "Development",
@@ -63134,6 +63194,16 @@
         "cors": "unknown",
         "url": "https://apify.com/mshopik/catch-surfr-usa-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Cbsnews",
+        "description": "Dallas ISD book checkouts soar amid state's cellphone ban for public schools",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.cbsnews.com/texas/news/dallas-isd-calendar-school-library-book-checkout-report-texas-cellphone-ban/",
+        "discovered_at": "2026-04-30"
     },
     {
         "name": "Centauro",
@@ -74231,6 +74301,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Ap-quiz",
+        "description": "Show HN: AP Quiz – mobile-first AP practice prep web app",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ap-quiz.com",
+        "discovered_at": "2026-04-30"
+    },
+    {
         "name": "Convexly",
         "description": "Show HN: I built a 2-min quiz that shows you how bad you are at estimating",
         "category": "Education",
@@ -77861,6 +77941,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://developers.google.com/maps"
+    },
+    {
+        "name": "Imbue-ai",
+        "description": "Show HN: GrandPerspective-style treemaps for the web and disk usage visualizer",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://imbue-ai.github.io/gp-treemap/gallery/",
+        "discovered_at": "2026-04-30"
     },
     {
         "name": "Inc",
@@ -82463,6 +82553,16 @@
         "discovered_at": "2026-03-21"
     },
     {
+        "name": "Beehiiv-reader",
+        "description": "Read any beehiiv site paywall/distraction free",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://beehiiv-reader.vercel.app/",
+        "discovered_at": "2026-04-30"
+    },
+    {
         "name": "Bestresource-ai",
         "description": "Best Resource AI",
         "category": "Other",
@@ -82761,6 +82861,16 @@
         "cors": "unknown",
         "url": "https://www.chestnut.so/",
         "discovered_at": "2026-04-24"
+    },
+    {
+        "name": "Chillicream",
+        "description": "GraphQL wasn't made for AI. But it might be one of the best ways to talk to it",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://chillicream.com/blog/2026/04/22/semantic-introspection/",
+        "discovered_at": "2026-04-30"
     },
     {
         "name": "Claude",
@@ -84573,6 +84683,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Mikeoss",
+        "description": "Mike: open-source legal AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mikeoss.com/",
+        "discovered_at": "2026-04-30"
+    },
+    {
         "name": "Mintai",
         "description": "Monetize apps, in seconds, for free (42/50 open spots for beta filled)",
         "category": "Other",
@@ -85063,6 +85183,16 @@
         "discovered_at": "2026-04-12"
     },
     {
+        "name": "Pluralistic",
+        "description": "The (other) problem with automatic conversion of free software to proprietary",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pluralistic.net/2026/04/23/poison-pill/",
+        "discovered_at": "2026-04-30"
+    },
+    {
         "name": "Pmo",
         "description": "Microeconomics in Public Policy: A Practitioner's View",
         "category": "Other",
@@ -85171,6 +85301,16 @@
         "cors": "unknown",
         "url": "https://ptecorepractice.com",
         "discovered_at": "2026-04-16"
+    },
+    {
+        "name": "Puck",
+        "description": "Love It or Lehane It",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://puck.news/openai-softens-ai-jobpocalypse-doom-messaging-amid-public-backlash/",
+        "discovered_at": "2026-04-30"
     },
     {
         "name": "Pvizgenerator",
@@ -85491,6 +85631,16 @@
         "cors": "unknown",
         "url": "https://www.scmp.com/tech/big-tech/article/3349552/alibabas-qwen-family-captures-over-50-global-open-source-downloads-report-finds",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Secondseat",
+        "description": "Show HN: Free tool to verify legal citations",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://secondseat.ai/verify",
+        "discovered_at": "2026-04-30"
     },
     {
         "name": "Seoscoreapi",
@@ -95757,6 +95907,16 @@
         "url": "https://earthquake.usgs.gov/fdsnws/event/1/"
     },
     {
+        "name": "Zaai",
+        "description": "Show HN: Chrome extension for Gmail/Workspace users to alias emails at signup",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://zaai.com/clean-autofill/",
+        "discovered_at": "2026-04-30"
+    },
+    {
         "name": "api.clarify.io",
         "description": "The API to Search and Understand Audio & Video Data.",
         "category": "search",
@@ -96004,6 +96164,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://docs.abuseipdb.com/"
+    },
+    {
+        "name": "Agentport",
+        "description": "Show HN: AgentPort – Open-source Security Gateway For Agents",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agentport.sh/",
+        "discovered_at": "2026-04-30"
     },
     {
         "name": "Cifer-security",
@@ -96538,6 +96708,16 @@
         "cors": "unknown",
         "url": "https://pincer.wtf",
         "discovered_at": "2026-03-17"
+    },
+    {
+        "name": "Platypusnotes",
+        "description": "Show HN: Platypus – Local meeting transcription, notes, and chat (Tauri, Rust)",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://platypusnotes.com/",
+        "discovered_at": "2026-04-30"
     },
     {
         "name": "Reddit",
@@ -98487,6 +98667,16 @@
         "discovered_at": "2026-03-03"
     },
     {
+        "name": "Openaitoolshub",
+        "description": "Show HN: AI tools index with free LLM latency and cost calculators",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.openaitoolshub.org",
+        "discovered_at": "2026-04-30"
+    },
+    {
         "name": "Pdf2markdown",
         "description": "PDF2Markdown – Free online converter and API for PDF/images to Markdown",
         "category": "Utilities",
@@ -98789,6 +98979,16 @@
         "cors": "unknown",
         "url": "https://miguel07code.dev/writing/hyperframes",
         "discovered_at": "2026-04-26"
+    },
+    {
+        "name": "Omniforge",
+        "description": "Show HN: OmniForge – document intelligence and audio capture with local LLM",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://omniforge.online/",
+        "discovered_at": "2026-04-30"
     },
     {
         "name": "Podads",
