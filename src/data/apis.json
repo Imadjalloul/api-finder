@@ -1553,6 +1553,16 @@
         "discovered_at": "2026-04-10"
     },
     {
+        "name": "Npr",
+        "description": "In real-world test, AI model did better than ER doctors at diagnosing patients",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.npr.org/2026/04/30/nx-s1-5804474/ai-doctors-openai-patient-care-diagnosis",
+        "discovered_at": "2026-05-01"
+    },
+    {
         "name": "Ohita",
         "description": "Show HN: Ohita – a tool to simplify API key management for AI agents",
         "category": "AI & Machine Learning",
@@ -12388,6 +12398,16 @@
         "cors": "unknown",
         "url": "https://www.nytimes.com/2026/04/06/opinion/ai-polling.html",
         "discovered_at": "2026-04-08"
+    },
+    {
+        "name": "Onerequest",
+        "description": "Show HN: I built the missing layer between email and DocuSign",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://onerequest.app/",
+        "discovered_at": "2026-05-01"
     },
     {
         "name": "Pitchkit",
@@ -44917,6 +44937,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Browsercode",
+        "description": "Show HN: You can now run Gemini CLI in the browser",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://browsercode.io",
+        "discovered_at": "2026-05-01"
+    },
+    {
         "name": "Bubble and Bee Blog Scraper",
         "description": "Bubble and Bee Blog Scraper (bubbleandbee.com) lets you extract blog content in HTML, JSON, and plaintext. Get authors, create/update date, images, read time, RSS, titles, SEO titles, featured images.",
         "category": "Development",
@@ -46374,6 +46404,16 @@
         "cors": "unknown",
         "url": "https://apify.com/yourapiservice/designxclass-blog-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Desktopcommander",
+        "description": "Both Codex and Claude got worse this week. Across every plan I retested",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://desktopcommander.app/best-value-ai/",
+        "discovered_at": "2026-05-01"
     },
     {
         "name": "Details of runs",
@@ -48923,6 +48963,16 @@
         "cors": "unknown",
         "url": "https://www.get-colibri.com/",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Getbrifly",
+        "description": "Show HN: Brifly – stop re-explaining your codebase to Claude Code every week",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.getbrifly.com/",
+        "discovered_at": "2026-05-01"
     },
     {
         "name": "Getcloak",
@@ -76777,6 +76827,16 @@
         "url": "https://open.fda.gov/apis/"
     },
     {
+        "name": "Openclaw",
+        "description": "OpenClaw Got Safer in Public",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://openclaw.ai/blog/openclaw-security-in-public",
+        "discovered_at": "2026-05-01"
+    },
+    {
         "name": "Radiologybusiness",
         "description": "CEO of largest public hospital says he's ready to replace radiologists with AI",
         "category": "Government & Health",
@@ -77212,6 +77272,16 @@
         "cors": "unknown",
         "url": "https://amd-gaia.ai/docs",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Appdevforall",
+        "description": "Show HN: Code on the Go, an IDE for Android with On-Device Debugging (GPLv3)",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.appdevforall.org/",
+        "discovered_at": "2026-05-01"
     },
     {
         "name": "Crowdsupply",
@@ -82883,6 +82953,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Clemorl",
+        "description": "Oops, I invented REST APIs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://clemorl.fr/Articles/Oops,-I-invented-REST-APIs",
+        "discovered_at": "2026-05-01"
+    },
+    {
         "name": "Cli",
         "description": "Show HN: Deepgram releases Deepgram CLI (`dg`) an agent-aware CLI",
         "category": "Other",
@@ -83171,6 +83251,16 @@
         "cors": "unknown",
         "url": "https://www.devinthakker.com/blog/chicago-budget-rag",
         "discovered_at": "2026-03-28"
+    },
+    {
+        "name": "Devonzuegel",
+        "description": "Culdesac, Arizona's car-free neighborhood",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://devonzuegel.com/field-notes-culdesac",
+        "discovered_at": "2026-05-01"
     },
     {
         "name": "Devreel",
@@ -85153,6 +85243,16 @@
         "discovered_at": "2026-03-19"
     },
     {
+        "name": "Phulin",
+        "description": "Reverse Engineering SimTower",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://phulin.me/blog/simtower",
+        "discovered_at": "2026-05-01"
+    },
+    {
         "name": "Piecely",
         "description": "Show HN: Piecely – Content marketplace using dominant assurance contracts",
         "category": "Other",
@@ -85301,6 +85401,16 @@
         "cors": "unknown",
         "url": "https://ptecorepractice.com",
         "discovered_at": "2026-04-16"
+    },
+    {
+        "name": "Pu",
+        "description": "Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pu.dev/",
+        "discovered_at": "2026-05-01"
     },
     {
         "name": "Puck",
@@ -85851,6 +85961,16 @@
         "cors": "unknown",
         "url": "https://splitsense.ai/tools/free-landing-page-review",
         "discovered_at": "2026-04-12"
+    },
+    {
+        "name": "Sprogeny",
+        "description": "Show HN: Sprogeny – mashup public Spotify playlists",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sprogeny.com/",
+        "discovered_at": "2026-05-01"
     },
     {
         "name": "Spuddy",
@@ -86861,6 +86981,16 @@
         "cors": "unknown",
         "url": "https://animateoldphotos.org/add-loved-one-to-photo",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Ddphotos",
+        "description": "Show HN: DD Photos – static photo albums, now with Docker and 1-command deploy",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ddphotos.donohoe.info",
+        "discovered_at": "2026-05-01"
     },
     {
         "name": "Facial Recognition Reverse Image Face Search API",
@@ -89844,6 +89974,16 @@
         "cors": "unknown",
         "url": "https://apify.com/getdataforme/flipkart-reviews-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Flocklist",
+        "description": "Show HN: Flocklist, minimalist graph-based task tracker",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://flocklist.app/?onboarding=true",
+        "discovered_at": "2026-05-01"
     },
     {
         "name": "Flow AI Agent",
@@ -94631,6 +94771,16 @@
         "cors": "unknown",
         "url": "https://apify.com/tinkerbrains/ui-generator",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Ukbinday",
+        "description": "Show HN: Bin collection calendars for the entire UK",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ukbinday.co.uk/",
+        "discovered_at": "2026-05-01"
     },
     {
         "name": "Ultimate Youtube Downloader",
