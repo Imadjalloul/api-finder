@@ -470,6 +470,16 @@
         "discovered_at": "2026-04-08"
     },
     {
+        "name": "Californiawaterblog",
+        "description": "AI uses less water than the public thinks",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
+        "discovered_at": "2026-05-02"
+    },
+    {
         "name": "Caravo",
         "description": "Show HN: Service marketplace for AI agents, 300 APIs and data sources",
         "category": "AI & Machine Learning",
@@ -805,6 +815,16 @@
         "cors": "unknown",
         "url": "https://frogapi.app",
         "discovered_at": "2026-03-01"
+    },
+    {
+        "name": "Fusion",
+        "description": "Show HN: AI CAD Harness",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fusion.adam.new/install",
+        "discovered_at": "2026-05-02"
     },
     {
         "name": "Gabidev",
@@ -5902,6 +5922,16 @@
         "cors": "unknown",
         "url": "https://boilerworks.ai",
         "discovered_at": "2026-03-31"
+    },
+    {
+        "name": "Btcwid",
+        "description": "Show HN: Bitcoin Monitor Widget",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://btcwid.com",
+        "discovered_at": "2026-05-02"
     },
     {
         "name": "CoinLayer",
@@ -12279,6 +12309,16 @@
         "cors": "unknown",
         "url": "https://www.freecustom.email/en",
         "discovered_at": "2026-03-14"
+    },
+    {
+        "name": "Gitleak",
+        "description": "Show HN: GitLeak – A GitHub OSINT tool for emails, timezones, and activity",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gitleak.io",
+        "discovered_at": "2026-05-02"
     },
     {
         "name": "Interactive documentation for your Premium plan",
@@ -75465,6 +75505,16 @@
         "url": "https://rawg.io/apidocs"
     },
     {
+        "name": "Rogmash",
+        "description": "Interactive Screen Saver App / Game – have fun – free for all –>",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rogmash.neocities.org/",
+        "discovered_at": "2026-05-02"
+    },
+    {
         "name": "Showcount",
         "description": "Show HN: A website to track live music attendance",
         "category": "Entertainment",
@@ -75473,6 +75523,16 @@
         "cors": "unknown",
         "url": "https://www.showcount.com/",
         "discovered_at": "2026-04-09"
+    },
+    {
+        "name": "Spinorama",
+        "description": "Show HN: A Wheel of Fortune game you can run in the browser",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://spinorama.io/",
+        "discovered_at": "2026-05-02"
     },
     {
         "name": "Spotify",
@@ -78013,6 +78073,16 @@
         "url": "https://developers.google.com/maps"
     },
     {
+        "name": "Housingassist",
+        "description": "Tokyo rent map: ¥79k gap between cheapest and priciest 1K (April 2026 data)",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://housingassist.com/blog/tokyo-rent-report-april-2026/",
+        "discovered_at": "2026-05-02"
+    },
+    {
         "name": "Imbue-ai",
         "description": "Show HN: GrandPerspective-style treemaps for the web and disk usage visualizer",
         "category": "Maps & Transport",
@@ -79182,6 +79252,26 @@
         "cors": "unknown",
         "url": "https://newsletter.ownersnotrenters.com/p/closing-the-open-source-gap",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Oruk",
+        "description": "Oruk (global breaking news wire with SSE, REST API, and MCP support)",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://oruk.ai/",
+        "discovered_at": "2026-05-02"
+    },
+    {
+        "name": "Passages",
+        "description": "Show HN: Passages – Read long-form articles on you E-Ink",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.passages.ink/",
+        "discovered_at": "2026-05-02"
     },
     {
         "name": "The Guardian",
@@ -83713,6 +83803,16 @@
         "discovered_at": "2026-03-31"
     },
     {
+        "name": "Forge",
+        "description": "Show HN: Open-Source FHIR –> OMOP Pipeline",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://forge.foxtrotcommunications.net/",
+        "discovered_at": "2026-05-02"
+    },
+    {
         "name": "Fortune",
         "description": "Tech is in turmoil but the rest of corporate America isn't",
         "category": "Other",
@@ -84591,6 +84691,16 @@
         "cors": "unknown",
         "url": "https://www.makeuseof.com/stopped-using-lm-studio-found-open-source-alternative/",
         "discovered_at": "2026-04-24"
+    },
+    {
+        "name": "Manual",
+        "description": "Show HN: How to become an Anti-founder, THE MANUAL",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://manual.cochranblock.org",
+        "discovered_at": "2026-05-02"
     },
     {
         "name": "Marinecharts",
@@ -86403,6 +86513,16 @@
         "discovered_at": "2026-04-19"
     },
     {
+        "name": "Utkarshapoorva",
+        "description": "Meta Just Killed Open-Source AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.utkarshapoorva.com/writing/meta-llama-trap/",
+        "discovered_at": "2026-05-02"
+    },
+    {
         "name": "Vaava",
         "description": "Show HN: Vaava – a baby routine tracker / logging app",
         "category": "Other",
@@ -86591,6 +86711,16 @@
         "cors": "unknown",
         "url": "http://webservice.wikipathways.org/index.php?swagger",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Woo",
+        "description": "Show HN: \"Woo\", a multi-user world for agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://woo.hughpyle.workers.dev/",
+        "discovered_at": "2026-05-02"
     },
     {
         "name": "Wormhole",
@@ -96425,6 +96555,16 @@
         "discovered_at": "2026-04-28"
     },
     {
+        "name": "Manchester",
+        "description": "Regarding cybersecurity, AI is our best hope in a profession that lacks hope",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://manchester.inklink.news/when-it-comes-to-cybersecurity-ai-is-our-best-hope-in-a-profession-that-generally-lacks-hope/",
+        "discovered_at": "2026-05-02"
+    },
+    {
         "name": "Nexmo Application API",
         "description": "Applications V1 is deprecated\n  This version of the API has been deprecated. Please use version 2 going forwards\n \nA Nexmo application contains the security and configuration information you need",
         "category": "Security",
@@ -98202,6 +98342,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://dictionaryapi.dev/"
+    },
+    {
+        "name": "Forkle",
+        "description": "Show HN: Updated – A dual crossword puzzle where two crosswords share one grid",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://forkle.co.uk/",
+        "discovered_at": "2026-05-02"
     },
     {
         "name": "Framework",
