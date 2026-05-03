@@ -12002,6 +12002,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Tenantbox",
+        "description": "Show HN: Tenantbox – Multi-tenant file storage for SaaS in two API calls",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tenantbox.dev",
+        "discovered_at": "2026-05-03"
+    },
+    {
         "name": "Tingouw",
         "description": "Running Bare-Metal Rust Alongside ESP-IDF on the ESP32-S3's Second Core",
         "category": "Cloud & Storage",
@@ -12478,6 +12488,16 @@
         "cors": "unknown",
         "url": "https://platform.newscatcherapi.com/catchall/try",
         "discovered_at": "2026-04-23"
+    },
+    {
+        "name": "Robotomail",
+        "description": "Show HN: Email for AI Agents",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://robotomail.com",
+        "discovered_at": "2026-05-03"
     },
     {
         "name": "SendGrid",
@@ -79176,6 +79196,16 @@
         "url": "https://github.com/HackerNews/API"
     },
     {
+        "name": "Hnup",
+        "description": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hnup.date/hn-sota",
+        "discovered_at": "2026-05-03"
+    },
+    {
         "name": "Nanostat",
         "description": "Show HN: Nanostat – automated particle analysis for electron microscopy images",
         "category": "News",
@@ -79272,6 +79302,16 @@
         "cors": "unknown",
         "url": "https://www.passages.ink/",
         "discovered_at": "2026-05-02"
+    },
+    {
+        "name": "Snewpapers",
+        "description": "Show HN: Large Scale Article Extract of Newspapers 1730s-1960s",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://snewpapers.com/",
+        "discovered_at": "2026-05-03"
     },
     {
         "name": "The Guardian",
@@ -85371,6 +85411,16 @@
         "cors": "unknown",
         "url": "https://piecely.app/johndebord/iyVsG23NbWv9xv2RJz2Tyv",
         "discovered_at": "2026-04-10"
+    },
+    {
+        "name": "Piruet",
+        "description": "Show HN: Piruetas – A self-hosted diary app I built for my girlfriend",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://piruet.app",
+        "discovered_at": "2026-05-03"
     },
     {
         "name": "Pivotordie",
