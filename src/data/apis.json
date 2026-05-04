@@ -20,6 +20,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Adlrocha",
+        "description": "How to Test AI Agents When They Never Give the Same Answer Twice",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://adlrocha.substack.com/p/adlrocha-the-eval-problem-how-to",
+        "discovered_at": "2026-05-04"
+    },
+    {
         "name": "Aegissolisarchive",
         "description": "A public archive for non-coercive AI restraint (\"interpretive braking\")",
         "category": "AI & Machine Learning",
@@ -1372,6 +1382,16 @@
         "cors": "unknown",
         "url": "https://meetrick.ai",
         "discovered_at": "2026-03-26"
+    },
+    {
+        "name": "Megallm",
+        "description": "Show HN: MegaLLM – Universal LLM client for any OpenAI-compatible API",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://megallm.netlify.app/",
+        "discovered_at": "2026-05-04"
     },
     {
         "name": "Metabase",
@@ -5613,6 +5633,16 @@
         "url": "https://thedogapi.com/"
     },
     {
+        "name": "Tidelock",
+        "description": "Show HN: SSL certificate discovery from CT logs",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.tidelock.dev/ssl/certificate-discovery",
+        "discovered_at": "2026-05-04"
+    },
+    {
         "name": "Tsolman",
         "description": "Show HN: Open-source API for IACS vessel classification data",
         "category": "Animals",
@@ -6345,6 +6375,16 @@
         "cors": "unknown",
         "url": "https://userunbook.ai/",
         "discovered_at": "2026-03-01"
+    },
+    {
+        "name": "Vernetit",
+        "description": "Show HN: An new experimental App for speed reading books",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vernetit.github.io/s4/",
+        "discovered_at": "2026-05-04"
     },
     {
         "name": "Yourservicebook",
@@ -49055,6 +49095,16 @@
         "discovered_at": "2026-04-18"
     },
     {
+        "name": "Getspeq",
+        "description": "Show HN: Speq – A collaborative web-based repository for your product's spec",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getspeq.com",
+        "discovered_at": "2026-05-04"
+    },
+    {
         "name": "Ghcommits",
         "description": "Show HN: GitHub Commits Leaderboard",
         "category": "Development",
@@ -75601,6 +75651,16 @@
         "url": "https://www.tvmaze.com/api"
     },
     {
+        "name": "20022validator",
+        "description": "Show HN: Cryptographic receipt authority for ISO 20022 financial messages",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://20022validator.com",
+        "discovered_at": "2026-05-04"
+    },
+    {
         "name": "Alpha Vantage",
         "description": "Stock, forex, and crypto market data with technical indicators",
         "category": "Finance",
@@ -82783,6 +82843,16 @@
         "discovered_at": "2026-04-28"
     },
     {
+        "name": "Bhatti",
+        "description": "Show HN: Bhatti – Self-hostable Firecracker orchestrator with auto pause/wake",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bhatti.sh/",
+        "discovered_at": "2026-05-04"
+    },
+    {
         "name": "Billingengine",
         "description": "Show HN: BillingEngine – usage-based billing for APIs with real-time rating",
         "category": "Other",
@@ -83071,6 +83141,16 @@
         "cors": "unknown",
         "url": "https://chillicream.com/blog/2026/04/22/semantic-introspection/",
         "discovered_at": "2026-04-30"
+    },
+    {
+        "name": "Chiplis",
+        "description": "Show HN: A (de)compiler and parser/engine for custom Magic: The Gathering cards",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://chiplis.com/ironsmith/",
+        "discovered_at": "2026-05-04"
     },
     {
         "name": "Claude",
@@ -83583,6 +83663,16 @@
         "discovered_at": "2026-03-15"
     },
     {
+        "name": "Drive",
+        "description": "Show HN: Zuma Portable",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://drive.google.com/drive/folders/1hDRvlY707VrO_UztEtIt1EoPgKBICL8Q?usp=sharing",
+        "discovered_at": "2026-05-04"
+    },
+    {
         "name": "Earlybell",
         "description": "Built a free market scanner for options flow, looking for feedback",
         "category": "Other",
@@ -83983,6 +84073,16 @@
         "discovered_at": "2026-04-23"
     },
     {
+        "name": "Getskillify",
+        "description": "Show HN: Generate SKILL.md files from URLs, in the browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.getskillify.dev/",
+        "discovered_at": "2026-05-04"
+    },
+    {
         "name": "Getsnatchhub",
         "description": "Show HN: SnatchHub – An App That Solves The \"who's using staging?\" Problem",
         "category": "Other",
@@ -84061,6 +84161,16 @@
         "cors": "unknown",
         "url": "https://glanceway.app",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Glucera",
+        "description": "Show HN: Glucera Local-first iPhone glucose app, seeking fingerstick beta tester",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://glucera.app/",
+        "discovered_at": "2026-05-04"
     },
     {
         "name": "Google Mirror",
@@ -84713,6 +84823,16 @@
         "discovered_at": "2026-04-15"
     },
     {
+        "name": "Luxuryintel",
+        "description": "Show HN: I built Luxury Intel, because every luxury hotel on Google is 4.8",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://luxuryintel.co/",
+        "discovered_at": "2026-05-04"
+    },
+    {
         "name": "Magaornot",
         "description": "Show HN: MAGA or Not? Political alignment scores for people and companies",
         "category": "Other",
@@ -84833,6 +84953,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Mathworks",
+        "description": "Show HN: Optical Design and Simulation in Matlab",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.mathworks.com/help/images/optical-system-design-and-analysis.html",
+        "discovered_at": "2026-05-04"
+    },
+    {
         "name": "Matrix-os",
         "description": "Show HN: Matrix OS, like Lovable, but for personal apps",
         "category": "Other",
@@ -84851,6 +84981,16 @@
         "cors": "unknown",
         "url": "https://maurycyz.com/misc/c_files/",
         "discovered_at": "2026-03-02"
+    },
+    {
+        "name": "Maxcred",
+        "description": "Show HN: Maxcred – app to maximise your credit card rewards",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://maxcred.vercel.app",
+        "discovered_at": "2026-05-04"
     },
     {
         "name": "Mcpfinder",
@@ -86741,6 +86881,16 @@
         "cors": "unknown",
         "url": "https://weejur.com",
         "discovered_at": "2026-04-23"
+    },
+    {
+        "name": "Whale",
+        "description": "Show HN: I built a web builder after 6 years of trying",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://whale.kiraaziz.club",
+        "discovered_at": "2026-05-04"
     },
     {
         "name": "Whereisartemis",
@@ -99420,6 +99570,16 @@
         "url": "https://tenor.com/gifapi/documentation"
     },
     {
+        "name": "Tinyrec",
+        "description": "PixiJS was killing my video exports. So I rewrote the pipeline in Rust",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tinyrec.io/blog/rust-video-exporter/",
+        "discovered_at": "2026-05-04"
+    },
+    {
         "name": "Video-commander",
         "description": "Show HN: Video Commander – A desktop IDE for video engineers (FFmpeg, VMAF)",
         "category": "Video & Media",
@@ -99496,6 +99656,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://developers.google.com/youtube/v3"
+    },
+    {
+        "name": "Zkhrv",
+        "description": "Show HN: Parrot – a fun, skeuomorphic audio recorder to hear yourself",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.zkhrv.com/parrot",
+        "discovered_at": "2026-05-04"
     },
     {
         "name": "Forecast-planner",
