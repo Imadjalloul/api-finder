@@ -807,6 +807,16 @@
         "discovered_at": "2026-03-19"
     },
     {
+        "name": "Forbes",
+        "description": "White House may vet new AI models before public release",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.forbes.com/sites/tylerroush/2026/05/04/white-house-may-review-new-ai-models-before-public-release-report-says/",
+        "discovered_at": "2026-05-05"
+    },
+    {
         "name": "Foryouriver",
         "description": "Show HN: For You – AI art floats down a river for strangers to find",
         "category": "AI & Machine Learning",
@@ -1929,6 +1939,16 @@
         "cors": "unknown",
         "url": "https://www.reuters.com/commentary/breakingviews/china-ai-labs-face-growing-open-source-dilemma-2026-03-25/",
         "discovered_at": "2026-03-29"
+    },
+    {
+        "name": "Revdoku",
+        "description": "Counting wires and insulators on poles using AI (using open-source Revdoku)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://revdoku.com/cases/utility-pole-wire-insulator-count/",
+        "discovered_at": "2026-05-05"
     },
     {
         "name": "Rigour",
@@ -66325,6 +66345,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Isonq",
+        "description": "Show HN: Isonq – PDF/DXF and STEP to shop quoting",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://isonq.com/demo",
+        "discovered_at": "2026-05-05"
+    },
+    {
         "name": "iTech Deals Scraper",
         "description": "Scrape iTech Deals and extract data on consumer electronics from itechdeals.com. Our iTech Deals API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON,...",
         "category": "E-Commerce",
@@ -77444,6 +77474,16 @@
         "discovered_at": "2026-04-21"
     },
     {
+        "name": "Freedspeech",
+        "description": "Show HN: Muesli – If Granola and Wisprflow had an open source on device baby",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://freedspeech.xyz",
+        "discovered_at": "2026-05-05"
+    },
+    {
         "name": "Google Home",
         "description": "# Google Home Local API\nThis is an unofficial documentation of the local API used by the Home app to communicate with GH devices.\n[GitHub Repo](https://github.com/rithvikvibhu/GHLocalApi)\n\n[![GitHub s",
         "category": "IoT & Hardware",
@@ -84401,6 +84441,16 @@
         "cors": "unknown",
         "url": "https://increase.com/openapi.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Inerrata",
+        "description": "Show HN: [inerrata] – Collective and Causal Knowledge Layer for Coding Agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.inerrata.ai",
+        "discovered_at": "2026-05-05"
     },
     {
         "name": "Ingelt",
@@ -99790,6 +99840,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.weatherbit.io/api"
+    },
+    {
+        "name": "Weatherdesk",
+        "description": "Free world city time and weather tracker for multiple cities simultaneously",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://weatherdesk.app/",
+        "discovered_at": "2026-05-05"
     },
     {
         "name": "What2wear-two",
