@@ -657,6 +657,16 @@
         "url": "https://www.deepl.com/docs-api"
     },
     {
+        "name": "Deployrocketship",
+        "description": "Show HN: Rocketship, the only AI app builder with built-in sales team",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://deployrocketship.com",
+        "discovered_at": "2026-05-06"
+    },
+    {
         "name": "Docs",
         "description": "EU AI Act compliance layer for Claude Managed Agents (MCP, open source)",
         "category": "AI & Machine Learning",
@@ -1252,6 +1262,16 @@
         "cors": "unknown",
         "url": "https://linggen.dev/",
         "discovered_at": "2026-04-09"
+    },
+    {
+        "name": "Link",
+        "description": "Charting the AI perception gap between experts and the public",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://link.springer.com/article/10.1007/s00146-026-03023-8",
+        "discovered_at": "2026-05-06"
     },
     {
         "name": "Linkjob",
@@ -2347,6 +2367,16 @@
         "cors": "unknown",
         "url": "https://trypaolo.com",
         "discovered_at": "2026-03-04"
+    },
+    {
+        "name": "Tryrival",
+        "description": "Show HN: Rival AI – AI compliance agents and regulatory corpus",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tryrival.ai",
+        "discovered_at": "2026-05-06"
     },
     {
         "name": "Trytet",
@@ -5673,6 +5703,16 @@
         "discovered_at": "2026-03-28"
     },
     {
+        "name": "Wiley",
+        "description": "Sex matters: European urban birds flee approaching women sooner than men",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wiley.scienceconnect.io/error?msg=ewogICJpZCIgOiAiYzhmN2JlYjItYTllOC00OWQ0LTkyNTgtM2ZmNWYwYjQ1ZDVhIiwKICAidGl0bGUiIDogIkVycm9yIiwKICAibWVzc2FnZSIgOiAiY29tLm5pbWJ1c2RzLm9hdXRoMi5zZGsuUGFyc2VFeGNlcHRpb246IFRoZSBzY29wZSBtdXN0IGluY2x1ZGUgYW4gb3BlbmlkIHZhbHVlIiwKICAiY29kZSIgOiAiR0VORVJBTF9FUlJPUiIKfQ==&errorCode=500-cba",
+        "discovered_at": "2026-05-06"
+    },
+    {
         "name": "Wired",
         "description": "A Billionaire-Backed Startup Wants to Grow 'Organ Sacks' to Replace Animal Test",
         "category": "Animals",
@@ -6080,6 +6120,16 @@
         "cors": "unknown",
         "url": "https://www.oxlo.ai/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Qlaud",
+        "description": "Show HN: Token Usage Meter 12 Providers and Coding Agent",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://qlaud.ai",
+        "discovered_at": "2026-05-06"
     },
     {
         "name": "Repogauge",
@@ -12102,6 +12152,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Vask",
+        "description": "Show HN: Vask – Pusher-compatible WebSockets on Cloudflare, no fan-out fees",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vask.dev",
+        "discovered_at": "2026-05-06"
+    },
+    {
         "name": "Vram",
         "description": "Show HN: Vram.run – Compare API providers, local GPUs, and cloud for any model",
         "category": "Cloud & Storage",
@@ -12261,6 +12321,16 @@
         "url": "https://www.abstractapi.com/sms-verification-api"
     },
     {
+        "name": "Aditu",
+        "description": "Show HN: Keyterm Filtering for Voice AI",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aditu.tech/keyterm-filtering",
+        "discovered_at": "2026-05-06"
+    },
+    {
         "name": "Agentmailr",
         "description": "Show HN: AgentMailr – dedicated email inboxes for AI agents",
         "category": "Communication",
@@ -12359,6 +12429,16 @@
         "cors": "unknown",
         "url": "https://ejectify.app?discount=EJECTIFY2",
         "discovered_at": "2026-04-18"
+    },
+    {
+        "name": "Emailajent",
+        "description": "Show HN: EmailAjent – an AI executive assistant for your email threads",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://emailajent.com/",
+        "discovered_at": "2026-05-06"
     },
     {
         "name": "Firethering",
@@ -42907,6 +42987,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "7coderwords",
+        "description": "Show HN: A word puzzle web game for programmers",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://7coderwords.kenamick.com/",
+        "discovered_at": "2026-05-06"
+    },
+    {
         "name": "A Shrek REST API",
         "description": "A Shrek REST API",
         "category": "Development",
@@ -44155,6 +44245,16 @@
         "cors": "unknown",
         "url": "https://apify.com/fatihtahta/arabam-com-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Arc-agi-runs",
+        "description": "Replayable traces of Claude Code runs on ARC-AGI-3 public demo games",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://arc-agi-runs.web.app",
+        "discovered_at": "2026-05-06"
     },
     {
         "name": "Archive.org advanced search",
@@ -59176,6 +59276,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Usegitbar",
+        "description": "Show HN: Gitbar – A menu bar app for GitHub PRs and issues",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://usegitbar.app/",
+        "discovered_at": "2026-05-06"
+    },
+    {
         "name": "User Info Generator API",
         "description": "User Info Generator API",
         "category": "Development",
@@ -63174,6 +63284,16 @@
         "cors": "unknown",
         "url": "https://apify.com/mshopik/buykud-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Byallo",
+        "description": "Show HN: ByAllo – the online bookstore that runs itself",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://byallo.com/",
+        "discovered_at": "2026-05-06"
     },
     {
         "name": "BYCHARI Scraper",
@@ -68803,6 +68923,16 @@
         "cors": "unknown",
         "url": "https://apify.com/mshopik/nomatic-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Nominal",
+        "description": "Bevy and egui desktop app in production",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nominal.io/blog/nominal-connect-shipping-realtime-desktop-software-with-rust-bevy-and-egui",
+        "discovered_at": "2026-05-06"
     },
     {
         "name": "nonda Scraper",
@@ -79306,6 +79436,16 @@
         "discovered_at": "2026-05-03"
     },
     {
+        "name": "Hooked",
+        "description": "Show HN: I built AI agents to surface the best AI tools and news weekly",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hooked.news/",
+        "discovered_at": "2026-05-06"
+    },
+    {
         "name": "Nanostat",
         "description": "Show HN: Nanostat – automated particle analysis for electron microscopy images",
         "category": "News",
@@ -82463,6 +82603,16 @@
         "discovered_at": "2026-04-27"
     },
     {
+        "name": "Ahd",
+        "description": "Show HN: AHD – an open-source linter and eval framework for AI-generated UI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ahd.adastra.computer/",
+        "discovered_at": "2026-05-06"
+    },
+    {
         "name": "Aibodh",
         "description": "The Impatient Programmer's Guide to Bevy and Rust: Ch 12 Let There Be Networking",
         "category": "Other",
@@ -82481,6 +82631,16 @@
         "cors": "unknown",
         "url": "https://aisaastemplate.com/tools/cookiecutter/",
         "discovered_at": "2026-03-29"
+    },
+    {
+        "name": "Aiwai",
+        "description": "Show HN: Hexagonal, noisy, periodic Minesweeper in FreeDoom style",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aiwai.eu/apps/doom-sweeper/",
+        "discovered_at": "2026-05-06"
     },
     {
         "name": "Ajh",
@@ -83413,6 +83573,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Cve",
+        "description": "Apache HTTP Server: HTTP2: double free and possible RCE on early reset",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.cve.org/CVERecord?id=CVE-2026-23918",
+        "discovered_at": "2026-05-06"
+    },
+    {
         "name": "Data2CRM.API",
         "description": "Make use of our in-depth documentation to get more information about the various functions of the service. Those willing to explore the mechanics of Data2CRM.API can test it in live regime using the s",
         "category": "Other",
@@ -83793,6 +83963,16 @@
         "discovered_at": "2026-04-26"
     },
     {
+        "name": "Engagemii",
+        "description": "Show HN: Is your brand invisible to AI? We built a free visibility score",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://engagemii.com/aeo",
+        "discovered_at": "2026-05-06"
+    },
+    {
         "name": "Engram",
         "description": "Show HN: Engram – Open-source agent memory that beats Mem0 by 20% on LOCOMO",
         "category": "Other",
@@ -83861,6 +84041,16 @@
         "cors": "unknown",
         "url": "https://ezorro.app/",
         "discovered_at": "2026-03-05"
+    },
+    {
+        "name": "Factionfiasco",
+        "description": "Show HN: Faction Fiasco – single-player card battler, 100 unhinged characters",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://factionfiasco.com/",
+        "discovered_at": "2026-05-06"
     },
     {
         "name": "Family-tree-maker",
@@ -84613,6 +84803,16 @@
         "discovered_at": "2026-03-11"
     },
     {
+        "name": "Journal",
+        "description": "Show HN: Cubitoo Journal, your web journaling app",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://journal.cubitoo.com/en",
+        "discovered_at": "2026-05-06"
+    },
+    {
         "name": "Juanpabloaj",
         "description": "Show HN: A lightweight way to make agents talk without paying for API usage",
         "category": "Other",
@@ -85063,6 +85263,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Mczaykowski",
+        "description": "Show HN: I built an API for agents visiting my personal website",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mczaykowski.com/articles/smallest-ax-surface",
+        "discovered_at": "2026-05-06"
+    },
+    {
         "name": "Medium",
         "description": "I Built a Public REST API from Scratch on Supabase Edge Functions",
         "category": "Other",
@@ -85111,6 +85321,16 @@
         "cors": "unknown",
         "url": "https://micro.mu",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Middleeasteye",
+        "description": "The West's bubble of illusion about Israel and about itself is being burst",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.middleeasteye.net/opinion/west-bubble-illusion-israel-about-itself-finally-being-burst",
+        "discovered_at": "2026-05-06"
     },
     {
         "name": "Mikeoss",
@@ -85773,6 +85993,16 @@
         "discovered_at": "2026-04-30"
     },
     {
+        "name": "Pulsepages",
+        "description": "Show HN: PulsePages – Multi-page websites for $9/year (Carrd alternative",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.pulsepages.co",
+        "discovered_at": "2026-05-06"
+    },
+    {
         "name": "Pvizgenerator",
         "description": "Show HN: Reducing a 66-node dependency cycle to 13 in Scrapy",
         "category": "Other",
@@ -85893,6 +86123,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Reco",
+        "description": "How to Test a Salesforce Experience Aura Site Like an Apex Predator",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.reco.ai/blog/salesforce-experience-site-pentest-apex-predator",
+        "discovered_at": "2026-05-06"
+    },
+    {
         "name": "Redact API",
         "description": "The [Redact API](/redact/overview) helps organisations meet their privacy compliance obligations. It provides controlled, on-demand redaction of private information from transactional records in the l",
         "category": "Other",
@@ -85963,6 +86203,16 @@
         "discovered_at": "2026-04-17"
     },
     {
+        "name": "Resources",
+        "description": "Show HN: Open-source CLI to generate UI tests from user flows",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://resources.kusho.ai/kusho-ai-ui-testing-tui",
+        "discovered_at": "2026-05-06"
+    },
+    {
         "name": "Retrospectiveonline",
         "description": "Show HN: Retrospective Online – Sprint Retros for dev teams",
         "category": "Other",
@@ -86011,6 +86261,16 @@
         "cors": "unknown",
         "url": "https://rnbulktools.top/",
         "discovered_at": "2026-04-08"
+    },
+    {
+        "name": "Rnkflow",
+        "description": "Show HN: I got tired of refreshing HN, so I made it refresh itself",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rnkflow.com/",
+        "discovered_at": "2026-05-06"
     },
     {
         "name": "Roy",
@@ -97181,6 +97441,16 @@
         "url": "https://discord.com/developers/docs/intro"
     },
     {
+        "name": "Flightsmoothie-dot",
+        "description": "RepurposeAI – Paste a blog post, get 10 social media posts (free, no signup)",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://flightsmoothie-dot.github.io/novacrypto-assets/repurpose-ai/",
+        "discovered_at": "2026-05-06"
+    },
+    {
         "name": "Flowylabs",
         "description": "Show HN: Video Messaging for Work",
         "category": "Social",
@@ -98738,6 +99008,16 @@
         "cors": "unknown",
         "url": "https://timleland.com/live-speech-translator/",
         "discovered_at": "2026-04-23"
+    },
+    {
+        "name": "Unforbiddenyet",
+        "description": "Show HN: I Built a Polyfill for the Browser's New Language Detection API",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://unforbiddenyet.substack.com/p/i-built-a-polyfill-for-the-browsers",
+        "discovered_at": "2026-05-06"
     },
     {
         "name": "Wordfor",
