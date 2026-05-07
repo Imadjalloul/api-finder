@@ -2200,6 +2200,16 @@
         "discovered_at": "2026-04-07"
     },
     {
+        "name": "Symposium",
+        "description": "Symposium makes Rust dependencies actionable for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://symposium.dev/",
+        "discovered_at": "2026-05-07"
+    },
+    {
         "name": "Sysdesai",
         "description": "Show HN: I built an AI senior architect – vibe coding meets system design",
         "category": "AI & Machine Learning",
@@ -45736,6 +45746,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Code",
+        "description": "Show HN: I Replaced React in GraphiQL with Svelte",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://code.webb.page/eol/graphiql.git/about/",
+        "discovered_at": "2026-05-07"
+    },
+    {
         "name": "Codeant",
         "description": "Authentication bypass in pac4j-JWT using only the RSA public key",
         "category": "Development",
@@ -83553,6 +83573,16 @@
         "discovered_at": "2026-04-05"
     },
     {
+        "name": "Curl",
+        "description": "Show HN: Curl.md – URL to Markdown for Agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://curl.md/",
+        "discovered_at": "2026-05-07"
+    },
+    {
         "name": "Custom Behavioral Events API",
         "description": "HTTP API for triggering instances of custom behavioral events",
         "category": "Other",
@@ -83843,6 +83873,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Doodlemate",
+        "description": "Show HN: DoodleMate: Animate Your Child's Hand Drawings Without Generative AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://doodlemate.com/",
+        "discovered_at": "2026-05-07"
+    },
+    {
         "name": "Dopaloop",
         "description": "Show HN: DopaLoop – Habit tracker for ADHD brains, local-first, no streaks",
         "category": "Other",
@@ -83871,6 +83911,16 @@
         "cors": "unknown",
         "url": "https://dorkly.stanl.ink/download/",
         "discovered_at": "2026-03-15"
+    },
+    {
+        "name": "Dreamworkhq",
+        "description": "Show HN: Dreamwork – a job search site I made after Indeed fired my pregnant wif",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.dreamworkhq.com/",
+        "discovered_at": "2026-05-07"
     },
     {
         "name": "Drive",
@@ -85043,6 +85093,16 @@
         "discovered_at": "2026-03-28"
     },
     {
+        "name": "Looties",
+        "description": "Show HN: Looties – a marketplace for tech swag fans",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://looties.io/",
+        "discovered_at": "2026-05-07"
+    },
+    {
         "name": "Lucidtech API",
         "description": "Lucidtech API API",
         "category": "Other",
@@ -85433,6 +85493,16 @@
         "discovered_at": "2026-04-06"
     },
     {
+        "name": "Navalstrike",
+        "description": "Show HN: Naval Strike – simultaneous turn-based fleet combat in the browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://navalstrike.app",
+        "discovered_at": "2026-05-07"
+    },
+    {
         "name": "Necessarycuts",
         "description": "Show HN: Necessary Cuts – an interactive fiction fragment",
         "category": "Other",
@@ -85521,6 +85591,16 @@
         "cors": "unknown",
         "url": "https://npgsqlrest.github.io/blog/sql-rest-api.html",
         "discovered_at": "2026-04-11"
+    },
+    {
+        "name": "O-u",
+        "description": "Show HN: Web client analyzing prediction market outcomes",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://o-u.ai",
+        "discovered_at": "2026-05-07"
     },
     {
         "name": "Occam",
@@ -97105,6 +97185,16 @@
         "discovered_at": "2026-04-11"
     },
     {
+        "name": "Sfstandard",
+        "description": "Mythos is the best cybersecurity news in a decade",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sfstandard.com/opinion/2026/05/06/mythos-cybersecurity-ai/",
+        "discovered_at": "2026-05-07"
+    },
+    {
         "name": "Shielddeskhq",
         "description": "Show HN: I built a free email security checker for small businesses",
         "category": "Security",
@@ -99986,6 +100076,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://developers.google.com/youtube/v3"
+    },
+    {
+        "name": "Youtubetranscript",
+        "description": "Show+HN:YouTube Transcript API",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://youtubetranscript.us/",
+        "discovered_at": "2026-05-07"
     },
     {
         "name": "Zkhrv",
