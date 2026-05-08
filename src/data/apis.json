@@ -667,6 +667,16 @@
         "discovered_at": "2026-05-06"
     },
     {
+        "name": "Disputron",
+        "description": "Show HN: Disputron – AI small claims court for petty disputes",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://disputron.ai",
+        "discovered_at": "2026-05-08"
+    },
+    {
         "name": "Docs",
         "description": "EU AI Act compliance layer for Claude Managed Agents (MCP, open source)",
         "category": "AI & Machine Learning",
@@ -1102,6 +1112,16 @@
         "cors": "unknown",
         "url": "https://www.inariwatch.com/",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Informity",
+        "description": "Informity AI – Chat with your documents locally on your Mac (MIT, free)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.informity.ai/",
+        "discovered_at": "2026-05-08"
     },
     {
         "name": "Interest",
@@ -1912,6 +1932,16 @@
         "discovered_at": "2026-04-24"
     },
     {
+        "name": "Recursant",
+        "description": "Show HN: Recursant – service mesh for governing AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.recursant.ai/",
+        "discovered_at": "2026-05-08"
+    },
+    {
         "name": "Redmonk",
         "description": "The Generative AI Policy Landscape in Open Source",
         "category": "AI & Machine Learning",
@@ -1920,6 +1950,16 @@
         "cors": "unknown",
         "url": "https://redmonk.com/kholterhoff/2026/02/26/generative-ai-policy-landscape-in-open-source/",
         "discovered_at": "2026-03-23"
+    },
+    {
+        "name": "Regadvisor",
+        "description": "Free AI UK car shopping advice",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://regadvisor.co.uk/",
+        "discovered_at": "2026-05-08"
     },
     {
         "name": "Remy",
@@ -2566,6 +2606,16 @@
         "cors": "unknown",
         "url": "https://word-orb-api.nicoletterankin.workers.dev/playground",
         "discovered_at": "2026-03-02"
+    },
+    {
+        "name": "Wps",
+        "description": "Summarize Text Online – Free AI Summarizer",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.wps.com/tools/ai-summarizer/",
+        "discovered_at": "2026-05-08"
     },
     {
         "name": "Wsj",
@@ -5448,6 +5498,16 @@
         "discovered_at": "2026-04-05"
     },
     {
+        "name": "Anthropic",
+        "description": "Anthropic donates Petri open-source alignment tool",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.anthropic.com/research/donating-open-source-petri",
+        "discovered_at": "2026-05-08"
+    },
+    {
         "name": "Apindex",
         "description": "Show HN: Apindex – self-hosted API catalog to map and understand internal APIs",
         "category": "Animals",
@@ -5896,6 +5956,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/vtex/openapi-schemas/master/VTEX - Session Manager API.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Striga",
+        "description": "For a Fistful of Dollars: CVE-2026-23918 – Pre-auth RCE in Apache httpd",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.striga.ai/research/apache-httpd-mod-http2-double-free",
+        "discovered_at": "2026-05-08"
     },
     {
         "name": "Strix",
@@ -12640,6 +12710,16 @@
         "discovered_at": "2026-04-23"
     },
     {
+        "name": "Pushward",
+        "description": "PushWard – Hosted APNs gateway for iOS Live Activities, with open-source bridges",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pushward.app",
+        "discovered_at": "2026-05-08"
+    },
+    {
         "name": "Robotomail",
         "description": "Show HN: Email for AI Agents",
         "category": "Communication",
@@ -12648,6 +12728,16 @@
         "cors": "unknown",
         "url": "https://robotomail.com",
         "discovered_at": "2026-05-03"
+    },
+    {
+        "name": "Safekibble",
+        "description": "Show HN: SafeKibble – free email alerts when your pet's food is FDA-recalled",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.safekibble.app/",
+        "discovered_at": "2026-05-08"
     },
     {
         "name": "SendGrid",
@@ -77704,6 +77794,16 @@
         "discovered_at": "2026-03-03"
     },
     {
+        "name": "Sentient-os",
+        "description": "Show HN: Sentient OS – On-device intelligence layer for your entire digital life",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sentient-os.ai",
+        "discovered_at": "2026-05-08"
+    },
+    {
         "name": "Signalcend",
         "description": "Show HN: SignalCend – API that resolves conflicting IoT device state in 47ms",
         "category": "IoT & Hardware",
@@ -83753,6 +83853,16 @@
         "discovered_at": "2026-04-29"
     },
     {
+        "name": "Discover",
+        "description": "Show HN: Discover – a curated RSS directory with mentions via RSS",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://discover.brine.dev/",
+        "discovered_at": "2026-05-08"
+    },
+    {
         "name": "Discovery Market Research",
         "description": "This API drives the Discovery Market Research Tool.\nIt contains information on the vendors that are part of the OASIS and OASIS Small Business contracting vehicles, such as their contracting history,",
         "category": "Other",
@@ -83933,6 +84043,16 @@
         "discovered_at": "2026-05-04"
     },
     {
+        "name": "Drumforge",
+        "description": "Show HN: Drumforge – Free open-source interactive drum exercises",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://drumforge.app/",
+        "discovered_at": "2026-05-08"
+    },
+    {
         "name": "Earlybell",
         "description": "Built a free market scanner for options flow, looking for feedback",
         "category": "Other",
@@ -84063,6 +84183,16 @@
         "discovered_at": "2026-04-24"
     },
     {
+        "name": "Essentialsforsafari",
+        "description": "Show HN: Essentials for Safari – Arc-style Essentials panel",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://essentialsforsafari.app/",
+        "discovered_at": "2026-05-08"
+    },
+    {
         "name": "Exactonce",
         "description": "Show HN: ExactOnce – API for actions that can only happen once",
         "category": "Other",
@@ -84121,6 +84251,16 @@
         "cors": "unknown",
         "url": "https://familytreeeasy.com",
         "discovered_at": "2026-03-08"
+    },
+    {
+        "name": "Familytreeiq",
+        "description": "I made a simple, free family tree app that handled my 300 person, 5 gen. family",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.familytreeiq.com",
+        "discovered_at": "2026-05-08"
     },
     {
         "name": "Fcavallarin",
@@ -84671,6 +84811,16 @@
         "cors": "unknown",
         "url": "https://www.implicitmarkets.com/",
         "discovered_at": "2026-04-02"
+    },
+    {
+        "name": "Incidentary",
+        "description": "Show HN: An OTel exporter that posts the cause to your incident channel",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://incidentary.com/",
+        "discovered_at": "2026-05-08"
     },
     {
         "name": "Increase API",
@@ -85273,6 +85423,16 @@
         "discovered_at": "2026-05-04"
     },
     {
+        "name": "Matmercer",
+        "description": "Show HN: Chrome new prompt API demo",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://matmercer.github.io/prompt-api-demo/",
+        "discovered_at": "2026-05-08"
+    },
+    {
         "name": "Matrix-os",
         "description": "Show HN: Matrix OS, like Lovable, but for personal apps",
         "category": "Other",
@@ -85533,6 +85693,16 @@
         "discovered_at": "2026-03-06"
     },
     {
+        "name": "Neutboom",
+        "description": "Show HN: Loxai.tech and Neutboom – Gen AI's frontier of individuality",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.neutboom.com",
+        "discovered_at": "2026-05-08"
+    },
+    {
         "name": "Nial",
         "description": "Did the Agile Manifesto, Scrum and open source kill the programmer?",
         "category": "Other",
@@ -85591,6 +85761,16 @@
         "cors": "unknown",
         "url": "https://npgsqlrest.github.io/blog/sql-rest-api.html",
         "discovered_at": "2026-04-11"
+    },
+    {
+        "name": "Nyaaywatch",
+        "description": "Show HN: NyaayWatch – Observability layer for the Indian judiciary",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nyaaywatch.in",
+        "discovered_at": "2026-05-08"
     },
     {
         "name": "O-u",
@@ -86153,6 +86333,16 @@
         "discovered_at": "2026-04-06"
     },
     {
+        "name": "Ratex",
+        "description": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ratex.lites.dev/",
+        "discovered_at": "2026-05-08"
+    },
+    {
         "name": "Ratschn",
         "description": "Show HN: Ratschn – A local Mac dictation app built with Rust, Tauri and CoreML",
         "category": "Other",
@@ -86201,6 +86391,16 @@
         "cors": "unknown",
         "url": "https://www.reactnative.run/",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Reactor",
+        "description": "Show HN: Real-time world model demo",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.reactor.inc/",
+        "discovered_at": "2026-05-08"
     },
     {
         "name": "Reco",
@@ -86271,6 +86471,16 @@
         "cors": "unknown",
         "url": "https://developer.mastercard.com/devzone/api/portal/swagger/mastercard-repower",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Reproof",
+        "description": "The best ideas come from the arena",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.reproof.app/blog/amex-history",
+        "discovered_at": "2026-05-08"
     },
     {
         "name": "Repscontact",
@@ -86451,6 +86661,16 @@
         "cors": "unknown",
         "url": "https://seoscoreapi.com",
         "discovered_at": "2026-03-02"
+    },
+    {
+        "name": "Setsweat",
+        "description": "Show HN: After 15 years of lifting and spreadsheets, I built my own workout app",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.setsweat.com",
+        "discovered_at": "2026-05-08"
     },
     {
         "name": "Sh",
@@ -86753,6 +86973,16 @@
         "discovered_at": "2026-04-10"
     },
     {
+        "name": "Swipecopilot",
+        "description": "Show HN: Swipe Copilot – Less time on Tinder, more dates worth going on",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.swipecopilot.com/",
+        "discovered_at": "2026-05-08"
+    },
+    {
         "name": "Sylve",
         "description": "Show HN: Sylve – A management plane for FreeBSD (ZFS, VMs, jails, clustering)",
         "category": "Other",
@@ -86811,6 +87041,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/nasa/api-docs/gh-pages/assets/json/Asteroids%20NeoWs",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Telegraph",
+        "description": "Richard Dawkins: Claude (for one) has 'passed' the Turing Test",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.telegraph.co.uk/news/2026/05/06/richard-dawkins-convinced-ai-is-conscious/",
+        "discovered_at": "2026-05-08"
     },
     {
         "name": "Textyoursite",
@@ -87809,6 +88049,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.pexels.com/api/"
+    },
+    {
+        "name": "Pictero",
+        "description": "Show HN: Pictero.com – mostly browser based image toolbox",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.pictero.com/",
+        "discovered_at": "2026-05-08"
     },
     {
         "name": "Pixabay",
@@ -97745,6 +97995,16 @@
         "url": "https://www.api-football.com/"
     },
     {
+        "name": "Blogs",
+        "description": "Cisco open sources toolkit for tracing AI model lineage",
+        "category": "Sports",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blogs.cisco.com/ai/model-provenance-kit",
+        "discovered_at": "2026-05-08"
+    },
+    {
         "name": "F1 Ergast",
         "description": "Formula One race results and driver standings",
         "category": "Sports",
@@ -97771,6 +98031,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.football-data.org/"
+    },
+    {
+        "name": "Marketplace",
+        "description": "SEO-Friendly Public Pages for Confluence",
+        "category": "Sports",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://marketplace.atlassian.com/apps/356517983/public-pages-for-confluence",
+        "discovered_at": "2026-05-08"
     },
     {
         "name": "NBA",
@@ -99546,6 +99816,16 @@
         "cors": "unknown",
         "url": "https://www.cutearr.com/",
         "discovered_at": "2026-04-20"
+    },
+    {
+        "name": "Fascinating-crepe-d7b325",
+        "description": "QuickTools Pro – Free browser-based utility suite",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fascinating-crepe-d7b325.netlify.app/",
+        "discovered_at": "2026-05-08"
     },
     {
         "name": "Gitauto",
