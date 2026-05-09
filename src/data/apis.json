@@ -50602,6 +50602,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Howbadis",
+        "description": "Show HN: Howbadis.it – Paste your vibe-coded app, see what'll break",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://howbadis.it",
+        "discovered_at": "2026-05-09"
+    },
+    {
         "name": "HR Websource Blog Scraper",
         "description": "HR Websource Blog Scraper (hrwebsource.com) lets you extract blog content in HTML, JSON, and plaintext. Get authors, create/update date, images, read time, RSS, titles, SEO titles, featured images &..",
         "category": "Development",
@@ -73521,6 +73531,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Wordpress",
+        "description": "Show HN: Shopify-to-WooCommerce Migration Plugin – Storefront GraphQL API",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wordpress.org/plugins/laterreta-migrator-for-shopify/",
+        "discovered_at": "2026-05-09"
+    },
+    {
         "name": "WordPress Articles Scraper",
         "description": "The WordPress Articles Scraper is an Apify actor that extracts posts and metadata from any WordPress website using the WordPress REST API. It automatically handles pagination and fetches additional...",
         "category": "E-Commerce",
@@ -75891,6 +75911,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://ghibliapi.vercel.app/"
+    },
+    {
+        "name": "Timelooptv",
+        "description": "Show HN: tltv – Federation protocol for 24/7 TV channels",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://timelooptv.org/",
+        "discovered_at": "2026-05-09"
     },
     {
         "name": "TMDb",
@@ -83403,6 +83433,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Cadara",
+        "description": "Show HN: CADara – I made an open-source in-browser CAD",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cadara.app",
+        "discovered_at": "2026-05-09"
+    },
+    {
         "name": "Captainfredric",
         "description": "Show HN: ContentForge – Content scoring API (42 endpoints, 12 platforms)",
         "category": "Other",
@@ -85141,6 +85181,16 @@
         "cors": "unknown",
         "url": "http://kvark.github.io/ai/performance/2026/04/19/tales-from-the-inference-land.html",
         "discovered_at": "2026-04-21"
+    },
+    {
+        "name": "Lakyus",
+        "description": "Show HN: Launch and Run Companies on Autopilot",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lakyus.com/live",
+        "discovered_at": "2026-05-09"
     },
     {
         "name": "Lasersell",
@@ -99184,6 +99234,16 @@
         "cors": "unknown",
         "url": "https://arespass.net/assets/arespassv1.0-openapi.yaml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Cafedelcadence",
+        "description": "Show HN: Mideo – Translate Video to MIDI",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cafedelcadence.github.io",
+        "discovered_at": "2026-05-09"
     },
     {
         "name": "Car Registration API",
