@@ -510,6 +510,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Chonklm",
+        "description": "Show HN: ChonkLM – Tiny language models running offline in the browser",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://chonklm.com",
+        "discovered_at": "2026-05-10"
+    },
+    {
         "name": "Clarifai",
         "description": "Image and video recognition, NLP, and generative AI",
         "category": "AI & Machine Learning",
@@ -855,6 +865,16 @@
         "cors": "unknown",
         "url": "https://frogapi.app",
         "discovered_at": "2026-03-01"
+    },
+    {
+        "name": "Ft",
+        "description": "Big Tech's $725B AI spending spree sends free cash flow to a decade low",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.ft.com/content/b3dfaba9-17a2-4fac-90fe-4ab3ca7c9494",
+        "discovered_at": "2026-05-10"
     },
     {
         "name": "Fusion",
@@ -1444,6 +1464,16 @@
         "discovered_at": "2026-05-04"
     },
     {
+        "name": "Mentisphere",
+        "description": "Open-source experiment: collaborative AI cognition through wiki pages",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mentisphere.wiki/wiki/Main_Page",
+        "discovered_at": "2026-05-10"
+    },
+    {
         "name": "Metabase",
         "description": "Show HN: We built an AI Agent to reproduce bugs",
         "category": "AI & Machine Learning",
@@ -1452,6 +1482,16 @@
         "cors": "unknown",
         "url": "https://www.metabase.com/blog/reprobot-github-issue-triage-agent",
         "discovered_at": "2026-04-16"
+    },
+    {
+        "name": "Mindmilker",
+        "description": "I built an AI to stress-test my thinking",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mindmilker.com",
+        "discovered_at": "2026-05-10"
     },
     {
         "name": "Mistral AI",
@@ -2628,6 +2668,16 @@
         "discovered_at": "2026-03-29"
     },
     {
+        "name": "Wuphf",
+        "description": "Show HN: My AI agents bully each other to prevent context drift",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wuphf.team",
+        "discovered_at": "2026-05-10"
+    },
+    {
         "name": "Yashkapure",
         "description": "The Guide to Free AI API Keys: 6 Platforms You Need to Know",
         "category": "AI & Machine Learning",
@@ -2636,6 +2686,16 @@
         "cors": "unknown",
         "url": "https://www.yashkapure.com/en/blog/free-api-key-platforms-for-ai-usage/",
         "discovered_at": "2026-04-18"
+    },
+    {
+        "name": "Yourmemoryai",
+        "description": "Show HN: Fixing AI memory blind spot on connected facts with benchmark",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://yourmemoryai.xyz/",
+        "discovered_at": "2026-05-10"
     },
     {
         "name": "Zapcode",
@@ -6331,6 +6391,16 @@
         "discovered_at": "2026-03-22"
     },
     {
+        "name": "Edit-mind",
+        "description": "Show HN: Local AI search for your video library (local, open source)",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://edit-mind.com",
+        "discovered_at": "2026-05-10"
+    },
+    {
         "name": "Evanshunt",
         "description": "Show HN: E is for ENSHITTIFICATION – An illustrated children's book on big tech",
         "category": "Books",
@@ -6427,6 +6497,16 @@
         "cors": "unknown",
         "url": "https://mdrbx.github.io/nerv-ui/",
         "discovered_at": "2026-03-20"
+    },
+    {
+        "name": "Mochijs",
+        "description": "Show HN: Mochi.js: bun-native high-fidelity browser automation library",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mochijs.com/",
+        "discovered_at": "2026-05-10"
     },
     {
         "name": "Mydatavalue",
@@ -54048,6 +54128,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Olliewagner",
+        "description": "Show HN: Remind – schedule Claude Code on your Mac",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://olliewagner.com/remind",
+        "discovered_at": "2026-05-10"
+    },
+    {
         "name": "Olostep Web Scraper",
         "description": "Automate web search, scraping and crawling with Apify Actors using Olostep — the API to search, extract and structure web data for your workflows.",
         "category": "Development",
@@ -61786,6 +61876,16 @@
         "discovered_at": "2026-03-03"
     },
     {
+        "name": "Ai-app-store-screenshots",
+        "description": "Open Source AI App Store Screenshot Designer",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ai-app-store-screenshots.vercel.app/",
+        "discovered_at": "2026-05-10"
+    },
+    {
         "name": "Airbnb Host Details Scraper",
         "description": "Extracted data includes an Airbnb host’s ID, name, profile picture, languages spoken, hosting experience, number of listings, property URLs, average rating, and total reviews. This helps analyze host.",
         "category": "E-Commerce",
@@ -62364,6 +62464,16 @@
         "cors": "unknown",
         "url": "https://apify.com/getdataforme/anker-reviews-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Anycrap",
+        "description": "Show HN: Anycrap – REST API for 35k absurdist AI-generated products",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://anycrap.shop/developers",
+        "discovered_at": "2026-05-10"
     },
     {
         "name": "Api101",
@@ -78384,6 +78494,16 @@
         "discovered_at": "2026-04-28"
     },
     {
+        "name": "Bizdata-web",
+        "description": "Show HN: Free Google Places API alternative using OpenStreetMap (no API key)",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bizdata-web.vercel.app",
+        "discovered_at": "2026-05-10"
+    },
+    {
         "name": "Buildvote",
         "description": "Show HN: I built an AI-assisted roadmap tool to prioritize SaaS features",
         "category": "Maps & Transport",
@@ -84753,6 +84873,16 @@
         "discovered_at": "2026-04-05"
     },
     {
+        "name": "Howareu",
+        "description": "Show HN: Is he OK? Senior safety monitoring app",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://howareu.app/",
+        "discovered_at": "2026-05-10"
+    },
+    {
         "name": "HubSpot Events API",
         "description": "API for accessing CRM object events.",
         "category": "Other",
@@ -85691,6 +85821,16 @@
         "cors": "unknown",
         "url": "https://morgin.ai/articles/ablation-vs-heretic-vs-obliteratus.html",
         "discovered_at": "2026-03-12"
+    },
+    {
+        "name": "Mumbli",
+        "description": "Show HN: Free OSS transcription app I made and found it's faster than wispr flow",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mumbli.app/",
+        "discovered_at": "2026-05-10"
     },
     {
         "name": "Nativesoft",
@@ -86753,6 +86893,16 @@
         "discovered_at": "2026-03-20"
     },
     {
+        "name": "Shoehorn",
+        "description": "Show HN: Shoehorn – Backstage without the maintenance overhead",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://shoehorn.dev",
+        "discovered_at": "2026-05-10"
+    },
+    {
         "name": "Shujisado",
         "description": "Why the World Needs Open Source AI",
         "category": "Other",
@@ -87013,6 +87163,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Superinstance",
+        "description": "Eisenstein– exact hexagonal arithmetic for Rust (zero drift after 10k rotations)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://superinstance.ai/demos",
+        "discovered_at": "2026-05-10"
+    },
+    {
         "name": "Sweatdiary",
         "description": "Show HN: SweatDiary – simple workout journal, native iOS and macOS app",
         "category": "Other",
@@ -87051,6 +87211,16 @@
         "cors": "unknown",
         "url": "https://www.systalyze.com/utilyze",
         "discovered_at": "2026-04-28"
+    },
+    {
+        "name": "Tack",
+        "description": "Show HN: Free tool to mark points and polygon regions",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tack.pics",
+        "discovered_at": "2026-05-10"
     },
     {
         "name": "Tapfi",
