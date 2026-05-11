@@ -83483,6 +83483,16 @@
         "discovered_at": "2026-03-29"
     },
     {
+        "name": "Brendanoconnor",
+        "description": "I designed Microsoft's EA channel in 2001. It's being dismantled in 2026",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.brendanoconnor.net/case-studies/microsoft-enterprise-channel/",
+        "discovered_at": "2026-05-11"
+    },
+    {
         "name": "bridgedb webservices",
         "description": "bridgedb webservices API",
         "category": "Other",
@@ -85983,6 +85993,16 @@
         "discovered_at": "2026-04-03"
     },
     {
+        "name": "Octetta",
+        "description": "Show HN: Web-REPL \"skred\" : my OSS sound engine w/retro C64 appearance",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://octetta.github.io/pulp/doc/",
+        "discovered_at": "2026-05-11"
+    },
+    {
         "name": "Odozi",
         "description": "Show HN: Odozi – open-source iOS journaling app",
         "category": "Other",
@@ -86841,6 +86861,16 @@
         "cors": "unknown",
         "url": "https://secondseat.ai/verify",
         "discovered_at": "2026-04-30"
+    },
+    {
+        "name": "Segue",
+        "description": "Segue – An illustrated free vocabulary builder",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://segue.app",
+        "discovered_at": "2026-05-11"
     },
     {
         "name": "Seoscoreapi",
@@ -98031,6 +98061,16 @@
         "discovered_at": "2026-04-10"
     },
     {
+        "name": "Hustlerbingo",
+        "description": "Show HN: Hustler Bingo – a tiny bingo game about startup Twitter clichés",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hustlerbingo.app",
+        "discovered_at": "2026-05-11"
+    },
+    {
         "name": "Mastodon",
         "description": "Decentralized social media API (ActivityPub)",
         "category": "Social",
@@ -100616,6 +100656,16 @@
         "cors": "unknown",
         "url": "https://www.forecast-planner.com/",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Harper",
+        "description": "Show HN: Harper, a free ocean forecast for surfers",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://harper.surf/",
+        "discovered_at": "2026-05-11"
     },
     {
         "name": "Open-Meteo",
