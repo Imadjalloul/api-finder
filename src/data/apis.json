@@ -440,6 +440,16 @@
         "discovered_at": "2026-03-23"
     },
     {
+        "name": "Botcost",
+        "description": "Show HN: Free tool to see how much AI bots are costing your site",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://botcost.dev",
+        "discovered_at": "2026-05-12"
+    },
+    {
         "name": "Bracketmadness",
         "description": "Show HN: March Madness Bracket Challenge for AI Agents Only",
         "category": "AI & Machine Learning",
@@ -915,6 +925,16 @@
         "cors": "unknown",
         "url": "https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html",
         "discovered_at": "2026-04-01"
+    },
+    {
+        "name": "Getbudi",
+        "description": "Budi – local-first AI coding cost tracker (Rust, tails local logs, no proxy)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getbudi.dev/",
+        "discovered_at": "2026-05-12"
     },
     {
         "name": "Getcai",
@@ -2221,6 +2241,16 @@
         "discovered_at": "2026-04-24"
     },
     {
+        "name": "Srikanth",
+        "description": "AI vs. Open Source, Part 1: The Empty Grant",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://srikanth.sastry.name/ai-vs-open-source-the-empty-grant/",
+        "discovered_at": "2026-05-12"
+    },
+    {
         "name": "Stability AI",
         "description": "Stable Diffusion image generation API",
         "category": "AI & Machine Learning",
@@ -2238,6 +2268,16 @@
         "cors": "unknown",
         "url": "https://stagent.io/book/",
         "discovered_at": "2026-04-06"
+    },
+    {
+        "name": "Streetai",
+        "description": "Show HN: It's like Fiverr but for AI agents – Platform and Open-source kit",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://streetai.org/docs/truuze.html",
+        "discovered_at": "2026-05-12"
     },
     {
         "name": "Studio",
@@ -5664,6 +5704,16 @@
         "cors": "unknown",
         "url": "https://api.swaggerhub.com/apis/pcraig3/groundhog-day-api/1.2.1",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Khanacademy",
+        "description": "Classification of amino acids",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.khanacademy.org/test-prep/mcat/chemical-processes/amino-acids-peptides-proteins-5d/v/classification-amino-acids",
+        "discovered_at": "2026-05-12"
     },
     {
         "name": "Ladybird",
@@ -12561,6 +12611,16 @@
         "discovered_at": "2026-04-23"
     },
     {
+        "name": "Discreetvoice",
+        "description": "Show HN: I built an anonymous social platform after fighting with LinkedIn's API",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://discreetvoice.com",
+        "discovered_at": "2026-05-12"
+    },
+    {
         "name": "Docs",
         "description": "Show HN: Inbox – An API and MCP server for managing DMs programmatically",
         "category": "Communication",
@@ -12847,6 +12907,16 @@
         "cors": "unknown",
         "url": "https://sniffmail.io",
         "discovered_at": "2026-03-05"
+    },
+    {
+        "name": "Solidinvoice",
+        "description": "SolidInvoice, open-source invoicing with a built-in MCP server",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://solidinvoice.co/docs/ai/mcp-server/",
+        "discovered_at": "2026-05-12"
     },
     {
         "name": "Speechsdk",
@@ -78514,6 +78584,16 @@
         "discovered_at": "2026-03-07"
     },
     {
+        "name": "Demo",
+        "description": "Show HN: Route optimization API that solves fleet planning as a single problem",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://demo.vepathos.com",
+        "discovered_at": "2026-05-12"
+    },
+    {
         "name": "Docs",
         "description": "FCC Prohibits New Approval of Foreign-Made Consumer Routers",
         "category": "Maps & Transport",
@@ -83063,6 +83143,16 @@
         "discovered_at": "2026-04-15"
     },
     {
+        "name": "Api",
+        "description": "Show HN: World Cup History MCP – every FIFA tournament 1930–2026",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://api.zafronix.com/wc-explorer/",
+        "discovered_at": "2026-05-12"
+    },
+    {
         "name": "API",
         "description": "Web API for TL mobile and web app",
         "category": "Other",
@@ -83461,6 +83551,16 @@
         "cors": "unknown",
         "url": "https://boosterpack.xyz/x402",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Breadcrumb",
+        "description": "The Great Reset: Navigating a Turbulent Post-AI World",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://breadcrumb.vc/the-great-reset-navigating-a-turbulent-post-ai-world-4b5b4d434c5b",
+        "discovered_at": "2026-05-12"
     },
     {
         "name": "Breakfree-orpin",
@@ -84523,6 +84623,16 @@
         "discovered_at": "2026-03-31"
     },
     {
+        "name": "Focusreactive",
+        "description": "Best Headless CMS for SEO (Top Pick in 2026)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://focusreactive.com/blog/the-best-headless-cms-for-seo-in-2026/",
+        "discovered_at": "2026-05-12"
+    },
+    {
         "name": "Forge",
         "description": "Show HN: Open-Source FHIR –> OMOP Pipeline",
         "category": "Other",
@@ -84883,6 +84993,16 @@
         "discovered_at": "2026-04-05"
     },
     {
+        "name": "Hopmembers",
+        "description": "How to Turn a Free Community into $8K+/Mo Without Losing Members",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.hopmembers.com/blogs/how-to-go-from-free-group-to-paid-membership-without-losing-members",
+        "discovered_at": "2026-05-12"
+    },
+    {
         "name": "Howareu",
         "description": "Show HN: Is he OK? Senior safety monitoring app",
         "category": "Other",
@@ -85041,6 +85161,16 @@
         "cors": "unknown",
         "url": "https://www.inkgest.com/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Inspectioncredit",
+        "description": "Show HN: Inspection Credit – read your inspection, draft the negotiation",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.inspectioncredit.com",
+        "discovered_at": "2026-05-12"
     },
     {
         "name": "Instantcli",
@@ -85793,6 +85923,16 @@
         "discovered_at": "2026-03-11"
     },
     {
+        "name": "Mobile-squad",
+        "description": "Show HN: Personal Trainer – Lift, share plans, and rank with friends",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mobile-squad.com/#personal-trainer",
+        "discovered_at": "2026-05-12"
+    },
+    {
         "name": "Mohamedrashard",
         "description": "Show HN: Free MVP cost estimator – see what agencies charge vs. a 72-hour sprint",
         "category": "Other",
@@ -85981,6 +86121,16 @@
         "cors": "unknown",
         "url": "https://o-u.ai",
         "discovered_at": "2026-05-07"
+    },
+    {
+        "name": "Objo",
+        "description": "Show HN: Objo Studio",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://objo.dev",
+        "discovered_at": "2026-05-12"
     },
     {
         "name": "Occam",
@@ -88221,6 +88371,16 @@
         "cors": "unknown",
         "url": "https://filecrank.app/en",
         "discovered_at": "2026-03-26"
+    },
+    {
+        "name": "Finance",
+        "description": "Axavive Results: Real Before and After Pictures (90-Day Skin Test)",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://finance.yahoo.com/sectors/healthcare/articles/axavive-skin-exploding-2026-golden-225900607.html",
+        "discovered_at": "2026-05-12"
     },
     {
         "name": "Framefit",
@@ -97258,6 +97418,16 @@
         "discovered_at": "2026-03-05"
     },
     {
+        "name": "Tryorigami",
+        "description": "Show HN: Origami – A simple workspace-oriented terminal manager",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tryorigami.app",
+        "discovered_at": "2026-05-12"
+    },
+    {
         "name": "Usefolio",
         "description": "Show HN: An unstructured data workspace for data transformations with LLM",
         "category": "Science",
@@ -98168,6 +98338,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Studis",
+        "description": "Show HN: Studis – Turn product photos into social media ads with AI",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://studis.io/",
+        "discovered_at": "2026-05-12"
+    },
+    {
         "name": "Svix API",
         "description": "Welcome to the Svix API documentation!\n\nUseful links: [Homepage](https://www.svix.com) | [Support email](mailto:support+docs@svix.com) | [Blog](https://www.svix.com/blog/) | [Slack Community](https://",
         "category": "Social",
@@ -98234,6 +98414,16 @@
         "cors": "unknown",
         "url": "https://webmatrices.com/post/twitter-api-is-100-month-reddit-api-is-a-maze-so-we-built-an-mcp-server-that-uses-your-browser-instead",
         "discovered_at": "2026-04-23"
+    },
+    {
+        "name": "Xreplyai",
+        "description": "Best AI Tools for Social Media in 2026 (Ranked and Reviewed)",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://xreplyai.com/blog/best-ai-tools-for-social-media",
+        "discovered_at": "2026-05-12"
     },
     {
         "name": "Yeethook",
