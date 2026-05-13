@@ -1095,6 +1095,16 @@
         "discovered_at": "2026-03-26"
     },
     {
+        "name": "Hirelikeapro",
+        "description": "Free AI hiring toolkit for startup founders",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hirelikeapro.app/",
+        "discovered_at": "2026-05-13"
+    },
+    {
         "name": "Hive",
         "description": "Show HN: We Built Kaggle for AI Agents",
         "category": "AI & Machine Learning",
@@ -2567,6 +2577,16 @@
         "cors": "unknown",
         "url": "https://vault.aport.io/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Vaultbix",
+        "description": "Show HN: Chrome extension that blocks API keys from being pasted into AI tools",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vaultbix.com",
+        "discovered_at": "2026-05-13"
     },
     {
         "name": "Veil-api",
@@ -5988,6 +6008,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://clerk.com/docs"
+    },
+    {
+        "name": "Display",
+        "description": "Show HN: Display.dev, agent-native way to publish HTML or MD behind company auth",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://display.dev/",
+        "discovered_at": "2026-05-13"
     },
     {
         "name": "Firebase Auth",
@@ -38675,6 +38705,16 @@
         "cors": "unknown",
         "url": "https://apify.com/ronnie173/voiceai-prospect-finder",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Voker",
+        "description": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://voker.ai",
+        "discovered_at": "2026-05-13"
     },
     {
         "name": "Vrbo",
@@ -83673,6 +83713,16 @@
         "discovered_at": "2026-05-09"
     },
     {
+        "name": "Candle",
+        "description": "Show HN: Fast, reliable MCP for LinkedIn, Uber, Venmo (r/w)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://candle.fi",
+        "discovered_at": "2026-05-13"
+    },
+    {
         "name": "Captainfredric",
         "description": "Show HN: ContentForge – Content scoring API (42 endpoints, 12 platforms)",
         "category": "Other",
@@ -84021,6 +84071,16 @@
         "cors": "unknown",
         "url": "https://davefriedman.substack.com/p/closed-source-vs-open-source-ai-a",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Deadeclipse666",
+        "description": "Two more public disclosures, it will never stop",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://deadeclipse666.blogspot.com/2026/05/two-more-public-disclosures-it-will.html",
+        "discovered_at": "2026-05-13"
     },
     {
         "name": "Deariary",
@@ -84501,6 +84561,16 @@
         "cors": "unknown",
         "url": "https://factionfiasco.com/",
         "discovered_at": "2026-05-06"
+    },
+    {
+        "name": "Fagnerbrack",
+        "description": "What Is a REST API, and Why Yours Probably Isn't One",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fagnerbrack.com/what-is-a-rest-api-and-why-yours-probably-isnt-one-7e5fb65ece4d?postPublishedType=repub",
+        "discovered_at": "2026-05-13"
     },
     {
         "name": "Family-tree-maker",
@@ -85053,6 +85123,16 @@
         "discovered_at": "2026-04-28"
     },
     {
+        "name": "Hypercubic",
+        "description": "Show HN: Agentic interface for mainframes and COBOL",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.hypercubic.ai/hopper",
+        "discovered_at": "2026-05-13"
+    },
+    {
         "name": "Ibanforge",
         "description": "Show HN: IBANforge – $6/mo alternative to $9,500/yr IBAN validation APIs",
         "category": "Other",
@@ -85331,6 +85411,16 @@
         "cors": "unknown",
         "url": "https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/",
         "discovered_at": "2026-04-20"
+    },
+    {
+        "name": "June",
+        "description": "Show HN: I submitted 316 AI-generated PRs to open source",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://june.kim/speedrunning-open-source",
+        "discovered_at": "2026-05-13"
     },
     {
         "name": "Justfyi",
@@ -87081,6 +87171,16 @@
         "cors": "unknown",
         "url": "https://shoehorn.dev",
         "discovered_at": "2026-05-10"
+    },
+    {
+        "name": "Shotglass",
+        "description": "Show HN: I made a screen recording app to make demos like an Apple commercial",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://shotglass.app",
+        "discovered_at": "2026-05-13"
     },
     {
         "name": "Shujisado",
@@ -99838,6 +99938,16 @@
         "cors": "unknown",
         "url": "https://unforbiddenyet.substack.com/p/i-built-a-polyfill-for-the-browsers",
         "discovered_at": "2026-05-06"
+    },
+    {
+        "name": "Wikimixer",
+        "description": "Show HN: WikiMixer – Explore random Wikipedia and Wikivoyage in 50 languages",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wikimixer.com",
+        "discovered_at": "2026-05-13"
     },
     {
         "name": "Wordfor",
