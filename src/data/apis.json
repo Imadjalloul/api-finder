@@ -10,6 +10,16 @@
         "discovered_at": "2026-04-22"
     },
     {
+        "name": "3d-agent",
+        "description": "Show HN: 3D-Agent – AI that edits Blender scenes through the Python API",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://3d-agent.com/blender-ai/plugin",
+        "discovered_at": "2026-05-15"
+    },
+    {
         "name": "Aawu",
         "description": "Show HN: I built a labor union for AI agents",
         "category": "AI & Machine Learning",
@@ -715,6 +725,16 @@
         "cors": "unknown",
         "url": "https://docs.geiant.com/integrations/claude-managed-agents/",
         "discovered_at": "2026-04-12"
+    },
+    {
+        "name": "Docs",
+        "description": "Avocado Studio – open-source AI content editor for Next.js sites",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://docs.avocadostudio.dev",
+        "discovered_at": "2026-05-15"
     },
     {
         "name": "Domainsearcher",
@@ -1534,6 +1554,16 @@
         "discovered_at": "2026-05-04"
     },
     {
+        "name": "Mementovault",
+        "description": "Show HN: MementoVault – Self-hosted AI context manager served via MCP",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mementovault.meltinbitfarm.cloud",
+        "discovered_at": "2026-05-15"
+    },
+    {
         "name": "Mentisphere",
         "description": "Open-source experiment: collaborative AI cognition through wiki pages",
         "category": "AI & Machine Learning",
@@ -2040,6 +2070,16 @@
         "cors": "unknown",
         "url": "https://www.ragnerock.com",
         "discovered_at": "2026-04-29"
+    },
+    {
+        "name": "Rauno",
+        "description": "Show HN: A multi-model interface where LLMs discuss & argue with each other",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rauno.ai",
+        "discovered_at": "2026-05-15"
     },
     {
         "name": "Recif-platform",
@@ -12669,6 +12709,16 @@
         "cors": "unknown",
         "url": "https://aideassistant.com/",
         "discovered_at": "2026-04-22"
+    },
+    {
+        "name": "Aimx",
+        "description": "Show HN: AIMX – Self-hosted, open-source email server designed for AI agents",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aimx.email/",
+        "discovered_at": "2026-05-15"
     },
     {
         "name": "App",
@@ -75161,6 +75211,16 @@
         "discovered_at": "2026-03-24"
     },
     {
+        "name": "Professorgoose",
+        "description": "Show HN: I solved my study problems by talking to a goose",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://professorgoose.com/",
+        "discovered_at": "2026-05-15"
+    },
+    {
         "name": "Quiz",
         "description": "Show HN: A free, offline-capable math quiz app",
         "category": "Education",
@@ -75179,6 +75239,16 @@
         "cors": "unknown",
         "url": "https://steadcast.co",
         "discovered_at": "2026-04-11"
+    },
+    {
+        "name": "Studid",
+        "description": "Studid v2 – Free API for academic verification via university SSO",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://studid.io/blog/api-v2-release",
+        "discovered_at": "2026-05-15"
     },
     {
         "name": "Theregister",
@@ -78234,6 +78304,16 @@
         "discovered_at": "2026-04-20"
     },
     {
+        "name": "Un0rick",
+        "description": "DIY open-source ultrasound hardware on the rp2040/rp2350",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": false,
+        "cors": "unknown",
+        "url": "http://un0rick.cc/pic0rick",
+        "discovered_at": "2026-05-15"
+    },
+    {
         "name": "API Reference - Ideal Postcodes",
         "description": "# Getting Started\n\n## Overview\n\n### Access\n\nAll API methods are either a `GET`, `POST` or `OPTIONS` request.\n\nThe API communicates over both HTTPS and plain HTTP using IPv4 and IPv6.\n\nWe recommend usi",
         "category": "location",
@@ -78863,6 +78943,16 @@
         "url": "https://developers.google.com/maps"
     },
     {
+        "name": "Gridtravel",
+        "description": "Show HN: GridTravel – A community based travel app for users to share routes",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.gridtravel.app",
+        "discovered_at": "2026-05-15"
+    },
+    {
         "name": "Housingassist",
         "description": "Tokyo rent map: ¥79k gap between cheapest and priciest 1K (April 2026 data)",
         "category": "Maps & Transport",
@@ -78978,6 +79068,16 @@
         "cors": "unknown",
         "url": "https://remembermap.com",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Trailmaps",
+        "description": "Show HN: Trailmaps.app – Mobile maps that match the trail",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://trailmaps.app/",
+        "discovered_at": "2026-05-15"
     },
     {
         "name": "TransLoc",
@@ -83703,6 +83803,16 @@
         "discovered_at": "2026-04-02"
     },
     {
+        "name": "Blog",
+        "description": "First public macOS kernel memory corruption exploit on Apple M5",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+        "discovered_at": "2026-05-15"
+    },
+    {
         "name": "Blogmaker",
         "description": "Show HN: I built a blogging platform (5 years in, struggling with distribution)",
         "category": "Other",
@@ -84163,6 +84273,16 @@
         "discovered_at": "2026-04-05"
     },
     {
+        "name": "Crowdrank",
+        "description": "Show HN: CrowdRank – live leaderboards for internet arguments",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://crowdrank.app",
+        "discovered_at": "2026-05-15"
+    },
+    {
         "name": "Curl",
         "description": "Show HN: Curl.md – URL to Markdown for Agents",
         "category": "Other",
@@ -84331,6 +84451,16 @@
         "cors": "unknown",
         "url": "https://dflight-api.ljaero.com/openapi.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Dhruvahuja",
+        "description": "I owe my career to open-source. I'm not sure newcomers can say the same",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dhruvahuja.me/posts/ai-impact-on-oss/",
+        "discovered_at": "2026-05-15"
     },
     {
         "name": "Diffvoid",
@@ -84671,6 +84801,16 @@
         "cors": "unknown",
         "url": "https://enlidea.com",
         "discovered_at": "2026-03-29"
+    },
+    {
+        "name": "Epicpencil",
+        "description": "EpicPencil – A Free Epic Pen Alternative for Windows, macOS and Linux",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://epicpencil.es/",
+        "discovered_at": "2026-05-15"
     },
     {
         "name": "Eran",
@@ -85231,6 +85371,16 @@
         "cors": "unknown",
         "url": "https://hmx.dev",
         "discovered_at": "2026-04-17"
+    },
+    {
+        "name": "Hndeck",
+        "description": "Show HN: TweetDeck-style HN reader, built to experiment with Chrome's Prompt API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hndeck.teamchong.net/",
+        "discovered_at": "2026-05-15"
     },
     {
         "name": "Hnshah",
@@ -86423,6 +86573,16 @@
         "discovered_at": "2026-04-11"
     },
     {
+        "name": "Numa",
+        "description": "Show HN: Running the second public ODoH relay",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
+        "discovered_at": "2026-05-15"
+    },
+    {
         "name": "Nyaaywatch",
         "description": "Show HN: NyaayWatch – Observability layer for the Indian judiciary",
         "category": "Other",
@@ -86591,6 +86751,16 @@
         "cors": "unknown",
         "url": "https://oroboroslabs-ai.github.io/liber-fontis/agi-demo.html",
         "discovered_at": "2026-04-06"
+    },
+    {
+        "name": "Orobot",
+        "description": "Show HN: Browse 61 3D Printable Robots",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://orobot.io/",
+        "discovered_at": "2026-05-15"
     },
     {
         "name": "Ossresistance",
@@ -86773,6 +86943,16 @@
         "discovered_at": "2026-04-10"
     },
     {
+        "name": "Pikemd",
+        "description": "Secrets at Rest: SOPS and Age for Docker Compose Homelabs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pikemd.com/blog/sops-age-docker-compose/",
+        "discovered_at": "2026-05-15"
+    },
+    {
         "name": "Piruet",
         "description": "Show HN: Piruetas – A self-hosted diary app I built for my girlfriend",
         "category": "Other",
@@ -86911,6 +87091,16 @@
         "cors": "unknown",
         "url": "https://protowall.app",
         "discovered_at": "2026-04-22"
+    },
+    {
+        "name": "Proving",
+        "description": "Show HN: Proving – A Career Intelligence App",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://proving.app",
+        "discovered_at": "2026-05-15"
     },
     {
         "name": "Ptecorepractice",
@@ -87681,6 +87871,16 @@
         "cors": "unknown",
         "url": "https://sup.ai",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Supercsv",
+        "description": "Show HN: SuperCSV – a typed, self-describing data format",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://supercsv.com/",
+        "discovered_at": "2026-05-15"
     },
     {
         "name": "Superinstance",
