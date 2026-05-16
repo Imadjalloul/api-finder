@@ -559,6 +559,16 @@
         "url": "https://docs.clarifai.com/"
     },
     {
+        "name": "Clawhub",
+        "description": "Recursant, the open source AI control plane, now supports OpenClaw",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://clawhub.ai/plugins/openclaw-recursant",
+        "discovered_at": "2026-05-16"
+    },
+    {
         "name": "Clawjetty",
         "description": "Show HN: ClawJetty: See what your AI Agent is Doing",
         "category": "AI & Machine Learning",
@@ -2597,6 +2607,16 @@
         "cors": "unknown",
         "url": "https://tombedor.dev/open-source-models/",
         "discovered_at": "2026-03-30"
+    },
+    {
+        "name": "Tools",
+        "description": "Show HN: I built a free AI startup validator – it scored a dog walking app 4/10",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tools.predictionoracle.io/",
+        "discovered_at": "2026-05-16"
     },
     {
         "name": "Tracium",
@@ -45437,6 +45457,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Blogr",
+        "description": "Show HN: Blogr – for developers who never blog consistently",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.blogr.dev/",
+        "discovered_at": "2026-05-16"
+    },
+    {
         "name": "Bloxy Tokens Info",
         "description": "Get all tokens name and address contract from Bloxy",
         "category": "Development",
@@ -46214,6 +46244,16 @@
         "cors": "unknown",
         "url": "https://codeberg.org/GasInfinity/zitrus",
         "discovered_at": "2026-03-28"
+    },
+    {
+        "name": "Codeguesser",
+        "description": "Show HN: Guess the GitHub repo from a code snippet",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.codeguesser.xyz",
+        "discovered_at": "2026-05-16"
     },
     {
         "name": "Codeledger",
@@ -54276,6 +54316,16 @@
         "cors": "unknown",
         "url": "https://apify.com/martin.forejt/nodejs-runner",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Nopoint",
+        "description": "Show HN: NoPoint – Pitch decks vibe coded instead of clicked (open source)",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nopoint.app",
+        "discovered_at": "2026-05-16"
     },
     {
         "name": "Nostr",
@@ -76091,6 +76141,16 @@
         "discovered_at": "2026-04-22"
     },
     {
+        "name": "Arnaud-carre",
+        "description": "Playing Atari music on Amiga for free",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
+        "discovered_at": "2026-05-16"
+    },
+    {
         "name": "Bal",
         "description": "Show HN: Bal – a Knights and Knaves logic puzzle game with Glicko rating system",
         "category": "Entertainment",
@@ -84933,6 +84993,16 @@
         "discovered_at": "2026-05-08"
     },
     {
+        "name": "Fastcompany",
+        "description": "Bitwarden scrubs 'Always free' and 'Inclusion' values from its site",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.fastcompany.com/91542655/bitwarden-scrubs-always-free-and-inclusion-values-from-its-website-as-longtime-execs-step-down",
+        "discovered_at": "2026-05-16"
+    },
+    {
         "name": "Fcavallarin",
         "description": "Show HN: JavaScript runtime instrumentation via Chrome DevTools Protocol",
         "category": "Other",
@@ -85161,6 +85231,16 @@
         "cors": "unknown",
         "url": "https://www.gethopp.app/blog/hate-webkit",
         "discovered_at": "2026-03-10"
+    },
+    {
+        "name": "Getkado",
+        "description": "Show HN: Kadō – habit tracker app for iOS, open source and privacy-friendly",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getkado.app/",
+        "discovered_at": "2026-05-16"
     },
     {
         "name": "Getpostchi",
@@ -87243,6 +87323,16 @@
         "discovered_at": "2026-04-10"
     },
     {
+        "name": "Raybeam",
+        "description": "Show HN: Raybeam – A better way to screen share on macOS",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://raybeam.live/",
+        "discovered_at": "2026-05-16"
+    },
+    {
         "name": "Rdapapi",
         "description": "Show HN: RDAP API – Normalized JSON for Domain/IP Lookups (Whois Replacement)",
         "category": "Other",
@@ -87571,6 +87661,16 @@
         "cors": "unknown",
         "url": "https://sh.parascene.com/s/v1/AA4uAAAa.V2RJl71Us2AJ/tbopzs",
         "discovered_at": "2026-03-11"
+    },
+    {
+        "name": "Shaderkit",
+        "description": "Show HN: ShaderKit – A browser GLSL editor I built for my own art",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://shaderkit.com/app",
+        "discovered_at": "2026-05-16"
     },
     {
         "name": "Shiftapi",
@@ -88113,6 +88213,16 @@
         "discovered_at": "2026-04-16"
     },
     {
+        "name": "Tonguetype",
+        "description": "Show HN: TongueType – Local, privacy-focused Whisper dictation for macOS",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tonguetype.app/",
+        "discovered_at": "2026-05-16"
+    },
+    {
         "name": "Tontaube",
         "description": "Show HN: I bootstrapped a foundational text-to-speech model from scratch",
         "category": "Other",
@@ -88341,6 +88451,16 @@
         "cors": "unknown",
         "url": "https://veerhost.com/website-speed-test/",
         "discovered_at": "2026-03-24"
+    },
+    {
+        "name": "Visisign",
+        "description": "Show HN: VisiSign – $0.10 per envelope e-signatures with no monthly fee",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://visisign.app/",
+        "discovered_at": "2026-05-16"
     },
     {
         "name": "Viztools",
@@ -98334,6 +98454,16 @@
         "cors": "unknown",
         "url": "https://getvet.ai",
         "discovered_at": "2026-03-07"
+    },
+    {
+        "name": "Gov",
+        "description": "AI, open code and vulnerability risk in the public sector",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.gov.uk/guidance/ai-open-code-and-vulnerability-risk-in-the-public-sector",
+        "discovered_at": "2026-05-16"
     },
     {
         "name": "Have I Been Pwned",
