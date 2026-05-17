@@ -2629,6 +2629,16 @@
         "discovered_at": "2026-03-05"
     },
     {
+        "name": "Triyambakam-apex-corp",
+        "description": "Show HN: AI that audits your codebase in 60 seconds",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://triyambakam-apex-corp.hf.space",
+        "discovered_at": "2026-05-17"
+    },
+    {
         "name": "Trulytyped",
         "description": "Show HN: Truly Typed – A writing app for the AI era",
         "category": "AI & Machine Learning",
@@ -13225,6 +13235,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/nexmo/api-specification/master/definitions/vonage-business-cloud/vgis.yml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Vyvoice",
+        "description": "Show HN: Vyvoice: Privacy-first, cross-platform, offline voice transcription app",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vyvoice.com",
+        "discovered_at": "2026-05-17"
     },
     {
         "name": "Zernio",
@@ -58606,6 +58626,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Thumbapi",
+        "description": "Show HN: ThumbAPI – thumbnail generation API for developers",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thumbapi.dev",
+        "discovered_at": "2026-05-17"
+    },
+    {
         "name": "TikTok Account Details Scraper",
         "description": "Get instant, structured TikTok profile data from any username. This scraper collects user ID, handle, display name, bio, avatars, verification status, privacy flags, full follower statistics, and...",
         "category": "Development",
@@ -76684,6 +76714,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "The-law-1",
+        "description": "Show HN: A chess.com profiler that runs Stockfish in the browser",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://the-law-1.github.io/chess-insights/",
+        "discovered_at": "2026-05-17"
+    },
+    {
         "name": "Twelve Data",
         "description": "Stock, forex, crypto & ETF data with 100+ indicators",
         "category": "Finance",
@@ -84213,6 +84253,16 @@
         "discovered_at": "2026-03-04"
     },
     {
+        "name": "Composer-sepia",
+        "description": "Show HN: I built a free PDF editor to fix Claude's horribly-generated PDFs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://composer-sepia.vercel.app",
+        "discovered_at": "2026-05-17"
+    },
+    {
         "name": "Computerpoker",
         "description": "Show HN: ComputerPoker.ai – Learn GTO tournament poker strategy vs. GTO bots",
         "category": "Other",
@@ -86093,6 +86143,16 @@
         "discovered_at": "2026-05-07"
     },
     {
+        "name": "Loxeai",
+        "description": "Show HN: Built a verifiable, open-source SoC 2 readiness scanner",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://loxeai.com",
+        "discovered_at": "2026-05-17"
+    },
+    {
         "name": "Lucidtech API",
         "description": "Lucidtech API API",
         "category": "Other",
@@ -87091,6 +87151,16 @@
         "cors": "unknown",
         "url": "https://pneuma.computer",
         "discovered_at": "2026-03-29"
+    },
+    {
+        "name": "Pockli",
+        "description": "Show HN: Pockli – I needed a better iOS scanning app",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pockli.com/",
+        "discovered_at": "2026-05-17"
     },
     {
         "name": "Policygen",
@@ -88391,6 +88461,16 @@
         "cors": "unknown",
         "url": "https://users.rust-lang.org/t/this-is-my-first-project-i-invented-a-new-algorithm-that-even-ai-dont-know-its-about-bigint-and-im-15-thanks-for-watching-by-the-way-my-crate-named-nna/139633",
         "discovered_at": "2026-04-20"
+    },
+    {
+        "name": "Usvote",
+        "description": "Show HN: Aggregating votes from US Congress representatives",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://usvote.fyi/",
+        "discovered_at": "2026-05-17"
     },
     {
         "name": "Utcc",
