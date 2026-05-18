@@ -290,6 +290,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "App",
+        "description": "AI Foundry – Flat-Fee Unlimited LLM Inference on Blackwell GPUs in NZ",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.aifoundry.co.nz/auth/login?redirectTo=%2F",
+        "discovered_at": "2026-05-18"
+    },
+    {
         "name": "Aptselect",
         "description": "Show HN: AptSelect – A local desktop app to test LLMs side-by-side",
         "category": "AI & Machine Learning",
@@ -2779,6 +2789,16 @@
         "discovered_at": "2026-03-25"
     },
     {
+        "name": "Vostride",
+        "description": "Show HN: Agent-QA: Open-source AI end-to-end testing for web and mobile apps",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vostride.com",
+        "discovered_at": "2026-05-18"
+    },
+    {
         "name": "Vr",
         "description": "Show HN: VR.dev – Open-source verifiers for what AI agents did",
         "category": "AI & Machine Learning",
@@ -2856,6 +2876,16 @@
         "cors": "unknown",
         "url": "https://word-orb-api.nicoletterankin.workers.dev/playground",
         "discovered_at": "2026-03-02"
+    },
+    {
+        "name": "Workclarity",
+        "description": "WorkClarity – Free AI tools fo freelancers",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://workclarity.co",
+        "discovered_at": "2026-05-18"
     },
     {
         "name": "Wps",
@@ -6776,6 +6806,16 @@
         "cors": "unknown",
         "url": "https://www.opsorch.com/",
         "discovered_at": "2026-03-16"
+    },
+    {
+        "name": "Paco",
+        "description": "Show HN: A freehand drawing guestbook for my portfolio",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://paco.fyi/guestbook",
+        "discovered_at": "2026-05-18"
     },
     {
         "name": "Passmark",
@@ -30807,6 +30847,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Mitzu",
+        "description": "Have you tried Agentic analytics tools?",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mitzu.io/post/best-ai-analytics-tools/",
+        "discovered_at": "2026-05-18"
+    },
+    {
         "name": "Mobile / Phone Number Finder : $4 / 100 Mobiles",
         "description": "🔍 Find mobile number 📞 instantly for any LinkedIn profile.",
         "category": "Data & Analytics",
@@ -43977,6 +44027,16 @@
         "discovered_at": "2026-04-18"
     },
     {
+        "name": "Ai-keys-leaks",
+        "description": "AI Leak Watch: 435,608 potential AI API key matches in public GitHub code",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ai-keys-leaks.begimher.com/",
+        "discovered_at": "2026-05-18"
+    },
+    {
         "name": "AI-Powered Web Content & Link Extractor",
         "description": "Crawls websites to extract clean, structured content for AI/LLM use, ideal for training datasets, knowledge bases, and RAG systems. Json output includes: * text: Normalized page content * links:...",
         "category": "Development",
@@ -55734,6 +55794,16 @@
         "cors": "unknown",
         "url": "https://www.pureinference.com/insights/designing-a-test-runner-for-ai-agents",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Pynsights",
+        "description": "Show HN: Free guide to CPython internals for experienced Python developers",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pynsights.vercel.app",
+        "discovered_at": "2026-05-18"
     },
     {
         "name": "Python Empty Template",
@@ -76356,6 +76426,16 @@
         "discovered_at": "2026-04-27"
     },
     {
+        "name": "Quaxio",
+        "description": "Show HN: I vibe coded a music box",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.quaxio.com/music_box/",
+        "discovered_at": "2026-05-18"
+    },
+    {
         "name": "RAWG",
         "description": "The largest open video games database",
         "category": "Entertainment",
@@ -77855,6 +77935,16 @@
         "url": "https://www.usa.gov/developer"
     },
     {
+        "name": "Who",
+        "description": "Ebola epidemic in DRC, Uganda public health emergency of international concern",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern",
+        "discovered_at": "2026-05-18"
+    },
+    {
         "name": "WHO GHO",
         "description": "World Health Organization global health data",
         "category": "Government & Health",
@@ -79168,6 +79258,16 @@
         "cors": "unknown",
         "url": "https://remembermap.com",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Simianwords",
+        "description": "AI can fix the fragmented online public transport space",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://simianwords.bearblog.dev/ai-can-fix-the-fragmented-online-public-transport-space/",
+        "discovered_at": "2026-05-18"
     },
     {
         "name": "Trailmaps",
@@ -85173,6 +85273,16 @@
         "discovered_at": "2026-04-29"
     },
     {
+        "name": "Foura",
+        "description": "Post-quantum TLS rolled out last January and broke most open-source scrapers",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://foura.ai/blog/ja4-tls-broke-basic-scraper",
+        "discovered_at": "2026-05-18"
+    },
+    {
         "name": "Fraude",
         "description": "The AI-free site builder for genius founders",
         "category": "Other",
@@ -86203,6 +86313,26 @@
         "discovered_at": "2026-03-23"
     },
     {
+        "name": "Mainichi",
+        "description": "Japan Team Successfully Test Engine for Mach 5 Aircraft, Eyeing 2HR Trip to US",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mainichi.jp/english/articles/20260511/p2a/00m/0sc/015000c",
+        "discovered_at": "2026-05-18"
+    },
+    {
+        "name": "Makeform",
+        "description": "Show HN: Whisper Large V3 Turbo Stream API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.makeform.ai/f/mtwDANdO",
+        "discovered_at": "2026-05-18"
+    },
+    {
         "name": "Makeuseof",
         "description": "I stopped using LM Studio once I found this (Jan.ai) open-source alternative",
         "category": "Other",
@@ -87023,6 +87153,16 @@
         "discovered_at": "2026-03-21"
     },
     {
+        "name": "Pdf2md",
+        "description": "Show HN: Pdf2md – 10MB Rust PDF-to-Markdown Tool with a Free API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pdf2md.deepdiy.net/",
+        "discovered_at": "2026-05-18"
+    },
+    {
         "name": "perfectpdf api",
         "description": "The perfectpdf api does one thing, perfectly: it converts html to pdf. The perfectpdf api uses headless Google Chrome to provide a low cost, high quality, simple to use service.",
         "category": "Other",
@@ -87571,6 +87711,16 @@
         "cors": "unknown",
         "url": "https://reviewskits.com",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Revolution-network",
+        "description": "Show HN: Decentralized compute API on DePIN – scraping, OCR, JavaScript sandbox",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://revolution-network.fr/",
+        "discovered_at": "2026-05-18"
     },
     {
         "name": "Ripl",
@@ -88221,6 +88371,16 @@
         "cors": "unknown",
         "url": "https://www.theverge.com/tech/899602/best-phone-android-ios-app-store",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Thuki",
+        "description": "Show HN: Thuki – local Al overlay for macOS (double-tap Control, no API key)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.thuki.app",
+        "discovered_at": "2026-05-18"
     },
     {
         "name": "Tickstem",
@@ -99206,6 +99366,16 @@
         "discovered_at": "2026-04-23"
     },
     {
+        "name": "Xpalapp",
+        "description": "Secure Messaging Apps Have Solved Encryption. The Rest Is the Problem",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://xpalapp.substack.com/p/xpal-secure-messaging-app-security-architecture-2026",
+        "discovered_at": "2026-05-18"
+    },
+    {
         "name": "Xreplyai",
         "description": "Best AI Tools for Social Media in 2026 (Ranked and Reviewed)",
         "category": "Social",
@@ -101370,6 +101540,16 @@
         "cors": "unknown",
         "url": "https://frameloop.ai/blog/free-ai-video-generator-tools-2026",
         "discovered_at": "2026-04-08"
+    },
+    {
+        "name": "Freemockup",
+        "description": "Free 3D Mockup Video for Apps and Websites",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.freemockup.video/",
+        "discovered_at": "2026-05-18"
     },
     {
         "name": "Game",
