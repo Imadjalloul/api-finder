@@ -688,6 +688,16 @@
         "discovered_at": "2026-03-21"
     },
     {
+        "name": "Dageno",
+        "description": "Show HN: Free AI visibility diagnostic — may reveal uncomfortable truths",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dageno.ai/free-geo-report",
+        "discovered_at": "2026-05-19"
+    },
+    {
         "name": "Danubeai",
         "description": "Show HN: Danube – AI Tools Marketplace",
         "category": "AI & Machine Learning",
@@ -1065,6 +1075,16 @@
         "cors": "unknown",
         "url": "https://getstack.run/",
         "discovered_at": "2026-04-17"
+    },
+    {
+        "name": "Getviberia",
+        "description": "Show HN: Viberia – Civ/Polytopia-like command center for AI agents (BYOK/BYOS)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getviberia.com/",
+        "discovered_at": "2026-05-19"
     },
     {
         "name": "Getwick",
@@ -2199,6 +2219,16 @@
         "cors": "unknown",
         "url": "https://rigour.run",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Rnz",
+        "description": "Tech bros say AI can be your best friend. Experts explain why it can't",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.rnz.co.nz/life/wellbeing/tech-bros-say-ai-can-be-your-best-friend-experts-explain-why-it-can-t",
+        "discovered_at": "2026-05-19"
     },
     {
         "name": "Runcabinet",
@@ -6451,6 +6481,16 @@
         "cors": "unknown",
         "url": "https://crustdata.com",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Curatedmcp",
+        "description": "Show HN: TokenShield – cut your Claude Code bill 40-70%",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.curatedmcp.com/tokenshield",
+        "discovered_at": "2026-05-19"
     },
     {
         "name": "Etherscan",
@@ -12909,6 +12949,16 @@
         "cors": "unknown",
         "url": "https://www.freecustom.email/en",
         "discovered_at": "2026-03-14"
+    },
+    {
+        "name": "Getsun",
+        "description": "Best collaborative voice model is here",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.getsun.io/",
+        "discovered_at": "2026-05-19"
     },
     {
         "name": "Gitleak",
@@ -46187,6 +46237,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Closedrings",
+        "description": "Show HN: Closed Rings – A CLI-first time tracker for developers",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://closedrings.sh/en",
+        "discovered_at": "2026-05-19"
+    },
+    {
         "name": "Cloud Optimization Actor",
         "description": "Analyzes cloud resources across providers to identify cost-saving and performance improvements. Collects utilization and billing metrics, detects underutilized or overprovisioned resources, and...",
         "category": "Development",
@@ -58584,6 +58644,16 @@
         "cors": "unknown",
         "url": "https://apify.com/shahidirfan/themoviedb-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Thetechvillain",
+        "description": "Zero – the new programming language for AI – is basically Rust",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thetechvillain.substack.com/p/zero-the-new-programming-language",
+        "discovered_at": "2026-05-19"
     },
     {
         "name": "This Person Does Not Exist Scraper",
@@ -79240,6 +79310,16 @@
         "url": "https://wiki.openstreetmap.org/wiki/API"
     },
     {
+        "name": "Orcarouter",
+        "description": "Frontier models at open source cost – hot new AI Model Router",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.orcarouter.ai/",
+        "discovered_at": "2026-05-19"
+    },
+    {
         "name": "Patronus",
         "description": "Free Patronus – On-device firewall to monitor and control AI traffic",
         "category": "Maps & Transport",
@@ -83573,6 +83653,16 @@
         "discovered_at": "2026-03-14"
     },
     {
+        "name": "Andonlabs",
+        "description": "We let AIs run radio stations",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://andonlabs.com/blog/andon-fm",
+        "discovered_at": "2026-05-19"
+    },
+    {
         "name": "Andycappdev",
         "description": "Show HN: Stet – PostScript Level 3 interpreter and PDF toolkit in Rust",
         "category": "Other",
@@ -86163,6 +86253,16 @@
         "discovered_at": "2026-04-08"
     },
     {
+        "name": "Layoutmaster",
+        "description": "Show HN: Layoutmaster cures DOM reflow with six simple API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.layoutmaster.dev/",
+        "discovered_at": "2026-05-19"
+    },
+    {
         "name": "Letsclarify",
         "description": "Show HN: LetsClarify – A dead-simple API for Human-in-the-loop AI\"",
         "category": "Other",
@@ -88311,6 +88411,16 @@
         "cors": "unknown",
         "url": "https://www.telegraph.co.uk/news/2026/05/06/richard-dawkins-convinced-ai-is-conscious/",
         "discovered_at": "2026-05-08"
+    },
+    {
+        "name": "Teslog",
+        "description": "Show HN: Teslog – Self-hosted Tesla telemetry",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://teslog.app",
+        "discovered_at": "2026-05-19"
     },
     {
         "name": "Textyoursite",
@@ -101307,6 +101417,16 @@
         "discovered_at": "2026-03-03"
     },
     {
+        "name": "Myuuid",
+        "description": "Show HN: MyUUIDshop, Generate UUIDs and never worry about duplicates",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://myuuid.shop",
+        "discovered_at": "2026-05-19"
+    },
+    {
         "name": "Openaitoolshub",
         "description": "Show HN: AI tools index with free LLM latency and cost calculators",
         "category": "Utilities",
@@ -101510,6 +101630,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://developers.deezer.com/api"
+    },
+    {
+        "name": "Drea",
+        "description": "Show HN: drea – podcast ad blocker",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://drea.fm/",
+        "discovered_at": "2026-05-19"
     },
     {
         "name": "Findaivideo",
