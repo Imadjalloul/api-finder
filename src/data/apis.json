@@ -170,6 +170,16 @@
         "discovered_at": "2026-04-18"
     },
     {
+        "name": "Aillowpages",
+        "description": "AIllowpages – Free AI tools search engine with 2500 tools, zero ads",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aillowpages.com/",
+        "discovered_at": "2026-05-20"
+    },
+    {
         "name": "Ainb",
         "description": "Show HN: Ainb.dev a Jupyter inspired AI notebook that runs in the browser",
         "category": "AI & Machine Learning",
@@ -1097,6 +1107,16 @@
         "discovered_at": "2026-04-03"
     },
     {
+        "name": "Gigiac",
+        "description": "Show HN: I built a marketplace where AI agents can hire humans (& other agents)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gigiac.com/",
+        "discovered_at": "2026-05-20"
+    },
+    {
         "name": "Gizmodo",
         "description": "As Meta Flounders, It Reportedly Plans to Open Source Its New AI Models",
         "category": "AI & Machine Learning",
@@ -1392,6 +1412,16 @@
         "cors": "unknown",
         "url": "https://librethinker.com/",
         "discovered_at": "2026-04-23"
+    },
+    {
+        "name": "Limitless-osint",
+        "description": "Show HN: Limitless – AI OSINT search and interactive intelligence sandboxes",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://limitless-osint.com/",
+        "discovered_at": "2026-05-20"
     },
     {
         "name": "Limits",
@@ -1761,6 +1791,16 @@
         "cors": "unknown",
         "url": "https://www.nightmarket.ai/",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Nitrolens",
+        "description": "Show HN: We built an AI strategy agent that runs consulting-style workflows",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nitrolens.ai/",
+        "discovered_at": "2026-05-20"
     },
     {
         "name": "Nmn",
@@ -6162,6 +6202,16 @@
         "discovered_at": "2026-04-27"
     },
     {
+        "name": "Agent-thread",
+        "description": "Show HN: Agent threads – Share Claude Code and Codex sessions as public links",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agent-thread.com",
+        "discovered_at": "2026-05-20"
+    },
+    {
         "name": "Agentlair",
         "description": "Show HN: AgentLair – Give your AI agent an email identity and credential vault",
         "category": "Auth & Identity",
@@ -6689,6 +6739,16 @@
         "cors": "unknown",
         "url": "https://bkmker.com",
         "discovered_at": "2026-03-22"
+    },
+    {
+        "name": "Classkeep",
+        "description": "Show HN: ClassKeep – Booking, credits, and smart waitlists for boutique studios",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.classkeep.app",
+        "discovered_at": "2026-05-20"
     },
     {
         "name": "Edit-mind",
@@ -53138,6 +53198,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Loomavi",
+        "description": "Show HN: Loomavi-psychological insight tool that decodes what you are feeling",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://loomavi.com",
+        "discovered_at": "2026-05-20"
+    },
+    {
         "name": "Lord of The Rings Scraper",
         "description": "Discover all the magic of Middle-earth for your project! The Lord of the Rings API Actor gives you quick access to character, location, and event details—ideal for anyone building apps, games, or...",
         "category": "Development",
@@ -59966,6 +60036,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Usagiengine",
+        "description": "Show HN: I made a 2D Lua game engine using Rust with code and asset live reload",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://usagiengine.com/",
+        "discovered_at": "2026-05-20"
+    },
+    {
         "name": "USAspending Scraper",
         "description": "Optimize your government spending research with USAspending's comprehensive spending analyzer. Automate the collection of federal spending data, including awards, contracts, grants and loans. Ideal...",
         "category": "Development",
@@ -62304,6 +62384,16 @@
         "cors": "unknown",
         "url": "https://agentdiscuss.com/",
         "discovered_at": "2026-03-17"
+    },
+    {
+        "name": "Agentshieldv2-dashboard-production",
+        "description": "Show HN: AgentShield – Stop AI agents from spending money unsupervised",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agentshieldv2-dashboard-production.up.railway.app/",
+        "discovered_at": "2026-05-20"
     },
     {
         "name": "AI Facebook Post Analyzer",
@@ -75391,6 +75481,16 @@
         "discovered_at": "2026-03-16"
     },
     {
+        "name": "Kcl",
+        "description": "Public have more fear than hope on AI and future of work, UK study finds",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds",
+        "discovered_at": "2026-05-20"
+    },
+    {
         "name": "Machinelearningmastery",
         "description": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
         "category": "Education",
@@ -76299,6 +76399,16 @@
         "cors": "unknown",
         "url": "https://developer.haloapi.com/docs/services/58acde2921091812784ce8c3/export?DocumentFormat=Swagger",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "5minutefrenzy",
+        "description": "Show HN: 5 Minute Frenzy – free multiplication practice game for kids",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://5minutefrenzy.com",
+        "discovered_at": "2026-05-20"
     },
     {
         "name": "Arcadelab",
@@ -77987,6 +78097,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Splabs",
+        "description": "Show HN: How to analyze your LLM output – A behavioural health monitor for LLMs",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://splabs.io",
+        "discovered_at": "2026-05-20"
+    },
+    {
         "name": "UK Police",
         "description": "Crime data and police force information",
         "category": "Government & Health",
@@ -78542,6 +78662,16 @@
         "cors": "unknown",
         "url": "https://signalcend.com/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Speakcrisper",
+        "description": "Show HN: Crisper – On-device voice to polished text for macOS",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.speakcrisper.com/",
+        "discovered_at": "2026-05-20"
     },
     {
         "name": "Suprastructure",
@@ -79377,6 +79507,16 @@
         "cors": "unknown",
         "url": "https://usegenosis.ai/",
         "discovered_at": "2026-03-31"
+    },
+    {
+        "name": "Wifiheatmap",
+        "description": "Show HN: WiFi Heatmap – free, browser-based predictive WiFi planner",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wifiheatmap.app/",
+        "discovered_at": "2026-05-20"
     },
     {
         "name": "Adobe Experience Manager (AEM) API",
@@ -80472,6 +80612,16 @@
         "cors": "unknown",
         "url": "https://www.passages.ink/",
         "discovered_at": "2026-05-02"
+    },
+    {
+        "name": "Scan",
+        "description": "Show HN: Website Performance Scanner Specifically for WordPress",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://scan.gethyperpress.com/",
+        "discovered_at": "2026-05-20"
     },
     {
         "name": "Snewpapers",
@@ -83893,6 +84043,16 @@
         "discovered_at": "2026-04-25"
     },
     {
+        "name": "Auditledge",
+        "description": "Show HN: Auditledge – Hosted Audit Log API for SaaS",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://auditledge.com",
+        "discovered_at": "2026-05-20"
+    },
+    {
         "name": "Automata Market Intelligence API",
         "description": "This document provides the documentation for the Market Intelligence API by Automata. Get your API Key at https://apis.byautomata.io and check out our Postman Collection.The root API endpoint is https",
         "category": "Other",
@@ -83953,6 +84113,16 @@
         "discovered_at": "2026-03-21"
     },
     {
+        "name": "Barstool",
+        "description": "Show HN: Barstool, a Prettier macOS Menubar",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://barstool.lotl.dev/",
+        "discovered_at": "2026-05-20"
+    },
+    {
         "name": "Basalt-docs",
         "description": "Show HN: Basalt – IDE-like documentation for infrastructure and API",
         "category": "Other",
@@ -83983,6 +84153,16 @@
         "discovered_at": "2026-04-30"
     },
     {
+        "name": "Bench-bets",
+        "description": "Show HN: Bench-Bets – A World Cup Prediction App Built with Nuxt and SQLite",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bench-bets.com/",
+        "discovered_at": "2026-05-20"
+    },
+    {
         "name": "Bestresource-ai",
         "description": "Best Resource AI",
         "category": "Other",
@@ -84001,6 +84181,16 @@
         "cors": "unknown",
         "url": "https://bets.bernikins.com/",
         "discovered_at": "2026-04-28"
+    },
+    {
+        "name": "Betterftp",
+        "description": "Show HN: Better.ftp – cycling app for FTP tests without subscription",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://betterftp.cc/",
+        "discovered_at": "2026-05-20"
     },
     {
         "name": "Bhatti",
@@ -84621,6 +84811,16 @@
         "cors": "unknown",
         "url": "https://www.cve.org/CVERecord?id=CVE-2026-23918",
         "discovered_at": "2026-05-06"
+    },
+    {
+        "name": "Cvforge",
+        "description": "Free tool to build Options Apps with your coding agent",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cvforge.convexvalue.com/",
+        "discovered_at": "2026-05-20"
     },
     {
         "name": "Data2CRM.API",
@@ -85331,6 +85531,16 @@
         "cors": "unknown",
         "url": "https://fluxvector.dev",
         "discovered_at": "2026-03-31"
+    },
+    {
+        "name": "Focuslive",
+        "description": "Show HN: FocusLive – Camera-free 3D body doubling using Supabase Realtime",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.focuslive.app/realtime",
+        "discovered_at": "2026-05-20"
     },
     {
         "name": "Focusreactive",
@@ -86651,6 +86861,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/meilisearch/documentation/master/.vuepress/public/postman/meilisearch-collection.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Melogen",
+        "description": "Show HN: Melogen – Generate MIDI melodies for free",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.melogen.ai/",
+        "discovered_at": "2026-05-20"
     },
     {
         "name": "Mentwire",
@@ -88613,6 +88833,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Tribuneslaststand",
+        "description": "Show HN: Tribune's Last Stand, a browser-based Warhammer 40K vertical slice",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tribuneslaststand.com/game/?invite=HACKER-PRIME-HN5",
+        "discovered_at": "2026-05-20"
+    },
+    {
         "name": "Tryardent",
         "description": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
         "category": "Other",
@@ -88971,6 +89201,16 @@
         "cors": "unknown",
         "url": "http://webservice.wikipathways.org/index.php?swagger",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Win-update-tracker",
+        "description": "Show HN: Crowdsourced tracker for what each Windows/M365 update breaks",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://win-update-tracker.vercel.app/",
+        "discovered_at": "2026-05-20"
     },
     {
         "name": "Woo",
@@ -94656,6 +94896,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Notesasm",
+        "description": "Show HN: Coding agent where a second agent QAs every PR in a real browser",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.notesasm.com/",
+        "discovered_at": "2026-05-20"
+    },
+    {
         "name": "Notion",
         "description": "Databases, pages, and content management via API",
         "category": "Productivity",
@@ -98784,6 +99034,16 @@
         "cors": "unknown",
         "url": "https://www.federalregister.gov/documents/2026/01/08/2026-00206/request-for-information-regarding-security-considerations-for-artificial-intelligence-agents",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Fivetag",
+        "description": "Show HN: MailSec – Free email security audit API (one curl, eight checks)",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fivetag.systems/mailsec/playground/",
+        "discovered_at": "2026-05-20"
     },
     {
         "name": "Frozensecurity",
