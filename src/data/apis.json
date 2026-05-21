@@ -937,6 +937,16 @@
         "discovered_at": "2026-03-28"
     },
     {
+        "name": "Freeheadshot",
+        "description": "Show HN: Free AI headshots from one selfie, no signup",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://freeheadshot.org",
+        "discovered_at": "2026-05-21"
+    },
+    {
         "name": "Frogapi",
         "description": "Show HN: Get GPT-5.2, Grok-4.1-fast, KimiK2.5 and more LLMs at half the cost",
         "category": "AI & Machine Learning",
@@ -59346,6 +59356,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Trustenvelope",
+        "description": "Show HN: Yes, I vibed coded something But not sure what to do with it",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://trustenvelope.com/",
+        "discovered_at": "2026-05-21"
+    },
+    {
         "name": "Trustpilot Intelligence Scraper - Reviews & Sentiment Analysis",
         "description": "Extract Trustpilot reviews with AI sentiment analysis for brand reputation monitoring and competitor intelligence. Get company ratings, verified reviews, customer feedback, and business responses....",
         "category": "Development",
@@ -75581,6 +75601,16 @@
         "discovered_at": "2026-03-10"
     },
     {
+        "name": "Zfhuang99",
+        "description": "Learnings from 100K lines of Rust with AI (2025)",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+        "discovered_at": "2026-05-21"
+    },
+    {
         "name": "ClickSend REST API v3",
         "description": "This is the official API documentation for ClickSend.com\n\nBelow you will find a current list of the available methods for clicksend.\n\n**NOTE**: You will need to create a free account to use the API.",
         "category": "email",
@@ -79468,6 +79498,16 @@
         "cors": "unknown",
         "url": "https://remembermap.com",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Silentshark",
+        "description": "Show HN: I made a tactical map-based WWII submarine simulator (public beta)",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://silentshark.app/alpha/",
+        "discovered_at": "2026-05-21"
     },
     {
         "name": "Simianwords",
@@ -84073,6 +84113,16 @@
         "discovered_at": "2026-04-20"
     },
     {
+        "name": "Aws",
+        "description": "AWS ExtendDB, open-source DynamoDB API with pluggable backends",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aws.amazon.com/blogs/database/introducing-extenddb-an-open-source-dynamodb-compatible-adapter-with-pluggable-storage-backends/",
+        "discovered_at": "2026-05-21"
+    },
+    {
         "name": "Axiomoverclock",
         "description": "Free tool for WebP and SVG optimization. Privat data",
         "category": "Other",
@@ -84473,6 +84523,16 @@
         "discovered_at": "2026-05-09"
     },
     {
+        "name": "Calendly",
+        "description": "Why is writing good test cases still painfully manual in 2026?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://calendly.com/qualityfolio2026/30min",
+        "discovered_at": "2026-05-21"
+    },
+    {
         "name": "Candle",
         "description": "Show HN: Fast, reliable MCP for LinkedIn, Uber, Venmo (r/w)",
         "category": "Other",
@@ -84751,6 +84811,16 @@
         "cors": "unknown",
         "url": "https://crawler.sh/",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Crew",
+        "description": "Show HN: Homecrew – Share agent skills across your team and keep them in sync",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://crew.logic.inc",
+        "discovered_at": "2026-05-21"
     },
     {
         "name": "Cristeigabriela",
@@ -87943,6 +88013,16 @@
         "discovered_at": "2026-03-23"
     },
     {
+        "name": "Remotejobs",
+        "description": "Show HN: Remote Job Board",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.remotejobs.place",
+        "discovered_at": "2026-05-21"
+    },
+    {
         "name": "Rep-protocol",
         "description": "Show HN: REP – build-once, run anywhere. Secure runtime config for web apps",
         "category": "Other",
@@ -88153,6 +88233,16 @@
         "discovered_at": "2026-04-14"
     },
     {
+        "name": "Scrapewithruno",
+        "description": "Show HN: Runo – Scraping API that returns typed JSON, not raw HTML",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://scrapewithruno.com/?version=2.0",
+        "discovered_at": "2026-05-21"
+    },
+    {
         "name": "Secondseat",
         "description": "Show HN: Free tool to verify legal citations",
         "category": "Other",
@@ -88351,6 +88441,16 @@
         "cors": "unknown",
         "url": "https://api.slideroom.com/schema/v2",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Snap",
+        "description": "Show HN: SnapAPI – Screenshot, metadata extraction, and PDF generation API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://snap.michaelcli.com",
+        "discovered_at": "2026-05-21"
     },
     {
         "name": "Sniphi",
@@ -98572,6 +98672,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Getatrium",
+        "description": "Show HN: atrium – a resumable, tiling workspace manager for Claude Code, Codex",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getatrium.dev",
+        "discovered_at": "2026-05-21"
+    },
+    {
         "name": "Heimdallspace",
         "description": "Show HN: Real-Time Satellite Tracking and Intelligence Dashboard",
         "category": "Science",
@@ -101831,6 +101941,16 @@
         "cors": "unknown",
         "url": "https://anthillnet.github.io/sinain-hud/",
         "discovered_at": "2026-05-14"
+    },
+    {
+        "name": "Aswf",
+        "description": "MoonRay, DreamWorks Animation's Open Source Production Renderer",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.aswf.io/news/moonray-dreamworks-animations-open-source-production-renderer-joins-the-academy-software-foundation/",
+        "discovered_at": "2026-05-21"
     },
     {
         "name": "Audioeditor",
