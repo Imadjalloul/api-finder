@@ -2261,6 +2261,16 @@
         "discovered_at": "2026-05-05"
     },
     {
+        "name": "Revise",
+        "description": "Show HN: A fast, free AI rewriter",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://revise.io/ai-rewriter",
+        "discovered_at": "2026-05-22"
+    },
+    {
         "name": "Rigour",
         "description": "Show HN: Rigour – Open-source quality gates for AI coding agents",
         "category": "AI & Machine Learning",
@@ -6955,6 +6965,16 @@
         "cors": "unknown",
         "url": "https://www.readingvault.app",
         "discovered_at": "2026-04-26"
+    },
+    {
+        "name": "Smithereen",
+        "description": "Show HN: Smithereen – an early-Facebook-style Fediverse server",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://smithereen.software",
+        "discovered_at": "2026-05-22"
     },
     {
         "name": "Trees",
@@ -12427,6 +12447,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Cloud",
+        "description": "Google offers free full-stack app creation and publishing",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cloud.google.com/blog/products/databases/vibe-coded-ai-studio-apps-with-firestore-firebase-cloud-sql",
+        "discovered_at": "2026-05-22"
+    },
+    {
         "name": "Cloud Private Catalog Producer",
         "description": "Enables cloud users to manage and share enterprise catalogs intheir organizations.",
         "category": "Cloud & Storage",
@@ -12581,6 +12611,16 @@
         "cors": "unknown",
         "url": "https://oblien.com/docs/runtime-api",
         "discovered_at": "2026-03-12"
+    },
+    {
+        "name": "Oneshot",
+        "description": "Show HN: Free One-shot cloud agents with OpenCode and Daytona and Cloudflare",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://oneshot.runcord.com",
+        "discovered_at": "2026-05-22"
     },
     {
         "name": "Openbrowserclaw",
@@ -12929,6 +12969,16 @@
         "cors": "unknown",
         "url": "https://clwnt.com",
         "discovered_at": "2026-03-01"
+    },
+    {
+        "name": "Console",
+        "description": "Picovoice Discointinues Free Tier",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://console.picovoice.ai/",
+        "discovered_at": "2026-05-22"
     },
     {
         "name": "Conversation API",
@@ -75511,6 +75561,16 @@
         "discovered_at": "2026-05-20"
     },
     {
+        "name": "Macdailynews",
+        "description": "Kansas City Public Schools goes all-in on Apple with 30k devices",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://macdailynews.com/2026/05/21/kansas-city-public-schools-goes-all-in-on-apple-transitioning-to-an-all-apple-district-with-30000-devices/",
+        "discovered_at": "2026-05-22"
+    },
+    {
         "name": "Machinelearningmastery",
         "description": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
         "category": "Education",
@@ -75599,6 +75659,16 @@
         "cors": "unknown",
         "url": "https://www.theregister.com/2026/03/09/ai_negative_reviews/",
         "discovered_at": "2026-03-10"
+    },
+    {
+        "name": "Today",
+        "description": "AI Can Seem More Human Than Real Humans in a Classic Turing Test, Study Finds",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://today.ucsd.edu/story/ai-can-seem-more-human-than-real-humans-in-a-classic-turing-test-study-finds",
+        "discovered_at": "2026-05-22"
     },
     {
         "name": "Zfhuang99",
@@ -76606,6 +76676,16 @@
         "url": "https://www.omdbapi.com/"
     },
     {
+        "name": "Omitten",
+        "description": "Show HN: Daily word puzzle game based on polysemy",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://omitten.com",
+        "discovered_at": "2026-05-22"
+    },
+    {
         "name": "Phaser",
         "description": "Phaser: Create 2D games for the web – free, open source, and AI-ready",
         "category": "Entertainment",
@@ -76701,6 +76781,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://ghibliapi.vercel.app/"
+    },
+    {
+        "name": "Throw-cards",
+        "description": "Show HN: Traditional Card Game Website",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://throw-cards.org/",
+        "discovered_at": "2026-05-22"
     },
     {
         "name": "Timelooptv",
@@ -78624,6 +78714,16 @@
         "discovered_at": "2026-03-11"
     },
     {
+        "name": "Linustechtips",
+        "description": "I Simulated 31,125 VR Data Streams to Break My Hardware (Emovision Stress Test)",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://linustechtips.com/topic/1637924-i-tried-to-melt-my-intel-ultra-7-router-setup-simulating-250-vr-users-for-an-off-grid-festival-app-heres-what-happened/",
+        "discovered_at": "2026-05-22"
+    },
+    {
         "name": "Loudreader",
         "description": "Show HN: I built on-device TTS app because I run out of audiobooks on a flight",
         "category": "IoT & Hardware",
@@ -79242,6 +79342,16 @@
         "cors": "unknown",
         "url": "https://www.wolframalpha.com/.well-known/apispec.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Aisbf",
+        "description": "Show HN: Aisbf, a self-hostable OpenAI-compatible AI proxy/router",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aisbf.cloud/",
+        "discovered_at": "2026-05-22"
     },
     {
         "name": "Alit",
@@ -85173,6 +85283,16 @@
         "discovered_at": "2026-04-26"
     },
     {
+        "name": "Docs",
+        "description": "Show HN: Parseflow, how to parse documents when you're broke",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://docs.parseflow.tech/",
+        "discovered_at": "2026-05-22"
+    },
+    {
         "name": "Domains",
         "description": "Domains API",
         "category": "Other",
@@ -85671,6 +85791,16 @@
         "cors": "unknown",
         "url": "https://free.ai/",
         "discovered_at": "2026-03-29"
+    },
+    {
+        "name": "Freenet",
+        "description": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://freenet.org/",
+        "discovered_at": "2026-05-22"
     },
     {
         "name": "Frontbot",
@@ -87013,6 +87143,16 @@
         "discovered_at": "2026-03-23"
     },
     {
+        "name": "Mixfont",
+        "description": "Show HN: Free Fonts – a collection of 400+ original, open-source typefaces",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.mixfont.com/fonts",
+        "discovered_at": "2026-05-22"
+    },
+    {
         "name": "Mlpatron",
         "description": "Show HN: ML Patron – Run reproducible ML experiments with integrated funding",
         "category": "Other",
@@ -87381,6 +87521,16 @@
         "cors": "unknown",
         "url": "https://www.opsrev.ai/blog/open-source-construction-clis/",
         "discovered_at": "2026-03-14"
+    },
+    {
+        "name": "Opub",
+        "description": "Show HN: opub, donated compute for open-source",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://opub.dev/blog/introducing-opub",
+        "discovered_at": "2026-05-22"
     },
     {
         "name": "Orders API (PII version)",
@@ -87761,6 +87911,16 @@
         "cors": "unknown",
         "url": "https://promptjuggler.com",
         "discovered_at": "2026-04-08"
+    },
+    {
+        "name": "Proposalkit",
+        "description": "Show HN: Proposalkit.io – you write the content, we control the design",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://proposalkit.io/",
+        "discovered_at": "2026-05-22"
     },
     {
         "name": "Protowall",
@@ -88153,6 +88313,16 @@
         "discovered_at": "2026-05-06"
     },
     {
+        "name": "Roughform",
+        "description": "Show HN: Roughform, a free Browser-Based 3D Creation Tool",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://roughform.app",
+        "discovered_at": "2026-05-22"
+    },
+    {
         "name": "Roy",
         "description": "REST APIs must be hypertext-driven (2008)",
         "category": "Other",
@@ -88201,6 +88371,16 @@
         "cors": "unknown",
         "url": "https://runlocal.eu",
         "discovered_at": "2026-03-05"
+    },
+    {
+        "name": "Runtm",
+        "description": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.runtm.com/",
+        "discovered_at": "2026-05-22"
     },
     {
         "name": "Salt-lang",
@@ -88433,6 +88613,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Slicksearchhq",
+        "description": "Show HN: My independent search engine focused on user control",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://slicksearchhq.com",
+        "discovered_at": "2026-05-22"
+    },
+    {
         "name": "SlideRoom API V2",
         "description": "SlideRoom provides a RESTful API for exporting data out of your organizations SlideRoom account.",
         "category": "Other",
@@ -88501,6 +88691,16 @@
         "cors": "unknown",
         "url": "https://www.somniavault.me/",
         "discovered_at": "2026-03-12"
+    },
+    {
+        "name": "Spectrum",
+        "description": "Open-Source Software Is Starting to Help Robots Think",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://spectrum.ieee.org/open-source-robot-ai-platforms",
+        "discovered_at": "2026-05-22"
     },
     {
         "name": "Spending Pulse",
@@ -101746,6 +101946,16 @@
         "cors": "unknown",
         "url": "https://fascinating-crepe-d7b325.netlify.app/",
         "discovered_at": "2026-05-08"
+    },
+    {
+        "name": "Fluttertime",
+        "description": "Show HN: Visual timezone converter for remote teams",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fluttertime.com/",
+        "discovered_at": "2026-05-22"
     },
     {
         "name": "Gitauto",
