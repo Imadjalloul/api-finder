@@ -3038,6 +3038,16 @@
         "discovered_at": "2026-03-15"
     },
     {
+        "name": "Zenodo",
+        "description": "The Verification Tree: Turning AI bug report floods into a confidence signal",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://zenodo.org/records/20349904",
+        "discovered_at": "2026-05-23"
+    },
+    {
         "name": "Zero-human-labs",
         "description": "Show HN: Deploy a full autonomous AI org from a single YAML file",
         "category": "AI & Machine Learning",
@@ -6096,6 +6106,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Phys",
+        "description": "Neutron scattering explains why gluten-free pasta falls apart (2025)",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
+        "discovered_at": "2026-05-23"
+    },
+    {
         "name": "RandomFox",
         "description": "Random fox images",
         "category": "Animals",
@@ -6897,6 +6917,16 @@
         "cors": "unknown",
         "url": "https://mydatavalue.github.io/polter/",
         "discovered_at": "2026-04-11"
+    },
+    {
+        "name": "Nextgov",
+        "description": "How the Library of Congress is using both AI and volunteers to unlock history",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.nextgov.com/artificial-intelligence/2026/05/how-library-congress-using-both-ai-and-volunteers-unlock-public-broadcasting-history/413742/",
+        "discovered_at": "2026-05-23"
     },
     {
         "name": "Notebookcheck",
@@ -12919,6 +12949,16 @@
         "cors": "unknown",
         "url": "https://www.agentmailr.com/",
         "discovered_at": "2026-03-16"
+    },
+    {
+        "name": "Agentrecall",
+        "description": "Show HN: I made an open-source memory layer for agents",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agentrecall.cloud",
+        "discovered_at": "2026-05-23"
     },
     {
         "name": "Aideassistant",
@@ -76617,6 +76657,16 @@
         "discovered_at": "2026-03-08"
     },
     {
+        "name": "Mechs",
+        "description": "Show HN: Mechs.lol – a free, web-based autoshooter game",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mechs.lol",
+        "discovered_at": "2026-05-23"
+    },
+    {
         "name": "Mehuleo",
         "description": "Show HN: Minimal Brain Teaser Web Game (Handcrafted, No AI)",
         "category": "Entertainment",
@@ -86093,6 +86143,16 @@
         "discovered_at": "2026-03-13"
     },
     {
+        "name": "Headlesspdf",
+        "description": "Show HN: HeadlessPDF – An API for Generating PDFs from URLs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://headlesspdf.com/",
+        "discovered_at": "2026-05-23"
+    },
+    {
         "name": "hetras Hotel API Version 0",
         "description": "hetras Hotel API Version 0 API",
         "category": "Other",
@@ -86521,6 +86581,16 @@
         "cors": "unknown",
         "url": "https://justfyi.app",
         "discovered_at": "2026-04-24"
+    },
+    {
+        "name": "Kagi",
+        "description": "Kagi Search API is now in public preview",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kagi.com/changelog#10622",
+        "discovered_at": "2026-05-23"
     },
     {
         "name": "Kaxil",
@@ -87851,6 +87921,16 @@
         "cors": "unknown",
         "url": "https://policygen.app/",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Politico",
+        "description": "Judge considers ordering Meta to revamp its apps",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.politico.com/news/2026/05/22/meta-judge-trial-public-nuisance-facebook-00934485",
+        "discovered_at": "2026-05-23"
     },
     {
         "name": "Polypane",
@@ -89243,6 +89323,16 @@
         "discovered_at": "2026-04-14"
     },
     {
+        "name": "Usepablo",
+        "description": "Show HN: Pablo – a Chrome extension that copies UI from any website",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.usepablo.dev/",
+        "discovered_at": "2026-05-23"
+    },
+    {
         "name": "Usepatch",
         "description": "Show HN: PatchWork – A 5-pass dedup pipeline to merge N resumes into one profile",
         "category": "Other",
@@ -89341,6 +89431,16 @@
         "cors": "unknown",
         "url": "https://visisign.app/",
         "discovered_at": "2026-05-16"
+    },
+    {
+        "name": "Visuallyjs",
+        "description": "Show HN: JsPlumb is now free for non-commercial usage",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://visuallyjs.com/",
+        "discovered_at": "2026-05-23"
     },
     {
         "name": "Viztools",
@@ -89511,6 +89611,16 @@
         "cors": "unknown",
         "url": "https://win-update-tracker.vercel.app/",
         "discovered_at": "2026-05-20"
+    },
+    {
+        "name": "Wocal",
+        "description": "Show HN: A botless meeting recorder and summarizer that runs in the browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wocal.app",
+        "discovered_at": "2026-05-23"
     },
     {
         "name": "Woo",
@@ -94294,6 +94404,16 @@
         "cors": "unknown",
         "url": "https://apify.com/brasil-scrapers/kafka-integration",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Kanbots",
+        "description": "Open source Kanban desktop app that runs parallel agents on every card",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.kanbots.dev/",
+        "discovered_at": "2026-05-23"
     },
     {
         "name": "Kawasaki Parts Catalog",
@@ -99465,6 +99585,16 @@
         "discovered_at": "2026-04-03"
     },
     {
+        "name": "Pcguide",
+        "description": "Valve removes free game from Steam after players discover it contains malware",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/",
+        "discovered_at": "2026-05-23"
+    },
+    {
         "name": "Security",
         "description": "Bringing Rust to the Pixel Baseband",
         "category": "Security",
@@ -101470,6 +101600,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Theodorehq",
+        "description": "Show HN: Charm – on-device spelling, grammar, and prediction for macOS",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.theodorehq.com/charm/",
+        "discovered_at": "2026-05-23"
+    },
+    {
         "name": "Timleland",
         "description": "Show HN: Free Live Speech Translator",
         "category": "Text & Language",
@@ -102566,6 +102706,16 @@
         "cors": "unknown",
         "url": "https://www.zkhrv.com/parrot",
         "discovered_at": "2026-05-04"
+    },
+    {
+        "name": "Consgicody-asos-tools",
+        "description": "A real-time severe-weather command center built on free public APIs",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://consgicody-asos-tools.hf.space/",
+        "discovered_at": "2026-05-23"
     },
     {
         "name": "Forecast-planner",
