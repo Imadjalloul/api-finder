@@ -6692,6 +6692,16 @@
         "discovered_at": "2026-03-09"
     },
     {
+        "name": "Solanaindex",
+        "description": "Show HN: Solana Index Historical Solana Token Balance",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://solanaindex.top",
+        "discovered_at": "2026-05-24"
+    },
+    {
         "name": "Tamp",
         "description": "Tamp.dev – save up to 63% on AI tokens (free, works with Claude Code)",
         "category": "Blockchain",
@@ -78277,6 +78287,16 @@
         "discovered_at": "2026-05-20"
     },
     {
+        "name": "Streakout",
+        "description": "Show HN: A simple app to visualize Apple Health workout logs",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://streakout.app/",
+        "discovered_at": "2026-05-24"
+    },
+    {
         "name": "UK Police",
         "description": "Crime data and police force information",
         "category": "Government & Health",
@@ -80763,6 +80783,16 @@
         "cors": "unknown",
         "url": "https://news.ycombinator.com/submit",
         "discovered_at": "2026-04-18"
+    },
+    {
+        "name": "News",
+        "description": "Hi-res microscopes give biologists petabytes of data",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://news.berkeley.edu/2026/05/22/hi-res-microscopes-give-biologists-petabytes-of-data-scientists-are-creating-an-ai-assistant-to-make-sense-of-it/",
+        "discovered_at": "2026-05-24"
     },
     {
         "name": "NewsAPI",
@@ -85013,6 +85043,16 @@
         "discovered_at": "2026-05-07"
     },
     {
+        "name": "Currantfeed",
+        "description": "Show HN: CurRant->Screw Google scourge, help people notice what is worth a look",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://currantfeed.cc/",
+        "discovered_at": "2026-05-24"
+    },
+    {
         "name": "Custom Behavioral Events API",
         "description": "HTTP API for triggering instances of custom behavioral events",
         "category": "Other",
@@ -85693,6 +85733,16 @@
         "discovered_at": "2026-04-08"
     },
     {
+        "name": "Fed",
+        "description": "Show HN: Fed.run – online collaborative Rust IDE and Markdown editor",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fed.run",
+        "discovered_at": "2026-05-24"
+    },
+    {
         "name": "Feedfluffy",
         "description": "Show HN: FeedFluffy a dead man switch for people living alone",
         "category": "Other",
@@ -86361,6 +86411,16 @@
         "cors": "unknown",
         "url": "https://increase.com/openapi.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Indiatoday",
+        "description": "Meta's Claudeonomics leaderboard",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.indiatoday.in/technology/news/story/meta-shuts-down-internal-claudeonomics-ai-tool-after-employees-started-leaking-data-to-public-2893581-2026-04-09",
+        "discovered_at": "2026-05-24"
     },
     {
         "name": "Inerrata",
@@ -87483,6 +87543,16 @@
         "discovered_at": "2026-05-12"
     },
     {
+        "name": "Obsidian",
+        "description": "Obsidian: The free and flexible app for your private thoughts",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://obsidian.md/",
+        "discovered_at": "2026-05-24"
+    },
+    {
         "name": "Occam",
         "description": "Show HN: Symbolic regression as an MCP tool (SINDy and PySR, free, no install)",
         "category": "Other",
@@ -88533,6 +88603,16 @@
         "discovered_at": "2026-03-02"
     },
     {
+        "name": "Sethkarten",
+        "description": "Continual Harness: A reset-free self-improving harness for embodied agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sethkarten.ai/continual-harness/",
+        "discovered_at": "2026-05-24"
+    },
+    {
         "name": "Setsweat",
         "description": "Show HN: After 15 years of lifting and spreadsheets, I built my own workout app",
         "category": "Other",
@@ -89541,6 +89621,16 @@
         "cors": "unknown",
         "url": "https://washingtonspectator.org/israeli-government-is-spending-millions-to-court-american-evangelicals-amid-plummeting-public-support/",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Wc-2026-predictions",
+        "description": "Show HN: World Cup 2026 free family and friends prediction platform",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wc-2026-predictions.vercel.app",
+        "discovered_at": "2026-05-24"
     },
     {
         "name": "Wealth Reader API",
@@ -102281,6 +102371,16 @@
         "cors": "unknown",
         "url": "https://www.404media.co/this-ai-tool-rips-off-open-source-software-without-violating-copyright/",
         "discovered_at": "2026-04-22"
+    },
+    {
+        "name": "Agenticvbench",
+        "description": "The first benchmark to test AI agent's video editing capability",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agenticvbench.com/",
+        "discovered_at": "2026-05-24"
     },
     {
         "name": "Anthillnet",
