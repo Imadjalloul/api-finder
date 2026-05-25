@@ -2421,6 +2421,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Socket",
+        "description": "AI Has Taken over Open Source",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://socket.dev/blog/ai-has-taken-over-open-source",
+        "discovered_at": "2026-05-25"
+    },
+    {
         "name": "Socworkflows",
         "description": "SOC.Workflows – Free AI investigation workflows for SoC analysts",
         "category": "AI & Machine Learning",
@@ -2638,6 +2648,16 @@
         "cors": "unknown",
         "url": "https://thehill.com/policy/technology/5824219-anthropic-new-ai-dangerous-public/",
         "discovered_at": "2026-04-10"
+    },
+    {
+        "name": "Theincidentchallenge",
+        "description": "Show HN: I Built a Debugging Challenge for the AI Coding Age",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://theincidentchallenge.com/",
+        "discovered_at": "2026-05-25"
     },
     {
         "name": "Thewebsite",
@@ -6327,6 +6347,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://firebase.google.com/docs/auth"
+    },
+    {
+        "name": "Guptalog",
+        "description": "I bypassed AWS API Gateway auth with a trailing slash. Got $12K bounty",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://guptalog.free.nf/2026/04/10/i-bypassed-aws-api-gateway-auth-with-a-trailing-slash-got-12k-bounty/",
+        "discovered_at": "2026-05-25"
     },
     {
         "name": "hubapi.com:auth",
@@ -76776,6 +76806,16 @@
         "discovered_at": "2026-04-27"
     },
     {
+        "name": "Pretzel",
+        "description": "Show HN: Live AI music sequencing agent",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pretzel.shukant.com/?nickname=Anonymous&role=stage",
+        "discovered_at": "2026-05-25"
+    },
+    {
         "name": "Quaxio",
         "description": "Show HN: I vibe coded a music box",
         "category": "Entertainment",
@@ -89303,6 +89343,16 @@
         "discovered_at": "2026-05-20"
     },
     {
+        "name": "Tritium",
+        "description": "Noroboto: Lying Fonts and Mitigation in Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tritium.legal/blog/noroboto",
+        "discovered_at": "2026-05-25"
+    },
+    {
         "name": "Tryardent",
         "description": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
         "category": "Other",
@@ -89721,6 +89771,16 @@
         "cors": "unknown",
         "url": "https://woo.hughpyle.workers.dev/",
         "discovered_at": "2026-05-02"
+    },
+    {
+        "name": "Worktop",
+        "description": "Show HN: WorkTop – Different desktops with different files. (Windows only)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://worktop.dev/",
+        "discovered_at": "2026-05-25"
     },
     {
         "name": "Wormhole",
