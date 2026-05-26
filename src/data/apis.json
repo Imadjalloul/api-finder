@@ -220,6 +220,16 @@
         "discovered_at": "2026-04-25"
     },
     {
+        "name": "Almartis",
+        "description": "AI Datacenters Were Built for GPUs. What Happens When You Remove the GPUs?",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://almartis.xyz/gpu-free-datacenter.html",
+        "discovered_at": "2026-05-26"
+    },
+    {
         "name": "Anj",
         "description": "Data analysis via AI coding tools, directly in the codebase",
         "category": "AI & Machine Learning",
@@ -2030,6 +2040,16 @@
         "cors": "unknown",
         "url": "https://point-wild.github.io/who-touched-my-packages/",
         "discovered_at": "2026-03-31"
+    },
+    {
+        "name": "Pollinations",
+        "description": "Free AI APIs – Build Anything with Pollinations",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pollinations.aivaded.com",
+        "discovered_at": "2026-05-26"
     },
     {
         "name": "Port42",
@@ -80756,6 +80776,16 @@
         "url": "https://github.com/HackerNews/API"
     },
     {
+        "name": "Hackobar",
+        "description": "Show HN: Hackobar – One feed for AI news",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hackobar.com/",
+        "discovered_at": "2026-05-26"
+    },
+    {
         "name": "Hnup",
         "description": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
         "category": "News",
@@ -84633,6 +84663,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Breadboard",
+        "description": "Show HN: Breadboard – Figma for Breadboard Hackers",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://breadboard.safaorhan.com/",
+        "discovered_at": "2026-05-26"
+    },
+    {
         "name": "Breadcrumb",
         "description": "The Great Reset: Navigating a Turbulent Post-AI World",
         "category": "Other",
@@ -86003,6 +86043,16 @@
         "discovered_at": "2026-04-24"
     },
     {
+        "name": "Gerbdiff",
+        "description": "Show HN: GerbDiff – Visual diff tool for PCB Gerbers",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.gerbdiff.com/",
+        "discovered_at": "2026-05-26"
+    },
+    {
         "name": "GererMesAffaires {REST:API}",
         "description": "Sécurisez vos données en interfaçant votre logiciel métier avec le service en ligne GererMesAffaires",
         "category": "Other",
@@ -86321,6 +86371,16 @@
         "cors": "unknown",
         "url": "https://howareu.app/",
         "discovered_at": "2026-05-10"
+    },
+    {
+        "name": "Htmlunit",
+        "description": "Show HN: HtmlUnit 5.0.0 Is Available",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://htmlunit.org/",
+        "discovered_at": "2026-05-26"
     },
     {
         "name": "HubSpot Events API",
@@ -87471,6 +87531,16 @@
         "cors": "unknown",
         "url": "https://www.neutboom.com",
         "discovered_at": "2026-05-08"
+    },
+    {
+        "name": "Nexttrain",
+        "description": "Show HN: A web to see nearby TFL trains",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nexttrain.london",
+        "discovered_at": "2026-05-26"
     },
     {
         "name": "Nial",
@@ -89363,6 +89433,16 @@
         "discovered_at": "2026-05-14"
     },
     {
+        "name": "Trychert",
+        "description": "Launch HN: Chert (YC P26) – Twilio for iMessage",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.trychert.com",
+        "discovered_at": "2026-05-26"
+    },
+    {
         "name": "Turbinefi",
         "description": "Show HN: TurbineFi – Build, Backtest, Deploy Prediction Market Strategies",
         "category": "Other",
@@ -90171,6 +90251,16 @@
         "cors": "unknown",
         "url": "https://animateoldphotos.org/add-loved-one-to-photo",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Audiofftimage",
+        "description": "Show HN: A high-performance audio visualizer using Rust, WASM, and React",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://audiofftimage.netlify.app/",
+        "discovered_at": "2026-05-26"
     },
     {
         "name": "Ddphotos",
@@ -102354,6 +102444,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://goqr.me/api/"
+    },
+    {
+        "name": "Quickfix",
+        "description": "Show HN: API cost calculator – compare 28 models across 7 providers, no signup",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://quickfix.tools/ai-pricing-calculator/",
+        "discovered_at": "2026-05-26"
     },
     {
         "name": "Random User Generator",
