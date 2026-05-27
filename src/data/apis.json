@@ -757,6 +757,16 @@
         "discovered_at": "2026-05-06"
     },
     {
+        "name": "Dhrive",
+        "description": "Show HN: Dhrive – Prompt to a native iOS app, built locally with your own AI CLI",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.dhrive.app/",
+        "discovered_at": "2026-05-27"
+    },
+    {
         "name": "Disputron",
         "description": "Show HN: Disputron – AI small claims court for petty disputes",
         "category": "AI & Machine Learning",
@@ -77094,6 +77104,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Mrguyinvests",
+        "description": "I built a free stock research tool for beginners using SEC data and AI",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.mrguyinvests.com",
+        "discovered_at": "2026-05-27"
+    },
+    {
         "name": "Notaryos",
         "description": "Show HN: NotaryOS – Cryptographic proof of what your AI agent chose not to do",
         "category": "Finance",
@@ -83943,6 +83963,16 @@
         "discovered_at": "2026-03-11"
     },
     {
+        "name": "Agentikus",
+        "description": "Show HN: Agentikus",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agentikus.com",
+        "discovered_at": "2026-05-27"
+    },
+    {
         "name": "Agentmbox",
         "description": "Show HN: YC W26 AgentMBOX agent self-onboarding mailboxes",
         "category": "Other",
@@ -84823,6 +84853,16 @@
         "discovered_at": "2026-04-03"
     },
     {
+        "name": "Celesto",
+        "description": "Show HN: Automate legacy software on a Windows Sandbox",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://celesto.ai/blog/posts/smolvm/windows-sandboxes/",
+        "discovered_at": "2026-05-27"
+    },
+    {
         "name": "Chainguard",
         "description": "Open source died in March. It just doesn't know it yet",
         "category": "Other",
@@ -85173,6 +85213,16 @@
         "discovered_at": "2026-05-20"
     },
     {
+        "name": "Darrikonn",
+        "description": "Show HN: I turned my personal website into a bash shell (with Vim)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://darrikonn.com",
+        "discovered_at": "2026-05-27"
+    },
+    {
         "name": "Data2CRM.API",
         "description": "Make use of our in-depth documentation to get more information about the various functions of the service. Those willing to explore the mechanics of Data2CRM.API can test it in live regime using the s",
         "category": "Other",
@@ -85231,6 +85281,16 @@
         "cors": "unknown",
         "url": "https://deariary.com/en",
         "discovered_at": "2026-03-19"
+    },
+    {
+        "name": "Deepswe",
+        "description": "DeepSWE: A contamination-free benchmark for long-horizon coding agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://deepswe.datacurve.ai/blog",
+        "discovered_at": "2026-05-27"
     },
     {
         "name": "Demoday",
@@ -87583,6 +87643,16 @@
         "discovered_at": "2026-03-01"
     },
     {
+        "name": "Nodex",
+        "description": "Show HN: Offline Typing Mastery",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nodex.studio/products/typing-mastery.html",
+        "discovered_at": "2026-05-27"
+    },
+    {
         "name": "Noirlab",
         "description": "New synthesis of astronomical measurements shows Hubble tension is real",
         "category": "Other",
@@ -87671,6 +87741,16 @@
         "cors": "unknown",
         "url": "https://occam.fit/",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Occrp",
+        "description": "Leaked Documents Reveal Russian 'Cognitive Strikes' Against the West",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.occrp.org/en/investigation/leaked-documents-reveal-russian-cognitive-strikes-against-the-west-including-islamophobic-pig-head-attacks-in-paris",
+        "discovered_at": "2026-05-27"
     },
     {
         "name": "Octetta",
@@ -99260,6 +99340,16 @@
         "cors": "unknown",
         "url": "https://middle-earth-interactive-map.web.app/",
         "discovered_at": "2026-04-08"
+    },
+    {
+        "name": "Mirdel",
+        "description": "Show HN: Mirdel – a local-first AI workspace with UI-based agent workflows",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.mirdel.ai",
+        "discovered_at": "2026-05-27"
     },
     {
         "name": "Mux0",
