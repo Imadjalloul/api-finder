@@ -410,6 +410,16 @@
         "discovered_at": "2026-03-12"
     },
     {
+        "name": "Bettercallclaude",
+        "description": "Show HN: BetterCallClaude – Open Source AI Legal Agents for Italy",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bettercallclaude.it/",
+        "discovered_at": "2026-05-28"
+    },
+    {
         "name": "Bix",
         "description": "Let AI make software free-as-in-freedom",
         "category": "AI & Machine Learning",
@@ -1097,6 +1107,16 @@
         "discovered_at": "2026-04-24"
     },
     {
+        "name": "Getsotto",
+        "description": "Show HN: Sotto – AI interview assistant for Mac",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getsotto.ai/",
+        "discovered_at": "2026-05-28"
+    },
+    {
         "name": "Getspine",
         "description": "Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas",
         "category": "AI & Machine Learning",
@@ -1233,6 +1253,16 @@
         "cors": "unknown",
         "url": "https://hive.rllm-project.com/",
         "discovered_at": "2026-03-22"
+    },
+    {
+        "name": "Hodor",
+        "description": "Show HN: Hodor – a 701KB native macOS prompt launcher for AI tools",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hodor.design",
+        "discovered_at": "2026-05-28"
     },
     {
         "name": "Hormuz-havoc",
@@ -2002,6 +2032,16 @@
         "discovered_at": "2026-03-25"
     },
     {
+        "name": "Pageindex",
+        "description": "A file-level tree that lets an LLM reason over a document corpus",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pageindex.ai/blog/pageindex-filesystem",
+        "discovered_at": "2026-05-28"
+    },
+    {
         "name": "Pairform",
         "description": "Show HN: Pairform Running – Great AI coaching with excellent fitness context",
         "category": "AI & Machine Learning",
@@ -2010,6 +2050,16 @@
         "cors": "unknown",
         "url": "https://www.pairform.io/",
         "discovered_at": "2026-03-21"
+    },
+    {
+        "name": "Pcgamer",
+        "description": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+        "discovered_at": "2026-05-28"
     },
     {
         "name": "Personalassistantdeploy",
@@ -2767,6 +2817,16 @@
         "cors": "unknown",
         "url": "https://tools.predictionoracle.io/",
         "discovered_at": "2026-05-16"
+    },
+    {
+        "name": "Toprec",
+        "description": "Show HN: TopRec – AI screening and CRM for recruiters and hiring teams",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://toprec.io",
+        "discovered_at": "2026-05-28"
     },
     {
         "name": "Tracium",
@@ -6947,6 +7007,16 @@
         "cors": "unknown",
         "url": "https://imagehost.ing",
         "discovered_at": "2026-03-11"
+    },
+    {
+        "name": "Lelu-ai",
+        "description": "Lelu – Open-source authorization engine for AI agents",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lelu-ai.com",
+        "discovered_at": "2026-05-28"
     },
     {
         "name": "Mattitude8861",
@@ -62156,6 +62226,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Zoril",
+        "description": "Show HN: Zorilla – vibe-code a 3D game in the browser",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.zoril.la/",
+        "discovered_at": "2026-05-28"
+    },
+    {
         "name": "Парсер карточки товара Вайлдберриз (Wildberries)",
         "description": "Полчайте данные из карточек товаров Вайлдберриз(Wildberries) за мгновение.",
         "category": "Development",
@@ -75791,6 +75871,16 @@
         "discovered_at": "2026-05-21"
     },
     {
+        "name": "Zoonk",
+        "description": "Show HN: Open-source alternative to Duolingo for learning anything",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.zoonk.com/",
+        "discovered_at": "2026-05-28"
+    },
+    {
         "name": "ClickSend REST API v3",
         "description": "This is the official API documentation for ClickSend.com\n\nBelow you will find a current list of the available methods for clicksend.\n\n**NOTE**: You will need to create a free account to use the API.",
         "category": "email",
@@ -83943,6 +84033,16 @@
         "discovered_at": "2026-03-19"
     },
     {
+        "name": "Abtest",
+        "description": "Curated collection of A/B test results from best-in-class apps",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://abtest.design/",
+        "discovered_at": "2026-05-28"
+    },
+    {
         "name": "Aegisoptikon",
         "description": "Free nonce and API key generator",
         "category": "Other",
@@ -84421,6 +84521,16 @@
         "cors": "unknown",
         "url": "https://axiomoverclock.ca/",
         "discovered_at": "2026-04-18"
+    },
+    {
+        "name": "Axion",
+        "description": "Show HN: Axion – Browser-based guitar amp/effects rig",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://axion.cab/",
+        "discovered_at": "2026-05-28"
     },
     {
         "name": "Axiora",
@@ -85171,6 +85281,16 @@
         "cors": "unknown",
         "url": "https://currantfeed.cc/",
         "discovered_at": "2026-05-24"
+    },
+    {
+        "name": "Current",
+        "description": "Building current, a browser-based file sharing tool, with Rust and WASM",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://current.rdvz.app/blog/building-current",
+        "discovered_at": "2026-05-28"
     },
     {
         "name": "Custom Behavioral Events API",
@@ -86293,6 +86413,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Gridpath",
+        "description": "Show HN: GridPath – Faster and Better Agent for Spreadsheets (Tauri, Rust)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gridpath.dev/",
+        "discovered_at": "2026-05-28"
+    },
+    {
         "name": "Gui",
         "description": "Show HN: Gui.new – The Visual Layer for AI",
         "category": "Other",
@@ -86351,6 +86481,16 @@
         "cors": "unknown",
         "url": "https://headlesspdf.com/",
         "discovered_at": "2026-05-23"
+    },
+    {
+        "name": "Help",
+        "description": "Show HN: I made an emergency page for my family",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://help.delduca.org",
+        "discovered_at": "2026-05-28"
     },
     {
         "name": "hetras Hotel API Version 0",
@@ -86611,6 +86751,16 @@
         "cors": "unknown",
         "url": "https://www.inkgest.com/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Insidertrack",
+        "description": "Show HN: Insidertrack – free SEC Form 4 insider trade tracker",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://insidertrack.app",
+        "discovered_at": "2026-05-28"
     },
     {
         "name": "Inspectioncredit",
@@ -87013,6 +87163,16 @@
         "discovered_at": "2026-04-01"
     },
     {
+        "name": "Linux",
+        "description": "Rust Will Save Linux from AI, Says Greg Kroah-Hartman",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://linux.slashdot.org/story/26/05/27/208203/rust-will-save-linux-from-ai-says-greg-kroah-hartman",
+        "discovered_at": "2026-05-28"
+    },
+    {
         "name": "Linuxfoundation",
         "description": "OCUDU ecosystem foundation to accelerate open source AI-RAN innovation",
         "category": "Other",
@@ -87111,6 +87271,16 @@
         "cors": "unknown",
         "url": "https://magaornot.ai",
         "discovered_at": "2026-03-23"
+    },
+    {
+        "name": "Main",
+        "description": "Show HN: I built a tool to record your workflow and generate docs in one click",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://main.mirror-landing-43t.pages.dev/",
+        "discovered_at": "2026-05-28"
     },
     {
         "name": "Mainichi",
@@ -87671,6 +87841,16 @@
         "cors": "unknown",
         "url": "https://notgen.ai/",
         "discovered_at": "2026-05-14"
+    },
+    {
+        "name": "Notifai",
+        "description": "Show HN: Approve Claude CLI prompts from the browser, phone, or tablet",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://notifai.net/",
+        "discovered_at": "2026-05-28"
     },
     {
         "name": "Npgsqlrest",
@@ -88473,6 +88653,16 @@
         "discovered_at": "2026-05-08"
     },
     {
+        "name": "Reassign",
+        "description": "Show HN: Reassign – a 24-hour dial for planning your day",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://reassign.app",
+        "discovered_at": "2026-05-28"
+    },
+    {
         "name": "Reco",
         "description": "How to Test a Salesforce Experience Aura Site Like an Apex Predator",
         "category": "Other",
@@ -88731,6 +88921,16 @@
         "cors": "unknown",
         "url": "https://salt-lang.dev/playground/",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Samspov",
+        "description": "Show HN: I made samspov.com to easily track updates",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://samspov.com",
+        "discovered_at": "2026-05-28"
     },
     {
         "name": "Savethearchive",
@@ -100321,6 +100521,26 @@
         "discovered_at": "2026-04-10"
     },
     {
+        "name": "Gitshare",
+        "description": "Show HN: GitShare – Turn GitHub repos into beautiful social media screenshots",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gitshare.ch/",
+        "discovered_at": "2026-05-28"
+    },
+    {
+        "name": "Hackmyip",
+        "description": "How I made my privacy site recommendable by ChatGPT (and got into public-APIs)",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hackmyip.com/sheets/how-i-made-my-site-recommendable-by-chatgpt",
+        "discovered_at": "2026-05-28"
+    },
+    {
         "name": "Hustlerbingo",
         "description": "Show HN: Hustler Bingo – a tiny bingo game about startup Twitter clichés",
         "category": "Social",
@@ -100553,6 +100773,16 @@
         "cors": "unknown",
         "url": "https://blogs.cisco.com/ai/model-provenance-kit",
         "discovered_at": "2026-05-08"
+    },
+    {
+        "name": "Elodin",
+        "description": "Show HN: Open-Source AI Racing Harness",
+        "category": "Sports",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+        "discovered_at": "2026-05-28"
     },
     {
         "name": "F1 Ergast",
@@ -101766,6 +101996,16 @@
         "discovered_at": "2026-03-29"
     },
     {
+        "name": "Dailyworder",
+        "description": "Show HN: I hand-write 5 daily word puzzles before work",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.dailyworder.com/",
+        "discovered_at": "2026-05-28"
+    },
+    {
         "name": "Datamuse",
         "description": "Word-finding queries: rhymes, synonyms, completions",
         "category": "Text & Language",
@@ -101948,6 +102188,16 @@
         "cors": "unknown",
         "url": "https://timleland.com/live-speech-translator/",
         "discovered_at": "2026-04-23"
+    },
+    {
+        "name": "Tsz",
+        "description": "tsz: high performance TypeScript checker, emitter, and language service in Rust",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tsz.dev/",
+        "discovered_at": "2026-05-28"
     },
     {
         "name": "Unforbiddenyet",
@@ -102829,6 +103079,16 @@
         "cors": "unknown",
         "url": "https://www.krisdigital.com/en/blog/2026/03/28/macos-audio-visualizer-rust/",
         "discovered_at": "2026-04-02"
+    },
+    {
+        "name": "Legato",
+        "description": "Show HN: Legato – a Rust audio graph framework with a minimal DSL",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://legato.gg/docs/getting-started",
+        "discovered_at": "2026-05-28"
     },
     {
         "name": "Media API",
