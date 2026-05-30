@@ -10,6 +10,16 @@
         "discovered_at": "2026-04-22"
     },
     {
+        "name": "1379",
+        "description": "Show HN: I used AI to built static recompilers for 5 retro game systems",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://1379.tech/nes-snes-genesis-virtualboy-and-psx-a-journey-with-ai-and-recompilation/",
+        "discovered_at": "2026-05-30"
+    },
+    {
         "name": "3d-agent",
         "description": "Show HN: 3D-Agent – AI that edits Blender scenes through the Python API",
         "category": "AI & Machine Learning",
@@ -420,6 +430,16 @@
         "discovered_at": "2026-03-12"
     },
     {
+        "name": "Benchmark-yourself",
+        "description": "Test yourself against local open-source LLMs benchmark questions",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://benchmark-yourself.streamlit.app/",
+        "discovered_at": "2026-05-30"
+    },
+    {
         "name": "Bettercallclaude",
         "description": "Show HN: BetterCallClaude – Open Source AI Legal Agents for Italy",
         "category": "AI & Machine Learning",
@@ -756,6 +776,16 @@
         "cors": "unknown",
         "url": "https://dataconcierge.dev/en/blog/brazil-ai-adoption-public-numbers",
         "discovered_at": "2026-04-30"
+    },
+    {
+        "name": "Ddsboston",
+        "description": "DDS Vibe Academy – 47 free AI coding masterclasses, built by AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ddsboston.com/pages/dds-vibe-academy",
+        "discovered_at": "2026-05-30"
     },
     {
         "name": "DeepL",
@@ -2012,6 +2042,16 @@
         "discovered_at": "2026-03-22"
     },
     {
+        "name": "Openhivemind",
+        "description": "Show HN: OpenHive – AI agents share solutions so other agents dont re-solve them",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://openhivemind.vercel.app/",
+        "discovered_at": "2026-05-30"
+    },
+    {
         "name": "Openlegion",
         "description": "Show HN: OpenLegion – AI agent fleet with container isolation and vault proxy",
         "category": "AI & Machine Learning",
@@ -2130,6 +2170,16 @@
         "cors": "unknown",
         "url": "https://port42.ai/",
         "discovered_at": "2026-03-16"
+    },
+    {
+        "name": "Prezlo",
+        "description": "Show HN: Prezlo – We built an API that tells AI agent whether to trust an expert",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://prezlo.io/",
+        "discovered_at": "2026-05-30"
     },
     {
         "name": "Privent",
@@ -2499,6 +2549,16 @@
         "cors": "unknown",
         "url": "https://signb.ee",
         "discovered_at": "2026-03-17"
+    },
+    {
+        "name": "Sites",
+        "description": "Use all AI futer for free& unlimited. try now",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sites.google.com/view/rrrpromex/home",
+        "discovered_at": "2026-05-30"
     },
     {
         "name": "Skillscan",
@@ -2977,6 +3037,16 @@
         "cors": "unknown",
         "url": "https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Vidai",
+        "description": "Vidai – AI Gateway Written in Rust Community Edition Released",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vidai.uk/community/",
+        "discovered_at": "2026-05-30"
     },
     {
         "name": "Virtualuncle",
@@ -6311,6 +6381,16 @@
         "cors": "unknown",
         "url": "https://tsolman.github.io/vessel-class-finder/",
         "discovered_at": "2026-03-28"
+    },
+    {
+        "name": "Vibebnb",
+        "description": "Show HN: I brought back Airbnb categories",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.vibebnb.fyi/",
+        "discovered_at": "2026-05-30"
     },
     {
         "name": "Wiley",
@@ -12665,6 +12745,16 @@
         "cors": "unknown",
         "url": "https://darkdrive.de/en/",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Deepface",
+        "description": "Show HN: DeepFace Cloud – API for face recognition",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.deepface.dev/",
+        "discovered_at": "2026-05-30"
     },
     {
         "name": "Dropbox",
@@ -33187,6 +33277,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Raah",
+        "description": "Vercel Analytics Alternative When You Outgrow the Free Tier",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://raah.dev/blog/vercel-analytics-alternative",
+        "discovered_at": "2026-05-30"
+    },
+    {
         "name": "Racenet.com.au Scraper",
         "description": "Racenet.com.au Scraper extracts comprehensive Australian horse racing profiles from Racenet.com.au, including horse stats, breeding details, ownership, race history, connections, and performance...",
         "category": "Data & Analytics",
@@ -52341,6 +52441,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Integuru",
+        "description": "Show HN: Integuru – Integrate with platforms via the source code",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.integuru.com",
+        "discovered_at": "2026-05-30"
+    },
+    {
         "name": "Intelligent Search API",
         "description": ">ℹ️ Onboarding guide\r\n>\r\n> Check the new [Search onboarding guide](https://developers.vtex.com/docs/guides/search-overview). We created this guide to improve the onboarding experience for developers a",
         "category": "Development",
@@ -54166,6 +54276,16 @@
         "cors": "unknown",
         "url": "https://apify.com/pago/mifexpo-scrapy",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Mijn-travelly",
+        "description": "Show HN: My first app, artisanally vibe-coded in 4 months",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mijn-travelly.nl/en/",
+        "discovered_at": "2026-05-30"
     },
     {
         "name": "Minecraft Server Scanner",
@@ -86843,6 +86963,16 @@
         "discovered_at": "2026-03-19"
     },
     {
+        "name": "Inkfeed",
+        "description": "Show HN: Inkfeed – RSS Reader for Kindle",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://inkfeed.xyz",
+        "discovered_at": "2026-05-30"
+    },
+    {
         "name": "Inkgest",
         "description": "Show HN: Inkgest, Link to Gest",
         "category": "Other",
@@ -87151,6 +87281,16 @@
         "cors": "unknown",
         "url": "https://kontext.dev/blog/announcing-kontext",
         "discovered_at": "2026-03-21"
+    },
+    {
+        "name": "Kotlin-api",
+        "description": "Show HN: A better Kotlin stdlib doc reference (autocomplete)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kotlin-api.com",
+        "discovered_at": "2026-05-30"
     },
     {
         "name": "Kumbukum",
@@ -88271,6 +88411,16 @@
         "cors": "unknown",
         "url": "https://par-ai.app/",
         "discovered_at": "2026-04-01"
+    },
+    {
+        "name": "Parseapi",
+        "description": "Turn a folder of PDFs into a live JSON API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://parseapi.dev/blog/show-hn-folder-to-json-api",
+        "discovered_at": "2026-05-30"
     },
     {
         "name": "Parsewise",
@@ -89453,6 +89603,16 @@
         "discovered_at": "2026-03-26"
     },
     {
+        "name": "Stillis",
+        "description": "Show HN: Stillis – An open-ended anonymous polling platform for anything",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stillis.xyz",
+        "discovered_at": "2026-05-30"
+    },
+    {
         "name": "Streams",
         "description": "Show HN: I got tired of juggling 4 tools for data work – built one instead",
         "category": "Other",
@@ -89641,6 +89801,16 @@
         "cors": "unknown",
         "url": "https://thedream.work/",
         "discovered_at": "2026-04-02"
+    },
+    {
+        "name": "Thenextweb",
+        "description": "Pick of the 10 Hottest West Coast Startups in (2013)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thenextweb.com/news/west-coast-startups-to-look-out-for-in-2013",
+        "discovered_at": "2026-05-30"
     },
     {
         "name": "Thepublictab",
@@ -93334,6 +93504,16 @@
         "cors": "unknown",
         "url": "https://apify.com/easyapi/ev-charge-finder",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Everfree",
+        "description": "Show HN: A free, open-source replacement for Evernote (and paid note takers)",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://everfree.vercel.app/",
+        "discovered_at": "2026-05-30"
     },
     {
         "name": "Expired Website checker",
@@ -102278,6 +102458,16 @@
         "cors": "unknown",
         "url": "https://semanticapi.dev",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Sensonym",
+        "description": "Show HN: A language app where you act out words with phone sensors to learn them",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sensonym.com",
+        "discovered_at": "2026-05-30"
     },
     {
         "name": "Swadhinbiswas",
