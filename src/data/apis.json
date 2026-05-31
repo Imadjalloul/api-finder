@@ -160,6 +160,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Aic-ai-lab",
+        "description": "Show HN: AI Simulaionen Based on FEP",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aic-ai-lab.site/login",
+        "discovered_at": "2026-05-31"
+    },
+    {
         "name": "Aictl",
         "description": "Show HN: AICTL – A native AI agent for terminal and macOS, in Rust",
         "category": "AI & Machine Learning",
@@ -1564,6 +1574,16 @@
         "discovered_at": "2026-04-13"
     },
     {
+        "name": "Linuxstans",
+        "description": "AI Found 3,900 Critical Open Source Bugs. IBM Is Paying $5B to Fix Them",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://linuxstans.com/ai-found-3900-critical-open-source-bugs-ibm-is-paying-5-billion-to-fix-them/",
+        "discovered_at": "2026-05-31"
+    },
+    {
         "name": "Linuxtoaster",
         "description": "The Pincer Attack – How AI Killed Open Source",
         "category": "AI & Machine Learning",
@@ -1582,6 +1602,16 @@
         "cors": "unknown",
         "url": "https://litestep.com/writers-studio/",
         "discovered_at": "2026-03-12"
+    },
+    {
+        "name": "Llmgame",
+        "description": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://llmgame.scalex.dev",
+        "discovered_at": "2026-05-31"
     },
     {
         "name": "Llmonestop",
@@ -2202,6 +2232,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Proreview",
+        "description": "Show HN: AI command review drill for engineers and vibe coders",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.proreview.dev/",
+        "discovered_at": "2026-05-31"
+    },
+    {
         "name": "Proxvanta",
         "description": "Show HN: Built a local-first way to make AI context reusable across tools",
         "category": "AI & Machine Learning",
@@ -2549,6 +2589,16 @@
         "cors": "unknown",
         "url": "https://signb.ee",
         "discovered_at": "2026-03-17"
+    },
+    {
+        "name": "Silkdock",
+        "description": "Compare AI Model Pricing Across 9 Providers (385 Models)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://silkdock.ai/rankings",
+        "discovered_at": "2026-05-31"
     },
     {
         "name": "Sites",
@@ -3037,6 +3087,16 @@
         "cors": "unknown",
         "url": "https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Verkyyi",
+        "description": "Show HN: HermesBench – workflow reliability evals for personal AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://verkyyi.github.io/hermesbench/",
+        "discovered_at": "2026-05-31"
     },
     {
         "name": "Vidai",
@@ -6371,6 +6431,16 @@
         "cors": "unknown",
         "url": "https://www.tidelock.dev/ssl/certificate-discovery",
         "discovered_at": "2026-05-04"
+    },
+    {
+        "name": "Tristonarmstrong",
+        "description": "Custom Errors Are Non-Negotiable in My Rust Applications",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications",
+        "discovered_at": "2026-05-31"
     },
     {
         "name": "Tsolman",
@@ -13331,6 +13401,16 @@
         "discovered_at": "2026-05-06"
     },
     {
+        "name": "Extend",
+        "description": "Show HN: Extend AI turns a voice note into posts that sound like you",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://extend.redsystem.dev",
+        "discovered_at": "2026-05-31"
+    },
+    {
         "name": "Firethering",
         "description": "Open-Source AI Text-to-Speech Models You Can Run Locally for Natural Voice",
         "category": "Communication",
@@ -13369,6 +13449,16 @@
         "cors": "unknown",
         "url": "https://gitleak.io",
         "discovered_at": "2026-05-02"
+    },
+    {
+        "name": "Goodsender",
+        "description": "Show HN: GoodSender – the email API for makers and AI agents",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://goodsender.com/",
+        "discovered_at": "2026-05-31"
     },
     {
         "name": "Interactive documentation for your Premium plan",
@@ -77046,6 +77136,16 @@
         "discovered_at": "2026-04-29"
     },
     {
+        "name": "Phive",
+        "description": "Show HN: Phive, a Gomoku-like game to play with friends or solo",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://phive.app",
+        "discovered_at": "2026-05-31"
+    },
+    {
         "name": "Planedrift",
         "description": "Show HN: Planedrift – Play Infocom games in the browser",
         "category": "Entertainment",
@@ -84163,6 +84263,16 @@
         "discovered_at": "2026-04-10"
     },
     {
+        "name": "4worlds",
+        "description": "Replacing WebView2 print-to-PDF with an embedded Typst engine (Rust)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://4worlds.dev/lore/014-typst-pdf-engine/",
+        "discovered_at": "2026-05-31"
+    },
+    {
         "name": "A2apex",
         "description": "Show HN: A2Apex – Test, certify, and discover trusted A2A agents",
         "category": "Other",
@@ -87943,6 +88053,16 @@
         "discovered_at": "2026-05-14"
     },
     {
+        "name": "Monochess",
+        "description": "Show HN: Monochess – A chess variant with rule-bending action cards",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://monochess.pages.dev",
+        "discovered_at": "2026-05-31"
+    },
+    {
         "name": "Morgin",
         "description": "Which Model Uncensoring Method Works Best?",
         "category": "Other",
@@ -89461,6 +89581,16 @@
         "cors": "unknown",
         "url": "https://snap.michaelcli.com",
         "discovered_at": "2026-05-21"
+    },
+    {
+        "name": "Snapname",
+        "description": "Show HN: I made a Gemma 4 Mac app that names screenshots with local AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://snapname.app",
+        "discovered_at": "2026-05-31"
     },
     {
         "name": "Sniphi",
