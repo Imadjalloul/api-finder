@@ -6336,6 +6336,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Peninsulaforeveryone",
+        "description": "Atherton spent $145K to delay train electrification. The rest of us paid $400M",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://peninsulaforeveryone.org/blog/atherton-spent-145k-to-delay-caltrain-electrification-the-rest-of-us-paid-400-million-and-waited-3-extra-years/",
+        "discovered_at": "2026-06-01"
+    },
+    {
         "name": "Petercsauer",
         "description": "Show HN: Docktor – I put live window previews and widgets on the macOS 26 Dock",
         "category": "Animals",
@@ -7079,6 +7089,16 @@
         "cors": "unknown",
         "url": "https://www.classkeep.app",
         "discovered_at": "2026-05-20"
+    },
+    {
+        "name": "Design-md-web",
+        "description": "A free, open-source library of DESIGN.md files for AI-generated UIs",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://design-md-web.pages.dev/",
+        "discovered_at": "2026-06-01"
     },
     {
         "name": "Edit-mind",
@@ -12941,6 +12961,16 @@
         "cors": "unknown",
         "url": "https://nekoni.dev/",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Nodecartel",
+        "description": "Show HN: Free cloud-based tool for managing AI agents across multiple hosts",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nodecartel.com/",
+        "discovered_at": "2026-06-01"
     },
     {
         "name": "Oblien",
@@ -77348,6 +77378,16 @@
         "url": "https://www.coingecko.com/en/api"
     },
     {
+        "name": "Coinsignal",
+        "description": "Show HN: AI Model Benchmark for Crypto Price Predictions",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://coinsignal.co/benchmark",
+        "discovered_at": "2026-06-01"
+    },
+    {
         "name": "Cointales",
         "description": "Show HN: Personalized financial literacy book for your kid",
         "category": "Finance",
@@ -77422,6 +77462,16 @@
         "cors": "unknown",
         "url": "https://jumpstartsignal.com/",
         "discovered_at": "2026-04-27"
+    },
+    {
+        "name": "Manger",
+        "description": "Show HN: Manger – Livestock Management App",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.manger.app/",
+        "discovered_at": "2026-06-01"
     },
     {
         "name": "MDES Customer Service",
@@ -84383,6 +84433,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Agents-cli",
+        "description": "Show HN: Agents, run any coding agent on your subscription not API costs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agents-cli.sh",
+        "discovered_at": "2026-06-01"
+    },
+    {
         "name": "Agentswarms",
         "description": "Show HN: AgentSwarms – free hands-on playground to learn agentic AI, no setup",
         "category": "Other",
@@ -85533,6 +85593,16 @@
         "discovered_at": "2026-03-03"
     },
     {
+        "name": "Credwork",
+        "description": "Show HN: CredWork – a simple project tracking and showcasing tool",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.credwork.co/",
+        "discovered_at": "2026-06-01"
+    },
+    {
         "name": "Crew",
         "description": "Show HN: Homecrew – Share agent skills across your team and keep them in sync",
         "category": "Other",
@@ -85711,6 +85781,16 @@
         "cors": "unknown",
         "url": "https://deepswe.datacurve.ai/blog",
         "discovered_at": "2026-05-27"
+    },
+    {
+        "name": "Deliberate",
+        "description": "Show HN: Deliberate – log what your agent rejected, not just what it ran",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.deliberate.dev/",
+        "discovered_at": "2026-06-01"
     },
     {
         "name": "Demoday",
@@ -86573,6 +86653,16 @@
         "discovered_at": "2026-04-25"
     },
     {
+        "name": "Getfluiq",
+        "description": "Show HN: Fluiq – detect prompt injection, PII, Crescendo attack 2 line of Python",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getfluiq.com/",
+        "discovered_at": "2026-06-01"
+    },
+    {
         "name": "Gethopp",
         "description": "The Cost of 'Lightweight' Frameworks: From Tauri to Native Rust",
         "category": "Other",
@@ -87291,6 +87381,16 @@
         "cors": "unknown",
         "url": "https://justfyi.app",
         "discovered_at": "2026-04-24"
+    },
+    {
+        "name": "Jynx",
+        "description": "Show HN: Jynx, a matchmaking app to find gaming teammates",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jynx.app/",
+        "discovered_at": "2026-06-01"
     },
     {
         "name": "Kagi",
@@ -89303,6 +89403,16 @@
         "discovered_at": "2026-05-22"
     },
     {
+        "name": "Saadsiddiqui138117",
+        "description": "The State of Open-Source EDA Tools: Breaking Open-EDA for ASIC Chip Flow",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://saadsiddiqui138117.substack.com/p/the-state-of-open-source-eda-tools",
+        "discovered_at": "2026-06-01"
+    },
+    {
         "name": "Salt-lang",
         "description": "Show HN: Write and Run Salt v0.9.2 in the Browser",
         "category": "Other",
@@ -89763,6 +89873,16 @@
         "discovered_at": "2026-04-24"
     },
     {
+        "name": "Strudai",
+        "description": "Show HN: Strudai, browser based agentic wrapper around Strudel",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://strudai.com",
+        "discovered_at": "2026-06-01"
+    },
+    {
         "name": "Sup",
         "description": "Show HN: Sup AI, a confidence-weighted ensemble (52.15% on Humanity's Last Exam)",
         "category": "Other",
@@ -90011,6 +90131,16 @@
         "cors": "unknown",
         "url": "https://www.tidbits.tools",
         "discovered_at": "2026-03-30"
+    },
+    {
+        "name": "Til",
+        "description": "Show HN: TIL – a timeline file format with a spiral viewer and editor",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://til.rfy.nz",
+        "discovered_at": "2026-06-01"
     },
     {
         "name": "Timesofindia",
@@ -94176,6 +94306,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Getmilestones",
+        "description": "Show HN: I built a native project management app that respects your privacy",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getmilestones.app/store/",
+        "discovered_at": "2026-06-01"
+    },
+    {
         "name": "GetStickerPack Scraper 🎯",
         "description": "Extract and download sticker packs from GetStickerPack.com. This Actor helps you fetch sticker images, titles, and metadata from any GetStickerPack URL, making it easy to collect and analyze sticker..",
         "category": "Productivity",
@@ -95806,6 +95946,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Markal",
+        "description": "Show HN: Markal, a productivity tool for creating collaborative calendars",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://markal.app",
+        "discovered_at": "2026-06-01"
+    },
+    {
         "name": "Marktplaats Auto Scraper",
         "description": "This scraper works with pre-filtered URLs from Marktplaats. Instead of configuring filters in the scraper, you apply filters directly on the Marktplaats website and copy the resulting URL.",
         "category": "Productivity",
@@ -96513,6 +96663,16 @@
         "cors": "unknown",
         "url": "https://apify.com/123webdata/otto-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Ouijit",
+        "description": "Show HN: Ouijit, an open-source task and terminal manager for coding agents",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ouijit.com/",
+        "discovered_at": "2026-06-01"
     },
     {
         "name": "Output to Dataset",
@@ -103571,6 +103731,16 @@
         "discovered_at": "2026-04-26"
     },
     {
+        "name": "Mtshare",
+        "description": "I built a free cross platform music/podcast/audiobook sharing app iOS/Android",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mtshare.net",
+        "discovered_at": "2026-06-01"
+    },
+    {
         "name": "Omniforge",
         "description": "Show HN: OmniForge – document intelligence and audio capture with local LLM",
         "category": "Video & Media",
@@ -103747,6 +103917,16 @@
         "cors": "unknown",
         "url": "https://webcameffects.app/en/extensions/looksgood-live/",
         "discovered_at": "2026-03-26"
+    },
+    {
+        "name": "Youtube",
+        "description": "Unlimited free AI tools and more, live demo. watch now [video]",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.youtube.com/shorts/8HB-VgN3uTE",
+        "discovered_at": "2026-06-01"
     },
     {
         "name": "YouTube Data",
