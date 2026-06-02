@@ -1275,6 +1275,16 @@
         "discovered_at": "2026-04-29"
     },
     {
+        "name": "Handler",
+        "description": "Show HN: Review-First AI IDE, Built on Codex and OpenCode",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://handler.team/",
+        "discovered_at": "2026-06-02"
+    },
+    {
         "name": "Hiredtoday",
         "description": "Show HN: HiredToday.app – AI resume tailoring, cover letters and interview prep",
         "category": "AI & Machine Learning",
@@ -1512,6 +1522,16 @@
         "cors": "unknown",
         "url": "https://lemonade-server.ai",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Lettera-chi",
+        "description": "Lettera – AI Cover Letter Generator (3 Free Uses, No Signup)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lettera-chi.vercel.app/",
+        "discovered_at": "2026-06-02"
     },
     {
         "name": "Librethinker",
@@ -2162,6 +2182,16 @@
         "discovered_at": "2026-04-01"
     },
     {
+        "name": "Phcode",
+        "description": "Show HN: Phoenix Code – desktop editor where AI can see the page",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://phcode.io/",
+        "discovered_at": "2026-06-02"
+    },
+    {
         "name": "Play",
         "description": "CarriFit – Free AI Calorie Counter",
         "category": "AI & Machine Learning",
@@ -2270,6 +2300,16 @@
         "cors": "unknown",
         "url": "https://pypi.org/project/infershrink/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Qaonfire",
+        "description": "QAOnFire – AI generates manual test cases on every PR",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://qaonfire.dev",
+        "discovered_at": "2026-06-02"
     },
     {
         "name": "Quantaintellect",
@@ -13369,6 +13409,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/nexmo/api-specification/master/definitions/conversation.yml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Dashvox",
+        "description": "Show HN: Voice control coding agents on your machine via smartwatch / CarPlay",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dashvox.ai",
+        "discovered_at": "2026-06-02"
     },
     {
         "name": "Deadsimple",
@@ -57206,6 +57256,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Sageox",
+        "description": "What Happens to Software Engineering When Generating Code Is Free? (Part 1)",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sageox.ai/blog/when-generating-code-is-free-part-1",
+        "discovered_at": "2026-06-02"
+    },
+    {
         "name": "Sainsbury's Scraper",
         "description": "Scrape product data from Sainsbury's Groceries webiste, the biggest supermarket chain based in the United Kingdom. Extract price, image, description, nutrition info, promotions and more. Download your",
         "category": "Development",
@@ -81324,6 +81384,16 @@
         "discovered_at": "2026-05-02"
     },
     {
+        "name": "Osnews",
+        "description": "Open source project contains hidden instruction for \"AI\" agents: delete my code",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.osnews.com/story/145130/open-source-project-contains-hidden-instruction-for-ai-agents-delete-my-code/",
+        "discovered_at": "2026-06-02"
+    },
+    {
         "name": "Passages",
         "description": "Show HN: Passages – Read long-form articles on you E-Ink",
         "category": "News",
@@ -86563,6 +86633,16 @@
         "discovered_at": "2026-05-22"
     },
     {
+        "name": "Friendlybet",
+        "description": "FriendlyBet – A free, ad-free World Cup prediction pool with no sign-up wall",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://friendlybet.live/",
+        "discovered_at": "2026-06-02"
+    },
+    {
         "name": "Frontbot",
         "description": "Show HN: Free Coffee via Octopus Energy's Internal GraphQL API",
         "category": "Other",
@@ -86721,6 +86801,16 @@
         "cors": "unknown",
         "url": "https://getsnatchhub.com",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Gettextile",
+        "description": "Show HN: Textile – A desktop app for weaving together bits of text",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.gettextile.app",
+        "discovered_at": "2026-06-02"
     },
     {
         "name": "Ghostklan",
@@ -87331,6 +87421,16 @@
         "cors": "unknown",
         "url": "https://jigsawml.com/open-source-projects",
         "discovered_at": "2026-03-29"
+    },
+    {
+        "name": "Joeheyming",
+        "description": "Show HN: Having fun making mini static site apps",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://joeheyming.github.io/",
+        "discovered_at": "2026-06-02"
     },
     {
         "name": "Jottit",
@@ -88171,6 +88271,16 @@
         "cors": "unknown",
         "url": "https://morgin.ai/articles/ablation-vs-heretic-vs-obliteratus.html",
         "discovered_at": "2026-03-12"
+    },
+    {
+        "name": "Movecue",
+        "description": "MoveCue – Hands-free movement timer for iOS",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://movecue.app",
+        "discovered_at": "2026-06-02"
     },
     {
         "name": "Mumbli",
@@ -100258,6 +100368,16 @@
         "discovered_at": "2026-03-05"
     },
     {
+        "name": "Tkcoreai",
+        "description": "Show HN: Tkcore AI – A multi-model workspace with custom knowledge grounding",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.tkcoreai.com/",
+        "discovered_at": "2026-06-02"
+    },
+    {
         "name": "Tryorigami",
         "description": "Show HN: Origami – A simple workspace-oriented terminal manager",
         "category": "Science",
@@ -100624,6 +100744,16 @@
         "cors": "unknown",
         "url": "https://www.gov.uk/guidance/ai-open-code-and-vulnerability-risk-in-the-public-sector",
         "discovered_at": "2026-05-16"
+    },
+    {
+        "name": "Govinfosecurity",
+        "description": "Anthropic Expands Public Access to Claude Mythos AI Model",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.govinfosecurity.com/anthropic-expands-public-access-to-claude-mythos-ai-model-a-31778",
+        "discovered_at": "2026-06-02"
     },
     {
         "name": "Have I Been Pwned",
