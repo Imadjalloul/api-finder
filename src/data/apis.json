@@ -40,6 +40,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Aboutcode",
+        "description": "An AI agent ported our codebase from Python to Rust",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aboutcode.org/blog/agentic-scancode-port-case-study/",
+        "discovered_at": "2026-06-03"
+    },
+    {
         "name": "Adlrocha",
         "description": "How to Test AI Agents When They Never Give the Same Answer Twice",
         "category": "AI & Machine Learning",
@@ -448,6 +458,16 @@
         "cors": "unknown",
         "url": "https://benchmark-yourself.streamlit.app/",
         "discovered_at": "2026-05-30"
+    },
+    {
+        "name": "Bestofai",
+        "description": "Show HN: Best of AI – Handpicked and Curated Open-Source List of AI Tools",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bestofai.io",
+        "discovered_at": "2026-06-03"
     },
     {
         "name": "Bettercallclaude",
@@ -1804,6 +1824,16 @@
         "discovered_at": "2026-04-16"
     },
     {
+        "name": "Metabrain",
+        "description": "Show HN: MetaBrain – A local document memory for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://metabrain.eu",
+        "discovered_at": "2026-06-03"
+    },
+    {
         "name": "Mindmilker",
         "description": "I built an AI to stress-test my thinking",
         "category": "AI & Machine Learning",
@@ -2651,6 +2681,16 @@
         "discovered_at": "2026-05-30"
     },
     {
+        "name": "Skillhound",
+        "description": "Skillhound: Give your AI access to every public SKILL.md",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.skillhound.ai/",
+        "discovered_at": "2026-06-03"
+    },
+    {
         "name": "Skillscan",
         "description": "Show HN: SkillScan – Free API to detect malicious AI agent skill files",
         "category": "AI & Machine Learning",
@@ -3217,6 +3257,16 @@
         "cors": "unknown",
         "url": "https://websites2know.com/best-ai-hr-software/",
         "discovered_at": "2026-03-31"
+    },
+    {
+        "name": "Which-llm-model",
+        "description": "App to find best model by filtering AI models",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://which-llm-model.netlify.app/",
+        "discovered_at": "2026-06-03"
     },
     {
         "name": "Whycantwehaveanagentforthis",
@@ -12942,6 +12992,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://cloud.google.com/storage/docs/json_api"
+    },
+    {
+        "name": "Help",
+        "description": "Yahoo reduces email storage limits for free and paid accounts",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://help.yahoo.com/kb/SLN37064.html",
+        "discovered_at": "2026-06-03"
     },
     {
         "name": "Imgur",
@@ -80230,6 +80290,16 @@
         "discovered_at": "2026-05-29"
     },
     {
+        "name": "Tech",
+        "description": "Open Source Aviation Maps",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tech.marksblogg.com/aviation-maps.html",
+        "discovered_at": "2026-06-03"
+    },
+    {
         "name": "Trailmaps",
         "description": "Show HN: Trailmaps.app – Mobile maps that match the trail",
         "category": "Maps & Transport",
@@ -85803,6 +85873,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Datm",
+        "description": "Show HN: PoC to use the Chrome Prompt API on other people's machine",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://datm.nl/chat-together/",
+        "discovered_at": "2026-06-03"
+    },
+    {
         "name": "Datris",
         "description": "Datris – Open-source data platform built around MCP",
         "category": "Other",
@@ -86431,6 +86511,16 @@
         "cors": "unknown",
         "url": "https://www.familytreeiq.com",
         "discovered_at": "2026-05-08"
+    },
+    {
+        "name": "Fastbusinessapi",
+        "description": "Best Clearbit Alternatives for Company Data Enrichment",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fastbusinessapi.com/article/best-clearbit-alternatives-for-company-data-enrichment/",
+        "discovered_at": "2026-06-03"
     },
     {
         "name": "Fastcompany",
@@ -87433,6 +87523,16 @@
         "discovered_at": "2026-06-02"
     },
     {
+        "name": "Jornal",
+        "description": "Show HN: Jørnal, a journaling app where the page is always blank",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jornal.ink",
+        "discovered_at": "2026-06-03"
+    },
+    {
         "name": "Jottit",
         "description": "Show HN: Jottit – Reviving the Original from 2007",
         "category": "Other",
@@ -87751,6 +87851,16 @@
         "cors": "unknown",
         "url": "https://linzichun.com/posts/tauri-image-desktop-app-rust-sveltekit/",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Lmaomoba",
+        "description": "Show HN: LMAO – Temu League of Legends, Built with Opus 4.8",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lmaomoba.com",
+        "discovered_at": "2026-06-03"
     },
     {
         "name": "Loony",
@@ -88211,6 +88321,26 @@
         "cors": "unknown",
         "url": "https://mobile-squad.com/#personal-trainer",
         "discovered_at": "2026-05-12"
+    },
+    {
+        "name": "Mobilityengineeringtech",
+        "description": "Slate's Modem-Free Pickup Brings Privacy Back to Driving",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.mobilityengineeringtech.com/component/content/article/55318-slates-modem-free-pickup-brings-privacy-back-to-driving",
+        "discovered_at": "2026-06-03"
+    },
+    {
+        "name": "Modeloop",
+        "description": "Show HN: Modeloop – A modern model-based design tool",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.modeloop.app/",
+        "discovered_at": "2026-06-03"
     },
     {
         "name": "Mohamedrashard",
@@ -88913,6 +89043,16 @@
         "discovered_at": "2026-04-12"
     },
     {
+        "name": "Platenexus",
+        "description": "The most license plate recognition LPR/ANPR API, try the free live demo",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.platenexus.com/demo/?lang=pt",
+        "discovered_at": "2026-06-03"
+    },
+    {
         "name": "Pluralistic",
         "description": "The (other) problem with automatic conversion of free software to proprietary",
         "category": "Other",
@@ -89513,6 +89653,16 @@
         "discovered_at": "2026-05-22"
     },
     {
+        "name": "Rxcheck",
+        "description": "Show HN: RxCheck – Replacement for the discontinued NLM drug interaction API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.rxcheck.dev/",
+        "discovered_at": "2026-06-03"
+    },
+    {
         "name": "Saadsiddiqui138117",
         "description": "The State of Open-Source EDA Tools: Breaking Open-EDA for ASIC Chip Flow",
         "category": "Other",
@@ -89553,6 +89703,16 @@
         "discovered_at": "2026-04-29"
     },
     {
+        "name": "Scholar-sidekick",
+        "description": "Show HN: Scholar Sidekick – citation verifier for the \"real DOI, wrong paper\"",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://scholar-sidekick.com/tools/citation-verifier",
+        "discovered_at": "2026-06-03"
+    },
+    {
         "name": "Scmp",
         "description": "Alibaba's Qwen family captures over 50% of global open-source model downloads",
         "category": "Other",
@@ -89591,6 +89751,16 @@
         "cors": "unknown",
         "url": "https://segue.app",
         "discovered_at": "2026-05-11"
+    },
+    {
+        "name": "Seo-sutra",
+        "description": "Show HN: SEO Tracker (Not AI)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://seo-sutra.netlify.app/",
+        "discovered_at": "2026-06-03"
     },
     {
         "name": "Seoscoreapi",
@@ -90571,6 +90741,16 @@
         "cors": "unknown",
         "url": "https://veerhost.com/website-speed-test/",
         "discovered_at": "2026-03-24"
+    },
+    {
+        "name": "Vetkuro",
+        "description": "Show HN: Vetkuro, telemetry analysis for track-day drivers",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vetkuro.com/show-hn",
+        "discovered_at": "2026-06-03"
     },
     {
         "name": "Visisign",
@@ -102121,6 +102301,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Bdr-methodology",
+        "description": "Lying mocks, automatic API retries, and database pollution in CI",
+        "category": "Testing",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bdr-methodology.dev/blog/why_your_test_suite_lies_to_you_at_scale/",
+        "discovered_at": "2026-06-03"
+    },
+    {
         "name": "DummyJSON",
         "description": "Fake REST API with products, users, quotes, etc.",
         "category": "Testing",
@@ -102714,6 +102904,16 @@
         "cors": "unknown",
         "url": "https://api.swaggerhub.com/apis/infiniteloopltd/CarRegistration/1.0.0",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Clipto",
+        "description": "Show HN: Clipto-fully local, natural language search over terabytes of media",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.clipto.com/",
+        "discovered_at": "2026-06-03"
     },
     {
         "name": "Cranki",
@@ -103497,6 +103697,16 @@
         "discovered_at": "2026-03-16"
     },
     {
+        "name": "Pdftomdconverter",
+        "description": "Show HN: AI-Powered PDF to Markdown Converter",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pdftomdconverter.com",
+        "discovered_at": "2026-06-03"
+    },
+    {
         "name": "PhantAuth",
         "description": "Random User Generator + OpenID Connect Provider. Like Lorem Ipsum, but for user accounts and authentication.\n\nThe PhantAuth API documentation is available on the following API documentation sites:\n\n-",
         "category": "Utilities",
@@ -103980,6 +104190,16 @@
         "discovered_at": "2026-05-04"
     },
     {
+        "name": "Tryjunco",
+        "description": "Show HN: Junco, turn newsletters into short audio episodes",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.tryjunco.com/",
+        "discovered_at": "2026-06-03"
+    },
+    {
         "name": "Video-commander",
         "description": "Show HN: Video Commander – A desktop IDE for video engineers (FFmpeg, VMAF)",
         "category": "Video & Media",
@@ -104240,6 +104460,16 @@
         "cors": "unknown",
         "url": "https://weatherdesk.app/",
         "discovered_at": "2026-05-05"
+    },
+    {
+        "name": "Wengotravel",
+        "description": "Show HN: Site to check actual past weather for trip planning, not just averages",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.wengotravel.com",
+        "discovered_at": "2026-06-03"
     },
     {
         "name": "What2wear-two",
