@@ -310,6 +310,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Apertis",
+        "description": "Show HN: Apertis – OpenAI-compatible API gateway for 470 AI models",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apertis.ai/",
+        "discovered_at": "2026-06-04"
+    },
+    {
         "name": "Apfel",
         "description": "Show HN: Apfel – The free AI already on your Mac",
         "category": "AI & Machine Learning",
@@ -1247,6 +1257,16 @@
         "discovered_at": "2026-04-07"
     },
     {
+        "name": "Go-micro",
+        "description": "Show HN: Build Your Own AI Agent CLI in 150 Lines",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://go-micro.dev/blog/11",
+        "discovered_at": "2026-06-04"
+    },
+    {
         "name": "Goodbyewatermark",
         "description": "Show HN: Goodbye Watermark – Free AI watermark remover",
         "category": "AI & Machine Learning",
@@ -1482,6 +1502,16 @@
         "cors": "unknown",
         "url": "https://kelet.ai/",
         "discovered_at": "2026-04-15"
+    },
+    {
+        "name": "Knowable",
+        "description": "Knowable – Open-Source Personal AI Tutor on macOS",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://knowable.ca/",
+        "discovered_at": "2026-06-04"
     },
     {
         "name": "Kodama",
@@ -2938,6 +2968,16 @@
         "cors": "unknown",
         "url": "https://theincidentchallenge.com/",
         "discovered_at": "2026-05-25"
+    },
+    {
+        "name": "Thepiece",
+        "description": "Show HN: an AI app that settles small couple arguments",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thepiece.app/en",
+        "discovered_at": "2026-06-04"
     },
     {
         "name": "Thewebsite",
@@ -7405,6 +7445,16 @@
         "cors": "unknown",
         "url": "https://www.readingvault.app",
         "discovered_at": "2026-04-26"
+    },
+    {
+        "name": "Respeak-io",
+        "description": "Show HN: The largest free animated icon library for Vue (523 Lucide icons)",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://respeak-io.github.io/lucide-motion-vue/",
+        "discovered_at": "2026-06-04"
     },
     {
         "name": "Smithereen",
@@ -13160,6 +13210,16 @@
         "cors": "unknown",
         "url": "https://www.smplogs.com",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Suse",
+        "description": "The EU Cloud and AI Development Act: What It Gets Right, and What It Still Needs",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.suse.com/c/eu-cloud-ai-development-act-open-source-first/",
+        "discovered_at": "2026-06-04"
     },
     {
         "name": "Tenantbox",
@@ -69205,6 +69265,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Legaldata-public",
+        "description": "API/MCP to check if a physical product is legal to sell in 103 countries",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://legaldata-public.cleolabs.co/products",
+        "discovered_at": "2026-06-04"
+    },
+    {
         "name": "Lento Product Details Scraper",
         "description": "Extract detailed product information from Lento.pl, Poland's leading classified ads platform with 5.93M monthly visits. Scrape cars, real estate, services, and more with comprehensive data fields...",
         "category": "E-Commerce",
@@ -81288,6 +81358,16 @@
         "discovered_at": "2026-03-11"
     },
     {
+        "name": "Easyserversidetracking",
+        "description": "Show HN: Easy Server Side Tracking, Server-Side GTM for WordPress",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://easyserversidetracking.com/",
+        "discovered_at": "2026-06-04"
+    },
+    {
         "name": "Euronews",
         "description": "Berlin offers free entry for litter picking to make tourists do their bit",
         "category": "News",
@@ -88423,6 +88503,16 @@
         "discovered_at": "2026-05-10"
     },
     {
+        "name": "Nano",
+        "description": "Show HN: Nano – open core siem built on rust and ClickHouse",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nano.rs/",
+        "discovered_at": "2026-06-04"
+    },
+    {
         "name": "Nativesoft",
         "description": "NativeRest – Native REST API Client",
         "category": "Other",
@@ -88731,6 +88821,16 @@
         "cors": "unknown",
         "url": "https://openseo.so/",
         "discovered_at": "2026-04-28"
+    },
+    {
+        "name": "Opensop",
+        "description": "Show HN: OpenSOP, We got tired of agents lying to us, so we built them a harness",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://opensop.ai/",
+        "discovered_at": "2026-06-04"
     },
     {
         "name": "Opensource",
