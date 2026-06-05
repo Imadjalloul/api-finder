@@ -180,6 +180,16 @@
         "discovered_at": "2026-05-31"
     },
     {
+        "name": "Aicatalogscore",
+        "description": "Show HN: Free AI agent audit for Shopify catalogs (1.2M open captures)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aicatalogscore.com/audit/burtsbeesbaby.com",
+        "discovered_at": "2026-06-05"
+    },
+    {
         "name": "Aictl",
         "description": "Show HN: AICTL – A native AI agent for terminal and macOS, in Rust",
         "category": "AI & Machine Learning",
@@ -1524,6 +1534,16 @@
         "discovered_at": "2026-04-10"
     },
     {
+        "name": "Kradle",
+        "description": "Lying is Best. The Most Honest AI Won Anyway.",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kradle.ai/research/four-bridges",
+        "discovered_at": "2026-06-05"
+    },
+    {
         "name": "Kybernis",
         "description": "Show HN: Kybernis – Prevent AI agents from executing the same action twice",
         "category": "AI & Machine Learning",
@@ -2472,6 +2492,16 @@
         "discovered_at": "2026-05-08"
     },
     {
+        "name": "Recursi",
+        "description": "Show HN: Recursi – self-improving LLM-connected coding environment",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://recursi.dev/",
+        "discovered_at": "2026-06-05"
+    },
+    {
         "name": "Redmonk",
         "description": "The Generative AI Policy Landscape in Open Source",
         "category": "AI & Machine Learning",
@@ -2749,6 +2779,16 @@
         "cors": "unknown",
         "url": "https://socworkflows.com/",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Solo",
+        "description": "Show HN: Digger Solo – Local AI File Explorer",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://solo.digger.lol",
+        "discovered_at": "2026-06-05"
     },
     {
         "name": "Spidra",
@@ -3297,6 +3337,16 @@
         "cors": "unknown",
         "url": "https://websites2know.com/best-ai-hr-software/",
         "discovered_at": "2026-03-31"
+    },
+    {
+        "name": "Wexio",
+        "description": "Why chatbot AI costs vary 20x for the same job: pricing model, not the tool",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wexio.io/blog/best-chatbot-small-business",
+        "discovered_at": "2026-06-05"
     },
     {
         "name": "Which-llm-model",
@@ -12917,6 +12967,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Boxes",
+        "description": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://boxes.dev",
+        "discovered_at": "2026-06-05"
+    },
+    {
         "name": "Budgetfast",
         "description": "Show HN: BudgetFast – Upload a bank statement screenshot, AI does the rest",
         "category": "Cloud & Storage",
@@ -13531,6 +13591,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Cost",
+        "description": "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cost.dev/",
+        "discovered_at": "2026-06-05"
+    },
+    {
         "name": "Dashvox",
         "description": "Show HN: Voice control coding agents on your machine via smartwatch / CarPlay",
         "category": "Communication",
@@ -13798,6 +13868,16 @@
         "cors": "unknown",
         "url": "https://ostt.ai",
         "discovered_at": "2026-05-14"
+    },
+    {
+        "name": "Ping",
+        "description": "Show HN: Clickfyre Ping – send app notifications to yourself",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ping.clickfyre.com",
+        "discovered_at": "2026-06-05"
     },
     {
         "name": "Pitchkit",
@@ -66146,6 +66226,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Ecommerce-ai-starter",
+        "description": "Show HN: One-click open-source ecommerce starter (Magento), drive it with Claude",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ecommerce-ai-starter.graycore.io",
+        "discovered_at": "2026-06-05"
+    },
+    {
         "name": "ecommerce-guardian-pro",
         "description": "Professional price intelligence platform. Monitor competitor pricing across major e-commerce sites. Get instant alerts for price changes, stock status, and market movements. Uses Apify's advanced...",
         "category": "E-Commerce",
@@ -71513,6 +71603,16 @@
         "discovered_at": "2026-04-02"
     },
     {
+        "name": "Productnow",
+        "description": "When building is free, what do we build?",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://productnow.ai/blogs/a-dose-of-hope-for-the-future",
+        "discovered_at": "2026-06-05"
+    },
+    {
         "name": "Productreviews Reviews Spider",
         "description": "The Productreviews Reviews Spider scrapes customer reviews from ProductReview.com.au, extracting ratings, titles, and feedback. Input URLs and get structured JSON for sentiment analysis, product...",
         "category": "E-Commerce",
@@ -74249,6 +74349,16 @@
         "cors": "unknown",
         "url": "https://apify.com/spencers/ups-tracking-info",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Upsidelab",
+        "description": "Open-source AI toolkit for e-commerce",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://upsidelab.io/tools/enthusiast",
+        "discovered_at": "2026-06-05"
     },
     {
         "name": "URBAN EXCESS Scraper",
@@ -77435,6 +77545,16 @@
         "discovered_at": "2026-04-09"
     },
     {
+        "name": "Sonovault",
+        "description": "Show HN: SonoVault Music Metadata API for Builders",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sonovault.now",
+        "discovered_at": "2026-06-05"
+    },
+    {
         "name": "Spinorama",
         "description": "Show HN: A Wheel of Fortune game you can run in the browser",
         "category": "Entertainment",
@@ -77452,6 +77572,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://developer.spotify.com/documentation/web-api/"
+    },
+    {
+        "name": "Spoton-wc26",
+        "description": "Show HN: SpotOn WC26 – a free World Cup 2026 bracket game that scores itself",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://spoton-wc26.netlify.app",
+        "discovered_at": "2026-06-05"
     },
     {
         "name": "Studio Ghibli",
@@ -79432,6 +79562,16 @@
         "cors": "unknown",
         "url": "https://helloveil.com/sdk/",
         "discovered_at": "2026-03-11"
+    },
+    {
+        "name": "Hydron",
+        "description": "Show HN: Hydron – Hardware-aware coding agent",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.hydron.sh/",
+        "discovered_at": "2026-06-05"
     },
     {
         "name": "Linustechtips",
@@ -85233,6 +85373,16 @@
         "discovered_at": "2026-03-28"
     },
     {
+        "name": "Billscan",
+        "description": "BillScan – REST API for Parsing Swiss QR-Bill PDFs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://billscan.ch",
+        "discovered_at": "2026-06-05"
+    },
+    {
         "name": "Blackdesk",
         "description": "Blackdesk – open-source market research terminal (Go, TUI, local AI)",
         "category": "Other",
@@ -85453,6 +85603,16 @@
         "discovered_at": "2026-05-29"
     },
     {
+        "name": "Bucksbuddy",
+        "description": "Show HN: BucksBuddy – a free, on-the-go, private money journal",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.bucksbuddy.com/",
+        "discovered_at": "2026-06-05"
+    },
+    {
         "name": "Bugstack",
         "description": "Show HN: BugStack – Autonomous error fixing that ships to prod while you sleep",
         "category": "Other",
@@ -85621,6 +85781,16 @@
         "cors": "unknown",
         "url": "https://claude.ai/public/artifacts/eba2a270-dd61-4f0c-a276-34a53e604f13",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Clearlogo",
+        "description": "Show HN: ClearLogo – a logo API that returns usable logos, not raw files",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://clearlogo.dev/en",
+        "discovered_at": "2026-06-05"
     },
     {
         "name": "Clemorl",
@@ -86031,6 +86201,16 @@
         "cors": "unknown",
         "url": "https://demoday.work",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Depot",
+        "description": "Show HN: Depot CI API – Programmable CI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://depot.dev/blog/now-available-depot-ci-api",
+        "discovered_at": "2026-06-05"
     },
     {
         "name": "Descriptinc",
@@ -87183,6 +87363,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Hitoku",
+        "description": "Show HN: Hitoku Draft – Context aware local assistant",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hitoku.me/draft/",
+        "discovered_at": "2026-06-05"
+    },
+    {
         "name": "Hmx",
         "description": "Show HN: Honeymux, a TUI wrapper for tmux that simplifies agent-driven workflows",
         "category": "Other",
@@ -87803,6 +87993,16 @@
         "discovered_at": "2026-04-21"
     },
     {
+        "name": "Kyulauncher",
+        "description": "Show HN: Kyu Launcher – Roku Interface on Your Android and Google TV",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kyulauncher.com/",
+        "discovered_at": "2026-06-05"
+    },
+    {
         "name": "Lakyus",
         "description": "Show HN: Launch and Run Companies on Autopilot",
         "category": "Other",
@@ -87821,6 +88021,16 @@
         "cors": "unknown",
         "url": "https://www.lasersell.io/blog/benchmark-results",
         "discovered_at": "2026-03-05"
+    },
+    {
+        "name": "Late",
+        "description": "Show HN: ssh late.sh - a cozy command-line Clubhouse for computer people",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://late.sh",
+        "discovered_at": "2026-06-05"
     },
     {
         "name": "Latentdiaries",
@@ -89261,6 +89471,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/vtex/openapi-schemas/master/VTEX - Pricing Hub.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Prod-i",
+        "description": "In Support of Mandatory Nucleic Acid Synthesis Screening and Recordkeeping [pdf]",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://prod-i.a.dj.com/public/resources/documents/dnaletter.pdf",
+        "discovered_at": "2026-06-05"
     },
     {
         "name": "Promptjuggler",
@@ -92128,6 +92348,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Aiagentnotes",
+        "description": "Sparknotes for your agents. Try for free",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.aiagentnotes.com/",
+        "discovered_at": "2026-06-05"
+    },
+    {
         "name": "Airbnb Availability Calendar",
         "description": "Extract full-year availability from any Airbnb listing with ease. Get detailed calendar data for UNLIMITED listings at just $10/month. Perfect for market research, pricing analysis, and booking...",
         "category": "Productivity",
@@ -94594,6 +94824,16 @@
         "cors": "unknown",
         "url": "https://apify.com/easyapi/funda-nl-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "G-spot",
+        "description": "Show HN: G-Spot – GitHub Gmail GNotes Gmemory Gent",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.g-spot.dev/",
+        "discovered_at": "2026-06-05"
     },
     {
         "name": "G2 Product Reviews Scraper",
