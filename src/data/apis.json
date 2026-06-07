@@ -80,6 +80,16 @@
         "discovered_at": "2026-04-22"
     },
     {
+        "name": "Agenstry",
+        "description": "Show HN: AI pre-screening CIS counterparties before onboarding",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agenstry.com/agents/cis-secondary-sanctions-a2a.vassiliy-lakhonin.workers.dev",
+        "discovered_at": "2026-06-07"
+    },
+    {
         "name": "Agent-smith",
         "description": "Show HN: Who watches the watchmen? A public decision track record for AI agents",
         "category": "AI & Machine Learning",
@@ -2240,6 +2250,16 @@
         "cors": "unknown",
         "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
         "discovered_at": "2026-05-28"
+    },
+    {
+        "name": "Persist",
+        "description": "Show HN: Persist – an AI agent that follows up accrued channels till they reply",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://persist.chat",
+        "discovered_at": "2026-06-07"
     },
     {
         "name": "Personalassistantdeploy",
@@ -13171,6 +13191,16 @@
         "cors": "unknown",
         "url": "https://nekoni.dev/",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Nimbril",
+        "description": "Show HN: Nimbril – 12 file tools that never upload (airplane-mode test)",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nimbril.com",
+        "discovered_at": "2026-06-07"
     },
     {
         "name": "Nodecartel",
@@ -84743,6 +84773,16 @@
         "discovered_at": "2026-03-19"
     },
     {
+        "name": "Absurdlyoptimized",
+        "description": "Show HN: I Derived a Pancake",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
+        "discovered_at": "2026-06-07"
+    },
+    {
         "name": "Abtest",
         "description": "Curated collection of A/B test results from best-in-class apps",
         "category": "Other",
@@ -84921,6 +84961,16 @@
         "cors": "unknown",
         "url": "https://aletheia.holisticquality.io/",
         "discovered_at": "2026-03-17"
+    },
+    {
+        "name": "Alexandrefrancois",
+        "description": "Show HN: Resonate – Low-latency, high-resolution spectral analysis",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://alexandrefrancois.org/Resonate/",
+        "discovered_at": "2026-06-07"
     },
     {
         "name": "Aliaskit",
@@ -87963,6 +88013,16 @@
         "discovered_at": "2026-03-08"
     },
     {
+        "name": "Kerkour",
+        "description": "We are in the golden age of Open Source",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kerkour.com/open-source-golden-age-ai",
+        "discovered_at": "2026-06-07"
+    },
+    {
         "name": "Kldload",
         "description": "Operating Systems. One USB. ZFS on Root. AI-Powered. Free",
         "category": "Other",
@@ -88751,6 +88811,16 @@
         "cors": "unknown",
         "url": "https://mumbli.app/",
         "discovered_at": "2026-05-10"
+    },
+    {
+        "name": "Munderdiffl",
+        "description": "Animated open source terminal agents modeled after The Office",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://munderdiffl.in/",
+        "discovered_at": "2026-06-07"
     },
     {
         "name": "Nano",
@@ -89951,6 +90021,16 @@
         "cors": "unknown",
         "url": "https://roughform.app",
         "discovered_at": "2026-05-22"
+    },
+    {
+        "name": "Roughform",
+        "description": "Show HN: Browser-based, Blender-like hard-surface modeling",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://roughform.com/",
+        "discovered_at": "2026-06-07"
     },
     {
         "name": "Roy",
@@ -101296,6 +101376,16 @@
         "discovered_at": "2026-03-07"
     },
     {
+        "name": "Giovannigatti",
+        "description": "Show HN: I benchmarked LLM agents on fixing real-world security vulnerabilities",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://giovannigatti.github.io/cve-bench/",
+        "discovered_at": "2026-06-07"
+    },
+    {
         "name": "Gov",
         "description": "AI, open code and vulnerability risk in the public sector",
         "category": "Security",
@@ -102120,6 +102210,26 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.balldontlie.io/"
+    },
+    {
+        "name": "Ribbie",
+        "description": "Show HN: An 8-bit live gamecast for baseball",
+        "category": "Sports",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ribbie.tv/watch",
+        "discovered_at": "2026-06-07"
+    },
+    {
+        "name": "Structocr",
+        "description": "Show HN: StructOCR – API for parsing global passports, invoices, and containers",
+        "category": "Sports",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://structocr.com",
+        "discovered_at": "2026-06-07"
     },
     {
         "name": "TheSportsDB",
@@ -103244,6 +103354,16 @@
         "cors": "unknown",
         "url": "https://developer.wordnik.com/api-docs/swagger.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Aligner",
+        "description": "Show HN: Word-by-word translation aligner tool",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aligner.tinygods.dev/",
+        "discovered_at": "2026-06-07"
     },
     {
         "name": "Anyvali",
