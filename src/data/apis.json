@@ -160,6 +160,16 @@
         "discovered_at": "2026-04-28"
     },
     {
+        "name": "Ai-boost",
+        "description": "Show HN: AI Boost – an MCP for accessing your everyday patterns",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.ai-boost.io/",
+        "discovered_at": "2026-06-08"
+    },
+    {
         "name": "Ai-hermes-agent",
         "description": "Show HN: AI Hermes Agent – An independent Hermes Agent install guide",
         "category": "AI & Machine Learning",
@@ -1245,6 +1255,16 @@
         "cors": "unknown",
         "url": "https://getviberia.com/",
         "discovered_at": "2026-05-19"
+    },
+    {
+        "name": "Getwebspeed",
+        "description": "Show HN: Web Speed – A shared web-map registry for AI agents (MCP, open source)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.getwebspeed.io/",
+        "discovered_at": "2026-06-08"
     },
     {
         "name": "Getwick",
@@ -7122,6 +7142,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Modelhub-api",
+        "description": "Show HN: One API Key for 45 AI Models – Pay per Token, OpenAI Compatible",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://modelhub-api.com",
+        "discovered_at": "2026-06-08"
+    },
+    {
         "name": "Nilbox",
         "description": "Show HN: Nilbox – Run OpenClaw without exposing your API tokens",
         "category": "Blockchain",
@@ -7535,6 +7565,16 @@
         "cors": "unknown",
         "url": "https://smithereen.software",
         "discovered_at": "2026-05-22"
+    },
+    {
+        "name": "Teardownhq",
+        "description": "Show HN: TeardownHQ, teardowns/playbooks of how indie startups grew",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://teardownhq.io",
+        "discovered_at": "2026-06-08"
     },
     {
         "name": "Trees",
@@ -85583,6 +85623,16 @@
         "discovered_at": "2026-04-02"
     },
     {
+        "name": "Bluedoor",
+        "description": "Show HN: Free job postings API with 1.8M+ US jobs, 60k companies",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bluedoor.sh/apis/job-postings",
+        "discovered_at": "2026-06-08"
+    },
+    {
         "name": "Blundergoat",
         "description": "Show HN: Development Driven Testing, Why TDD Is Not the Best Approach",
         "category": "Other",
@@ -90321,6 +90371,16 @@
         "cors": "unknown",
         "url": "https://sift.1mb.dev/",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Signal-memo",
+        "description": "Substrate vs. Broker: Two Emerging Strategies for Enterprise AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://signal-memo.com/memo-salesforce-and-sap-are-making-opposite-bets-about-how-agents-will-use-enterprise-software-the-rest-of-the-stack-is-about-to-have-to-pick-a-side/",
+        "discovered_at": "2026-06-08"
     },
     {
         "name": "Simonwillison",
@@ -101921,6 +101981,16 @@
         "discovered_at": "2026-05-11"
     },
     {
+        "name": "Lobsteady",
+        "description": "Show HN: Claude Code on Slack/Discord/Telegram for flat $20/mo – no API bills",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lobsteady.com",
+        "discovered_at": "2026-06-08"
+    },
+    {
         "name": "Mastodon",
         "description": "Decentralized social media API (ActivityPub)",
         "category": "Social",
@@ -103590,6 +103660,16 @@
         "discovered_at": "2026-05-30"
     },
     {
+        "name": "Sourcelibrary",
+        "description": "Show HN: Help SourceLibrary.org Translate the Renaissance",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sourcelibrary.org",
+        "discovered_at": "2026-06-08"
+    },
+    {
         "name": "Swadhinbiswas",
         "description": "Show HN: OpenGrammar Open-source, self-hostable Grammarly alternative",
         "category": "Text & Language",
@@ -103678,6 +103758,16 @@
         "cors": "unknown",
         "url": "https://yesify.net/",
         "discovered_at": "2026-04-02"
+    },
+    {
+        "name": "Yon-lang",
+        "description": "Yon – a topos-oriented language with a content-addressed lattice heap",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://yon-lang.org/",
+        "discovered_at": "2026-06-08"
     },
     {
         "name": "Apacta",
@@ -104579,6 +104669,16 @@
         "cors": "unknown",
         "url": "https://mtshare.net",
         "discovered_at": "2026-06-01"
+    },
+    {
+        "name": "Nosuggest",
+        "description": "Show HN: NoSuggest – Watch YouTube without the recommendation algorithm",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.nosuggest.com/",
+        "discovered_at": "2026-06-08"
     },
     {
         "name": "Omniforge",
