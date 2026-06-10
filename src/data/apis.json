@@ -85413,6 +85413,16 @@
         "discovered_at": "2026-04-02"
     },
     {
+        "name": "Arena-commander",
+        "description": "Show HN: Are.na Commander – a file-like Are.na browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://arena-commander.netlify.app",
+        "discovered_at": "2026-06-10"
+    },
+    {
         "name": "Arstechnica",
         "description": "Apple can delist apps \"with or without cause,\" judge says in loss for Musi app",
         "category": "Other",
@@ -86203,6 +86213,16 @@
         "discovered_at": "2026-04-02"
     },
     {
+        "name": "Conceptz",
+        "description": "Show HN: The App with No Back End – How I Built a Premium E-Reader for $0/Month",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://conceptz.medium.com/the-app-with-no-backend-how-i-built-a-premium-e-reader-for-0-month-fa8680aef936",
+        "discovered_at": "2026-06-10"
+    },
+    {
         "name": "Console",
         "description": "Show HN: Scan your OSS projects for vulnerabilities",
         "category": "Other",
@@ -86251,6 +86271,16 @@
         "cors": "unknown",
         "url": "https://covalence.app/",
         "discovered_at": "2026-04-17"
+    },
+    {
+        "name": "Craftbot",
+        "description": "Show HN: The agent that builds and operates its own SaaS tools",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://craftbot.live",
+        "discovered_at": "2026-06-10"
     },
     {
         "name": "Craigm26",
@@ -86861,6 +86891,16 @@
         "cors": "unknown",
         "url": "https://easemonitor.com",
         "discovered_at": "2026-03-07"
+    },
+    {
+        "name": "Eatmydata",
+        "description": "Show HN: Eatmydata.ai – Local-First Question-to-SQL-to-Dashboard AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://eatmydata.ai/",
+        "discovered_at": "2026-06-10"
     },
     {
         "name": "Economictimes",
@@ -89743,6 +89783,16 @@
         "discovered_at": "2026-04-12"
     },
     {
+        "name": "Plastron",
+        "description": "Show HN: Plastron – A spreadsheet you grow into an app, in one index.html",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://plastron.ca/",
+        "discovered_at": "2026-06-10"
+    },
+    {
         "name": "Platenexus",
         "description": "The most license plate recognition LPR/ANPR API, try the free live demo",
         "category": "Other",
@@ -90011,6 +90061,16 @@
         "cors": "unknown",
         "url": "https://quip.network",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Qunabu",
+        "description": "Show HN: Gravity – Interactive solar-system simulator, from Newton to Einstein",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://qunabu.github.io/Gravity/",
+        "discovered_at": "2026-06-10"
     },
     {
         "name": "Ras",
