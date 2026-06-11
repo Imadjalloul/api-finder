@@ -400,6 +400,16 @@
         "discovered_at": "2026-05-18"
     },
     {
+        "name": "App",
+        "description": "Show HN: A personality test with no questions – an AI watches your picks instead",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.olima.ai",
+        "discovered_at": "2026-06-11"
+    },
+    {
         "name": "Aptselect",
         "description": "Show HN: AptSelect – A local desktop app to test LLMs side-by-side",
         "category": "AI & Machine Learning",
@@ -1405,6 +1415,16 @@
         "discovered_at": "2026-06-09"
     },
     {
+        "name": "Hindsight",
+        "description": "Hindsight Is the Fastest-Growing Open-Source AI Memory Project",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hindsight.vectorize.io/blog/2026/06/09/fastest-growing-oss-ai-memory",
+        "discovered_at": "2026-06-11"
+    },
+    {
         "name": "Hiredtoday",
         "description": "Show HN: HiredToday.app – AI resume tailoring, cover letters and interview prep",
         "category": "AI & Machine Learning",
@@ -2123,6 +2143,16 @@
         "discovered_at": "2026-04-20"
     },
     {
+        "name": "Nodea",
+        "description": "Show HN: Nodea, an open-source AI canvas for working through complex projects",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nodea.ai/demo",
+        "discovered_at": "2026-06-11"
+    },
+    {
         "name": "Nodeops",
         "description": "Show HN: AI agents deploy apps autonomously (no accounts, no API keys)",
         "category": "AI & Machine Learning",
@@ -2312,6 +2342,16 @@
         "discovered_at": "2026-03-21"
     },
     {
+        "name": "Paxerp",
+        "description": "Show HN: I generated 235 system docs in a day using GPT-5.5",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.paxerp.com/docs",
+        "discovered_at": "2026-06-11"
+    },
+    {
         "name": "Pcgamer",
         "description": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
         "category": "AI & Machine Learning",
@@ -2462,6 +2502,16 @@
         "discovered_at": "2026-03-05"
     },
     {
+        "name": "Publora",
+        "description": "Show HN: Publora – One API/MCP for AI agents to post across 10 social networks",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://publora.com",
+        "discovered_at": "2026-06-11"
+    },
+    {
         "name": "Pypi",
         "description": "Show HN: InferShrink – Cut LLM API costs 10x with automatic model routing",
         "category": "AI & Machine Learning",
@@ -2610,6 +2660,16 @@
         "cors": "unknown",
         "url": "https://regadvisor.co.uk/",
         "discovered_at": "2026-05-08"
+    },
+    {
+        "name": "Remove-anything",
+        "description": "Show HN: Remove Anything – AI Background Removal Tool",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.remove-anything.com",
+        "discovered_at": "2026-06-11"
     },
     {
         "name": "Remy",
@@ -6919,6 +6979,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Jamesoclaire",
+        "description": "Scan Any iOS or Android App for SDKs and API Calls Free with AppGoblin, No Login",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jamesoclaire.com/2026/06/10/scan-any-ios-or-android-app-for-sdks-and-api-calls-for-free-with-appgoblin-no-login/",
+        "discovered_at": "2026-06-11"
+    },
+    {
         "name": "Limenauth",
         "description": "Show HN: Limen – modern, composable auth for Go",
         "category": "Auth & Identity",
@@ -7497,6 +7567,16 @@
         "cors": "unknown",
         "url": "https://imagehost.ing",
         "discovered_at": "2026-03-11"
+    },
+    {
+        "name": "Indiehackers",
+        "description": "Open-source Next.js salon booking template, built on Opencals booking API",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.indiehackers.com/post/open-source-next-js-salon-booking-template-built-on-opencals-booking-api-o51auLoWnHxcAnaQTdfe",
+        "discovered_at": "2026-06-11"
     },
     {
         "name": "Lelu-ai",
@@ -13799,6 +13879,16 @@
         "cors": "unknown",
         "url": "https://docs.inboxapp.com",
         "discovered_at": "2026-03-11"
+    },
+    {
+        "name": "Ec",
+        "description": "Meta ordered by EU to allow rival AI chatbots back on WhatsApp for free",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ec.europa.eu/commission/presscorner/home/en",
+        "discovered_at": "2026-06-11"
     },
     {
         "name": "Echovalue",
@@ -45867,6 +45957,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Argusred",
+        "description": "Show HN: We post-trained a model that pen tests instead of refusing your code",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.argusred.com/cli",
+        "discovered_at": "2026-06-11"
+    },
+    {
         "name": "Arkham AI Transaction Analyzer",
         "description": "Unlock AI-powered insights into any blockchain transaction with the Arkham AI Analyzer. Get detailed analysis, summaries, and breakdowns for transactions on Ethereum, Bitcoin, Solana, and more....",
         "category": "Development",
@@ -49043,6 +49143,16 @@
         "cors": "unknown",
         "url": "https://apify.com/zenapi/edgar-filings-extractor",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Eff",
+        "description": "Meta Strips Facial Recognition Code from Smart Glasses App After Public Outcry",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.eff.org/deeplinks/2026/06/victory-meta-strips-facial-recognition-code-smart-glasses-app-after-public-outcry",
+        "discovered_at": "2026-06-11"
     },
     {
         "name": "Elementary Blog Scraper",
@@ -59286,6 +59396,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Syncodelive",
+        "description": "Show HN: SynCodeLive – code and talk with your team along with AI, live",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://syncodelive.com/",
+        "discovered_at": "2026-06-11"
+    },
+    {
         "name": "Sysnav",
         "description": "Show HN: SysNav – An Intelligent Cockpit for DevOps (Local-First)",
         "category": "Development",
@@ -67473,6 +67593,16 @@
         "cors": "unknown",
         "url": "https://apify.com/vmscrapers/grailed",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Gripefind",
+        "description": "Show HN: GripeFind – find product pain points without Reddit API",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gripefind.com",
+        "discovered_at": "2026-06-11"
     },
     {
         "name": "Groupon Scraper",
@@ -81905,6 +82035,16 @@
         "discovered_at": "2026-05-29"
     },
     {
+        "name": "News",
+        "description": "Next 100 Days: XBOX Reset",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://news.xbox.com/en-us/2026/06/10/next-100-days-xbox-reset/",
+        "discovered_at": "2026-06-11"
+    },
+    {
         "name": "NewsAPI",
         "description": "Search worldwide news articles from 80,000+ sources",
         "category": "News",
@@ -85823,6 +85963,16 @@
         "discovered_at": "2026-06-08"
     },
     {
+        "name": "Bluhe",
+        "description": "Show HN: I Built the Best Google Alternative for Gen-Z, Googling Like TikToking",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.bluhe.ai",
+        "discovered_at": "2026-06-11"
+    },
+    {
         "name": "Blundergoat",
         "description": "Show HN: Development Driven Testing, Why TDD Is Not the Best Approach",
         "category": "Other",
@@ -86103,6 +86253,16 @@
         "discovered_at": "2026-05-04"
     },
     {
+        "name": "Christophermeiklejohn",
+        "description": "The Test Suite Was the Incident",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://christophermeiklejohn.com/ai/zabriskie/agents/reliability/testing/2026/06/10/the-test-suite-was-the-incident.html",
+        "discovered_at": "2026-06-11"
+    },
+    {
         "name": "Claude",
         "description": "System prompt change Claude's reasoning depth – side-by-side comparison tool",
         "category": "Other",
@@ -86111,6 +86271,26 @@
         "cors": "unknown",
         "url": "https://claude.ai/public/artifacts/eba2a270-dd61-4f0c-a276-34a53e604f13",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Claude5",
+        "description": "Claude Fable 5 Free Through June 22 on Pro, Max, Team, and Enterprise Plans",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://claude5.ai/en/news/claude-fable-5-free-access-june-9-22-pro-max-team-enterprise",
+        "discovered_at": "2026-06-11"
+    },
+    {
+        "name": "Claudes-challenge",
+        "description": "Show HN: Chip's Challenge (1992), rebuilt for the web",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://claudes-challenge.vercel.app",
+        "discovered_at": "2026-06-11"
     },
     {
         "name": "Clearlogo",
@@ -87071,6 +87251,16 @@
         "cors": "unknown",
         "url": "https://exit1.dev/",
         "discovered_at": "2026-04-12"
+    },
+    {
+        "name": "Extend",
+        "description": "Show HN: Extend UI – open-source UI kit for modern document apps",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.extend.ai/ui",
+        "discovered_at": "2026-06-11"
     },
     {
         "name": "Ezorro",
@@ -89683,6 +89873,16 @@
         "discovered_at": "2026-05-18"
     },
     {
+        "name": "Pdfpipe",
+        "description": "Show HN: PDFPipe – HTML-to-PDF API with a playground you can try without sign up",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pdfpipe.xyz",
+        "discovered_at": "2026-06-11"
+    },
+    {
         "name": "perfectpdf api",
         "description": "The perfectpdf api does one thing, perfectly: it converts html to pdf. The perfectpdf api uses headless Google Chrome to provide a low cost, high quality, simple to use service.",
         "category": "Other",
@@ -90133,6 +90333,16 @@
         "discovered_at": "2026-05-16"
     },
     {
+        "name": "Razix",
+        "description": "Show HN: The layer between your SaaS platform and your customers' domains",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.razix.app",
+        "discovered_at": "2026-06-11"
+    },
+    {
         "name": "Rdapapi",
         "description": "Show HN: RDAP API – Normalized JSON for Domain/IP Lookups (Whois Replacement)",
         "category": "Other",
@@ -90201,6 +90411,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/nexmo/api-specification/master/definitions/redact.yml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Redflag-check",
+        "description": "Show HN: I built a Red Flag Warning zone-check tool for the East Bay in 48h",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://redflag-check.info",
+        "discovered_at": "2026-06-11"
     },
     {
         "name": "Refearnapp",
@@ -90843,6 +91063,16 @@
         "discovered_at": "2026-03-12"
     },
     {
+        "name": "Sos-vault",
+        "description": "Show HN: A tool to analyze and manage sosreports",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sos-vault.com/login",
+        "discovered_at": "2026-06-11"
+    },
+    {
         "name": "Spectrum",
         "description": "Open-Source Software Is Starting to Help Robots Think",
         "category": "Other",
@@ -91283,6 +91513,16 @@
         "discovered_at": "2026-04-09"
     },
     {
+        "name": "Topolog",
+        "description": "Show HN: Topolog – Plans as typed DAG programs, deadlines computed, not guessed",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.topolog.co.uk",
+        "discovered_at": "2026-06-11"
+    },
+    {
         "name": "Trackm",
         "description": "Show HN: Trackm, a personal finance web app",
         "category": "Other",
@@ -91541,6 +91781,16 @@
         "cors": "unknown",
         "url": "https://www.vaquill.ai",
         "discovered_at": "2026-04-15"
+    },
+    {
+        "name": "Vatnode",
+        "description": "Show HN: Vatnode – EU VAT validation REST API with national registry fallback",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vatnode.dev",
+        "discovered_at": "2026-06-11"
     },
     {
         "name": "Vectree",
@@ -102202,6 +102452,16 @@
         "discovered_at": "2026-04-12"
     },
     {
+        "name": "App",
+        "description": "Show HN: TG Alpha Hunter – AI that turns Telegram noise into a crypto digest",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.flowgaia.io/",
+        "discovered_at": "2026-06-11"
+    },
+    {
         "name": "Beacon-notify",
         "description": "Show HN: Beacon – Slack app for structured team announcements with subscriptions",
         "category": "Social",
@@ -104951,6 +105211,16 @@
         "discovered_at": "2026-04-07"
     },
     {
+        "name": "Internals",
+        "description": "Infinite precision intermediate arithmetic: how much would break?",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://internals.rust-lang.org/t/infinite-precision-intermediate-arithmetic-how-much-would-break/24383",
+        "discovered_at": "2026-06-11"
+    },
+    {
         "name": "JSON2Video API",
         "description": "Create and edit awesome videos programmatically",
         "category": "Video & Media",
@@ -105266,6 +105536,16 @@
         "cors": "unknown",
         "url": "https://consgicody-asos-tools.hf.space/",
         "discovered_at": "2026-05-23"
+    },
+    {
+        "name": "Donethat",
+        "description": "Show HN: AI watched my screen for a year. Weather beat sleep",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://donethat.ai/blog/dogfooding-donethat",
+        "discovered_at": "2026-06-11"
     },
     {
         "name": "Forecast-planner",
