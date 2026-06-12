@@ -729,6 +729,16 @@
         "url": "https://docs.clarifai.com/"
     },
     {
+        "name": "Classer",
+        "description": "Show HN: Classer – high-performance classification API (beats GPT-5.4-mini)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://classer.ai",
+        "discovered_at": "2026-06-12"
+    },
+    {
         "name": "Clawhub",
         "description": "Recursant, the open source AI control plane, now supports OpenClaw",
         "category": "AI & Machine Learning",
@@ -2939,6 +2949,16 @@
         "cors": "unknown",
         "url": "https://solo.digger.lol",
         "discovered_at": "2026-06-05"
+    },
+    {
+        "name": "Spanly",
+        "description": "Show HN: Spanly - See what AI agents do inside your MCP server",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://spanly.com/",
+        "discovered_at": "2026-06-12"
     },
     {
         "name": "Spidra",
@@ -54968,6 +54988,16 @@
         "discovered_at": "2026-05-30"
     },
     {
+        "name": "Mimo",
+        "description": "MiMo Code is now released and open-source",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mimo.xiaomi.com/mimocode",
+        "discovered_at": "2026-06-12"
+    },
+    {
         "name": "Minecraft Server Scanner",
         "description": "Minecraft Server Scanner: Finds public and private Minecraft servers at scale. Scans IPv4 ranges for port 25565 (the default minecraft server port), verifies if it's minecraft servers, and saves rich.",
         "category": "Development",
@@ -81946,6 +81976,16 @@
         "discovered_at": "2026-05-26"
     },
     {
+        "name": "Hn-ai-newsletter",
+        "description": "HN AI Highlights – weekly digest of the best AI posts",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hn-ai-newsletter.beehiiv.com/p/last-week-s-ai-highlights-from-hn-27",
+        "discovered_at": "2026-06-12"
+    },
+    {
         "name": "Hnup",
         "description": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
         "category": "News",
@@ -85323,6 +85363,16 @@
         "discovered_at": "2026-06-07"
     },
     {
+        "name": "Algorithmicfire",
+        "description": "Show HN: Drawdown-protected custom FIRE portfolios with API for rebalance alerts",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://algorithmicfire.com/user/alerts",
+        "discovered_at": "2026-06-12"
+    },
+    {
         "name": "Aliaskit",
         "description": "Show HN: AliasKit – API so agents can sign up, pay, and prove who they are",
         "category": "Other",
@@ -86053,6 +86103,16 @@
         "discovered_at": "2026-05-11"
     },
     {
+        "name": "Brew",
+        "description": "Show HN: Homebrew 6.0.0",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+        "discovered_at": "2026-06-12"
+    },
+    {
         "name": "bridgedb webservices",
         "description": "bridgedb webservices API",
         "category": "Other",
@@ -86111,6 +86171,16 @@
         "cors": "unknown",
         "url": "https://buildhifi.com",
         "discovered_at": "2026-03-10"
+    },
+    {
+        "name": "Buildy",
+        "description": "Show HN: Deploy personal apps with your agent via Buildy",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://buildy.so/",
+        "discovered_at": "2026-06-12"
     },
     {
         "name": "Bulkshare",
@@ -86963,6 +87033,16 @@
         "discovered_at": "2026-05-22"
     },
     {
+        "name": "Domain-rating",
+        "description": "Show HN: Domain Rating – a leaderboard of startup website Domain Ratings",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.domain-rating.com",
+        "discovered_at": "2026-06-12"
+    },
+    {
         "name": "Domains",
         "description": "Domains API",
         "category": "Other",
@@ -87233,6 +87313,16 @@
         "discovered_at": "2026-05-08"
     },
     {
+        "name": "Eventclock",
+        "description": "Show HN: Spoiler-Free Website for UFC, FIFA World Cup, Formula 1",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://eventclock.org",
+        "discovered_at": "2026-06-12"
+    },
+    {
         "name": "Exactonce",
         "description": "Show HN: ExactOnce – API for actions that can only happen once",
         "category": "Other",
@@ -87271,6 +87361,16 @@
         "cors": "unknown",
         "url": "https://ezorro.app/",
         "discovered_at": "2026-03-05"
+    },
+    {
+        "name": "Ezziwebtools",
+        "description": "Show HN: EzziwebTools – A collection of 30 free tools",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ezziwebtools.com",
+        "discovered_at": "2026-06-12"
     },
     {
         "name": "Factionfiasco",
@@ -88571,6 +88671,16 @@
         "cors": "unknown",
         "url": "https://kumbukum.com/",
         "discovered_at": "2026-04-23"
+    },
+    {
+        "name": "Kunobi",
+        "description": "Kache – a zero-copy build cache for Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kunobi.ninja/blog/kache-v0-5-0",
+        "discovered_at": "2026-06-12"
     },
     {
         "name": "Kvark",
@@ -90203,6 +90313,16 @@
         "discovered_at": "2026-04-30"
     },
     {
+        "name": "Pulse",
+        "description": "Show HN: Free API for social post metrics – URL in, views/likes/comments out",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pulse.walls.sh/",
+        "discovered_at": "2026-06-12"
+    },
+    {
         "name": "Pulsepages",
         "description": "Show HN: PulsePages – Multi-page websites for $9/year (Carrd alternative",
         "category": "Other",
@@ -91611,6 +91731,16 @@
         "cors": "unknown",
         "url": "https://www.trychert.com",
         "discovered_at": "2026-05-26"
+    },
+    {
+        "name": "Tunnelmind",
+        "description": "Show HN: TunnelMind – reputation API for IPs, ASNs, and ad-tech supply chains",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tunnelmind.ai/",
+        "discovered_at": "2026-06-12"
     },
     {
         "name": "Turbinefi",
@@ -103499,6 +103629,16 @@
         "discovered_at": "2026-04-06"
     },
     {
+        "name": "Jedimock",
+        "description": "Show HN: JediMock – Mock API responses in DevTools by wrapping fetch and XHR",
+        "category": "Testing",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jedimock.com",
+        "discovered_at": "2026-06-12"
+    },
+    {
         "name": "MockAPI",
         "description": "Create custom mock REST APIs in seconds",
         "category": "Testing",
@@ -105061,6 +105201,16 @@
         "cors": "unknown",
         "url": "https://audioeditor.org",
         "discovered_at": "2026-04-09"
+    },
+    {
+        "name": "Backblaze",
+        "description": "Genblaze: Open-Source Python SDK for Multi-Provider Generative Media Pipelines",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.backblaze.com/blog/introducing-genblaze-a-python-sdk-for-generative-media-pipelines/",
+        "discovered_at": "2026-06-12"
     },
     {
         "name": "Classicvideopoker",
