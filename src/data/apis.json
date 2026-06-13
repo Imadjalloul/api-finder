@@ -2322,6 +2322,16 @@
         "discovered_at": "2026-05-14"
     },
     {
+        "name": "Opensourceaimustwin",
+        "description": "Open source AI must win",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://opensourceaimustwin.com/?share=v2",
+        "discovered_at": "2026-06-13"
+    },
+    {
         "name": "Opper",
         "description": "Show HN: AI Roundtable – Let 200 models debate your question",
         "category": "AI & Machine Learning",
@@ -2939,6 +2949,16 @@
         "cors": "unknown",
         "url": "https://socworkflows.com/",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Soldat",
+        "description": "Show HN: I had Fable clone a game, it turned it into an arena combat AI trainer",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://soldat.bobbby.online/",
+        "discovered_at": "2026-06-13"
     },
     {
         "name": "Solo",
@@ -13265,6 +13285,16 @@
         "cors": "unknown",
         "url": "https://construct.computer",
         "discovered_at": "2026-03-04"
+    },
+    {
+        "name": "Crowfly",
+        "description": "Show HN: Crowfly.golf – Zero-backend GPS round tracking (localStorage)",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://crowfly.golf",
+        "discovered_at": "2026-06-13"
     },
     {
         "name": "Darkdrive",
@@ -50165,6 +50195,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Feel-forward",
+        "description": "Local-first open-source vibe-coded feelings wheel app",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://feel-forward.web.app",
+        "discovered_at": "2026-06-13"
+    },
+    {
         "name": "Fetch Branding",
         "description": "Apify Actor for extracting branding information from websites including logos, colors, metadata, and social links.",
         "category": "Development",
@@ -80084,6 +80124,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Simten",
+        "description": "Show HN: Simten – design hardware in TypeScript and simulate it in the browser",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://simten.dev/",
+        "discovered_at": "2026-06-13"
+    },
+    {
         "name": "Speakcrisper",
         "description": "Show HN: Crisper – On-device voice to polished text for macOS",
         "category": "IoT & Hardware",
@@ -85973,6 +86023,16 @@
         "discovered_at": "2026-05-15"
     },
     {
+        "name": "Blog",
+        "description": "Snapcompact, SoTA Compaction: Instant, Local, Free. Pick 3",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.can.ac/2026/06/10/snapcompact/",
+        "discovered_at": "2026-06-13"
+    },
+    {
         "name": "Blogmaker",
         "description": "Show HN: I built a blogging platform (5 years in, struggling with distribution)",
         "category": "Other",
@@ -86471,6 +86531,16 @@
         "cors": "unknown",
         "url": "https://conceptz.medium.com/the-app-with-no-backend-how-i-built-a-premium-e-reader-for-0-month-fa8680aef936",
         "discovered_at": "2026-06-10"
+    },
+    {
+        "name": "Connai",
+        "description": "Show HN: Setup your Company Brain in minutes",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://connai.dev",
+        "discovered_at": "2026-06-13"
     },
     {
         "name": "Console",
@@ -87201,6 +87271,16 @@
         "cors": "unknown",
         "url": "https://eli.voxos.ai/",
         "discovered_at": "2026-04-28"
+    },
+    {
+        "name": "Emavan",
+        "description": "Writing Constant-Time Rust Is Not Enough",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://emavan.com/blog/2026/constant-time-rust-llvm-aliasing/",
+        "discovered_at": "2026-06-13"
     },
     {
         "name": "Emergencyapi",
@@ -88203,6 +88283,16 @@
         "discovered_at": "2026-04-11"
     },
     {
+        "name": "Idps",
+        "description": "How we are making our own protein data because public stuff sucks",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://idps.substack.com/p/biotechs-ai-revolution-will-be-won",
+        "discovered_at": "2026-06-13"
+    },
+    {
         "name": "Iggy",
         "description": "Apache Iggy: thread-per-core with io_uring in Rust",
         "category": "Other",
@@ -88711,6 +88801,16 @@
         "cors": "unknown",
         "url": "https://lakyus.com/live",
         "discovered_at": "2026-05-09"
+    },
+    {
+        "name": "Landscape",
+        "description": "Show HN: Turn your name into a tree in an infinite procedural shanshui landscape",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://landscape.bairui.dev/",
+        "discovered_at": "2026-06-13"
     },
     {
         "name": "Lasersell",
@@ -89781,6 +89881,16 @@
         "cors": "unknown",
         "url": "https://opensource.org/ai/open-source-ai-definition",
         "discovered_at": "2026-04-08"
+    },
+    {
+        "name": "Opensource",
+        "description": "A new pkg.go.dev API for Go",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://opensource.googleblog.com/2026/06/a-new-pkggodev-api-for-go.html",
+        "discovered_at": "2026-06-13"
     },
     {
         "name": "Opsrev",
@@ -91243,6 +91353,16 @@
         "discovered_at": "2026-04-13"
     },
     {
+        "name": "Stackscope",
+        "description": "Show HN: StackScope – I crawled over 40k indie launches to see what they ship",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stackscope.dev/",
+        "discovered_at": "2026-06-13"
+    },
+    {
         "name": "Stagewise",
         "description": "Show HN: Stagewise Reads Files Without Depending on the Model API",
         "category": "Other",
@@ -91291,6 +91411,16 @@
         "cors": "unknown",
         "url": "https://stillis.xyz",
         "discovered_at": "2026-05-30"
+    },
+    {
+        "name": "Stillwind",
+        "description": "Show HN: Stillwind – High Resolution Electronic Component Search",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stillwind.ai",
+        "discovered_at": "2026-06-13"
     },
     {
         "name": "Streams",
@@ -92681,6 +92811,16 @@
         "cors": "unknown",
         "url": "https://hushbee.app/engine/",
         "discovered_at": "2026-04-22"
+    },
+    {
+        "name": "Imagemetadataextractor",
+        "description": "MetaLens – open-source image metadata inspector with a free REST API",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://imagemetadataextractor.com/",
+        "discovered_at": "2026-06-13"
     },
     {
         "name": "Lorem Picsum",
@@ -101749,6 +101889,16 @@
         "url": "https://pubchem.ncbi.nlm.nih.gov/docs/pug-rest"
     },
     {
+        "name": "Sciencedirect",
+        "description": "Wave-inspired path-planning strategy for support-free horizontal overhang FDM",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.sciencedirect.com/science/article/pii/S277236902600040X?via%3Dihub=",
+        "discovered_at": "2026-06-13"
+    },
+    {
         "name": "Scientificamerican",
         "description": "Electric air taxis. Vertical Aerospace's VX4 just cleared a key test",
         "category": "Science",
@@ -104301,6 +104451,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://cloud.google.com/translate/docs"
+    },
+    {
+        "name": "Itsbabel",
+        "description": "Show HN: Babel realtime calls with strangers in any language",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://itsbabel.com",
+        "discovered_at": "2026-06-13"
     },
     {
         "name": "Itsumo",
