@@ -13542,6 +13542,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Sessemi",
+        "description": "Show HN: Sessemi – Scraping API That Solves Cloudflare/DataDome/Akamai Itself",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sessemi.com",
+        "discovered_at": "2026-06-14"
+    },
+    {
         "name": "Smplogs",
         "description": "Show HN: Smplogs – Local-first AWS Cloudwatch log analyzer via WASM",
         "category": "Cloud & Storage",
@@ -77837,6 +77847,16 @@
         "discovered_at": "2026-04-08"
     },
     {
+        "name": "Minigames",
+        "description": "Show HN: I built 80 mini-games using Fable before it was shut down",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://minigames.world/en",
+        "discovered_at": "2026-06-14"
+    },
+    {
         "name": "Neonetrek",
         "description": "Show HN: NeoNetrek – modernizing the internet's first team game (1988)",
         "category": "Entertainment",
@@ -88563,6 +88583,16 @@
         "discovered_at": "2026-06-02"
     },
     {
+        "name": "Johnowhitaker",
+        "description": "Show HN: Inkwash, a watercolor sketching app and explanation",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://johnowhitaker.github.io/inkwash/about",
+        "discovered_at": "2026-06-14"
+    },
+    {
         "name": "Jornal",
         "description": "Show HN: Jørnal, a journaling app where the page is always blank",
         "category": "Other",
@@ -98945,6 +98975,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Qodflow",
+        "description": "QodFlow – a Kanban board AI agents can drive via MCP",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.qodflow.com",
+        "discovered_at": "2026-06-14"
+    },
+    {
         "name": "Qr Code Api",
         "description": "The QR code API Actor offers a versatile solution for generating, customizing, and managing QR codes programmatically on Apify's platform",
         "category": "Productivity",
@@ -102871,6 +102911,16 @@
         "discovered_at": "2026-06-08"
     },
     {
+        "name": "Manticthink",
+        "description": "Show HN: Seer – Private Ollama Chat in the Browser, No Account Needed",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://manticthink.com/",
+        "discovered_at": "2026-06-14"
+    },
+    {
         "name": "Mastodon",
         "description": "Decentralized social media API (ActivityPub)",
         "category": "Social",
@@ -104519,6 +104569,16 @@
         "cors": "unknown",
         "url": "https://memorygrain.org/",
         "discovered_at": "2026-03-05"
+    },
+    {
+        "name": "Motplot",
+        "description": "Show HN: Motplot is a crossword but it plays like Sudoku",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://motplot.app/",
+        "discovered_at": "2026-06-14"
     },
     {
         "name": "Purgomalum",
