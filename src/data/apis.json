@@ -300,6 +300,16 @@
         "discovered_at": "2026-05-26"
     },
     {
+        "name": "Ampledata",
+        "description": "Show HN: AI Cell Enrichment Workflow API",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ampledata.io",
+        "discovered_at": "2026-06-15"
+    },
+    {
         "name": "Anj",
         "description": "Data analysis via AI coding tools, directly in the codebase",
         "category": "AI & Machine Learning",
@@ -540,6 +550,16 @@
         "discovered_at": "2026-03-25"
     },
     {
+        "name": "Bizchecker",
+        "description": "Show HN: BizChecker AI – 6 competing AI models stress-test your business idea",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bizchecker.ai/",
+        "discovered_at": "2026-06-15"
+    },
+    {
         "name": "Blog",
         "description": "Show HN: NSED 0.3 Release. Steer Multi-Agent AI Swarm for Frontier Performance",
         "category": "AI & Machine Learning",
@@ -598,6 +618,16 @@
         "cors": "unknown",
         "url": "https://blog.stdlib.io/ai-and-the-invisible-newcomer-in-open-source/",
         "discovered_at": "2026-06-09"
+    },
+    {
+        "name": "Blog",
+        "description": "AI Agents Don't Need SMS APIs. They Need Infrastructure",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.bridgexapi.io/from-rest-apis-to-mcp-making-messaging-infrastructure-ai-native",
+        "discovered_at": "2026-06-15"
     },
     {
         "name": "Boesch",
@@ -1423,6 +1453,16 @@
         "cors": "unknown",
         "url": "https://hermes-agent.org/",
         "discovered_at": "2026-06-09"
+    },
+    {
+        "name": "Himalaian",
+        "description": "Cross-System Constraint Collisions: The Governance Gap in Enterprise Agentic AI [pdf]",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://himalaian.com/publications/CrAIg_WhitePaper_Public_v1.0.pdf",
+        "discovered_at": "2026-06-15"
     },
     {
         "name": "Hindsight",
@@ -14337,6 +14377,16 @@
         "cors": "unknown",
         "url": "https://www.topmail.so",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Traceapp",
+        "description": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://traceapp.info",
+        "discovered_at": "2026-06-15"
     },
     {
         "name": "Ttslab",
@@ -45727,6 +45777,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Apesdk",
+        "description": "Thirty Years My Open Source Project: The ApeSDK/Noble Ape",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apesdk.com/",
+        "discovered_at": "2026-06-15"
+    },
+    {
         "name": "API Doc Mcp",
         "description": "MCP server that scrapes any documentation website and makes it searchable for AI assistants. Configure URLs, then search docs, find code examples, and look up API references directly from Claude.",
         "category": "Development",
@@ -56126,6 +56186,16 @@
         "cors": "unknown",
         "url": "https://apify.com/mdhorilabs/owid-scrapper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "P32929",
+        "description": "Show HN: My developer portfolio – web apps, dev tools and open-source projects",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://p32929.github.io",
+        "discovered_at": "2026-06-15"
     },
     {
         "name": "PaddleOCR VL",
@@ -77975,6 +78045,16 @@
         "url": "https://rawg.io/apidocs"
     },
     {
+        "name": "Ray-hosting",
+        "description": "Show HN: Ray Hosting – Topology-aware game server orchestrator made from scratch",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ray-hosting.com/en-US",
+        "discovered_at": "2026-06-15"
+    },
+    {
         "name": "Rogmash",
         "description": "Interactive Screen Saver App / Game – have fun – free for all –>",
         "category": "Entertainment",
@@ -78109,6 +78189,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.tvmaze.com/api"
+    },
+    {
+        "name": "Variety",
+        "description": "Oliver Tree, 'Alien Boy' Musician, Dies at 32 in Helicopter Crash",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://variety.com/2026/music/news/oliver-tree-dead-helicopter-crash-alien-boy-life-goes-on-1236780964/",
+        "discovered_at": "2026-06-15"
     },
     {
         "name": "20022validator",
@@ -82224,6 +82314,16 @@
         "discovered_at": "2026-05-20"
     },
     {
+        "name": "Scrunch",
+        "description": "Show HN: I crunched the day's tech news into a 3-minute read",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://scrunch.fyi",
+        "discovered_at": "2026-06-15"
+    },
+    {
         "name": "Snewpapers",
         "description": "Show HN: Large Scale Article Extract of Newspapers 1730s-1960s",
         "category": "News",
@@ -85953,6 +86053,16 @@
         "discovered_at": "2026-06-05"
     },
     {
+        "name": "Birka",
+        "description": "I built a defense procurement marketplace – free for vendors",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://birka.ai",
+        "discovered_at": "2026-06-15"
+    },
+    {
         "name": "Bitrig",
         "description": "Bitrig – The best way to build native Swift apps with AI",
         "category": "Other",
@@ -85981,6 +86091,16 @@
         "cors": "unknown",
         "url": "https://blacktwist.app/mcp",
         "discovered_at": "2026-03-17"
+    },
+    {
+        "name": "Blitzgraph",
+        "description": "Show HN: BlitzGraph – graph-based Supabase built for agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blitzgraph.com/",
+        "discovered_at": "2026-06-15"
     },
     {
         "name": "Blog",
@@ -86321,6 +86441,16 @@
         "cors": "unknown",
         "url": "https://candle.fi",
         "discovered_at": "2026-05-13"
+    },
+    {
+        "name": "Capakit",
+        "description": "Show HN: Sandbox AI-app lifecycle, from build to run",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://capakit.com/",
+        "discovered_at": "2026-06-15"
     },
     {
         "name": "Captainfredric",
@@ -87041,6 +87171,16 @@
         "cors": "unknown",
         "url": "https://dl.acm.org/doi/10.1145/3778171",
         "discovered_at": "2026-03-26"
+    },
+    {
+        "name": "Docfai",
+        "description": "Docfai.app is launched Get your 7 day free trial",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://docfai.app/features/",
+        "discovered_at": "2026-06-15"
     },
     {
         "name": "Dochia",
@@ -87893,6 +88033,16 @@
         "discovered_at": "2026-05-29"
     },
     {
+        "name": "Getpeek",
+        "description": "Show HN: Peek – A Figma like DB GUI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getpeek.dev",
+        "discovered_at": "2026-06-15"
+    },
+    {
         "name": "Getpostchi",
         "description": "Show HN: Postchi, An ide like api client, clean and local",
         "category": "Other",
@@ -88003,6 +88153,16 @@
         "discovered_at": "2026-03-25"
     },
     {
+        "name": "Glasskit",
+        "description": "Open-source React UI and D-pad focus engine for Meta Ray-Ban Display",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://glasskit.app/ui",
+        "discovered_at": "2026-06-15"
+    },
+    {
         "name": "Glucera",
         "description": "Show HN: Glucera Local-first iPhone glucose app, seeking fingerstick beta tester",
         "category": "Other",
@@ -88031,6 +88191,16 @@
         "cors": "unknown",
         "url": "https://walletobjects.googleapis.com/$discovery/rest?version=v1",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Gopeek-lovat",
+        "description": "Chrome had the highest idle CPU and RAM usage in a 5-browser benchmark",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gopeek-lovat.vercel.app/blog-chrome-best-browser-2026.html",
+        "discovered_at": "2026-06-15"
     },
     {
         "name": "Greip API",
@@ -88501,6 +88671,16 @@
         "cors": "unknown",
         "url": "https://www.ishormuzopenyet.com/",
         "discovered_at": "2026-04-09"
+    },
+    {
+        "name": "Isitslop",
+        "description": "Show HN: Isitslop.xyz, a free AI-writing detector built on latest research",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://isitslop.xyz",
+        "discovered_at": "2026-06-15"
     },
     {
         "name": "J-ray-pro",
@@ -89531,6 +89711,16 @@
         "cors": "unknown",
         "url": "https://morgin.ai/articles/ablation-vs-heretic-vs-obliteratus.html",
         "discovered_at": "2026-03-12"
+    },
+    {
+        "name": "Morningstack",
+        "description": "Show HN: Morning Stack finds real job openings, tweaks resume and cover letter",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://morningstack.app/demo/",
+        "discovered_at": "2026-06-15"
     },
     {
         "name": "Movecue",
@@ -103193,6 +103383,16 @@
         "url": "https://www.football-data.org/"
     },
     {
+        "name": "Llmsoccerarena",
+        "description": "LLM SoccerArena: Which model predicts the 2026 World Cup best?",
+        "category": "Sports",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://llmsoccerarena.up.railway.app/",
+        "discovered_at": "2026-06-15"
+    },
+    {
         "name": "Marketplace",
         "description": "SEO-Friendly Public Pages for Confluence",
         "category": "Sports",
@@ -104590,6 +104790,16 @@
         "url": "https://www.purgomalum.com/"
     },
     {
+        "name": "Runmat",
+        "description": "Rust-like compiler pipeline to resolve Matlab language semantics",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://runmat.com/blog/inside-runmat-runtime-compiler-pipeline",
+        "discovered_at": "2026-06-15"
+    },
+    {
         "name": "Scanread",
         "description": "Scanread.ai – Free OCR for images, PDFs, and handwriting in 100 languages",
         "category": "Text & Language",
@@ -105097,6 +105307,16 @@
         "cors": "unknown",
         "url": "https://developer.mastercard.com/devzone/api/portal/swagger/currency-conversion-calculator",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Apicalculators",
+        "description": "Show HN: Free API cost calculators – know your bill before it arrives",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apicalculators.com/",
+        "discovered_at": "2026-06-15"
     },
     {
         "name": "Best-gpu",
@@ -105619,6 +105839,16 @@
         "cors": "unknown",
         "url": "https://legato.gg/docs/getting-started",
         "discovered_at": "2026-05-28"
+    },
+    {
+        "name": "Ma",
+        "description": "Transcribing my old podcast locally with open-source AI",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ma.ttias.be/transcribing-syscast-with-local-ai/",
+        "discovered_at": "2026-06-15"
     },
     {
         "name": "Media API",
