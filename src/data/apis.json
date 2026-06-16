@@ -1,5 +1,15 @@
 [
     {
+        "name": "100hires",
+        "description": "Show HN: 100Hires MCP, 130 tools to run an ATS through LLM. Is 130 too many?",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://100hires.com/mcp",
+        "discovered_at": "2026-06-16"
+    },
+    {
         "name": "12gramsofcarbon",
         "description": "OSS Maintainers Need an Answer to AI Clean Rooms",
         "category": "AI & Machine Learning",
@@ -1404,6 +1414,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://ai.google.dev/"
+    },
+    {
+        "name": "Grassdx",
+        "description": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://grassdx.com/",
+        "discovered_at": "2026-06-16"
     },
     {
         "name": "Groq",
@@ -6970,6 +6990,16 @@
         "cors": "unknown",
         "url": "https://agents.ml",
         "discovered_at": "2026-04-18"
+    },
+    {
+        "name": "Agentsim",
+        "description": "SMS OTP sessions for AI agents and CI tests",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agentsim.dev",
+        "discovered_at": "2026-06-16"
     },
     {
         "name": "Auth0",
@@ -51145,6 +51175,16 @@
         "discovered_at": "2026-06-09"
     },
     {
+        "name": "Githits",
+        "description": "Show HN: GitHits Public Beta 0.9",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://githits.com/",
+        "discovered_at": "2026-06-16"
+    },
+    {
         "name": "Github",
         "description": "GitHub – REST API version 2026-03-10 is now available",
         "category": "Development",
@@ -86833,6 +86873,16 @@
         "discovered_at": "2026-04-05"
     },
     {
+        "name": "Criteriabot",
+        "description": "Show HN: CriteriaBot – A Universal Customizable Classifier",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://criteriabot.io/",
+        "discovered_at": "2026-06-16"
+    },
+    {
         "name": "Crowdrank",
         "description": "Show HN: CrowdRank – live leaderboards for internet arguments",
         "category": "Other",
@@ -87873,6 +87923,16 @@
         "discovered_at": "2026-04-28"
     },
     {
+        "name": "Fred",
+        "description": "US battery manufacturing output continues to break records",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fred.stlouisfed.org/series/IPG33591S",
+        "discovered_at": "2026-06-16"
+    },
+    {
         "name": "Free",
         "description": "Show HN: Free.ai",
         "category": "Other",
@@ -87931,6 +87991,16 @@
         "cors": "unknown",
         "url": "https://galaxybrain.com",
         "discovered_at": "2026-04-21"
+    },
+    {
+        "name": "Garden-of-flowers",
+        "description": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://garden-of-flowers.heikkilotvonen.com/",
+        "discovered_at": "2026-06-16"
     },
     {
         "name": "Gasnearme",
@@ -88091,6 +88161,16 @@
         "cors": "unknown",
         "url": "https://ghostklan.com/shibuya.html",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Ghosttyplayground",
+        "description": "Show HN: Ghostty in-browser with real client-side back end",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ghosttyplayground.com/",
+        "discovered_at": "2026-06-16"
     },
     {
         "name": "Giantjson",
@@ -89243,6 +89323,16 @@
         "discovered_at": "2026-05-04"
     },
     {
+        "name": "Machine0",
+        "description": "Show HN: machine0 – Persistent NixOS VMs You Control from the CLI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://machine0.io",
+        "discovered_at": "2026-06-16"
+    },
+    {
         "name": "Magaornot",
         "description": "Show HN: MAGA or Not? Political alignment scores for people and companies",
         "category": "Other",
@@ -89703,6 +89793,16 @@
         "discovered_at": "2026-05-31"
     },
     {
+        "name": "Mood",
+        "description": "Show HN: Mood",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mood.lasagna.pizza/",
+        "discovered_at": "2026-06-16"
+    },
+    {
         "name": "Morgin",
         "description": "Which Model Uncensoring Method Works Best?",
         "category": "Other",
@@ -89751,6 +89851,16 @@
         "cors": "unknown",
         "url": "https://munderdiffl.in/",
         "discovered_at": "2026-06-07"
+    },
+    {
+        "name": "Mydev",
+        "description": "Show HN: I built a dev diary that writes itself",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mydev.day/",
+        "discovered_at": "2026-06-16"
     },
     {
         "name": "Nano",
@@ -90061,6 +90171,16 @@
         "cors": "unknown",
         "url": "https://api.swaggerhub.com/apis/OpenChannel/Market-API/2.0.24",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Opencom",
+        "description": "Show HN: Opencom – an open-source Intercom alternative given the Salesforce deal",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://opencom.dev",
+        "discovered_at": "2026-06-16"
     },
     {
         "name": "Openloom",
@@ -90693,6 +90813,16 @@
         "discovered_at": "2026-03-15"
     },
     {
+        "name": "Quickish",
+        "description": "Show HN: Quickish – Instant HTML Hosting",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://quickish.website",
+        "discovered_at": "2026-06-16"
+    },
+    {
         "name": "Quillium",
         "description": "Show HN: Quillium, the non-linear writing app",
         "category": "Other",
@@ -90961,6 +91091,16 @@
         "cors": "unknown",
         "url": "https://resources.kusho.ai/kusho-ai-ui-testing-tui",
         "discovered_at": "2026-05-06"
+    },
+    {
+        "name": "Restofworld",
+        "description": "Can open-source beat OpenAI?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://restofworld.org/2026/tiezhen-wang-china-us-open-source-ai/",
+        "discovered_at": "2026-06-16"
     },
     {
         "name": "Retrospectiveonline",
@@ -91321,6 +91461,16 @@
         "cors": "unknown",
         "url": "https://shotglass.app",
         "discovered_at": "2026-05-13"
+    },
+    {
+        "name": "Shp",
+        "description": "Show HN: SHP.network – Auto-deploy your own VPN server",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://shp.network",
+        "discovered_at": "2026-06-16"
     },
     {
         "name": "Shujisado",
@@ -101992,6 +102142,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Fata",
+        "description": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fata.dev",
+        "discovered_at": "2026-06-16"
+    },
+    {
         "name": "Gdbs",
         "description": "Show HN: GDBS – Browser geometric physics engine replacing HPC cluster workloads",
         "category": "Science",
@@ -102205,6 +102365,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://earthquake.usgs.gov/fdsnws/event/1/"
+    },
+    {
+        "name": "Workspace",
+        "description": "Show HN: Ensure actionable Google Forms responses using automatic feedback",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://workspace.google.com/marketplace/app/ai_response_feedback_for_forms/1081979139028",
+        "discovered_at": "2026-06-16"
     },
     {
         "name": "Zaai",
@@ -102603,6 +102773,16 @@
         "cors": "unknown",
         "url": "https://api.kumpeapps.com/python/swagger/swagger.yaml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Lateos",
+        "description": "GPT-5 Nano Vulnerability test results you should know before deploying",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lateos.ai/llm-research/gpt5-nano/",
+        "discovered_at": "2026-06-16"
     },
     {
         "name": "Malwaresiblings",
@@ -105779,6 +105959,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://developers.giphy.com/"
+    },
+    {
+        "name": "Hammermind",
+        "description": "Show HN: Hammermind – Game-ready pixel art and audio files from a single prompt",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hammermind.com",
+        "discovered_at": "2026-06-16"
     },
     {
         "name": "Heyaio",
