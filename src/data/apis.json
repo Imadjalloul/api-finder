@@ -1594,6 +1594,16 @@
         "discovered_at": "2026-03-25"
     },
     {
+        "name": "Infer0",
+        "description": "Show HN: Infer0 – do AI apps need subscriptions?",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://infer0.com/",
+        "discovered_at": "2026-06-17"
+    },
+    {
         "name": "Informity",
         "description": "Informity AI – Chat with your documents locally on your Mac (MIT, free)",
         "category": "AI & Machine Learning",
@@ -3577,6 +3587,16 @@
         "cors": "unknown",
         "url": "https://vulpinecitrus.info/blog/one-in-every-2000-ipv4-visualizing-ddos-ai-web-scrapers/",
         "discovered_at": "2026-04-30"
+    },
+    {
+        "name": "Wattfare",
+        "description": "Show HN: Wattfare – LLM API that's paid by users, not dev",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wattfare.com/",
+        "discovered_at": "2026-06-17"
     },
     {
         "name": "Webagentbride",
@@ -13307,6 +13327,16 @@
         "discovered_at": "2026-06-05"
     },
     {
+        "name": "Brevio",
+        "description": "Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://brevio.pro",
+        "discovered_at": "2026-06-17"
+    },
+    {
         "name": "Budgetfast",
         "description": "Show HN: BudgetFast – Upload a bank statement screenshot, AI does the rest",
         "category": "Cloud & Storage",
@@ -14049,6 +14079,16 @@
         "cors": "unknown",
         "url": "https://emailajent.com/",
         "discovered_at": "2026-05-06"
+    },
+    {
+        "name": "Emailsdone",
+        "description": "Show HN: A prompt generator to help AI agents implement my new email API",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://emailsdone.dev/#prompt-generator",
+        "discovered_at": "2026-06-17"
     },
     {
         "name": "Extend",
@@ -46427,6 +46467,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Backplanes",
+        "description": "Show HN: Spotlight shows what your Claude Code/Codex are doing",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.backplanes.com:443/",
+        "discovered_at": "2026-06-17"
+    },
+    {
         "name": "Bandcamp Crawler",
         "description": "The Bandcamp.com crawler is a web scraping tool that allows you to extract data from the Bandcamp music platform. With this crawler, you can get information about albums, tracks, and much more. The...",
         "category": "Development",
@@ -53447,6 +53497,16 @@
         "cors": "unknown",
         "url": "https://apify.com/yourapiservice/itproductivity-blog-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Ito",
+        "description": "Show HN: Ito – Code reviews that run code",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.ito.ai",
+        "discovered_at": "2026-06-17"
     },
     {
         "name": "James Edition Real Estate Scraper",
@@ -73522,6 +73582,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Startupswiki",
+        "description": "Show HN: Startup research website, crunchabse and Product Hunt and grokipedia",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://startupswiki.vercel.app/",
+        "discovered_at": "2026-06-17"
+    },
+    {
         "name": "Stasher Scraper",
         "description": "Scrape Stasher and extract data on packaging from stasherbag.com. Our Stasher API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
         "category": "E-Commerce",
@@ -77957,6 +78027,16 @@
         "discovered_at": "2026-04-08"
     },
     {
+        "name": "Miniforge",
+        "description": "MiniForge – describe a game, get IAP, GPU compute, and leaderboards free",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://miniforge.buzzchat.site",
+        "discovered_at": "2026-06-17"
+    },
+    {
         "name": "Minigames",
         "description": "Show HN: I built 80 mini-games using Fable before it was shut down",
         "category": "Entertainment",
@@ -78532,6 +78612,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/vtex/openapi-schemas/master/VTEX - Subscriptions API (v3).json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Terminal",
+        "description": "Show HN: I built an open-source financial research terminal (SEC data and SQL)",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://terminal.tesseractanalytics.ai/gate",
+        "discovered_at": "2026-06-17"
     },
     {
         "name": "The-law-1",
@@ -81098,6 +81188,16 @@
         "cors": "unknown",
         "url": "https://remembermap.com",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Reticleops",
+        "description": "Show HN: Reticle – The map your infrastructure operators deserve",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://reticleops.com/",
+        "discovered_at": "2026-06-17"
     },
     {
         "name": "Silentshark",
@@ -88993,6 +89093,16 @@
         "discovered_at": "2026-06-07"
     },
     {
+        "name": "Kinetk",
+        "description": "Show HN: Kinetk – Multimodal intelligence API and MCP for grounding agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.kinetk.ai",
+        "discovered_at": "2026-06-17"
+    },
+    {
         "name": "Kldload",
         "description": "Operating Systems. One USB. ZFS on Root. AI-Powered. Free",
         "category": "Other",
@@ -89271,6 +89381,16 @@
         "cors": "unknown",
         "url": "https://looties.io/",
         "discovered_at": "2026-05-07"
+    },
+    {
+        "name": "Lorea",
+        "description": "Show HN: Open-source 3D Cell Models Pipeline",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.lorea.app/3d-library",
+        "discovered_at": "2026-06-17"
     },
     {
         "name": "Loxeai",
@@ -90121,6 +90241,16 @@
         "cors": "unknown",
         "url": "https://octetta.github.io/pulp/doc/",
         "discovered_at": "2026-05-11"
+    },
+    {
+        "name": "Odocs",
+        "description": "Show HN: Odocs.co – multiplayer draw.io and docs for agent and human collab",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://odocs.co",
+        "discovered_at": "2026-06-17"
     },
     {
         "name": "Odozi",
@@ -92161,6 +92291,16 @@
         "cors": "unknown",
         "url": "https://tracksuccession.com/explore",
         "discovered_at": "2026-04-16"
+    },
+    {
+        "name": "Tracore",
+        "description": "Show HN: Tracore – We turned our resume parser into a document-to-JSON API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tracore.io/en/",
+        "discovered_at": "2026-06-17"
     },
     {
         "name": "Tradefacts",
@@ -102646,6 +102786,16 @@
         "discovered_at": "2026-04-30"
     },
     {
+        "name": "Blog",
+        "description": "Show HN: Open-Source RAG Security Kit for Zero-Trust Retrieval",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.aetherguard.ai/building-a-zero-trust-security-layer-for-rag-pipelines",
+        "discovered_at": "2026-06-17"
+    },
+    {
         "name": "Cifer-security",
         "description": "Show HN: Cifer, zero-key custody using threshold cryptography",
         "category": "Security",
@@ -103269,6 +103419,16 @@
         "cors": "unknown",
         "url": "https://hustlerbingo.app",
         "discovered_at": "2026-05-11"
+    },
+    {
+        "name": "Jerrysniffs",
+        "description": "Show HN: JerrySniffs – MCP Server (and API's) for web and social media search",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jerrysniffs.online/",
+        "discovered_at": "2026-06-17"
     },
     {
         "name": "Lobsteady",
