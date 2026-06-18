@@ -997,6 +997,16 @@
         "discovered_at": "2026-05-15"
     },
     {
+        "name": "Docs",
+        "description": "An open-source AI just beat OpenAI's GPT-5.5 at coding (1/6th the price)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://docs.z.ai/guides/llm/glm-5.2",
+        "discovered_at": "2026-06-18"
+    },
+    {
         "name": "Domainsearcher",
         "description": "Show HN: Startup Domain Search – Free AI Domain Generator with Scoring and RDAP",
         "category": "AI & Machine Learning",
@@ -1662,6 +1672,16 @@
         "cors": "unknown",
         "url": "https://jonno.nz/posts/open-source-agent-that-teaches-claude-code-your-architecture/",
         "discovered_at": "2026-04-16"
+    },
+    {
+        "name": "Juileebhosale",
+        "description": "The AI debate is about free will",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://juileebhosale.substack.com/p/the-ai-debate-is-really-about-free",
+        "discovered_at": "2026-06-18"
     },
     {
         "name": "Kagento",
@@ -2831,6 +2851,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Rigthhand",
+        "description": "Show HN: Righthand – Autonomous AI assistants with skills, goals, and a CLI",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.rigthhand.ai",
+        "discovered_at": "2026-06-18"
+    },
+    {
         "name": "Rnz",
         "description": "Tech bros say AI can be your best friend. Experts explain why it can't",
         "category": "AI & Machine Learning",
@@ -3250,6 +3280,16 @@
         "discovered_at": "2026-05-14"
     },
     {
+        "name": "Testkube",
+        "description": "Using AI to debug test failures at scale (Webinar)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://testkube.wistia.com/live/events/f52eeoh7x8",
+        "discovered_at": "2026-06-18"
+    },
+    {
         "name": "The-designengineer",
         "description": "Show HN: A tool to calculate LLM model API costs when coding",
         "category": "AI & Machine Learning",
@@ -3467,6 +3507,16 @@
         "cors": "unknown",
         "url": "https://www.usecomposer.com/",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Usereyn",
+        "description": "Show HN: Reyn – local-first AI that journals and recalls your work",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.usereyn.com/",
+        "discovered_at": "2026-06-18"
     },
     {
         "name": "Vakr",
@@ -7589,6 +7639,16 @@
         "cors": "unknown",
         "url": "https://bkmker.com",
         "discovered_at": "2026-03-22"
+    },
+    {
+        "name": "Booklike",
+        "description": "Show HN: BookLike – Chrome reader mode with eBook-style page flips",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://booklike.app/",
+        "discovered_at": "2026-06-18"
     },
     {
         "name": "Classkeep",
@@ -13949,6 +14009,16 @@
         "cors": "unknown",
         "url": "https://app.qapir.io/",
         "discovered_at": "2026-04-20"
+    },
+    {
+        "name": "App",
+        "description": "Voicettav3, Voice AI platform built from 1M+ conv. ($50 free and free setup)",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.voicetta.com",
+        "discovered_at": "2026-06-18"
     },
     {
         "name": "Clarity",
@@ -51145,6 +51215,16 @@
         "discovered_at": "2026-05-04"
     },
     {
+        "name": "Geturbacon",
+        "description": "Show HN: Bacon – an ad network that pays developers while their Claude works",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://geturbacon.dev",
+        "discovered_at": "2026-06-18"
+    },
+    {
         "name": "Ghcommits",
         "description": "Show HN: GitHub Commits Leaderboard",
         "category": "Development",
@@ -55926,6 +56006,16 @@
         "cors": "unknown",
         "url": "https://octokraft.com/blog/heritage-vs-ai-24-open-source-projects/",
         "discovered_at": "2026-04-22"
+    },
+    {
+        "name": "Octopunk",
+        "description": "Show HN: OctoPunk – a full-featured, AI-integrated GitHub client",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.octopunk.io/blog/introducing-octopunk",
+        "discovered_at": "2026-06-18"
     },
     {
         "name": "Octopus-review",
@@ -67343,6 +67433,16 @@
         "cors": "unknown",
         "url": "https://apify.com/zsoftware/feel22-search-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Ferrix",
+        "description": "Show HN: Ferrix AI – Agentic Product Management Platform",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ferrix.ai/",
+        "discovered_at": "2026-06-18"
     },
     {
         "name": "FlashScore Scraper Live",
@@ -81200,6 +81300,16 @@
         "discovered_at": "2026-06-17"
     },
     {
+        "name": "Searchrouter-demo",
+        "description": "Show HN: Any Search, One API",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://searchrouter-demo.vercel.app/",
+        "discovered_at": "2026-06-18"
+    },
+    {
         "name": "Silentshark",
         "description": "Show HN: I made a tactical map-based WWII submarine simulator (public beta)",
         "category": "Maps & Transport",
@@ -82157,6 +82267,16 @@
         "cors": "unknown",
         "url": "https://blog.karljtaylor.com/blog/2026-02-28-xai-search-api-suppression/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Boomerang-news",
+        "description": "Show HN: Yet Another News Reader",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://boomerang-news.com",
+        "discovered_at": "2026-06-18"
     },
     {
         "name": "Bunway",
@@ -85983,6 +86103,16 @@
         "discovered_at": "2026-04-25"
     },
     {
+        "name": "Attagram",
+        "description": "Show HN: Attagram, a tiny printer that gives kids a magical daily digest",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.attagram.com/",
+        "discovered_at": "2026-06-18"
+    },
+    {
         "name": "Auditledge",
         "description": "Show HN: Auditledge – Hosted Audit Log API for SaaS",
         "category": "Other",
@@ -86761,6 +86891,16 @@
         "cors": "unknown",
         "url": "https://clifton-topaz.vercel.app/",
         "discovered_at": "2026-03-22"
+    },
+    {
+        "name": "Cliptop",
+        "description": "Show HN: Cliptop, a keyboard-first clipboard manager for macOS",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cliptop.app/",
+        "discovered_at": "2026-06-18"
     },
     {
         "name": "Coached",
@@ -87923,6 +88063,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Flickey",
+        "description": "Made a free macOS menu bar app that fixes typing in the wrong keyboard layout",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://flickey.site",
+        "discovered_at": "2026-06-18"
+    },
+    {
         "name": "Flight-viz",
         "description": "Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM",
         "category": "Other",
@@ -88493,6 +88643,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Hextrap",
+        "description": "Show HN: Hextrap – Package Firewall with OPA Policies and MCP Support",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hextrap.com/products/firewall/",
+        "discovered_at": "2026-06-18"
+    },
+    {
         "name": "Hitoku",
         "description": "Show HN: Hitoku Draft – Context aware local assistant",
         "category": "Other",
@@ -89031,6 +89191,16 @@
         "cors": "unknown",
         "url": "https://kagi.com/changelog#10622",
         "discovered_at": "2026-05-23"
+    },
+    {
+        "name": "Kaleh",
+        "description": "Show HN: Jobs Core API – structured job data from 9,800 feeds, without scraping",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kaleh.net/trace/",
+        "discovered_at": "2026-06-18"
     },
     {
         "name": "Kaxil",
@@ -89613,6 +89783,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Mathesar",
+        "description": "Show HN: Hosted version of Mathesar, intuitive open source UI built on Postgres",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mathesar.cloud/site/",
+        "discovered_at": "2026-06-18"
+    },
+    {
         "name": "Mathworks",
         "description": "Show HN: Optical Design and Simulation in Matlab",
         "category": "Other",
@@ -89661,6 +89841,16 @@
         "cors": "unknown",
         "url": "https://maxcred.vercel.app",
         "discovered_at": "2026-05-04"
+    },
+    {
+        "name": "Maximumroulette",
+        "description": "Show HN: Matrix Engine WGPU – focus on mobile]",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://maximumroulette.com/apps/webgpu/examples.html",
+        "discovered_at": "2026-06-18"
     },
     {
         "name": "Mcpfinder",
@@ -91443,6 +91633,16 @@
         "discovered_at": "2026-04-29"
     },
     {
+        "name": "Scaleninja",
+        "description": "Show HN: Noject – menubar app to stop drive ejections on macOS",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://scaleninja.com/noject/",
+        "discovered_at": "2026-06-18"
+    },
+    {
         "name": "Scholar-sidekick",
         "description": "Show HN: Scholar Sidekick – citation verifier for the \"real DOI, wrong paper\"",
         "category": "Other",
@@ -91571,6 +91771,16 @@
         "cors": "unknown",
         "url": "https://www.shim.finance/blog/why-i-built-an-api-for-my-own-bank-account/",
         "discovered_at": "2026-03-20"
+    },
+    {
+        "name": "Shipsmooth",
+        "description": "Show HN: Shipsmooth: coding workflow plugin for iterative, solo-dev work",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.shipsmooth.net/",
+        "discovered_at": "2026-06-18"
     },
     {
         "name": "Shoehorn",
@@ -91873,6 +92083,16 @@
         "discovered_at": "2026-04-16"
     },
     {
+        "name": "Startupwiki",
+        "description": "Show HN: A Free Crunchbase Alternative",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://startupwiki.tech/",
+        "discovered_at": "2026-06-18"
+    },
+    {
         "name": "Statusdrop",
         "description": "Show HN: I Built StatusDrop",
         "category": "Other",
@@ -92023,6 +92243,16 @@
         "discovered_at": "2026-04-28"
     },
     {
+        "name": "Tablething",
+        "description": "Show HN: Tablething – local-first database client with BYOK AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tablething.com/",
+        "discovered_at": "2026-06-18"
+    },
+    {
         "name": "Tack",
         "description": "Show HN: Free tool to mark points and polygon regions",
         "category": "Other",
@@ -92171,6 +92401,16 @@
         "cors": "unknown",
         "url": "https://www.thuki.app",
         "discovered_at": "2026-05-18"
+    },
+    {
+        "name": "Thulr",
+        "description": "Show HN: Thulr – a spoiler-free wiki for fantasy and sci-fi novels",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thulr.co",
+        "discovered_at": "2026-06-18"
     },
     {
         "name": "Tickstem",
@@ -92831,6 +93071,16 @@
         "cors": "unknown",
         "url": "https://worktop.dev/",
         "discovered_at": "2026-05-25"
+    },
+    {
+        "name": "Worldcup",
+        "description": "Show HN: I made a spoiler-free World Cup tracker with a Test Management skin",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://worldcup.getbestest.com",
+        "discovered_at": "2026-06-18"
     },
     {
         "name": "Wormhole",
@@ -103772,6 +104022,16 @@
         "discovered_at": "2026-06-07"
     },
     {
+        "name": "Testflight",
+        "description": "Show HN: A world cup app built by football lovers",
+        "category": "Sports",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://testflight.apple.com/join/f4gKRZwr",
+        "discovered_at": "2026-06-18"
+    },
+    {
         "name": "TheSportsDB",
         "description": "All sports data including results, events, and TV listings",
         "category": "Sports",
@@ -105043,6 +105303,16 @@
         "url": "https://cloud.google.com/translate/docs"
     },
     {
+        "name": "Itransbook",
+        "description": "Show HN: ITransBook,a Local-First AI Document Translation Tool",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.itransbook.com",
+        "discovered_at": "2026-06-18"
+    },
+    {
         "name": "Itsbabel",
         "description": "Show HN: Babel realtime calls with strangers in any language",
         "category": "Text & Language",
@@ -105689,6 +105959,16 @@
         "discovered_at": "2026-04-03"
     },
     {
+        "name": "Codequest",
+        "description": "Free Image Compressor and WebP/AVIF Converter – Runs in the Browser",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://codequest.work/generator/image-compressor/en/",
+        "discovered_at": "2026-06-18"
+    },
+    {
         "name": "CountAPI",
         "description": "Simple counter API for tracking page views",
         "category": "Utilities",
@@ -105883,6 +106163,16 @@
         "cors": "unknown",
         "url": "https://redgridtactical.github.io/RedGridMGRS/tools.html",
         "discovered_at": "2026-03-29"
+    },
+    {
+        "name": "Richinto",
+        "description": "Free calculators for creator income, freelance rates, AI tool ROI, and so on",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://richinto.com/",
+        "discovered_at": "2026-06-18"
     },
     {
         "name": "U2m",
@@ -106319,6 +106609,16 @@
         "cors": "unknown",
         "url": "https://www.sentienttube.com/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Smooth",
+        "description": "Show HN: Smooth.video – animate your content, slide by slide, free",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://smooth.video/",
+        "discovered_at": "2026-06-18"
     },
     {
         "name": "Stenobird",
