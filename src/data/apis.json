@@ -730,6 +730,16 @@
         "discovered_at": "2026-03-10"
     },
     {
+        "name": "Carnegieendowment",
+        "description": "How to Build the Future of AI in the Free World (Carnegie Endowment)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://carnegieendowment.org/research/2026/06/the-compute-coalition-how-to-build-the-future-of-ai-in-the-free-world",
+        "discovered_at": "2026-06-19"
+    },
+    {
         "name": "Cc",
         "description": "Show HN: Command Center, the AI coding env for people who care about quality",
         "category": "AI & Machine Learning",
@@ -1764,6 +1774,16 @@
         "discovered_at": "2026-03-23"
     },
     {
+        "name": "Leanpub",
+        "description": "Free eBook: Building Pragmatic AI Agents That Use Tools and APIs",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://leanpub.com/buildingpragmaticaiagentsthatusetoolsandapis",
+        "discovered_at": "2026-06-19"
+    },
+    {
         "name": "Ledgi",
         "description": "Show HN: Ledgi: UK net worth tracker with a CLI for AI agents",
         "category": "AI & Machine Learning",
@@ -2121,6 +2141,16 @@
         "cors": "unknown",
         "url": "https://model-x.up.railway.app/",
         "discovered_at": "2026-04-22"
+    },
+    {
+        "name": "Modelparams",
+        "description": "Show HN: Modelparams.dev: AI Model Parameters Database (UI, API, NPM)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://modelparams.dev/",
+        "discovered_at": "2026-06-19"
     },
     {
         "name": "Monkepay",
@@ -6744,6 +6774,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://dog.ceo/dog-api/"
+    },
+    {
+        "name": "Finalapp",
+        "description": "Show HN: FinalApp – paste a job link, review the filled application, then submit",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.finalapp.io",
+        "discovered_at": "2026-06-19"
     },
     {
         "name": "GoToWebinar",
@@ -14605,6 +14645,16 @@
         "cors": "unknown",
         "url": "https://vyvoice.com",
         "discovered_at": "2026-05-17"
+    },
+    {
+        "name": "Zedmail",
+        "description": "Show HN: Zedmail – transactional email API outside US jurisdiction (CASL/GDPR)",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://zedmail.io",
+        "discovered_at": "2026-06-19"
     },
     {
         "name": "Zernio",
@@ -32125,6 +32175,16 @@
         "cors": "unknown",
         "url": "https://apify.com/thenetaji/threads-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Metiq",
+        "description": "Show HN: Metiq: a real time 3D globe for 100 public datasets",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://metiq.space",
+        "discovered_at": "2026-06-19"
     },
     {
         "name": "Michaelpage Jobs Scraper",
@@ -59256,6 +59316,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Sqim",
+        "description": "Show HN: Sqim – install your iOS builds from Codex mobile without VPN",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.sqim.dev/",
+        "discovered_at": "2026-06-19"
+    },
+    {
         "name": "SQL Query",
         "description": "Run SQL queries over Apify Platform (currently supports only Datasets).",
         "category": "Development",
@@ -78363,6 +78433,16 @@
         "url": "https://ghibliapi.vercel.app/"
     },
     {
+        "name": "Theglobeandmail",
+        "description": "CBC to stop airing NHL games after 74 years, end of free hockey on Canadian TV",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.theglobeandmail.com/sports/hockey/article-cbc-to-no-longer-air-nhl-hockey-ending-74-year-run-on-public-network/",
+        "discovered_at": "2026-06-19"
+    },
+    {
         "name": "Throw-cards",
         "description": "Show HN: Traditional Card Game Website",
         "category": "Entertainment",
@@ -85573,6 +85653,16 @@
         "discovered_at": "2026-03-13"
     },
     {
+        "name": "Aasheesh",
+        "description": "My LSM tree was slower than a B-tree. Then I profiled it",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aasheesh.vercel.app/blog/lsm-tree",
+        "discovered_at": "2026-06-19"
+    },
+    {
         "name": "Abigail",
         "description": "I made a research test suite for analysis of software metrics overtime",
         "category": "Other",
@@ -90843,6 +90933,16 @@
         "discovered_at": "2026-05-03"
     },
     {
+        "name": "Pithandpip",
+        "description": "Writing for humans is the only SEO trick left",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pithandpip.com/blog/the-best-aeo",
+        "discovered_at": "2026-06-19"
+    },
+    {
         "name": "Pivotordie",
         "description": "A public startup survival tracker (30 days inactive = dead)",
         "category": "Other",
@@ -91461,6 +91561,16 @@
         "cors": "unknown",
         "url": "https://revolution-network.fr/",
         "discovered_at": "2026-05-18"
+    },
+    {
+        "name": "Rewire",
+        "description": "Genomic Foundation Models in 2026: What Survives a Held-Out Test Set",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rewire.it/blog/genomic-foundation-models-in-2026/",
+        "discovered_at": "2026-06-19"
     },
     {
         "name": "Righto",
@@ -92123,6 +92233,16 @@
         "discovered_at": "2026-03-26"
     },
     {
+        "name": "Stem",
+        "description": "Show HN: Glassboard – Draw over everything on your Mac, Khan-academy style",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stem.ps/glassboard/",
+        "discovered_at": "2026-06-19"
+    },
+    {
         "name": "Stillis",
         "description": "Show HN: Stillis – An open-ended anonymous polling platform for anything",
         "category": "Other",
@@ -92321,6 +92441,16 @@
         "cors": "unknown",
         "url": "https://teslog.app",
         "discovered_at": "2026-05-19"
+    },
+    {
+        "name": "Tester",
+        "description": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tester.army",
+        "discovered_at": "2026-06-19"
     },
     {
         "name": "Textyoursite",
@@ -92671,6 +92801,16 @@
         "cors": "unknown",
         "url": "https://www.typewhisper.com/",
         "discovered_at": "2026-03-13"
+    },
+    {
+        "name": "Uavs",
+        "description": "Show HN: UAVs FYI – Drone database with supply chain data, API and CLI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.uavs.fyi/",
+        "discovered_at": "2026-06-19"
     },
     {
         "name": "Unfudged",
@@ -106077,6 +106217,16 @@
         "discovered_at": "2026-04-30"
     },
     {
+        "name": "Pdf-to-markdown",
+        "description": "Free PDF to Markdown Converter Online",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pdf-to-markdown.app/",
+        "discovered_at": "2026-06-19"
+    },
+    {
         "name": "Pdf2markdown",
         "description": "PDF2Markdown – Free online converter and API for PDF/images to Markdown",
         "category": "Utilities",
@@ -106539,6 +106689,16 @@
         "cors": "unknown",
         "url": "https://omniforge.online/",
         "discovered_at": "2026-04-30"
+    },
+    {
+        "name": "Palmier",
+        "description": "Palmier – a free video editor built for AI",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.palmier.io/",
+        "discovered_at": "2026-06-19"
     },
     {
         "name": "Podads",
