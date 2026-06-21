@@ -660,6 +660,16 @@
         "discovered_at": "2026-03-23"
     },
     {
+        "name": "Botacts",
+        "description": "Show HN: Botacts – Phonebook of AI Bots",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://botacts.com",
+        "discovered_at": "2026-06-21"
+    },
+    {
         "name": "Botcost",
         "description": "Show HN: Free tool to see how much AI bots are costing your site",
         "category": "AI & Machine Learning",
@@ -2492,6 +2502,16 @@
         "discovered_at": "2026-05-14"
     },
     {
+        "name": "Opensource",
+        "description": "Bluffbench is near saturation: LLMs can interpret counterintuitive plots",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://opensource.posit.co/blog/2026-06-19_ai-newsletter/",
+        "discovered_at": "2026-06-21"
+    },
+    {
         "name": "Opensourceaimustwin",
         "description": "Open source AI must win",
         "category": "AI & Machine Learning",
@@ -2700,6 +2720,16 @@
         "cors": "unknown",
         "url": "https://publicai.network/libraries.html",
         "discovered_at": "2026-03-05"
+    },
+    {
+        "name": "Publictechnology",
+        "description": "UK Home Office launches £75M 'PoliceAI' to capitalise on artificial intelligence",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/",
+        "discovered_at": "2026-06-21"
     },
     {
         "name": "Publora",
@@ -3009,6 +3039,26 @@
         "cors": "unknown",
         "url": "https://sarvita.app/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Satisfice",
+        "description": "Public Service Announcement: Don't Say You Use AI for Writing",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.satisfice.com/blog/archives/488148",
+        "discovered_at": "2026-06-21"
+    },
+    {
+        "name": "Savemarkdown",
+        "description": "Show HN: Save, an API that turns any URL into clean Markdown for LLMs",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.savemarkdown.co/api/",
+        "discovered_at": "2026-06-21"
     },
     {
         "name": "Sayit",
@@ -54808,6 +54858,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Macrocodex",
+        "description": "Show HN: Lean bulk, cut, body recomp. Calculate maintenance calories",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://macrocodex.app/",
+        "discovered_at": "2026-06-21"
+    },
+    {
         "name": "Macys News Articles",
         "description": "The Macy's News Articles Actor is a powerful Apify web scraping tool designed to extract press releases and news articles from Macy's official newsroom.",
         "category": "Development",
@@ -78191,6 +78251,16 @@
         "discovered_at": "2026-05-16"
     },
     {
+        "name": "Asiaai",
+        "description": "Beyond the $7.4B Headline: DeepSeek's Series A signals Chinese AI alliance shift",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://asiaai.fyi/east-asias-ai-capital-surge-homegrown-models-challenge-west-amid-mineral-tensions/",
+        "discovered_at": "2026-06-21"
+    },
+    {
         "name": "Bal",
         "description": "Show HN: Bal – a Knights and Knaves logic puzzle game with Glicko rating system",
         "category": "Entertainment",
@@ -78355,6 +78425,16 @@
         "cors": "unknown",
         "url": "https://www.nerdcube.games/carom",
         "discovered_at": "2026-04-06"
+    },
+    {
+        "name": "Neuviemeporte",
+        "description": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+        "discovered_at": "2026-06-21"
     },
     {
         "name": "Offby",
@@ -89013,6 +89093,16 @@
         "discovered_at": "2026-04-28"
     },
     {
+        "name": "Hyperc",
+        "description": "Show HN: P34 – tabular profit prediction without the optimism bias",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hyperc.com/preview/index.html",
+        "discovered_at": "2026-06-21"
+    },
+    {
         "name": "Hypercubic",
         "description": "Show HN: Agentic interface for mainframes and COBOL",
         "category": "Other",
@@ -89691,6 +89781,16 @@
         "cors": "unknown",
         "url": "https://lightwhale.asklandd.dk/",
         "discovered_at": "2026-04-25"
+    },
+    {
+        "name": "Limenedge",
+        "description": "Show HN: I built a middleware agent that turns PLC data into REST/gRPC APIs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://limenedge.com/docs/getting-started",
+        "discovered_at": "2026-06-21"
     },
     {
         "name": "Linkedrecords",
@@ -91003,6 +91103,16 @@
         "discovered_at": "2026-06-11"
     },
     {
+        "name": "Pedantic",
+        "description": "Show HN: Pedantic.run – Lint PromQL Queries",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pedantic.run",
+        "discovered_at": "2026-06-21"
+    },
+    {
         "name": "perfectpdf api",
         "description": "The perfectpdf api does one thing, perfectly: it converts html to pdf. The perfectpdf api uses headless Google Chrome to provide a low cost, high quality, simple to use service.",
         "category": "Other",
@@ -92193,6 +92303,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Sloev",
+        "description": "Show HN: Saysheep – dumpster diving and free stuff app",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sloev.github.io/saysheep/",
+        "discovered_at": "2026-06-21"
+    },
+    {
         "name": "Snap",
         "description": "Show HN: SnapAPI – Screenshot, metadata extraction, and PDF generation API",
         "category": "Other",
@@ -92271,6 +92391,16 @@
         "cors": "unknown",
         "url": "https://sos-vault.com/login",
         "discovered_at": "2026-06-11"
+    },
+    {
+        "name": "Southbridge",
+        "description": "The frontier is open-source today",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.southbridge.ai/blog/offmute-v2-glm-vs-opus",
+        "discovered_at": "2026-06-21"
     },
     {
         "name": "Spectrum",
@@ -92461,6 +92591,16 @@
         "cors": "unknown",
         "url": "https://strudai.com",
         "discovered_at": "2026-06-01"
+    },
+    {
+        "name": "Submarius",
+        "description": "Show HN: Submarius – Global water clarity for divers",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://submarius.com",
+        "discovered_at": "2026-06-21"
     },
     {
         "name": "Sup",
@@ -92773,6 +92913,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Tin-validate",
+        "description": "Show HN: Tin Validate, a tax ID validator that explains why checks pass or fail",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tin-validate.com/",
+        "discovered_at": "2026-06-21"
+    },
+    {
         "name": "Tiobe",
         "description": "Rust's rise shows signs of slowing",
         "category": "Other",
@@ -92781,6 +92931,16 @@
         "cors": "unknown",
         "url": "https://www.tiobe.com/tiobe-index/",
         "discovered_at": "2026-04-16"
+    },
+    {
+        "name": "Tlaplus-process-studio",
+        "description": "Show HN: TLA+ Process Studio",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tlaplus-process-studio.com/?example=meeting-lifecycle",
+        "discovered_at": "2026-06-21"
     },
     {
         "name": "Tonguetype",
@@ -103394,6 +103554,16 @@
         "cors": "unknown",
         "url": "https://cifer-security.com",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Clutterstrike",
+        "description": "Show HN: Email client focused on reducing phishing risk and inbox overload",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://clutterstrike.com/",
+        "discovered_at": "2026-06-21"
     },
     {
         "name": "Cordon-server-production",
