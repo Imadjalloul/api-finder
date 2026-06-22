@@ -1714,6 +1714,16 @@
         "discovered_at": "2026-04-28"
     },
     {
+        "name": "Jacobee",
+        "description": "Show HN: Jacobi–IDE for Abaqus subroutine with analytical tests and AI diagnosis",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jacobee.netlify.app/",
+        "discovered_at": "2026-06-22"
+    },
+    {
         "name": "Jobbi",
         "description": "Show HN: Jobbi – Free AI resume tailoring with unlimited PDF exports",
         "category": "AI & Machine Learning",
@@ -3069,6 +3079,16 @@
         "cors": "unknown",
         "url": "https://www.sayit.chat/",
         "discovered_at": "2026-03-09"
+    },
+    {
+        "name": "Scitechdaily",
+        "description": "The AI architecture \"attention\" can't hold attention",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://scitechdaily.com/even-gpt-5-failed-this-human-attention-test/",
+        "discovered_at": "2026-06-22"
     },
     {
         "name": "Screamer",
@@ -7583,6 +7603,16 @@
         "discovered_at": "2026-05-19"
     },
     {
+        "name": "Docs",
+        "description": "Show HN: Chainstack Self-Hosted, hosting your own blockchain nodes made simple",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://docs.chainstack.com/docs/self-hosted/introduction",
+        "discovered_at": "2026-06-22"
+    },
+    {
         "name": "Etherscan",
         "description": "Ethereum blockchain explorer and analytics",
         "category": "Blockchain",
@@ -7839,6 +7869,16 @@
         "cors": "unknown",
         "url": "https://www.classkeep.app",
         "discovered_at": "2026-05-20"
+    },
+    {
+        "name": "Cyclearchive",
+        "description": "Show HN: Cyclearchive.com – searchable archive of historical cycling literature",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cyclearchive.com/",
+        "discovered_at": "2026-06-22"
     },
     {
         "name": "Design-md-web",
@@ -58046,6 +58086,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Rejourney",
+        "description": "Show HN: A GitHub app that suggests code fixes for conversion failures",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rejourney.co/demo/leaks",
+        "discovered_at": "2026-06-22"
+    },
+    {
         "name": "REMAX Real Estate Scraper",
         "description": "Supercharge your real estate research with our REMAX Scraper! Automate daily scrapes of all REMAX property listings, saving time and ensuring you get the most accurate, up-to-date data. Stop relying..",
         "category": "Development",
@@ -72663,6 +72713,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Pure-effect",
+        "description": "Show HN: Pure Effect – Reproduce production bugs on your laptop without a DB",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pure-effect.org",
+        "discovered_at": "2026-06-22"
+    },
+    {
         "name": "Pureformulas Scraper",
         "description": "A pureformulas scraper extracts product details like names, prices, ingredients, and availability from the pureformulas website, assisting with tasks like market analysis and research, while adhering.",
         "category": "E-Commerce",
@@ -73630,6 +73690,16 @@
         "cors": "unknown",
         "url": "https://apify.com/getdataforme/silvergoldbull-scraper-pro",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Simplai",
+        "description": "Free Agentic AI Webinar: From Agent Design to Production",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://simplai.ai/blogs/free-agentic-ai-webinar-from-agent-design-to-production/",
+        "discovered_at": "2026-06-22"
     },
     {
         "name": "Sister Jane Japan Scraper",
@@ -77209,6 +77279,16 @@
         "cors": "unknown",
         "url": "http://learnifier.com/apidocs/learnifier.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Abc",
+        "description": "Show HN: Free AI courses that require a short reflection to earn a certificate",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.abc.com.py",
+        "discovered_at": "2026-06-22"
     },
     {
         "name": "Alphaset",
@@ -92473,6 +92553,16 @@
         "discovered_at": "2026-04-16"
     },
     {
+        "name": "Startupfortune",
+        "description": "China's Z.ai open-sourced a frontier coding model as Washington bans it rival",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://startupfortune.com/chinas-zai-open-sourced-a-frontier-coding-model-the-same-day-washington-banned-its-american-rival/",
+        "discovered_at": "2026-06-22"
+    },
+    {
         "name": "Startupwiki",
         "description": "Show HN: A Free Crunchbase Alternative",
         "category": "Other",
@@ -92701,6 +92791,16 @@
         "cors": "unknown",
         "url": "https://tapfi.uno/",
         "discovered_at": "2026-04-22"
+    },
+    {
+        "name": "Taxlens",
+        "description": "Show HN: TaxLens – free lodging-tax API for hotels, OTAs, and property managers",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://taxlens.getdynamiq.ai",
+        "discovered_at": "2026-06-22"
     },
     {
         "name": "Teamdev",
@@ -103257,6 +103357,16 @@
         "url": "https://earthquake.usgs.gov/fdsnws/event/1/"
     },
     {
+        "name": "Woltspace",
+        "description": "Show HN: Woltspace – a lodge for your coding agents",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.woltspace.com/",
+        "discovered_at": "2026-06-22"
+    },
+    {
         "name": "Workspace",
         "description": "Show HN: Ensure actionable Google Forms responses using automatic feedback",
         "category": "Science",
@@ -104522,6 +104632,16 @@
         "url": "https://www.balldontlie.io/"
     },
     {
+        "name": "Onbalance",
+        "description": "Show HN: Onbalance – privacy-first cashflow planning app got a multiuser update",
+        "category": "Sports",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://onbalance.app/",
+        "discovered_at": "2026-06-22"
+    },
+    {
         "name": "Ribbie",
         "description": "Show HN: An 8-bit live gamecast for baseball",
         "category": "Sports",
@@ -104540,6 +104660,16 @@
         "cors": "unknown",
         "url": "https://structocr.com",
         "discovered_at": "2026-06-07"
+    },
+    {
+        "name": "Techtarget",
+        "description": "Nvidia adopts OpenBAO, open source fork of HashiCorp's Vault",
+        "category": "Sports",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.techtarget.com/searchitoperations/news/366644831/Nvidia-adopts-OpenBao-open-source-fork-of-HashiCorps-Vault",
+        "discovered_at": "2026-06-22"
     },
     {
         "name": "Testflight",
