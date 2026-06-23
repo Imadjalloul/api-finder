@@ -130,6 +130,16 @@
         "discovered_at": "2026-03-17"
     },
     {
+        "name": "Agentry",
+        "description": "Show HN: Build and Host AI apps on your own servers",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agentry.run",
+        "discovered_at": "2026-06-23"
+    },
+    {
         "name": "Agents",
         "description": "Show HN: Automated Testing for AI Agents",
         "category": "AI & Machine Learning",
@@ -1067,6 +1077,16 @@
         "discovered_at": "2026-06-09"
     },
     {
+        "name": "Dxmax",
+        "description": "Show HN: Demand Intelligence and AI Design",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dxmax.cc/",
+        "discovered_at": "2026-06-23"
+    },
+    {
         "name": "Dypai",
         "description": "Show HN: Dypai – Build backends from your IDE using AI and MCP",
         "category": "AI & Machine Learning",
@@ -1613,6 +1633,16 @@
         "cors": "unknown",
         "url": "https://hormuztrail.com/",
         "discovered_at": "2026-04-16"
+    },
+    {
+        "name": "Howtotestfrontend",
+        "description": "Code Smells when you get AI to write your Front end Tests",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://howtotestfrontend.com/resources/frontend-ai-generated-test-code-smells",
+        "discovered_at": "2026-06-23"
     },
     {
         "name": "Hugging Face",
@@ -7386,6 +7416,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://developer.okta.com/docs/reference/"
+    },
+    {
+        "name": "Opencomputer",
+        "description": "Show HN: Durable Agent Sessions API (Preview)",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://opencomputer.durableagents.dev/",
+        "discovered_at": "2026-06-23"
     },
     {
         "name": "Pattern",
@@ -13647,6 +13687,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Checkmyvin",
+        "description": "Show HN: Free VIN Decoder with AI Summaries on Cloudflare Workers and NHTSA Data",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://checkmyvin.net/",
+        "discovered_at": "2026-06-23"
+    },
+    {
         "name": "Cloud",
         "description": "Google offers free full-stack app creation and publishing",
         "category": "Cloud & Storage",
@@ -13665,6 +13715,16 @@
         "cors": "unknown",
         "url": "https://cloudprivatecatalogproducer.googleapis.com/$discovery/rest?version=v1beta1",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Codelabs",
+        "description": "Show HN: Catch abnormal usage of your API keys on Google Cloud",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://codelabs.developers.google.com/api-key-management",
+        "discovered_at": "2026-06-23"
     },
     {
         "name": "Construct",
@@ -13724,6 +13784,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/nexmo/api-specification/master/definitions/vonage-business-cloud/extension.yml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Fastapicloud",
+        "description": "Show HN: FastAPI Cloud is in public beta, deploy apps with FastAPI deploy",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fastapicloud.com/",
+        "discovered_at": "2026-06-23"
     },
     {
         "name": "Ffmpeg-api",
@@ -82728,6 +82798,16 @@
         "discovered_at": "2026-04-19"
     },
     {
+        "name": "Fiercebiotech",
+        "description": "Definiums LSD formula produces 'best data ever seen' in pivotal depression trial",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.fiercebiotech.com/biotech/definiums-lsd-formula-produces-best-data-ever-seen-pivotal-depression-trial-ceo-says",
+        "discovered_at": "2026-06-23"
+    },
+    {
         "name": "GNews",
         "description": "Search news articles from multiple sources worldwide",
         "category": "News",
@@ -87613,6 +87693,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Datahyena",
+        "description": "Show HN: DataHyena – Growth signals as one clean API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://datahyena.com/",
+        "discovered_at": "2026-06-23"
+    },
+    {
         "name": "Dataverse001",
         "description": "Show HN: Data that explains itself to Coding Agents (Bonus: free, BYOA Lovable)",
         "category": "Other",
@@ -90861,6 +90951,16 @@
         "cors": "unknown",
         "url": "https://odozi.app",
         "discovered_at": "2026-04-26"
+    },
+    {
+        "name": "Omnimod",
+        "description": "Show HN: OmniMod – Moderation API for user-generated content platforms",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://omnimod.net",
+        "discovered_at": "2026-06-23"
     },
     {
         "name": "Oneuptime",
@@ -107010,6 +107110,16 @@
         "cors": "unknown",
         "url": "https://drea.fm/",
         "discovered_at": "2026-05-19"
+    },
+    {
+        "name": "Fastubu",
+        "description": "Show HN: FastUbu – An Ultrafast Video Archive",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fastubu.com/",
+        "discovered_at": "2026-06-23"
     },
     {
         "name": "Feralui",
