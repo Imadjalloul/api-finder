@@ -350,6 +350,16 @@
         "discovered_at": "2026-04-15"
     },
     {
+        "name": "Answerjournal",
+        "description": "Show HN: AnswerJournal – An MCP server to save and share AI answers",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://answerjournal.com/",
+        "discovered_at": "2026-06-24"
+    },
+    {
         "name": "Antarraksha",
         "description": "Show HN: We attacked 8 AI agents with adversarial probes – 5 failed",
         "category": "AI & Machine Learning",
@@ -518,6 +528,16 @@
         "cors": "unknown",
         "url": "https://www.athletedata.health",
         "discovered_at": "2026-04-23"
+    },
+    {
+        "name": "Atomprophet",
+        "description": "Show HN: The Cascade Graph – An interactive map of AI and energy constraints",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://atomprophet.io/tools/cascade/",
+        "discovered_at": "2026-06-24"
     },
     {
         "name": "Autoicdapi",
@@ -1045,6 +1065,16 @@
         "cors": "unknown",
         "url": "https://docs.z.ai/guides/llm/glm-5.2",
         "discovered_at": "2026-06-18"
+    },
+    {
+        "name": "Docs",
+        "description": "LiteLLM Migrates to Rust",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://docs.litellm.ai/blog/litellm-rust-launch",
+        "discovered_at": "2026-06-24"
     },
     {
         "name": "Domainsearcher",
@@ -1744,6 +1774,16 @@
         "discovered_at": "2026-04-28"
     },
     {
+        "name": "Ismylandingpagevalid",
+        "description": "Show HN: Free tools to audit a landing page and check if AI recommends you",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.ismylandingpagevalid.com",
+        "discovered_at": "2026-06-24"
+    },
+    {
         "name": "Jacobee",
         "description": "Show HN: Jacobi–IDE for Abaqus subroutine with analytical tests and AI diagnosis",
         "category": "AI & Machine Learning",
@@ -1802,6 +1842,16 @@
         "cors": "unknown",
         "url": "https://kelet.ai/",
         "discovered_at": "2026-04-15"
+    },
+    {
+        "name": "Khala",
+        "description": "Show HN: Khala – let your AI sessions talk to each other, across any LLM",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://khala.to/",
+        "discovered_at": "2026-06-24"
     },
     {
         "name": "Knowable",
@@ -2772,6 +2822,16 @@
         "discovered_at": "2026-06-21"
     },
     {
+        "name": "Publish",
+        "description": "Show HN: Publish.my – Static hosting where the AI agent is the customer",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://publish.my/",
+        "discovered_at": "2026-06-24"
+    },
+    {
         "name": "Publora",
         "description": "Show HN: Publora – One API/MCP for AI agents to post across 10 social networks",
         "category": "AI & Machine Learning",
@@ -3328,6 +3388,16 @@
         "cors": "unknown",
         "url": "https://stagent.io/book/",
         "discovered_at": "2026-04-06"
+    },
+    {
+        "name": "Streamrai",
+        "description": "Show HN: Streamr AI – Pretend to be a celebrity with a dystopian AI live stream",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://streamrai.app",
+        "discovered_at": "2026-06-24"
     },
     {
         "name": "Streetai",
@@ -3948,6 +4018,16 @@
         "discovered_at": "2026-05-18"
     },
     {
+        "name": "Workdir",
+        "description": "Workdir: Open-source sandboxes for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://workdir.dev/",
+        "discovered_at": "2026-06-24"
+    },
+    {
         "name": "Wps",
         "description": "Summarize Text Online – Free AI Summarizer",
         "category": "AI & Machine Learning",
@@ -3986,6 +4066,16 @@
         "cors": "unknown",
         "url": "https://www.yashkapure.com/en/blog/free-api-key-platforms-for-ai-usage/",
         "discovered_at": "2026-04-18"
+    },
+    {
+        "name": "Yochai",
+        "description": "Show HN: AI Torah Chervuta",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.yochai.wiki/chat",
+        "discovered_at": "2026-06-24"
     },
     {
         "name": "Yourmemoryai",
@@ -7535,6 +7625,16 @@
         "cors": "unknown",
         "url": "https://www.googleapis.com/discovery/v1/apis/replicapool/v1beta1/rest",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Adenalhardan",
+        "description": "A Rust macros use case: Tightly-coupled API definitions for a client and server",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://adenalhardan.com/#rust-macros-client-server",
+        "discovered_at": "2026-06-24"
     },
     {
         "name": "Agentboard",
@@ -62726,6 +62826,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Withwillow",
+        "description": "Policy Ranger, a free Claude Code managed-settings policy builder (no signup)",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://withwillow.ai/platform/claude-policy-ranger",
+        "discovered_at": "2026-06-24"
+    },
+    {
         "name": "Wix Product Parser",
         "description": "Scrape and download products from Wix websites. Use a single product page, one or multiple category pages, or scrape the entire site. Get uniform, structured product data easily.",
         "category": "Development",
@@ -70753,6 +70863,16 @@
         "cors": "unknown",
         "url": "https://apify.com/parseforge/made-in-china-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Madeineverywhere",
+        "description": "Show HN: Made in Everywhere – a live map of companies and products",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.madeineverywhere.co/",
+        "discovered_at": "2026-06-24"
     },
     {
         "name": "Magento E-Commerce Scraper 🚧",
@@ -79064,6 +79184,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Poolmoney",
+        "description": "Show HN: Pool – A lightweight financial account with members and rules",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://poolmoney.com/",
+        "discovered_at": "2026-06-24"
+    },
+    {
         "name": "Psychosomat",
         "description": "Show HN: I built a sub-20ms crypto API in Go",
         "category": "Finance",
@@ -82647,6 +82777,16 @@
         "cors": "unknown",
         "url": "https://agentready.cloud/hn",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Aiact",
+        "description": "Free EU AI Act Article 50 compliance checker for indie SaaS",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aiact.bridgeai.one/",
+        "discovered_at": "2026-06-24"
     },
     {
         "name": "Apnews",
@@ -86793,6 +86933,16 @@
         "discovered_at": "2026-06-06"
     },
     {
+        "name": "Bitvanes",
+        "description": "Show HN: BitVanes – A zero-trust RAG pipeline engine in Rust, WASM, and Arrow",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.bitvanes.com/",
+        "discovered_at": "2026-06-24"
+    },
+    {
         "name": "Blackdesk",
         "description": "Blackdesk – open-source market research terminal (Go, TUI, local AI)",
         "category": "Other",
@@ -88043,6 +88193,16 @@
         "discovered_at": "2026-06-12"
     },
     {
+        "name": "Domaindash",
+        "description": "Show HN: DomainDash – uptime/SSL/domain checks for client sites",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://domaindash.io",
+        "discovered_at": "2026-06-24"
+    },
+    {
         "name": "Domains",
         "description": "Domains API",
         "category": "Other",
@@ -88511,6 +88671,16 @@
         "cors": "unknown",
         "url": "https://fireworks.ai/blog/open-source-agents-frontier-advisors",
         "discovered_at": "2026-06-09"
+    },
+    {
+        "name": "Fivetakes",
+        "description": "String",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fivetakes.news/data-center-buildout-and-public-sentiment-ai-backlash-in-infrastructure",
+        "discovered_at": "2026-06-24"
     },
     {
         "name": "Flashcardaudit",
@@ -89813,6 +89983,16 @@
         "discovered_at": "2026-05-30"
     },
     {
+        "name": "Kraemod",
+        "description": "Show HN: I'm building the best POD in Nigeria",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kraemod.vercel.app",
+        "discovered_at": "2026-06-24"
+    },
+    {
         "name": "Kumbukum",
         "description": "Show HN: Kumbukum, open source memory infrastructure for teams",
         "category": "Other",
@@ -90481,6 +90661,16 @@
         "cors": "unknown",
         "url": "https://mintai.base44.app",
         "discovered_at": "2026-03-24"
+    },
+    {
+        "name": "Mirrorball",
+        "description": "Show HN: Mirrorball – easy port forwarding for remote dev hosts",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mirrorball.sanil.co/",
+        "discovered_at": "2026-06-24"
     },
     {
         "name": "Mistral",
@@ -91641,6 +91831,16 @@
         "cors": "unknown",
         "url": "https://www.pulsepages.co",
         "discovered_at": "2026-05-06"
+    },
+    {
+        "name": "Puzzlepage",
+        "description": "A free puzzle generator that guarantees unique Sudoku/nonogram solutions",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.puzzlepage.app",
+        "discovered_at": "2026-06-24"
     },
     {
         "name": "Pvizgenerator",
@@ -93083,6 +93283,16 @@
         "discovered_at": "2026-03-30"
     },
     {
+        "name": "Tikz",
+        "description": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tikz.dev/editor/",
+        "discovered_at": "2026-06-24"
+    },
+    {
         "name": "Til",
         "description": "Show HN: TIL – a timeline file format with a spiral viewer and editor",
         "category": "Other",
@@ -93371,6 +93581,16 @@
         "cors": "unknown",
         "url": "https://uruky.com/kagi-alternative?il=en",
         "discovered_at": "2026-03-24"
+    },
+    {
+        "name": "Usage",
+        "description": "RDS Free Tier: What Those 750 Hours of Db.t3.micro Cover",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.usage.ai/blogs/aws/reserved-instances/rds/free-tier-rds/",
+        "discovered_at": "2026-06-24"
     },
     {
         "name": "Useapparent",
@@ -103925,6 +104145,16 @@
         "discovered_at": "2026-05-02"
     },
     {
+        "name": "Morbidcuriosity",
+        "description": "Are AI and robotics about to free the wealthy from the threat of revolt?",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://morbidcuriosity.substack.com/p/the-age-of-bunker-capitalism",
+        "discovered_at": "2026-06-24"
+    },
+    {
         "name": "Nexmo Application API",
         "description": "Applications V1 is deprecated\n  This version of the API has been deprecated. Please use version 2 going forwards\n \nA Nexmo application contains the security and configuration information you need",
         "category": "Security",
@@ -106081,6 +106311,16 @@
         "cors": "unknown",
         "url": "https://itsumo.study/",
         "discovered_at": "2026-04-09"
+    },
+    {
+        "name": "Lex-the-lab",
+        "description": "Show HN: Lex – learn languages by reading and writing, not just flashcards",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lex-the-lab.vercel.app/languages",
+        "discovered_at": "2026-06-24"
     },
     {
         "name": "LibreTranslate",
