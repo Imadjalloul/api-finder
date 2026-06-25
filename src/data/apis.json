@@ -1077,6 +1077,16 @@
         "discovered_at": "2026-06-24"
     },
     {
+        "name": "Docs",
+        "description": "Show HN: MAVS-GC – An Open-Source Governance Architecture for AI Systems",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://docs.google.com/document/d/1h7qpDgLv2PyIB6ZlLED5qGDeUbnNbITzNEspmsxA7ZE/edit?usp=sharing",
+        "discovered_at": "2026-06-25"
+    },
+    {
         "name": "Domainsearcher",
         "description": "Show HN: Startup Domain Search – Free AI Domain Generator with Scoring and RDAP",
         "category": "AI & Machine Learning",
@@ -3211,6 +3221,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Shop",
+        "description": "M5StackChan AI Desktop Robot",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://shop.m5stack.com/products/stackchan-kawaii-co-created-open-source-ai-desktop-robot",
+        "discovered_at": "2026-06-25"
+    },
+    {
         "name": "Shuttleai",
         "description": "Show HN: ShuttleAI – One API for Claude Opus 4.6 and GPT-5.2",
         "category": "AI & Machine Learning",
@@ -3249,6 +3269,16 @@
         "cors": "unknown",
         "url": "https://silkdock.ai/rankings",
         "discovered_at": "2026-05-31"
+    },
+    {
+        "name": "Sipp",
+        "description": "Show HN: Sipp – Run small local LLMs in browser 3x faster",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.sipp.sh",
+        "discovered_at": "2026-06-25"
     },
     {
         "name": "Sites",
@@ -3538,6 +3568,16 @@
         "cors": "unknown",
         "url": "https://www.techdirt.com/2026/03/25/ai-might-be-our-best-shot-at-taking-back-the-open-web/",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Techstrong",
+        "description": "For most of the world, open-source AI is the only way forward",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
+        "discovered_at": "2026-06-25"
     },
     {
         "name": "Terax",
@@ -14521,6 +14561,26 @@
         "discovered_at": "2026-03-11"
     },
     {
+        "name": "Docs",
+        "description": "Show HN: Valence – Real-time emotion detection from voice, as an API",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://docs.getvalenceai.com/welcome",
+        "discovered_at": "2026-06-25"
+    },
+    {
+        "name": "Ebookaloud",
+        "description": "Show HN: eBook to audiobook narration with realistic AI voices",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ebookaloud.com",
+        "discovered_at": "2026-06-25"
+    },
+    {
         "name": "Ec",
         "description": "Meta ordered by EU to allow rival AI chatbots back on WhatsApp for free",
         "category": "Communication",
@@ -14679,6 +14739,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/vtex/openapi-schemas/master/VTEX - License Manager API.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Loveinvoice",
+        "description": "Show HN: LoveInvoice – a free invoice tool for freelancers and small businesses",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://loveinvoice.com",
+        "discovered_at": "2026-06-25"
     },
     {
         "name": "Mailgun",
@@ -68045,6 +68115,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Forteplatforms",
+        "description": "Show HN: Forte – Cloud infra to get startups to production faster",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://forteplatforms.com",
+        "discovered_at": "2026-06-25"
+    },
+    {
         "name": "FR Carre Opera Scraper",
         "description": "This actor is intended to extract data from carre-opera.com",
         "category": "E-Commerce",
@@ -68603,6 +68683,16 @@
         "cors": "unknown",
         "url": "https://apify.com/mshopik/hatch-collection-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Haystack",
+        "description": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://haystack.deepset.ai/",
+        "discovered_at": "2026-06-25"
     },
     {
         "name": "Headphone Zone Scraper",
@@ -72522,6 +72612,16 @@
         "cors": "unknown",
         "url": "https://apify.com/horoko/plati-market-crawler",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Plauditlabs",
+        "description": "Show HN: Get AI to recommend your product or service",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://plauditlabs.com",
+        "discovered_at": "2026-06-25"
     },
     {
         "name": "Playstation Store Scraper",
@@ -80894,6 +80994,16 @@
         "discovered_at": "2026-04-21"
     },
     {
+        "name": "Fleet",
+        "description": "Show HN: Docket Fleet – mobile device cloud",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fleet.docketqa.com",
+        "discovered_at": "2026-06-25"
+    },
+    {
         "name": "Freedspeech",
         "description": "Show HN: Muesli – If Granola and Wisprflow had an open source on device baby",
         "category": "IoT & Hardware",
@@ -81622,6 +81732,16 @@
         "cors": "unknown",
         "url": "https://buildvote.com/",
         "discovered_at": "2026-03-07"
+    },
+    {
+        "name": "Cascade-router",
+        "description": "Show HN: Cascade – A bare-metal C++ proxy that cuts LLM API bills by 70%",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cascade-router.github.io/cascade-router/",
+        "discovered_at": "2026-06-25"
     },
     {
         "name": "Demo",
@@ -82916,6 +83036,16 @@
         "cors": "unknown",
         "url": "https://dreaming.press",
         "discovered_at": "2026-03-11"
+    },
+    {
+        "name": "Dripstack",
+        "description": "Show HN: Drip — pay-per-use finance newsletters for AI agents",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dripstack.xyz/stock-picks",
+        "discovered_at": "2026-06-25"
     },
     {
         "name": "Easyserversidetracking",
@@ -87933,6 +88063,16 @@
         "discovered_at": "2026-06-01"
     },
     {
+        "name": "Demo",
+        "description": "Show HN: ReflowPDF – browser PDF editor where tables reflow",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://demo.reflowpdf.com",
+        "discovered_at": "2026-06-25"
+    },
+    {
         "name": "Demoday",
         "description": "Show HN: Beautiful Clickable Demos",
         "category": "Other",
@@ -88221,6 +88361,16 @@
         "cors": "unknown",
         "url": "https://doodlemate.com/",
         "discovered_at": "2026-05-07"
+    },
+    {
+        "name": "Doola",
+        "description": "Show HN: I built an API to form a US company (doola S20)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.doola.com/formation-api/",
+        "discovered_at": "2026-06-25"
     },
     {
         "name": "Dopaloop",
@@ -90213,6 +90363,16 @@
         "discovered_at": "2026-06-03"
     },
     {
+        "name": "Lookaway",
+        "description": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lookaway.com",
+        "discovered_at": "2026-06-25"
+    },
+    {
         "name": "Loony",
         "description": "Show HN: Built Loony for builders who want to spin up data infrastructure fast",
         "category": "Other",
@@ -90761,6 +90921,16 @@
         "cors": "unknown",
         "url": "https://www.moment.dev/",
         "discovered_at": "2026-03-04"
+    },
+    {
+        "name": "Momocentral",
+        "description": "Free UX Review for websites, web apps and mobile apps",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://momocentral.com/pages-we-train-our-designers-you-get-a-free-ux-review/",
+        "discovered_at": "2026-06-25"
     },
     {
         "name": "Moneyonfire",
@@ -92373,6 +92543,16 @@
         "discovered_at": "2026-05-28"
     },
     {
+        "name": "Satteri",
+        "description": "Satteri: A Markdown pipeline forged in Rust for the JavaScript world",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://satteri.bruits.org/",
+        "discovered_at": "2026-06-25"
+    },
+    {
         "name": "Savethearchive",
         "description": "200 Journalists Applaud the Internet Archive's Role in Preserving Public Record",
         "category": "Other",
@@ -93461,6 +93641,16 @@
         "cors": "unknown",
         "url": "https://tritium.legal/blog/noroboto",
         "discovered_at": "2026-05-25"
+    },
+    {
+        "name": "Tronbrowser",
+        "description": "TronBrowser is an open-source, privacy-first, AI-native web browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tronbrowser.dev/",
+        "discovered_at": "2026-06-25"
     },
     {
         "name": "Tryardent",
@@ -103450,6 +103640,16 @@
         "cors": "unknown",
         "url": "https://breezko.dev",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Clearthesis",
+        "description": "Show HN: Clearthesis – Get a clear investment thesis for any public US company",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.clearthesis.ai/home",
+        "discovered_at": "2026-06-25"
     },
     {
         "name": "Fata",
