@@ -690,6 +690,16 @@
         "discovered_at": "2026-06-15"
     },
     {
+        "name": "Blog",
+        "description": "The gap between open weights LLMs and closed source LLMs",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.doubleword.ai/frontier-os-llm",
+        "discovered_at": "2026-06-27"
+    },
+    {
         "name": "Boesch",
         "description": "Show HN: Letting an LLM write robot programs",
         "category": "AI & Machine Learning",
@@ -847,6 +857,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://docs.clarifai.com/"
+    },
+    {
+        "name": "Clarvia",
+        "description": "A free checker for whether AI search engines can cite your site",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://clarvia.dev/geo-checker",
+        "discovered_at": "2026-06-27"
     },
     {
         "name": "Classer",
@@ -2104,6 +2124,16 @@
         "discovered_at": "2026-03-12"
     },
     {
+        "name": "Llm-api",
+        "description": "Show HN: Vynex API – One endpoint for 34 LLM models, paid with USDT",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://llm-api.vynexcloud.com/",
+        "discovered_at": "2026-06-27"
+    },
+    {
         "name": "Llmgame",
         "description": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
         "category": "AI & Machine Learning",
@@ -2640,6 +2670,16 @@
         "cors": "unknown",
         "url": "https://opencode.ai/",
         "discovered_at": "2026-03-22"
+    },
+    {
+        "name": "Opencomputer",
+        "description": "Open AI SDR – An Open Source Version of the Artisans Ava BDR",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://opencomputer.dev/blog/open-ava-bdr-agent/",
+        "discovered_at": "2026-06-27"
     },
     {
         "name": "Openhivemind",
@@ -72345,6 +72385,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Opendata",
+        "description": "OpenData – Open-Source and Object Store Native Databases",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.opendata.dev/",
+        "discovered_at": "2026-06-27"
+    },
+    {
         "name": "Opensea Collection Activity Scraper",
         "description": "A super advanced Opensea collection activity/events scraper capable of fetching 1000 events in under 5 seconds using $0, with pagination and more!",
         "category": "E-Commerce",
@@ -80475,6 +80525,16 @@
         "url": "https://countrylayer.com/"
     },
     {
+        "name": "Freeipapi",
+        "description": "Show HN: Free IP API – Free, Fast and Reliable IP Geolocation API",
+        "category": "Geocoding",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://freeipapi.com",
+        "discovered_at": "2026-06-27"
+    },
+    {
         "name": "GeoNames",
         "description": "Geographical database with millions of place names",
         "category": "Geocoding",
@@ -83512,6 +83572,16 @@
         "cors": "unknown",
         "url": "https://www.passages.ink/",
         "discovered_at": "2026-05-02"
+    },
+    {
+        "name": "Popflame",
+        "description": "Show HN: Hacker News on a train station-style flip board",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://popflame.quickish.space/hn-flipboard/",
+        "discovered_at": "2026-06-27"
     },
     {
         "name": "Scan",
@@ -92903,6 +92973,16 @@
         "discovered_at": "2026-04-30"
     },
     {
+        "name": "Sedona",
+        "description": "Made a Rust DB run spatial queries on gaming GPU RT cores, beating an H100",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sedona.apache.org/latest/blog/2026/06/26/sedonadb-04-gpu-accelerated-spatial-joins/",
+        "discovered_at": "2026-06-27"
+    },
+    {
         "name": "Segue",
         "description": "Segue – An illustrated free vocabulary builder",
         "category": "Other",
@@ -93111,6 +93191,16 @@
         "cors": "unknown",
         "url": "https://www.sinkhole.app",
         "discovered_at": "2026-03-10"
+    },
+    {
+        "name": "Skipd",
+        "description": "I built a tiny free app to track money saved by skipping small purchases",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://skipd.coffee/",
+        "discovered_at": "2026-06-27"
     },
     {
         "name": "Sklad",
@@ -93641,6 +93731,16 @@
         "cors": "unknown",
         "url": "https://textyoursite.com/demo",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Theapplied",
+        "description": "Open Source, APIs, and the Rise of Agent-Led Growth",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://theapplied.substack.com/p/from-product-led-to-agent-led-growth",
+        "discovered_at": "2026-06-27"
     },
     {
         "name": "Thedebrief",
@@ -105520,6 +105620,16 @@
         "cors": "unknown",
         "url": "https://structocr.com",
         "discovered_at": "2026-06-07"
+    },
+    {
+        "name": "Tachiosports",
+        "description": "Tachio – Free esports API covering 13 games",
+        "category": "Sports",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tachiosports.com",
+        "discovered_at": "2026-06-27"
     },
     {
         "name": "Techtarget",
