@@ -1596,6 +1596,16 @@
         "url": "https://ai.google.dev/"
     },
     {
+        "name": "Graphify",
+        "description": "Graphify – Open-Source Knowledge Graph Skill for AI Coding Assistants",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://graphify.net/index.html#features",
+        "discovered_at": "2026-06-28"
+    },
+    {
         "name": "Grassdx",
         "description": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
         "category": "AI & Machine Learning",
@@ -1862,6 +1872,16 @@
         "cors": "unknown",
         "url": "https://jacobee.netlify.app/",
         "discovered_at": "2026-06-22"
+    },
+    {
+        "name": "Jayacunzo",
+        "description": "The best response to AI slop and online noise is from Robin Williams",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jayacunzo.com/blog/your-move-chief",
+        "discovered_at": "2026-06-28"
     },
     {
         "name": "Jobbi",
@@ -13987,6 +14007,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Camera10",
+        "description": "Show HN: I made a webcam motion detector, local/cloud storage, AI person detect",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://camera10.com/",
+        "discovered_at": "2026-06-28"
+    },
+    {
         "name": "Checkmyvin",
         "description": "Show HN: Free VIN Decoder with AI Summaries on Cloudflare Workers and NHTSA Data",
         "category": "Cloud & Storage",
@@ -14191,6 +14221,16 @@
         "cors": "unknown",
         "url": "https://mantledb.sh/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Metaspec",
+        "description": "Show HN: Metaspec: The DpANS3R Common Lisp Spec in S-Expr and HTML Format",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://metaspec.dev/#",
+        "discovered_at": "2026-06-28"
     },
     {
         "name": "Migas",
@@ -19995,6 +20035,16 @@
         "cors": "unknown",
         "url": "https://apify.com/xmiso_scrapers/businesses-without-websites-leads-scraper-google-maps",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "By-smartlink",
+        "description": "Smart Link – Free link shortener with AI analytics, A/B testing and QR codes",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.by-smartlink.com/",
+        "discovered_at": "2026-06-28"
     },
     {
         "name": "Byrna Reviews Scraper",
@@ -46735,6 +46785,16 @@
         "cors": "unknown",
         "url": "https://apify.com/ecomscrape/apotea-product-search-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "App",
+        "description": "Show HN: Codex can track external events with respect to internal data",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.getsupers.com/admin/growth",
+        "discovered_at": "2026-06-28"
     },
     {
         "name": "App downloader Boo",
@@ -77971,6 +78031,16 @@
         "discovered_at": "2026-04-20"
     },
     {
+        "name": "Quizzy",
+        "description": "Show HN: FIFA 2026 bracket predictor – see live crowd % as picks come in",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://quizzy.earth/p/0Dpwk5TjHe/fifa-world-cup-2026-predict-the-bracket-live",
+        "discovered_at": "2026-06-28"
+    },
+    {
         "name": "Steadcast",
         "description": "Show HN: Steadcast – Free Mac podcast player for learning, not background noise",
         "category": "Education",
@@ -78929,6 +78999,16 @@
         "url": "https://api.chucknorris.io/"
     },
     {
+        "name": "Coachess",
+        "description": "A free chess trainer where the coach explains your games in plain English",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://coachess.app",
+        "discovered_at": "2026-06-28"
+    },
+    {
         "name": "Contraband",
         "description": "Show HN: Contraband – Ticketed VR cinema for indie and AI-made films",
         "category": "Entertainment",
@@ -78937,6 +79017,16 @@
         "cors": "unknown",
         "url": "https://contraband.watch",
         "discovered_at": "2026-06-26"
+    },
+    {
+        "name": "Decomp-academy",
+        "description": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://decomp-academy.dev",
+        "discovered_at": "2026-06-28"
     },
     {
         "name": "Eu-west-1a",
@@ -87733,6 +87823,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Bwanaerp",
+        "description": "Show HN: Vlt – A local vault for the API keys you use in every project",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bwanaerp.medium.com/how-to-stop-losing-api-keys-forever-i-built-a-tool-for-this-8b2adfca782a",
+        "discovered_at": "2026-06-28"
+    },
+    {
         "name": "Cadara",
         "description": "Show HN: CADara – I made an open-source in-browser CAD",
         "category": "Other",
@@ -88481,6 +88581,16 @@
         "cors": "unknown",
         "url": "https://dhruvahuja.me/posts/ai-impact-on-oss/",
         "discovered_at": "2026-05-15"
+    },
+    {
+        "name": "Didon",
+        "description": "Do you know your founder-personality type? (research-bassed)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.didon.app/test/founder-personality",
+        "discovered_at": "2026-06-28"
     },
     {
         "name": "Diffvoid",
@@ -89821,6 +89931,16 @@
         "cors": "unknown",
         "url": "https://hnshah.github.io/idea-killshot/",
         "discovered_at": "2026-03-20"
+    },
+    {
+        "name": "Holoso",
+        "description": "Show HN: FPGA design acceleration – idiomatic Python to synthesizable Verilog",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://holoso.digital",
+        "discovered_at": "2026-06-28"
     },
     {
         "name": "Homelabinator",
@@ -93053,6 +93173,16 @@
         "discovered_at": "2026-05-16"
     },
     {
+        "name": "Shazow",
+        "description": "Permissive vs. Copyleft Open Source",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://shazow.net/posts/permissive-vs-copyleft/",
+        "discovered_at": "2026-06-28"
+    },
+    {
         "name": "Shiftapi",
         "description": "ShiftAPI – A nicer way to write Go APIs, with TypeScript types for free",
         "category": "Other",
@@ -93701,6 +93831,16 @@
         "cors": "unknown",
         "url": "https://www.telegraph.co.uk/news/2026/05/06/richard-dawkins-convinced-ai-is-conscious/",
         "discovered_at": "2026-05-08"
+    },
+    {
+        "name": "Temataro",
+        "description": "Show HN: Better Graphs – Teach agents to stop making plain Matplotlib slop",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://temataro.github.io/better-graphs/",
+        "discovered_at": "2026-06-28"
     },
     {
         "name": "Teslog",
@@ -99926,6 +100066,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Meerkatagents",
+        "description": "Show HN: Open-Source API for Asynchronous Tasks Using Agents",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://meerkatagents.com/",
+        "discovered_at": "2026-06-28"
+    },
+    {
         "name": "Meesho Product Detail Scraper 🛍️",
         "description": "Scrape detailed product information from Meesho.com, including prices, reviews, ratings, shipping details, and seller information. Perfect for market research, price monitoring and competitive...",
         "category": "Productivity",
@@ -104102,6 +104252,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Luma",
+        "description": "Show HN: Luma – A New Workspace for Frida",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://luma.frida.re/",
+        "discovered_at": "2026-06-28"
+    },
+    {
         "name": "Middle-earth-interactive-map",
         "description": "Show HN: An interactive map of Tolkien's Middle-earth",
         "category": "Science",
@@ -104584,6 +104744,16 @@
         "cors": "unknown",
         "url": "https://agentport.sh/",
         "discovered_at": "2026-04-30"
+    },
+    {
+        "name": "Badshah",
+        "description": "AI Is the Best Thing to Happen to Security",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://badshah.io/blog/ai-is-the-best-thing-to-happen-to-security/",
+        "discovered_at": "2026-06-28"
     },
     {
         "name": "Blog",
@@ -107180,6 +107350,16 @@
         "discovered_at": "2026-04-18"
     },
     {
+        "name": "Wordnamefire",
+        "description": "I wrote a free book about Scripture, AI, and language",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wordnamefire.com/",
+        "discovered_at": "2026-06-28"
+    },
+    {
         "name": "Yesify",
         "description": "Show HN: Yesify – We raised $40M to return the word \"yes\" from an API endpoint",
         "category": "Text & Language",
@@ -107579,6 +107759,16 @@
         "discovered_at": "2026-06-15"
     },
     {
+        "name": "Bar",
+        "description": "Show HN: Use any SVG as QR code On Dots",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bar.codes/",
+        "discovered_at": "2026-06-28"
+    },
+    {
         "name": "Best-gpu",
         "description": "Show HN: Most GPU Upgrades Aren't Worth It, I Built a Calculator to Prove It",
         "category": "Utilities",
@@ -107638,6 +107828,16 @@
         "discovered_at": "2026-04-20"
     },
     {
+        "name": "Engye",
+        "description": "Show HN: Engye – transfer files between any two devices by scanning a QR code",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://engye.fuzzyworld.net/",
+        "discovered_at": "2026-06-28"
+    },
+    {
         "name": "Fascinating-crepe-d7b325",
         "description": "QuickTools Pro – Free browser-based utility suite",
         "category": "Utilities",
@@ -107656,6 +107856,16 @@
         "cors": "unknown",
         "url": "https://fluttertime.com/",
         "discovered_at": "2026-05-22"
+    },
+    {
+        "name": "Fx",
+        "description": "Show HN: HotFX Pseudorandom – value noise in a CSS variable via custom element",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fx.hot.page/pseudorandom",
+        "discovered_at": "2026-06-28"
     },
     {
         "name": "Gitauto",
@@ -107921,6 +108131,16 @@
         "cors": "unknown",
         "url": "https://anthillnet.github.io/sinain-hud/",
         "discovered_at": "2026-05-14"
+    },
+    {
+        "name": "Askchannel",
+        "description": "Show HN: Discover content in any YouTube channel with RAG",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://askchannel.ai",
+        "discovered_at": "2026-06-28"
     },
     {
         "name": "Aswf",
