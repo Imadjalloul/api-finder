@@ -919,6 +919,16 @@
         "discovered_at": "2026-03-17"
     },
     {
+        "name": "Cnn",
+        "description": "AI glasses are aiding cheating in exams. Test-obsessed Asia is ground zero",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.cnn.com/2026/06/26/asia/ai-glasses-cheating-exams-intl-hnk",
+        "discovered_at": "2026-06-29"
+    },
+    {
         "name": "Cohere",
         "description": "NLP models for text generation, classification, embeddings",
         "category": "AI & Machine Learning",
@@ -2471,6 +2481,16 @@
         "cors": "unknown",
         "url": "https://www.nature.com/articles/d41586-026-01199-z",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Nearest-neighbor",
+        "description": "Show HN: Nearest-neighbor, a dating app for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nearest-neighbor.replygirl.club/",
+        "discovered_at": "2026-06-29"
     },
     {
         "name": "Needhuman",
@@ -8281,6 +8301,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Frequal",
+        "description": "Show HN: DRM-Free Books",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://frequal.com/Perspectives/DrmFreeAuthors.html",
+        "discovered_at": "2026-06-29"
+    },
+    {
         "name": "Gondola",
         "description": "Show HN: Hotel MCP server for cash and points search/booking (free)",
         "category": "Books",
@@ -8417,6 +8447,16 @@
         "cors": "unknown",
         "url": "https://www.notebookcheck.net/43-hours-battery-life-Dell-XPS-14-2026-lasts-almost-3x-longer-vs-MacBook-Air-15-M5-in-web-browsing-test.1262947.0.html",
         "discovered_at": "2026-04-02"
+    },
+    {
+        "name": "Oint",
+        "description": "Show HN: Oint, a free booking app for salons and studios",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.oint.app/en",
+        "discovered_at": "2026-06-29"
     },
     {
         "name": "Open Library",
@@ -78081,6 +78121,16 @@
         "discovered_at": "2026-05-22"
     },
     {
+        "name": "Xg",
+        "description": "AI Glasses Will Impact the Future of Education",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://xg.glass/posts/network-exam-test/",
+        "discovered_at": "2026-06-29"
+    },
+    {
         "name": "Zfhuang99",
         "description": "Learnings from 100K lines of Rust with AI (2025)",
         "category": "Education",
@@ -83526,6 +83576,16 @@
         "discovered_at": "2026-05-06"
     },
     {
+        "name": "Independent-wire",
+        "description": "Show HN: Independent Wire – open-source AI newsroom that documents its own bias",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://independent-wire.org/",
+        "discovered_at": "2026-06-29"
+    },
+    {
         "name": "Nanostat",
         "description": "Show HN: Nanostat – automated particle analysis for electron microscopy images",
         "category": "News",
@@ -87903,6 +87963,16 @@
         "discovered_at": "2026-04-12"
     },
     {
+        "name": "Chappie",
+        "description": "Show HN: Chappie – Direct Desktop Search and macOS Control",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://chappie.a10z.co",
+        "discovered_at": "2026-06-29"
+    },
+    {
         "name": "Charityverify",
         "description": "Show HN: CharityVerify – Trust scores for 138K Canadian charities",
         "category": "Other",
@@ -89021,6 +89091,16 @@
         "cors": "unknown",
         "url": "https://epicpencil.es/",
         "discovered_at": "2026-05-15"
+    },
+    {
+        "name": "Epub",
+        "description": "Show HN: I built an opinionated minimalist ePub/pdf online reader",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://epub.mirror.forum",
+        "discovered_at": "2026-06-29"
     },
     {
         "name": "Eran",
@@ -91043,6 +91123,16 @@
         "discovered_at": "2026-04-02"
     },
     {
+        "name": "Marmotdata",
+        "description": "Show HN: Marmot, context layer for agents and humans",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://marmotdata.io/",
+        "discovered_at": "2026-06-29"
+    },
+    {
         "name": "Master Data API - v2",
         "description": "# ATTENTION: **This version isn't compliant with data entities of old version (e.g. CL and AD). It's possible to use this configuration only to new data entities.**\r\n\r\n\r\n## Welcome!\r\n\r\nVTEX Master Dat",
         "category": "Other",
@@ -92091,6 +92181,16 @@
         "cors": "unknown",
         "url": "https://payo.tech/",
         "discovered_at": "2026-03-21"
+    },
+    {
+        "name": "Pcmag",
+        "description": "The US Used to Demand the Best Tech. Now We Ban It",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it",
+        "discovered_at": "2026-06-29"
     },
     {
         "name": "Pdf2md",
@@ -94761,6 +94861,16 @@
         "cors": "unknown",
         "url": "https://xcancel.com/elonmusk/status/2044990537145753894#m",
         "discovered_at": "2026-04-18"
+    },
+    {
+        "name": "Xsdr",
+        "description": "Show HN: XSDR – Real-time event monitoring infrastructure for agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://xsdr.app",
+        "discovered_at": "2026-06-29"
     },
     {
         "name": "Yaninatrekhleb",
