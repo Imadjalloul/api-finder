@@ -300,6 +300,16 @@
         "discovered_at": "2026-06-26"
     },
     {
+        "name": "Aistorygenerator",
+        "description": "AI Story Generator for Game Masters – Free D&D and RPG Tools",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aistorygenerator.work",
+        "discovered_at": "2026-06-30"
+    },
+    {
         "name": "Aki",
         "description": "Aki.io – Open-source AI models via API on EU infrastructure (OpenAI-compatible)",
         "category": "AI & Machine Learning",
@@ -338,6 +348,16 @@
         "cors": "unknown",
         "url": "https://almartis.xyz/gpu-free-datacenter.html",
         "discovered_at": "2026-05-26"
+    },
+    {
+        "name": "Ama2",
+        "description": "Show HN: AMA2, messenger built for AI agent",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ama2.me/",
+        "discovered_at": "2026-06-30"
     },
     {
         "name": "Ampledata",
@@ -929,6 +949,16 @@
         "discovered_at": "2026-06-29"
     },
     {
+        "name": "Code",
+        "description": "Show HN: No ads and noise from any page, get a clean AI reformat in one click",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://code.intellios.ai/cwsum/",
+        "discovered_at": "2026-06-30"
+    },
+    {
         "name": "Cohere",
         "description": "NLP models for text generation, classification, embeddings",
         "category": "AI & Machine Learning",
@@ -1085,6 +1115,16 @@
         "cors": "unknown",
         "url": "https://www.dhrive.app/",
         "discovered_at": "2026-05-27"
+    },
+    {
+        "name": "Digitalapplied",
+        "description": "Does US AI Gatekeeping Hand China the Open-Source Edge?",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.digitalapplied.com/blog/us-ai-gatekeeping-china-open-source-advantage-2026",
+        "discovered_at": "2026-06-30"
     },
     {
         "name": "Disputron",
@@ -3788,6 +3828,16 @@
         "cors": "unknown",
         "url": "https://theincidentchallenge.com/",
         "discovered_at": "2026-05-25"
+    },
+    {
+        "name": "Thenewassociationwebmasters",
+        "description": "Why Your AI Agents Should Stop Speaking English",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thenewassociationwebmasters.blogspot.com/2026/06/the-language-trap-reset-base-margin-0.html",
+        "discovered_at": "2026-06-30"
     },
     {
         "name": "Thepiece",
@@ -7265,6 +7315,16 @@
         "cors": "unknown",
         "url": "https://cenit-io.github.io/openapi/swagger.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Certobserver",
+        "description": "Show HN: Certificate Transparency search that groups related certificates",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://certobserver.com/ct-search",
+        "discovered_at": "2026-06-30"
     },
     {
         "name": "Dog CEO",
@@ -14941,6 +15001,16 @@
         "discovered_at": "2026-05-31"
     },
     {
+        "name": "Hail",
+        "description": "Show HN: Hail.so – Send and receive emails, calls, SMS via a single MCP/API/CLI",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hail.so/",
+        "discovered_at": "2026-06-30"
+    },
+    {
         "name": "Interactive documentation for your Premium plan",
         "description": "This interactive documentation is using your API key which is filled in automatically, you can find and change this in [your dashboard](https://www.meteosource.com/client).\n\nUsing the `GET` button,",
         "category": "Communication",
@@ -15050,6 +15120,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Mocca",
+        "description": "Show HN: Mocca – A Mac email client powered by local AI",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mocca.run/",
+        "discovered_at": "2026-06-30"
+    },
+    {
         "name": "Nexmo Conversion API",
         "description": "The Conversion API allows you to tell Nexmo about the reliability of your 2FA communications. Sending conversion data back to us means that Nexmo can deliver messages faster and more reliably.\nThe con",
         "category": "Communication",
@@ -15138,6 +15218,16 @@
         "cors": "unknown",
         "url": "https://pushward.app",
         "discovered_at": "2026-05-08"
+    },
+    {
+        "name": "Quickinvoice-jade",
+        "description": "I built a free invoice generator for freelancers – no login, no subscription",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://quickinvoice-jade.vercel.app",
+        "discovered_at": "2026-06-30"
     },
     {
         "name": "Robotomail",
@@ -50645,6 +50735,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Exfault",
+        "description": "Show HN: I built Exfault, agentic mobile app pentesting tool",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.exfault.com/",
+        "discovered_at": "2026-06-30"
+    },
+    {
         "name": "Expired Domains Scraper",
         "description": "This actor scrapes expired domain data from expireddomains.net, supporting user authentication with optional multi-factor authentication (MFA). It also allows users to apply filters for targeted...",
         "category": "Development",
@@ -79137,6 +79237,16 @@
         "discovered_at": "2026-06-26"
     },
     {
+        "name": "Llamalegends",
+        "description": "Show HN: Llama Legends - A 100% free Card Game with RPG elements",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://llamalegends.com/",
+        "discovered_at": "2026-06-30"
+    },
+    {
         "name": "Manager",
         "description": "Show HN: Procedural Music Workstation in the Browser",
         "category": "Entertainment",
@@ -79195,6 +79305,16 @@
         "cors": "unknown",
         "url": "https://minigames.world/en",
         "discovered_at": "2026-06-14"
+    },
+    {
+        "name": "Music0",
+        "description": "Show HN: AI Music Generator Free and No Signup",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://music0.org/",
+        "discovered_at": "2026-06-30"
     },
     {
         "name": "Neonetrek",
@@ -86813,6 +86933,16 @@
         "discovered_at": "2026-05-29"
     },
     {
+        "name": "Agent-swarm",
+        "description": "Show HN: The open-source alternative to Claude Tag",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.agent-swarm.dev",
+        "discovered_at": "2026-06-30"
+    },
+    {
         "name": "Agentcash",
         "description": "Show HN: AgentCash – access 280 paid APIs with no API keys",
         "category": "Other",
@@ -87233,6 +87363,16 @@
         "discovered_at": "2026-06-10"
     },
     {
+        "name": "Arpitrage",
+        "description": "The Rent Freeze, and a Return to the 1970s",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://arpitrage.substack.com/p/the-rent-freeze-and-a-return-to-the",
+        "discovered_at": "2026-06-30"
+    },
+    {
         "name": "Arstechnica",
         "description": "Apple can delist apps \"with or without cause,\" judge says in loss for Musi app",
         "category": "Other",
@@ -87251,6 +87391,16 @@
         "cors": "unknown",
         "url": "https://artemis.fyi/",
         "discovered_at": "2026-04-05"
+    },
+    {
+        "name": "Artifactsmmo",
+        "description": "Show HN: An MMORPG where you control your characters with an API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.artifactsmmo.com/",
+        "discovered_at": "2026-06-30"
     },
     {
         "name": "Aspire",
@@ -89253,6 +89403,16 @@
         "discovered_at": "2026-05-08"
     },
     {
+        "name": "Fan-pier-labs",
+        "description": "Show HN: Crossbeam-CLI – Connect Claude to Crossbeam without the enterprise tier",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fan-pier-labs.github.io/crossbeam-cli/",
+        "discovered_at": "2026-06-30"
+    },
+    {
         "name": "Fastbusinessapi",
         "description": "Best Clearbit Alternatives for Company Data Enrichment",
         "category": "Other",
@@ -89271,6 +89431,16 @@
         "cors": "unknown",
         "url": "https://www.fastcompany.com/91542655/bitwarden-scrubs-always-free-and-inclusion-values-from-its-website-as-longtime-execs-step-down",
         "discovered_at": "2026-05-16"
+    },
+    {
+        "name": "Fastsleep",
+        "description": "Show HN: Fastsleep.app - An App for Nighttime Overthinkers",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fastsleep.app/",
+        "discovered_at": "2026-06-30"
     },
     {
         "name": "Fcavallarin",
@@ -90133,6 +90303,16 @@
         "discovered_at": "2026-05-13"
     },
     {
+        "name": "Hyperpaste",
+        "description": "Show HN: HyperPaste – a free, open-source clipboard manager for macOS",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hyperpaste.io",
+        "discovered_at": "2026-06-30"
+    },
+    {
         "name": "Ibanforge",
         "description": "Show HN: IBANforge – $6/mo alternative to $9,500/yr IBAN validation APIs",
         "category": "Other",
@@ -90141,6 +90321,16 @@
         "cors": "unknown",
         "url": "https://www.ibanforge.com/en",
         "discovered_at": "2026-04-18"
+    },
+    {
+        "name": "Iching-silk",
+        "description": "I built a free I Ching oracle web app",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://iching-silk.vercel.app/",
+        "discovered_at": "2026-06-30"
     },
     {
         "name": "Idontuselinkedin",
@@ -90953,6 +91143,16 @@
         "discovered_at": "2026-05-17"
     },
     {
+        "name": "Lrcmux",
+        "description": "Show HN: Lrcmux, one lyrics API to rule them all",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lrcmux.dev",
+        "discovered_at": "2026-06-30"
+    },
+    {
         "name": "Lucidtech API",
         "description": "Lucidtech API API",
         "category": "Other",
@@ -91041,6 +91241,16 @@
         "cors": "unknown",
         "url": "https://www.makeform.ai/f/mtwDANdO",
         "discovered_at": "2026-05-18"
+    },
+    {
+        "name": "Makerchecker",
+        "description": "Is closed source even a moat anymore?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.makerchecker.ai/insights/open-source-is-in-again/",
+        "discovered_at": "2026-06-30"
     },
     {
         "name": "Makeuseof",
@@ -92303,6 +92513,16 @@
         "discovered_at": "2026-05-03"
     },
     {
+        "name": "Pitara",
+        "description": "Free Granola Alternate",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pitara.ai/login?next=%252F",
+        "discovered_at": "2026-06-30"
+    },
+    {
         "name": "Pithandpip",
         "description": "Writing for humans is the only SEO trick left",
         "category": "Other",
@@ -92661,6 +92881,16 @@
         "cors": "unknown",
         "url": "https://qunabu.github.io/Gravity/",
         "discovered_at": "2026-06-10"
+    },
+    {
+        "name": "Quxnet",
+        "description": "Show HN: Quxnet",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://quxnet.net/about",
+        "discovered_at": "2026-06-30"
     },
     {
         "name": "Ras",
@@ -93941,6 +94171,16 @@
         "cors": "unknown",
         "url": "https://temataro.github.io/better-graphs/",
         "discovered_at": "2026-06-28"
+    },
+    {
+        "name": "Termrover",
+        "description": "Show HN: TermRover – a native tmux-first terminal for iOS and Android",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://termrover.sh/",
+        "discovered_at": "2026-06-30"
     },
     {
         "name": "Teslog",
@@ -100855,6 +101095,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Org-notes-mac",
+        "description": "Show HN: Lighting fast writing app on Mac with powerful table functions",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://org-notes-mac.netlify.app",
+        "discovered_at": "2026-06-30"
+    },
+    {
         "name": "Organic Visit Scheduler X",
         "description": "Automates and randomizes the timing of visits triggered by the \"Organic Visit Simulator X\", creating natural-looking daily engagement patterns. Helps maintain search visibility with realistic visit...",
         "category": "Productivity",
@@ -102843,6 +103093,16 @@
         "cors": "unknown",
         "url": "https://apify.com/shareze001/tiktok-videos-by-keyword",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Timefeed",
+        "description": "Show HN: Timefeed – Auto sync public events to your calendar",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://timefeed.ai",
+        "discovered_at": "2026-06-30"
     },
     {
         "name": "TMDB TV Shows Scraper 📺",
@@ -105410,6 +105670,16 @@
         "cors": "unknown",
         "url": "https://beacon-notify.netlify.app/",
         "discovered_at": "2026-03-05"
+    },
+    {
+        "name": "Boredpeoplechat",
+        "description": "Show HN: Bored People Chat – Anonymous global chat room",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://boredpeoplechat.com/",
+        "discovered_at": "2026-06-30"
     },
     {
         "name": "Burnroom",
