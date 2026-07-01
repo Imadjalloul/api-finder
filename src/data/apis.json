@@ -80,6 +80,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Aegize",
+        "description": "Show HN: Aegize – Infrastructure for autonomous AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.aegize.com/",
+        "discovered_at": "2026-07-01"
+    },
+    {
         "name": "Agensi",
         "description": "Show HN: Agensi – Curated marketplace for AI agent skills (SKILL.md)",
         "category": "AI & Machine Learning",
@@ -518,6 +528,16 @@
         "cors": "unknown",
         "url": "https://archestra.ai/blog/only-responsible-ai",
         "discovered_at": "2026-04-18"
+    },
+    {
+        "name": "Archytasdigital",
+        "description": "Show HN: A Free AI Visibility Tracker",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.archytasdigital.com/",
+        "discovered_at": "2026-07-01"
     },
     {
         "name": "Arize",
@@ -1425,6 +1445,16 @@
         "cors": "unknown",
         "url": "https://fusion.adam.new/install",
         "discovered_at": "2026-05-02"
+    },
+    {
+        "name": "Futurism",
+        "description": "AI Zillionaires Are Starting to Get Scared as the Public Turns Against Them",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://futurism.com/artificial-intelligence/ai-tech-billionaires-mark-cuban-scared-public",
+        "discovered_at": "2026-07-01"
     },
     {
         "name": "Gabidev",
@@ -3937,6 +3967,16 @@
         "cors": "unknown",
         "url": "https://toprec.io",
         "discovered_at": "2026-05-28"
+    },
+    {
+        "name": "Traceaio",
+        "description": "Show HN: TraceAIO – open-source LLM visibility tracker",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://traceaio.org",
+        "discovered_at": "2026-07-01"
     },
     {
         "name": "Tracium",
@@ -7992,6 +8032,16 @@
         "cors": "unknown",
         "url": "https://btcwid.com",
         "discovered_at": "2026-05-02"
+    },
+    {
+        "name": "Chaingenius",
+        "description": "Show HN: Explore Ethereum by the Shape of a Transaction",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.chaingenius.ai",
+        "discovered_at": "2026-07-01"
     },
     {
         "name": "CoinLayer",
@@ -14769,6 +14819,16 @@
         "cors": "unknown",
         "url": "https://app.voicetta.com",
         "discovered_at": "2026-06-18"
+    },
+    {
+        "name": "Apparent",
+        "description": "Show HN: I made a heatmap of 3400 VCs who are open to cold emails",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apparent.social/heat-map",
+        "discovered_at": "2026-07-01"
     },
     {
         "name": "Ccmarvin",
@@ -48117,6 +48177,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Capacitor",
+        "description": "Show HN: Capacitor – shared mem for Claude Code, Cursor and other coding agents",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://capacitor.kurrent.io/",
+        "discovered_at": "2026-07-01"
+    },
+    {
         "name": "Capitaloneshopping.com Scraper",
         "description": "Scrape deal data from capitaloneshopping.com - including price comparisons, history, coupons, and retailer links. Ideal for deal aggregation, price monitoring, and market research. Fast, structured,..",
         "category": "Development",
@@ -79169,6 +79239,16 @@
         "discovered_at": "2026-06-26"
     },
     {
+        "name": "Curvytron2",
+        "description": "Show HN: Curvytron 2, I rewrote my browser party game, 10 years later",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://curvytron2.com/",
+        "discovered_at": "2026-07-01"
+    },
+    {
         "name": "Decomp-academy",
         "description": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
         "category": "Entertainment",
@@ -83913,6 +83993,16 @@
         "discovered_at": "2026-03-31"
     },
     {
+        "name": "Useabstractions",
+        "description": "Show HN: Abstractions – Weekly newsletters explaining your codebase",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://useabstractions.com",
+        "discovered_at": "2026-07-01"
+    },
+    {
         "name": "Accountants General, Tripura",
         "description": "APIs provided by Accountants General, Tripura.",
         "category": "open_data",
@@ -87151,6 +87241,16 @@
         "cors": "unknown",
         "url": "https://aminrj.com/posts/rag-document-poisoning/",
         "discovered_at": "2026-03-14"
+    },
+    {
+        "name": "Amitlimaye1",
+        "description": "The second runtime is the real test: a no-kernel VM from Python to Node",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://amitlimaye1.substack.com/p/1500-real-apps-on-one-box-and-where",
+        "discovered_at": "2026-07-01"
     },
     {
         "name": "Andonlabs",
@@ -90923,6 +91023,16 @@
         "discovered_at": "2026-06-13"
     },
     {
+        "name": "Langevinai",
+        "description": "Show HN: LangevinAI – Automated FP&A for Everyone",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://langevinai.io/",
+        "discovered_at": "2026-07-01"
+    },
+    {
         "name": "Lasersell",
         "description": "Show HN: I benchmarked every major Solana trading API (open-source)",
         "category": "Other",
@@ -91271,6 +91381,16 @@
         "cors": "unknown",
         "url": "https://manual.cochranblock.org",
         "discovered_at": "2026-05-02"
+    },
+    {
+        "name": "Manualdousuario",
+        "description": "Odd Gestures in Public",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://manualdousuario.net/en/gestures-airpods-apple-watch/",
+        "discovered_at": "2026-07-01"
     },
     {
         "name": "Manufact",
@@ -94551,6 +94671,16 @@
         "cors": "unknown",
         "url": "https://www.trychert.com",
         "discovered_at": "2026-05-26"
+    },
+    {
+        "name": "Tryevaluator",
+        "description": "Show HN: Don't ask if devs cheat with AI, test if they're good with it",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tryevaluator.com",
+        "discovered_at": "2026-07-01"
     },
     {
         "name": "Tunnelmind",
@@ -108511,6 +108641,16 @@
         "cors": "unknown",
         "url": "https://anthillnet.github.io/sinain-hud/",
         "discovered_at": "2026-05-14"
+    },
+    {
+        "name": "Api",
+        "description": "Show HN: BetterVideo - privacy-first video enhancement API",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://api.bettervideo.io/developers",
+        "discovered_at": "2026-07-01"
     },
     {
         "name": "Askchannel",
