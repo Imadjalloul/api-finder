@@ -820,6 +820,16 @@
         "discovered_at": "2026-04-08"
     },
     {
+        "name": "Bytesalt",
+        "description": "Show HN: Bytesalt – AI that finds bugs Playwright tests miss",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bytesalt.com",
+        "discovered_at": "2026-07-02"
+    },
+    {
         "name": "Cachd",
         "description": "Show HN: The open-source AI bookmark manager for busy people",
         "category": "AI & Machine Learning",
@@ -8399,6 +8409,16 @@
         "cors": "unknown",
         "url": "https://www.evanshunt.com/enshittification/",
         "discovered_at": "2026-03-26"
+    },
+    {
+        "name": "Figit",
+        "description": "Show HN: Open-source library to copy-paste HTML into Figma as editable layers",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.figit.design/",
+        "discovered_at": "2026-07-02"
     },
     {
         "name": "Flight Most Booked Destinations",
@@ -80817,6 +80837,16 @@
         "url": "https://www.themealdb.com/api.php"
     },
     {
+        "name": "Zukr",
+        "description": "Show HN: Zukr – offline OCR that flags hidden sugar names on food labels",
+        "category": "Food & Drink",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://zukr.app/",
+        "discovered_at": "2026-07-02"
+    },
+    {
         "name": "Qualtrics API",
         "description": "Work with Qualtrics surveys, distributions and response events",
         "category": "forms",
@@ -80990,6 +81020,16 @@
         "discovered_at": "2026-04-29"
     },
     {
+        "name": "Citizenportal",
+        "description": "Citizen Portal – aggregated public government meeting data by city and county",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://citizenportal.ai/",
+        "discovered_at": "2026-07-02"
+    },
+    {
         "name": "Claw",
         "description": "Show HN: Make sure your OpenClaw isn't doing things it's not supposed to",
         "category": "Government & Health",
@@ -81027,6 +81067,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://disease.sh/docs/"
+    },
+    {
+        "name": "Democrata",
+        "description": "The Spanish government asks public companies not to contract with Palantir",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.democrata.es/en/digital-ai/spain-also-stops-peter-thiel-moncloa-asks-public-companies-not-to-contract-with-the-giant-palantir/",
+        "discovered_at": "2026-07-02"
     },
     {
         "name": "Eve",
@@ -82374,6 +82424,16 @@
         "discovered_at": "2026-06-25"
     },
     {
+        "name": "Delopsu",
+        "description": "Show HN: Pinch-to-zoom tree navigation",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.delopsu.com/pinch-to-zoom-tree-navigation",
+        "discovered_at": "2026-07-02"
+    },
+    {
         "name": "Demo",
         "description": "Show HN: Route optimization API that solves fleet planning as a single problem",
         "category": "Maps & Transport",
@@ -83649,6 +83709,16 @@
         "discovered_at": "2026-03-22"
     },
     {
+        "name": "Cs2",
+        "description": "Show HN: Infini-News – 1.36B news articles from Common Crawl, queryable in ms",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cs2.uni-graz.at/blog/infini-news/",
+        "discovered_at": "2026-07-02"
+    },
+    {
         "name": "Currents API",
         "description": "Latest news published in various news sources",
         "category": "News",
@@ -83922,6 +83992,16 @@
         "cors": "unknown",
         "url": "https://www.passages.ink/",
         "discovered_at": "2026-05-02"
+    },
+    {
+        "name": "Places",
+        "description": "Show HN: Places - Google Docs for maps with auto-import from articles and videos",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.places.is/",
+        "discovered_at": "2026-07-02"
     },
     {
         "name": "Popflame",
@@ -88373,6 +88453,16 @@
         "discovered_at": "2026-06-18"
     },
     {
+        "name": "Clockjumper",
+        "description": "Show HN: Clockjumper – An Intervibed Project",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://clockjumper.com/",
+        "discovered_at": "2026-07-02"
+    },
+    {
         "name": "Coached",
         "description": "Show HN: Behavioral analysis of your career decisions from your LinkedIn",
         "category": "Other",
@@ -90081,6 +90171,16 @@
         "cors": "unknown",
         "url": "https://glucera.app/",
         "discovered_at": "2026-05-04"
+    },
+    {
+        "name": "Golemui",
+        "description": "Show HN: GolemUI – Declarative Form Engine",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://golemui.com",
+        "discovered_at": "2026-07-02"
     },
     {
         "name": "Google Mirror",
@@ -93523,6 +93623,16 @@
         "discovered_at": "2026-04-14"
     },
     {
+        "name": "Scorifya",
+        "description": "Show HN: Scorifya Controls, a self-hosted SoC 2 tool with RFC 3161 timestamps",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.scorifya.com/controls",
+        "discovered_at": "2026-07-02"
+    },
+    {
         "name": "Scrapewithruno",
         "description": "Show HN: Runo – Scraping API that returns typed JSON, not raw HTML",
         "category": "Other",
@@ -93561,6 +93671,16 @@
         "cors": "unknown",
         "url": "https://segue.app",
         "discovered_at": "2026-05-11"
+    },
+    {
+        "name": "Senior-swe-bench",
+        "description": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://senior-swe-bench.snorkel.ai/",
+        "discovered_at": "2026-07-02"
     },
     {
         "name": "Seo-sutra",
@@ -93833,6 +93953,16 @@
         "discovered_at": "2026-06-21"
     },
     {
+        "name": "Smithsonianmag",
+        "description": "Norman Rockwell Paintings of the West Wing in the White House on Public View",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.smithsonianmag.com/smart-news/norman-rockwell-captured-the-hustle-of-the-west-wing-in-colorful-drawings-displayed-for-decades-in-the-white-house-theyre-now-on-public-view-for-the-first-time-180989025/",
+        "discovered_at": "2026-07-02"
+    },
+    {
         "name": "Snap",
         "description": "Show HN: SnapAPI – Screenshot, metadata extraction, and PDF generation API",
         "category": "Other",
@@ -94091,6 +94221,16 @@
         "cors": "unknown",
         "url": "https://story-lab.ai/",
         "discovered_at": "2026-06-20"
+    },
+    {
+        "name": "Strata",
+        "description": "Show HN: Strata, real-time Markdown editor you can mount as a filesystem",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://strata.space/show",
+        "discovered_at": "2026-07-02"
     },
     {
         "name": "Streams",
@@ -94381,6 +94521,16 @@
         "cors": "unknown",
         "url": "https://thepublictab.com/",
         "discovered_at": "2026-04-17"
+    },
+    {
+        "name": "Therajoyapp",
+        "description": "Show HN: TheraJoy – bilateral stimulation for EMDR using Joy-Cons",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.therajoyapp.com",
+        "discovered_at": "2026-07-02"
     },
     {
         "name": "Thetimes",
@@ -94803,6 +94953,16 @@
         "discovered_at": "2026-04-14"
     },
     {
+        "name": "Usefeyn",
+        "description": "Show HN: Pulpie – Pareto-Optimal Models for Cleaning the Web",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
+        "discovered_at": "2026-07-02"
+    },
+    {
         "name": "Usepablo",
         "description": "Show HN: Pablo – a Chrome extension that copies UI from any website",
         "category": "Other",
@@ -94993,6 +95153,16 @@
         "discovered_at": "2026-03-02"
     },
     {
+        "name": "Vrong",
+        "description": "What is `std:pin:Pin` in Rust?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vrong.me/blog/what-is-pinning-in-rust/",
+        "discovered_at": "2026-07-02"
+    },
+    {
         "name": "Waggle",
         "description": "Show HN: Waggle – A search engine for A2A protocol agents",
         "category": "Other",
@@ -95151,6 +95321,16 @@
         "cors": "unknown",
         "url": "https://wocal.app",
         "discovered_at": "2026-05-23"
+    },
+    {
+        "name": "Wohnortatlas",
+        "description": "Show HN: I computed livability for all of Germany by rent, commute, and QoL",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wohnortatlas.de/",
+        "discovered_at": "2026-07-02"
     },
     {
         "name": "Woo",
@@ -100426,6 +100606,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Lokalbot",
+        "description": "Show HN: LokalBot – meetings, notes, and autocomplete that never leave your Mac",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.lokalbot.com/",
+        "discovered_at": "2026-07-02"
+    },
+    {
         "name": "Lowes Product Lookup",
         "description": "Quickly look up Lowes product prices and availability by entering a product ID and zip code. Get real-time stock and pricing details from nearby stores, making it easy to compare locations and plan...",
         "category": "Productivity",
@@ -102593,6 +102783,16 @@
         "cors": "unknown",
         "url": "https://apify.com/pajoe/simple-yellowpages-scraper-usa",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Singhos",
+        "description": "Show HN: I built an automated productivity system (Telegram –> Notion)",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://singhos.com/",
+        "discovered_at": "2026-07-02"
     },
     {
         "name": "Sitemap Change Orchestrator",
@@ -104906,6 +105106,16 @@
         "cors": "unknown",
         "url": "https://statespace.com/",
         "discovered_at": "2026-04-29"
+    },
+    {
+        "name": "Symbiote",
+        "description": "Show HN: Symbiote - Free up Mac disk space with symlinks (auto manages them)",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://symbiote.app/",
+        "discovered_at": "2026-07-02"
     },
     {
         "name": "Terraviz",
@@ -109284,6 +109494,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://openweathermap.org/api"
+    },
+    {
+        "name": "Photosignal",
+        "description": "Show HN: I built a photography weather alert system",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://photosignal.app/",
+        "discovered_at": "2026-07-02"
     },
     {
         "name": "Portal",
