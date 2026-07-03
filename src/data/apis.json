@@ -1755,6 +1755,16 @@
         "discovered_at": "2026-06-09"
     },
     {
+        "name": "Heyhalo",
+        "description": "Show HN: I built Halo, a private AI assistant for your Mac (free)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://heyhalo.app/",
+        "discovered_at": "2026-07-03"
+    },
+    {
         "name": "Himalaian",
         "description": "Cross-System Constraint Collisions: The Governance Gap in Enterprise Agentic AI [pdf]",
         "category": "AI & Machine Learning",
@@ -2332,6 +2342,16 @@
         "cors": "unknown",
         "url": "https://lusob.github.io/neural-os/",
         "discovered_at": "2026-05-14"
+    },
+    {
+        "name": "Magicbookshelf",
+        "description": "Magicbookshelf.org – Using AI to create a spoiler-free companion to any book",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://magicbookshelf.org/read/pride-and-prejudice/",
+        "discovered_at": "2026-07-03"
     },
     {
         "name": "Mallopal",
@@ -14849,6 +14869,16 @@
         "cors": "unknown",
         "url": "https://apparent.social/heat-map",
         "discovered_at": "2026-07-01"
+    },
+    {
+        "name": "Buildyourownclaudetag",
+        "description": "Show HN: BYOTag – Build your own Claude tag alternative in 3 API calls",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.buildyourownclaudetag.dev/",
+        "discovered_at": "2026-07-03"
     },
     {
         "name": "Ccmarvin",
@@ -51575,6 +51605,16 @@
         "discovered_at": "2026-04-22"
     },
     {
+        "name": "Flashconsult",
+        "description": "Free tool that finds your #1 digital workflow bottleneck in 5 minutes",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://flashconsult.ctonew.app",
+        "discovered_at": "2026-07-03"
+    },
+    {
         "name": "Fleet-manager-roan",
         "description": "Show HN: Glitchwatch – CI failure inbox for indie devs (one GitHub webhook)",
         "category": "Development",
@@ -73963,6 +74003,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Runmirrors",
+        "description": "Show HN: Mirrors – test AI agent changes by replaying production traces",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.runmirrors.com/",
+        "discovered_at": "2026-07-03"
+    },
+    {
         "name": "RupaRupa Scraper",
         "description": "Scrape Ruparupa.com",
         "category": "E-Commerce",
@@ -80914,6 +80964,16 @@
         "url": "https://www.geonames.org/export/web-services.html"
     },
     {
+        "name": "Geospoof",
+        "description": "Show HN: GeoSpoof – your VPN hides your IP, but the browser leaks your location",
+        "category": "Geocoding",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://geospoof.com/",
+        "discovered_at": "2026-07-03"
+    },
+    {
         "name": "IP-API",
         "description": "Free IP geolocation without API key",
         "category": "Geocoding",
@@ -81215,6 +81275,16 @@
         "cors": "unknown",
         "url": "https://streakout.app/",
         "discovered_at": "2026-05-24"
+    },
+    {
+        "name": "Thelancet",
+        "description": "Safety and efficacy of mRNA vaccines: mechanistic and public health perspective",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00512-X/abstract",
+        "discovered_at": "2026-07-03"
     },
     {
         "name": "UK Police",
@@ -82523,6 +82593,16 @@
         "url": "https://developers.google.com/maps"
     },
     {
+        "name": "Gopherglide",
+        "description": "Show HN: Simulate API traffic directly from your IDE with .http files",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gopherglide.dev/",
+        "discovered_at": "2026-07-03"
+    },
+    {
         "name": "Gridtravel",
         "description": "Show HN: GridTravel – A community based travel app for users to share routes",
         "category": "Maps & Transport",
@@ -83639,6 +83719,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Bais",
+        "description": "Show HN: Bais.News – News Neutralization Piepline",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bais.news",
+        "discovered_at": "2026-07-03"
+    },
+    {
         "name": "Base-layer",
         "description": "Show HN: Base Layer – Open-source behavioral compression from any text",
         "category": "News",
@@ -83677,6 +83767,16 @@
         "cors": "unknown",
         "url": "https://bunway.jointops.dev/",
         "discovered_at": "2026-03-10"
+    },
+    {
+        "name": "Capcat",
+        "description": "Show HN: Capcat – CLI/TUI to Archive Articles as Markdown and HTML (FOSS)",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://capcat.org/",
+        "discovered_at": "2026-07-03"
     },
     {
         "name": "Cask",
@@ -89263,6 +89363,16 @@
         "discovered_at": "2026-05-04"
     },
     {
+        "name": "Dropflapboard",
+        "description": "Show HN: Drop Flap Boards for All",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dropflapboard.com",
+        "discovered_at": "2026-07-03"
+    },
+    {
         "name": "Droplock",
         "description": "Show HN: DropLock – E2EE sharing with a single HTML file and no back end",
         "category": "Other",
@@ -90111,6 +90221,16 @@
         "cors": "unknown",
         "url": "https://giovannicarlino04.itch.io/icarus",
         "discovered_at": "2026-03-23"
+    },
+    {
+        "name": "Gist",
+        "description": "Show HN: Gist Discover – TikTok for ArXiv Summaries",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gist.is/discover",
+        "discovered_at": "2026-07-03"
     },
     {
         "name": "Gjlondon",
@@ -91413,6 +91533,16 @@
         "discovered_at": "2026-06-16"
     },
     {
+        "name": "Maestral",
+        "description": "Maestral open-source Dropbox client no longer actively supported",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://maestral.app/",
+        "discovered_at": "2026-07-03"
+    },
+    {
         "name": "Magaornot",
         "description": "Show HN: MAGA or Not? Political alignment scores for people and companies",
         "category": "Other",
@@ -91803,6 +91933,16 @@
         "discovered_at": "2026-04-30"
     },
     {
+        "name": "Minimumconnectiontime",
+        "description": "Free API for minimum connection times at airports worldwide",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://minimumconnectiontime.com/api",
+        "discovered_at": "2026-07-03"
+    },
+    {
         "name": "Mintai",
         "description": "Monetize apps, in seconds, for free (42/50 open spots for beta filled)",
         "category": "Other",
@@ -91993,6 +92133,16 @@
         "discovered_at": "2026-06-02"
     },
     {
+        "name": "Mrkt30",
+        "description": "GLM-5.2: The Open-Source Chinese Model Challenging Claude at One-Fifth the Cost",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mrkt30.com/glm-5-2-open-source-ai/",
+        "discovered_at": "2026-07-03"
+    },
+    {
         "name": "Mumbli",
         "description": "Show HN: Free OSS transcription app I made and found it's faster than wispr flow",
         "category": "Other",
@@ -92011,6 +92161,16 @@
         "cors": "unknown",
         "url": "https://munderdiffl.in/",
         "discovered_at": "2026-06-07"
+    },
+    {
+        "name": "My-morning-report",
+        "description": "Show HN: Morning Report – daily briefing compiled from Sentry, Linear, Gmail,etc",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://my-morning-report.vercel.app",
+        "discovered_at": "2026-07-03"
     },
     {
         "name": "Mydev",
@@ -92331,6 +92491,16 @@
         "cors": "unknown",
         "url": "https://onlyfansapi.com",
         "discovered_at": "2026-03-17"
+    },
+    {
+        "name": "Openagentloops",
+        "description": "Show HN: A provider-agnostic agent loop built on ports and adapters",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://openagentloops.featherless.ai/",
+        "discovered_at": "2026-07-03"
     },
     {
         "name": "Openapi-test-generator",
@@ -95890,6 +96060,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://picsum.photos/"
+    },
+    {
+        "name": "Mailmemories",
+        "description": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mailmemories.com",
+        "discovered_at": "2026-07-03"
     },
     {
         "name": "Makevideofromphoto",
@@ -108548,6 +108728,16 @@
         "discovered_at": "2026-04-20"
     },
     {
+        "name": "Docupipe",
+        "description": "Show HN: Document to Excel Converter",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.docupipe.ai/tools/pdf-to-excel",
+        "discovered_at": "2026-07-03"
+    },
+    {
         "name": "Engye",
         "description": "Show HN: Engye – transfer files between any two devices by scanning a QR code",
         "category": "Utilities",
@@ -109426,6 +109616,16 @@
         "cors": "unknown",
         "url": "https://youtubetranscript.us/",
         "discovered_at": "2026-05-07"
+    },
+    {
+        "name": "Ytranscript",
+        "description": "Show HN: A YouTube transcript API that survives YouTube's bot war",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ytranscript.com/developers",
+        "discovered_at": "2026-07-03"
     },
     {
         "name": "Zkhrv",
