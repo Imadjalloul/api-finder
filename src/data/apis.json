@@ -7780,6 +7780,16 @@
         "url": "https://clerk.com/docs"
     },
     {
+        "name": "Contextify",
+        "description": "Show HN: Pull Claude Code transcripts into your Codex session, and vice versa",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://contextify.sh/",
+        "discovered_at": "2026-07-04"
+    },
+    {
         "name": "Display",
         "description": "Show HN: Display.dev, agent-native way to publish HTML or MD behind company auth",
         "category": "Auth & Identity",
@@ -8150,6 +8160,16 @@
         "cors": "unknown",
         "url": "https://l6e.ai",
         "discovered_at": "2026-04-16"
+    },
+    {
+        "name": "Lifehacksgermany",
+        "description": "Show HN: Track Token usage for major platforms,know your token flow",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.lifehacksgermany.com/en",
+        "discovered_at": "2026-07-04"
     },
     {
         "name": "Maki",
@@ -8677,6 +8697,16 @@
         "discovered_at": "2026-06-04"
     },
     {
+        "name": "Sfpl-events",
+        "description": "Show HN: San Francisco Library Events",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sfpl-events.ocaho.com/",
+        "discovered_at": "2026-07-04"
+    },
+    {
         "name": "Singularityforge",
         "description": "HN: A free book on how \"AI easy money\" scams work",
         "category": "Books",
@@ -8695,6 +8725,16 @@
         "cors": "unknown",
         "url": "https://smithereen.software",
         "discovered_at": "2026-05-22"
+    },
+    {
+        "name": "Staythere",
+        "description": "Show HN: StayThere.ai - Book directly at over 96k short term rentals",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://staythere.ai/",
+        "discovered_at": "2026-07-04"
     },
     {
         "name": "Teardownhq",
@@ -15268,6 +15308,16 @@
         "cors": "unknown",
         "url": "https://onerequest.app/",
         "discovered_at": "2026-05-01"
+    },
+    {
+        "name": "Open",
+        "description": "Radio Free AI: The voice of the resistance",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://open.spotify.com/show/033HWq6pzjHeleKR8jfxLm",
+        "discovered_at": "2026-07-04"
     },
     {
         "name": "Ostt",
@@ -61046,6 +61096,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Tetrees",
+        "description": "Show HN: IDE for code assembly of reusable code blocks",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tetrees.ai/download",
+        "discovered_at": "2026-07-04"
+    },
+    {
         "name": "Text Moderation API",
         "description": "Uses advanced AI models to analyze and classify user-generated content in real time. It detects harmful or inappropriate content, providing category-level flags and confidence scores to help you...",
         "category": "Development",
@@ -84144,6 +84204,16 @@
         "discovered_at": "2026-05-03"
     },
     {
+        "name": "Squeezes",
+        "description": "Squeezes – Free Bulk Image Compressor",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://squeezes.vercel.app",
+        "discovered_at": "2026-07-04"
+    },
+    {
         "name": "The Guardian",
         "description": "Access articles and content from The Guardian newspaper",
         "category": "News",
@@ -87813,6 +87883,16 @@
         "discovered_at": "2026-04-22"
     },
     {
+        "name": "Bambu3design",
+        "description": "Best 3D Modeling Apps for iPad and Android (2026)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bambu3design.com/best-3d-modeling-apps-for-ipad-android-2026-create-3d-models-anywhere/",
+        "discovered_at": "2026-07-04"
+    },
+    {
         "name": "Bambuddy",
         "description": "Show HN: BamBuddy – a self-hosted print archive for Bambu Lab 3D printers",
         "category": "Other",
@@ -90023,6 +90103,16 @@
         "discovered_at": "2026-04-21"
     },
     {
+        "name": "Gamma",
+        "description": "FemiCore Review 2026 – 7-Second Bladder Reset Method Explained",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gamma.app/embed/FemiCore-Review-2026-7-Second-Bladder-Reset-Method-Explained-9yahcz6mepth31u?mode=doc",
+        "discovered_at": "2026-07-04"
+    },
+    {
         "name": "Garden-of-flowers",
         "description": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
         "category": "Other",
@@ -90833,6 +90923,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Ipcrawl",
+        "description": "The free IP Crawl API: detect if your IP camera is accidentally exposed",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ipcrawl.com/api",
+        "discovered_at": "2026-07-04"
+    },
+    {
         "name": "IPQualityScore API",
         "description": "IPQualityScore API API",
         "category": "Other",
@@ -90891,6 +90991,16 @@
         "cors": "unknown",
         "url": "https://jackonomics.substack.com/p/giving-is-a-public-good-slightly",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Jamf",
+        "description": "PamStealer: Rust-based macOS infostealer that validates credentials through PAM",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.jamf.com/blog/pamstealer-macos-infostealer-applescript-rust/",
+        "discovered_at": "2026-07-04"
     },
     {
         "name": "Javadecompiler",
@@ -91923,6 +92033,16 @@
         "discovered_at": "2026-05-06"
     },
     {
+        "name": "Mikaweiss6",
+        "description": "Show HN: LimitBar, a macOS menu bar app showing your Claude usage limits",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mikaweiss6.gumroad.com/l/limitbar",
+        "discovered_at": "2026-07-04"
+    },
+    {
         "name": "Mikeoss",
         "description": "Mike: open-source legal AI",
         "category": "Other",
@@ -92491,6 +92611,16 @@
         "cors": "unknown",
         "url": "https://onlyfansapi.com",
         "discovered_at": "2026-03-17"
+    },
+    {
+        "name": "Opbox",
+        "description": "Show HN: Opbox – CRDT based sync for text files on disk",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.opbox.dev/",
+        "discovered_at": "2026-07-04"
     },
     {
         "name": "Openagentloops",
@@ -93803,6 +93933,16 @@
         "discovered_at": "2026-07-02"
     },
     {
+        "name": "Scout",
+        "description": "Show HN: Scout.kids – Agents that find activies for families",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://scout.kids",
+        "discovered_at": "2026-07-04"
+    },
+    {
         "name": "Scrapewithruno",
         "description": "Show HN: Runo – Scraping API that returns typed JSON, not raw HTML",
         "category": "Other",
@@ -94251,6 +94391,16 @@
         "cors": "unknown",
         "url": "https://splitsense.ai/tools/free-landing-page-review",
         "discovered_at": "2026-04-12"
+    },
+    {
+        "name": "Spotthecue",
+        "description": "Show HN: A tool to help people in social situations",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://spotthecue.com/",
+        "discovered_at": "2026-07-04"
     },
     {
         "name": "Sprogeny",
@@ -95381,6 +95531,16 @@
         "cors": "unknown",
         "url": "https://washingtonspectator.org/israeli-government-is-spending-millions-to-court-american-evangelicals-amid-plummeting-public-support/",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Waxspinner",
+        "description": "Show HN: Wax Spinner, a \"now playing\" social app for vinyl record collectors",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.waxspinner.com",
+        "discovered_at": "2026-07-04"
     },
     {
         "name": "Wc-2026-predictions",
@@ -105092,6 +105252,26 @@
         "discovered_at": "2026-06-25"
     },
     {
+        "name": "Eebench",
+        "description": "Show HN: EEBench – AI agents design real circuits, graded by physics simulation",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.eebench.org/",
+        "discovered_at": "2026-07-04"
+    },
+    {
+        "name": "Emra",
+        "description": "Show HN: Emra – A workspace where every app you build shares one db",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://emra.app",
+        "discovered_at": "2026-07-04"
+    },
+    {
         "name": "Fata",
         "description": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
         "category": "Science",
@@ -105247,6 +105427,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://pubchem.ncbi.nlm.nih.gov/docs/pug-rest"
+    },
+    {
+        "name": "Quoin",
+        "description": "A chatbot told us SpaceX never went public, 20 days after their IPO",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.quoin.ai/",
+        "discovered_at": "2026-07-04"
     },
     {
         "name": "Sciencedirect",
@@ -109319,6 +109509,16 @@
         "cors": "unknown",
         "url": "https://legato.gg/docs/getting-started",
         "discovered_at": "2026-05-28"
+    },
+    {
+        "name": "Listen",
+        "description": "Show HN: Sonoday Radio – Listen to Podcasts like they are Radio",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://listen.sonoday.com",
+        "discovered_at": "2026-07-04"
     },
     {
         "name": "Ma",
