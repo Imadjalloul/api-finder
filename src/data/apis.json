@@ -1078,6 +1078,16 @@
         "discovered_at": "2026-05-19"
     },
     {
+        "name": "Danluu",
+        "description": "Agentic test processes, LLM benchmarks",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://danluu.com/ai-coding/",
+        "discovered_at": "2026-07-05"
+    },
+    {
         "name": "Danubeai",
         "description": "Show HN: Danube – AI Tools Marketplace",
         "category": "AI & Machine Learning",
@@ -69515,6 +69525,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Hn-job-match-production",
+        "description": "Show HN: Who wants to be hired?\" meets \"Who is hiring?\" (July 2026)",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hn-job-match-production.up.railway.app/",
+        "discovered_at": "2026-07-05"
+    },
+    {
         "name": "Hoeffner Scraper",
         "description": "hoeffner Scraper: Apify Actor extracts product data (price, images, SKU) from hoeffner.de using default proxies. Returns clean JSON for home goods market analysis.",
         "category": "E-Commerce",
@@ -73292,6 +73312,16 @@
         "cors": "unknown",
         "url": "https://apify.com/scrapestorm/playstation-store-scraper-by-keyword",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Plotworkshop",
+        "description": "Show HN: Plot Workshop – A story planning tool for writers",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.plotworkshop.com",
+        "discovered_at": "2026-07-05"
     },
     {
         "name": "Policies System API",
@@ -80144,6 +80174,16 @@
         "discovered_at": "2026-05-17"
     },
     {
+        "name": "Throndar",
+        "description": "Show HN: Grade your code's post-quantum crypto exposure A–F, free, in-browser",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://throndar.ai/cbom",
+        "discovered_at": "2026-07-05"
+    },
+    {
         "name": "Twelve Data",
         "description": "Stock, forex, crypto & ETF data with 100+ indicators",
         "category": "Finance",
@@ -81862,6 +81902,16 @@
         "cors": "unknown",
         "url": "https://linustechtips.com/topic/1637924-i-tried-to-melt-my-intel-ultra-7-router-setup-simulating-250-vr-users-for-an-off-grid-festival-app-heres-what-happened/",
         "discovered_at": "2026-05-22"
+    },
+    {
+        "name": "Local-mcp",
+        "description": "Show HN: Local MCP – Claude/ChatGPT read your iMessage, Teams, files on-device",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.local-mcp.com/en",
+        "discovered_at": "2026-07-05"
     },
     {
         "name": "Loudreader",
@@ -83926,6 +83976,16 @@
         "cors": "unknown",
         "url": "https://easyserversidetracking.com/",
         "discovered_at": "2026-06-04"
+    },
+    {
+        "name": "Ekinertac",
+        "description": "My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/",
+        "discovered_at": "2026-07-05"
     },
     {
         "name": "Euronews",
@@ -93713,6 +93773,16 @@
         "discovered_at": "2026-06-19"
     },
     {
+        "name": "Ride",
+        "description": "Show HN: Follow London Trains in 3D",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ride.nexttrain.london/",
+        "discovered_at": "2026-07-05"
+    },
+    {
         "name": "Righto",
         "description": "A dozen USB chargers in the lab: Apple is good, but not quite the best (2012)",
         "category": "Other",
@@ -94781,6 +94851,16 @@
         "cors": "unknown",
         "url": "https://tester.army",
         "discovered_at": "2026-06-19"
+    },
+    {
+        "name": "Texposit",
+        "description": "Show HN: TeXposit – LaTeX and Markdown Editor",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://texposit.com/",
+        "discovered_at": "2026-07-05"
     },
     {
         "name": "Textyoursite",
