@@ -3860,6 +3860,16 @@
         "discovered_at": "2026-05-14"
     },
     {
+        "name": "Terminai",
+        "description": "Show HN: AI integrated in any terminal that's invisible until you need it",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://terminai.app",
+        "discovered_at": "2026-07-06"
+    },
+    {
         "name": "Testkube",
         "description": "Using AI to debug test failures at scale (Webinar)",
         "category": "AI & Machine Learning",
@@ -7397,6 +7407,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Certleaf",
+        "description": "Show HN: CertLeaf helps event organizers issue verifiable E-certificates",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://certleaf.com/",
+        "discovered_at": "2026-07-06"
+    },
+    {
         "name": "Certobserver",
         "description": "Show HN: Certificate Transparency search that groups related certificates",
         "category": "Animals",
@@ -7651,6 +7671,16 @@
         "cors": "unknown",
         "url": "https://tsolman.github.io/vessel-class-finder/",
         "discovered_at": "2026-03-28"
+    },
+    {
+        "name": "Verificationdesign",
+        "description": "Show HN: Design Patterns for AI",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://verificationdesign.com/",
+        "discovered_at": "2026-07-06"
     },
     {
         "name": "Vibebnb",
@@ -8340,6 +8370,16 @@
         "cors": "unknown",
         "url": "https://umarise.com/blog/proof-of-existence",
         "discovered_at": "2026-03-22"
+    },
+    {
+        "name": "Yolo-auto",
+        "description": "Show HN: An unmetered LLM API–$6/month, no token tracking, no limits",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://yolo-auto.com/",
+        "discovered_at": "2026-07-06"
     },
     {
         "name": "Agenttrust",
@@ -14285,6 +14325,16 @@
         "cors": "unknown",
         "url": "https://cloudprivatecatalogproducer.googleapis.com/$discovery/rest?version=v1beta1",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Cloudprice",
+        "description": "Show HN: Daily Refreshed drop-in replacement for LiteLLM's model price map",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cloudprice.net/models/api",
+        "discovered_at": "2026-07-06"
     },
     {
         "name": "Codelabs",
@@ -33235,6 +33285,16 @@
         "cors": "unknown",
         "url": "https://apify.com/memo23/mobile-de-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Mochianalytics",
+        "description": "Show HN: Mochi Analytics",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.mochianalytics.com",
+        "discovered_at": "2026-07-06"
     },
     {
         "name": "Mon compte formation scraper",
@@ -57518,6 +57578,16 @@
         "discovered_at": "2026-06-15"
     },
     {
+        "name": "Pablojimenezmateo",
+        "description": "Show HN: microide, a 100% vibecoded IDE that LLM agents can drive",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pablojimenezmateo.github.io/microide/",
+        "discovered_at": "2026-07-06"
+    },
+    {
         "name": "PaddleOCR VL",
         "description": "-",
         "category": "Development",
@@ -59514,6 +59584,16 @@
         "cors": "unknown",
         "url": "https://apify.com/jancurn/selenium-custom-firefox",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Sellsbrothers",
+        "description": "Applied XML Developers Conference (2004)",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sellsbrothers.com/public/conference/oldindex9.htm",
+        "discovered_at": "2026-07-06"
     },
     {
         "name": "Seloger.com Scraper",
@@ -68953,6 +69033,16 @@
         "cors": "unknown",
         "url": "https://apify.com/dev_bodex/get-countries-info-by-code-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Getexcalibur",
+        "description": "Show HN: Excalibur. The open-source AI coding agent for product engineers",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getexcalibur.dev",
+        "discovered_at": "2026-07-06"
     },
     {
         "name": "GiveSendGo Campaign Ranker",
@@ -89143,6 +89233,16 @@
         "discovered_at": "2026-06-25"
     },
     {
+        "name": "Demo",
+        "description": "Show HN: KiCad in the Browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://demo.pcbjam.com/",
+        "discovered_at": "2026-07-06"
+    },
+    {
         "name": "Demoday",
         "description": "Show HN: Beautiful Clickable Demos",
         "category": "Other",
@@ -90241,6 +90341,16 @@
         "cors": "unknown",
         "url": "https://getaivo.dev/",
         "discovered_at": "2026-04-25"
+    },
+    {
+        "name": "Getcabinfever",
+        "description": "Show HN: Plan your multi-day hut hikes in the alps",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getcabinfever.com/",
+        "discovered_at": "2026-07-06"
     },
     {
         "name": "Getfluiq",
@@ -92303,6 +92413,16 @@
         "discovered_at": "2026-06-15"
     },
     {
+        "name": "Mothistoryfree",
+        "description": "Free UK MOT history checker built on DVSA's API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.mothistoryfree.co.uk/MOT-history-check",
+        "discovered_at": "2026-07-06"
+    },
+    {
         "name": "Movecue",
         "description": "MoveCue – Hands-free movement timer for iOS",
         "category": "Other",
@@ -93123,6 +93243,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Pixtrava",
+        "description": "Show HN: Pixtrava – Public Profiles for Our Persistent 3D Voxel World",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pixtrava.com/blog/public-profiles-launch",
+        "discovered_at": "2026-07-06"
+    },
+    {
         "name": "Pizzalegacy",
         "description": "Pizza Legacy an Open-Source Reimplementation of Pizza Connection (Pizza Tycoon)",
         "category": "Other",
@@ -93313,6 +93443,16 @@
         "discovered_at": "2026-05-22"
     },
     {
+        "name": "Propublica",
+        "description": "Lord of the Roths",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.propublica.org/article/lord-of-the-roths-how-tech-mogul-peter-thiel-turned-a-retirement-account-for-the-middle-class-into-a-5-billion-dollar-tax-free-piggy-bank",
+        "discovered_at": "2026-07-06"
+    },
+    {
         "name": "Protowall",
         "description": "Show HN: ProtoWall – NDA wall and reverse proxy for sharing prototypes",
         "category": "Other",
@@ -93401,6 +93541,16 @@
         "cors": "unknown",
         "url": "https://pvizgenerator.com/showcase/2026-04-scrapy-scc-refactor",
         "discovered_at": "2026-04-24"
+    },
+    {
+        "name": "Px0",
+        "description": "Open-source prompt infrastructure toolkit",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://px0.ai/",
+        "discovered_at": "2026-07-06"
     },
     {
         "name": "Pyrefly",
@@ -93923,6 +94073,16 @@
         "discovered_at": "2026-06-01"
     },
     {
+        "name": "Salahadawi",
+        "description": "Show HN: Tracking how much of the HN front page is AI-generated",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.salahadawi.com/hacker-news-ai-detector",
+        "discovered_at": "2026-07-06"
+    },
+    {
         "name": "Salt-lang",
         "description": "Show HN: Write and Run Salt v0.9.2 in the Browser",
         "category": "Other",
@@ -94051,6 +94211,16 @@
         "cors": "unknown",
         "url": "https://segue.app",
         "discovered_at": "2026-05-11"
+    },
+    {
+        "name": "Selbstbild",
+        "description": "Show HN: Selbstbild – What Fable 5 thinks of your HN comment history",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://selbstbild.eu",
+        "discovered_at": "2026-07-06"
     },
     {
         "name": "Senior-swe-bench",
@@ -94271,6 +94441,16 @@
         "cors": "unknown",
         "url": "https://www.sinkhole.app",
         "discovered_at": "2026-03-10"
+    },
+    {
+        "name": "Skillswitch",
+        "description": "Show HN: A Mac switchboard for Claude Cowork skills",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://skillswitch.cc/",
+        "discovered_at": "2026-07-06"
     },
     {
         "name": "Skipd",
@@ -96203,6 +96383,16 @@
         "discovered_at": "2026-05-26"
     },
     {
+        "name": "Autogranthunter",
+        "description": "Show HN: Validating an OG-image API before I build the back end",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://autogranthunter.com/og/",
+        "discovered_at": "2026-07-06"
+    },
+    {
         "name": "Ddphotos",
         "description": "Show HN: DD Photos – static photo albums, now with Docker and 1-command deploy",
         "category": "Photography",
@@ -96291,6 +96481,16 @@
         "cors": "unknown",
         "url": "https://imagemetadataextractor.com/",
         "discovered_at": "2026-06-13"
+    },
+    {
+        "name": "Lightwindow",
+        "description": "Show HN: Sun light and path calculation for photography",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.lightwindow.app",
+        "discovered_at": "2026-07-06"
     },
     {
         "name": "Lorem Picsum",
@@ -109412,6 +109612,16 @@
         "url": "https://developers.deezer.com/api"
     },
     {
+        "name": "Dispatch-media",
+        "description": "Pint in England",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dispatch-media.com/the-best-pint-in-england/",
+        "discovered_at": "2026-07-06"
+    },
+    {
         "name": "Drea",
         "description": "Show HN: drea – podcast ad blocker",
         "category": "Video & Media",
@@ -109420,6 +109630,16 @@
         "cors": "unknown",
         "url": "https://drea.fm/",
         "discovered_at": "2026-05-19"
+    },
+    {
+        "name": "Essentialmediaplayer",
+        "description": "Show HN: Essential Media Player – A web-based (PWA) local media player",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://essentialmediaplayer.com/",
+        "discovered_at": "2026-07-06"
     },
     {
         "name": "Fastubu",
