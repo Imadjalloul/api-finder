@@ -14971,6 +14971,16 @@
         "discovered_at": "2026-07-01"
     },
     {
+        "name": "Boilerroom",
+        "description": "Show HN: Boilerroom: dialer, call recording, and managed follow-up",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://boilerroom.ai",
+        "discovered_at": "2026-07-07"
+    },
+    {
         "name": "Buildyourownclaudetag",
         "description": "Show HN: BYOTag – Build your own Claude tag alternative in 3 API calls",
         "category": "Communication",
@@ -57948,6 +57958,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Plannotator",
+        "description": "Show HN: Code Review Enviornment for the Modern Era",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://plannotator.ai/code-review/",
+        "discovered_at": "2026-07-07"
+    },
+    {
         "name": "Platzi Courses Listing By Keyword",
         "description": "An Apify Actor that scrapes and lists Platzi courses by keyword, providing details like title, URL, and enrollment count. Ideal for market research and content analysis.",
         "category": "Development",
@@ -66984,6 +67004,16 @@
         "cors": "unknown",
         "url": "https://www.cartai.ai/",
         "discovered_at": "2026-06-26"
+    },
+    {
+        "name": "Cartes",
+        "description": "Cartes.app – a free and open map, a Web alternative to Google and Apple maps",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cartes.app",
+        "discovered_at": "2026-07-07"
     },
     {
         "name": "Cash Converters Spain Scraper",
@@ -81220,6 +81250,16 @@
         "url": "https://restcountries.com/"
     },
     {
+        "name": "Webhosting",
+        "description": "You Don't Own Your .io or .ai. You Rent a Country's Politics",
+        "category": "Geocoding",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://webhosting.today/2026/07/02/you-dont-own-your-io-or-ai-you-rent-a-countrys-politics/",
+        "discovered_at": "2026-07-07"
+    },
+    {
         "name": "Where",
         "description": "Show HN: \"Where\" is an open source E2EE realtime location sharing app",
         "category": "Geocoding",
@@ -88503,6 +88543,16 @@
         "discovered_at": "2026-03-10"
     },
     {
+        "name": "Buildnectar",
+        "description": "Show HN: Nectar, a Rust-like React that compiles to WebAssembly",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://buildnectar.com",
+        "discovered_at": "2026-07-07"
+    },
+    {
         "name": "Buildy",
         "description": "Show HN: Deploy personal apps with your agent via Buildy",
         "category": "Other",
@@ -88521,6 +88571,16 @@
         "cors": "unknown",
         "url": "https://www.bulkshare.cloud",
         "discovered_at": "2026-03-08"
+    },
+    {
+        "name": "Bupticybee",
+        "description": "Show HN: A free, GPU-accelerated Texas Hold'em GTO solver in C++/CUDA",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bupticybee.github.io/texassolver_gpu_page/",
+        "discovered_at": "2026-07-07"
     },
     {
         "name": "Burnshot",
@@ -88601,6 +88661,16 @@
         "cors": "unknown",
         "url": "https://captainfredric.github.io/ContentForge/",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Captchainbox",
+        "description": "Show HN: Captchainbox – make senders work to get into your inbox",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.captchainbox.com",
+        "discovered_at": "2026-07-07"
     },
     {
         "name": "Celesto",
@@ -89861,6 +89931,16 @@
         "cors": "unknown",
         "url": "https://exit1.dev/",
         "discovered_at": "2026-04-12"
+    },
+    {
+        "name": "Exsitu",
+        "description": "Show HN: Ex Situ, open-source spatial index of displaced cultural artifacts",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://exsitu.app/map",
+        "discovered_at": "2026-07-07"
     },
     {
         "name": "Extend",
@@ -92183,6 +92263,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Messageboard",
+        "description": "Show HN: Messageboard – A simple API-first dashboard for human readable messages",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://messageboard.tech/",
+        "discovered_at": "2026-07-07"
+    },
+    {
         "name": "Micro",
         "description": "Show HN: Micro – apps without ads, algorithms or tracking",
         "category": "Other",
@@ -94213,6 +94303,16 @@
         "discovered_at": "2026-05-11"
     },
     {
+        "name": "Sel",
+        "description": "Show HN: Sel – macOS screen sharing that shows only the windows you pick",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sel.toron.dev",
+        "discovered_at": "2026-07-07"
+    },
+    {
         "name": "Selbstbild",
         "description": "Show HN: Selbstbild – What Fable 5 thinks of your HN comment history",
         "category": "Other",
@@ -95883,6 +95983,26 @@
         "discovered_at": "2026-04-06"
     },
     {
+        "name": "Whimfiles",
+        "description": "Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://whimfiles.com",
+        "discovered_at": "2026-07-07"
+    },
+    {
+        "name": "Whitematterlabs",
+        "description": "Show HN: PAI, a Linux-y personal-assistant for Mac",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.whitematterlabs.ai/",
+        "discovered_at": "2026-07-07"
+    },
+    {
         "name": "WikiPathways Webservices",
         "description": "WikiPathways Webservices API",
         "category": "Other",
@@ -95901,6 +96021,16 @@
         "cors": "unknown",
         "url": "https://win-update-tracker.vercel.app/",
         "discovered_at": "2026-05-20"
+    },
+    {
+        "name": "Withcapsule",
+        "description": "Show HN: Capsule – E2E encrypted file sharing",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://withcapsule.dev/",
+        "discovered_at": "2026-07-07"
     },
     {
         "name": "Wocal",
@@ -105532,6 +105662,16 @@
         "discovered_at": "2026-06-25"
     },
     {
+        "name": "Earth",
+        "description": "Show HN: Paint the Earth on a live, interactive globe (collaborative art.)",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://earth.tattoo",
+        "discovered_at": "2026-07-07"
+    },
+    {
         "name": "Eebench",
         "description": "Show HN: EEBench – AI agents design real circuits, graded by physics simulation",
         "category": "Science",
@@ -109769,6 +109909,16 @@
         "cors": "unknown",
         "url": "https://www.heyalys.com/",
         "discovered_at": "2026-04-07"
+    },
+    {
+        "name": "Instantvideos",
+        "description": "Show HN: InstantVideos.org – short documentaries in ~30 seconds",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://instantvideos.org/",
+        "discovered_at": "2026-07-07"
     },
     {
         "name": "Internals",
