@@ -2563,6 +2563,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Mozilla",
+        "description": "Mozilla's Otari: The Open Source LLM Control Plane",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.mozilla.ai/product/otari",
+        "discovered_at": "2026-07-08"
+    },
+    {
         "name": "Mustgo",
         "description": "Show HN: Got fed up missing cool AI events: built tool to match them to my goals",
         "category": "AI & Machine Learning",
@@ -2621,6 +2631,16 @@
         "cors": "unknown",
         "url": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html",
         "discovered_at": "2026-03-23"
+    },
+    {
+        "name": "Neuronpedia",
+        "description": "Neuronpedia, an open source platform for AI interpretability",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.neuronpedia.org/",
+        "discovered_at": "2026-07-08"
     },
     {
         "name": "Newrepublic",
@@ -3020,6 +3040,16 @@
         "cors": "unknown",
         "url": "https://port42.ai/",
         "discovered_at": "2026-03-16"
+    },
+    {
+        "name": "Prevail",
+        "description": "Prevail – open-source AI \"life OS\" (not for your job)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://prevail.sh/",
+        "discovered_at": "2026-07-08"
     },
     {
         "name": "Prezlo",
@@ -4287,6 +4317,16 @@
         "cors": "unknown",
         "url": "https://wattfare.com/",
         "discovered_at": "2026-06-17"
+    },
+    {
+        "name": "Wayflow",
+        "description": "Show HN: Wayflow – an embeddable AI workflow builder (open source)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wayflow.build/",
+        "discovered_at": "2026-07-08"
     },
     {
         "name": "Webagentbride",
@@ -8410,6 +8450,16 @@
         "cors": "unknown",
         "url": "http://amoilanen.github.io/Algorithms-with-Typescript/",
         "discovered_at": "2026-03-14"
+    },
+    {
+        "name": "Bedtimebookhelper",
+        "description": "Show HN: Book Bounce – Bedtime story helper for parents",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bedtimebookhelper.com",
+        "discovered_at": "2026-07-08"
     },
     {
         "name": "Bible API",
@@ -14750,6 +14800,16 @@
         "cors": "unknown",
         "url": "https://word-cloud.net/",
         "discovered_at": "2026-03-10"
+    },
+    {
+        "name": "Zerogate",
+        "description": "Show HN: ZeroGate – An API gateway to scale cloud GPUs to zero when idle",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://zerogate.cloud",
+        "discovered_at": "2026-07-08"
     },
     {
         "name": "Avaza API Documentation",
@@ -60506,6 +60566,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Sprytools",
+        "description": "Show HN: Sprytools – 26 small developer APIs behind one key",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sprytools.com/api/",
+        "discovered_at": "2026-07-08"
+    },
+    {
         "name": "Sqim",
         "description": "Show HN: Sqim – install your iOS builds from Codex mobile without VPN",
         "category": "Development",
@@ -62614,6 +62684,16 @@
         "cors": "unknown",
         "url": "https://apify.com/epctex/torrent-downloader",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Unlimitedcodex",
+        "description": "Show HN: unlimitedcodex - real GPT-5.5 API access for Codex IDE/CLI",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://unlimitedcodex.com",
+        "discovered_at": "2026-07-08"
     },
     {
         "name": "Unpaywall Scraper",
@@ -89513,6 +89593,16 @@
         "discovered_at": "2026-04-07"
     },
     {
+        "name": "Docpenny",
+        "description": "Show HN: DocPenny – HTML-to-PDF API, plus the blueprint to build your own",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://docpenny.com",
+        "discovered_at": "2026-07-08"
+    },
+    {
         "name": "Docs",
         "description": "Show HN: I've just launched my own API",
         "category": "Other",
@@ -90091,6 +90181,16 @@
         "cors": "unknown",
         "url": "https://feedfluffy.com",
         "discovered_at": "2026-03-01"
+    },
+    {
+        "name": "Feedhammer",
+        "description": "Show HN: I scratched my own itch by solving a niche Basecamp problem",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://feedhammer.com",
+        "discovered_at": "2026-07-08"
     },
     {
         "name": "Filestash",
@@ -90841,6 +90941,16 @@
         "cors": "unknown",
         "url": "https://hnshah.github.io/idea-killshot/",
         "discovered_at": "2026-03-20"
+    },
+    {
+        "name": "Hnsubstacks",
+        "description": "Show HN: hnsubstacks – Browse only Substacks submitted to HN",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hnsubstacks.com/",
+        "discovered_at": "2026-07-08"
     },
     {
         "name": "Holoso",
@@ -93443,6 +93553,16 @@
         "discovered_at": "2026-04-10"
     },
     {
+        "name": "Postgres",
+        "description": "Show HN: PostgreSQL performance and cost across 23 EC2 instance types",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://postgres.saneengineer.com",
+        "discovered_at": "2026-07-08"
+    },
+    {
         "name": "Predictionhunt",
         "description": "Show HN: Prediction Hunt API – A unified layer for Polymarket, Kalshi, and more",
         "category": "Other",
@@ -94943,6 +95063,16 @@
         "discovered_at": "2026-06-21"
     },
     {
+        "name": "Sunsetmesasoftware",
+        "description": "Show HN: Rewire Text – system-wide text transforms with BYOK and local-models",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sunsetmesasoftware.com/rewire-text/",
+        "discovered_at": "2026-07-08"
+    },
+    {
         "name": "Sup",
         "description": "Show HN: Sup AI, a confidence-weighted ensemble (52.15% on Humanity's Last Exam)",
         "category": "Other",
@@ -95091,6 +95221,16 @@
         "cors": "unknown",
         "url": "https://www.telegraph.co.uk/news/2026/05/06/richard-dawkins-convinced-ai-is-conscious/",
         "discovered_at": "2026-05-08"
+    },
+    {
+        "name": "Telemetry-tracker",
+        "description": "Show HN: Telemetry Tracker – An open-source telemetry platform for web apps",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://telemetry-tracker.com",
+        "discovered_at": "2026-07-08"
     },
     {
         "name": "Temataro",
