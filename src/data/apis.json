@@ -2364,6 +2364,16 @@
         "discovered_at": "2026-03-13"
     },
     {
+        "name": "Lucid",
+        "description": "Show HN: I built a web tool to see and edit what an AI thinks before it answers",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lucid.earthpilot.ai",
+        "discovered_at": "2026-07-10"
+    },
+    {
         "name": "Lusob",
         "description": "Show HN: Neural window manager, neural network moving windows from mouse actions",
         "category": "AI & Machine Learning",
@@ -3940,6 +3950,16 @@
         "discovered_at": "2026-06-25"
     },
     {
+        "name": "Tensorsharp",
+        "description": "Show HN: TensorSharp: Open-Source Local LLM Inference Engine",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tensorsharp.ai/",
+        "discovered_at": "2026-07-10"
+    },
+    {
         "name": "Terax",
         "description": "Terax – Lightweight (7MB) AI Terminal Emulator (ADE) in Rust, Tauri, and React",
         "category": "AI & Machine Learning",
@@ -4287,6 +4307,16 @@
         "cors": "unknown",
         "url": "https://verkyyi.github.io/hermesbench/",
         "discovered_at": "2026-05-31"
+    },
+    {
+        "name": "Verla",
+        "description": "Verla: Free AI Humanizer&assignment helper",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://verla.io",
+        "discovered_at": "2026-07-10"
     },
     {
         "name": "Vibedrift",
@@ -15469,6 +15499,16 @@
         "cors": "unknown",
         "url": "https://kommun.jensnylander.com",
         "discovered_at": "2026-03-19"
+    },
+    {
+        "name": "Kotaku",
+        "description": "Train sim created by just one person is being called the best ever made",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+        "discovered_at": "2026-07-10"
     },
     {
         "name": "License Manager API",
@@ -47487,6 +47527,16 @@
         "discovered_at": "2026-05-06"
     },
     {
+        "name": "Arcaide",
+        "description": "Show HN: Arcaide – Explore code with multi-level call graphs",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://arcaide.foo",
+        "discovered_at": "2026-07-10"
+    },
+    {
         "name": "Archive.org advanced search",
         "description": "a powerful, fast and advanced seach api for archive.org leveraging its api for fast and accurate results, with all the filters supported in archive.org's advanced search",
         "category": "Development",
@@ -50004,6 +50054,16 @@
         "cors": "unknown",
         "url": "https://apify.com/apify_daniel/developer-ecosystem-analyzer",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Devthropology",
+        "description": "Show HN: Devthropology – Better Insights for GitHub Repos",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://devthropology.com/demo",
+        "discovered_at": "2026-07-10"
     },
     {
         "name": "DevTo",
@@ -55236,6 +55296,16 @@
         "cors": "unknown",
         "url": "https://apify.com/fatihtahta/kalshi-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Kastra",
+        "description": "Show HN: Policy enforcement for Claude Code, Cursor, and Codex",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kastra.ai/",
+        "discovered_at": "2026-07-10"
     },
     {
         "name": "Kayak Reviews Scraper",
@@ -79887,6 +79957,16 @@
         "discovered_at": "2026-04-08"
     },
     {
+        "name": "Michael480th",
+        "description": "Show HN: Banana Battle – DOS Gorillas rebuilt as a web game",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://michael480th.github.io/Banana-Battle/",
+        "discovered_at": "2026-07-10"
+    },
+    {
         "name": "Miniforge",
         "description": "MiniForge – describe a game, get IAP, GPU compute, and leaderboards free",
         "category": "Entertainment",
@@ -83161,6 +83241,16 @@
         "cors": "unknown",
         "url": "https://ionrouter.io",
         "discovered_at": "2026-03-13"
+    },
+    {
+        "name": "Lastshelf",
+        "description": "Show HN: LastShelf – an emergency map of your family's documents bills& contacts",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.lastshelf.ai/",
+        "discovered_at": "2026-07-10"
     },
     {
         "name": "Mapbox",
@@ -90573,6 +90663,16 @@
         "discovered_at": "2026-05-02"
     },
     {
+        "name": "Formgrid",
+        "description": "Show HN: FormGrid – Forms that can look like CLIs, pixel art, GeoCities and more",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.formgrid.com/",
+        "discovered_at": "2026-07-10"
+    },
+    {
         "name": "Fortune",
         "description": "Tech is in turmoil but the rest of corporate America isn't",
         "category": "Other",
@@ -93163,6 +93263,16 @@
         "discovered_at": "2026-05-07"
     },
     {
+        "name": "O3k",
+        "description": "Show HN: O3k – a lightweight OpenStack-compatible API for labs and tests",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://o3k.io",
+        "discovered_at": "2026-07-10"
+    },
+    {
         "name": "Objo",
         "description": "Show HN: Objo Studio",
         "category": "Other",
@@ -93511,6 +93621,16 @@
         "cors": "unknown",
         "url": "https://panavy.gumroad.com/l/skmaha",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Pandapage",
+        "description": "Show HN: PandaPage – host an HTML page with one curl, no signup, auto-expires",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pandapage.clawshop.sh",
+        "discovered_at": "2026-07-10"
     },
     {
         "name": "Panel-panic",
@@ -94081,6 +94201,16 @@
         "cors": "unknown",
         "url": "https://px0.ai/",
         "discovered_at": "2026-07-06"
+    },
+    {
+        "name": "Pylonsync",
+        "description": "Show HN: Pylon Sync, an agent-first full-stack realtime framework",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.pylonsync.com",
+        "discovered_at": "2026-07-10"
     },
     {
         "name": "Pyrefly",
@@ -94663,6 +94793,16 @@
         "discovered_at": "2026-04-29"
     },
     {
+        "name": "Sbnyc",
+        "description": "Show HN: I built a free app for New Yorkers to save money on groceries",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sbnyc.app/",
+        "discovered_at": "2026-07-10"
+    },
+    {
         "name": "Scaleninja",
         "description": "Show HN: Noject – menubar app to stop drive ejections on macOS",
         "category": "Other",
@@ -95173,6 +95313,16 @@
         "discovered_at": "2026-05-22"
     },
     {
+        "name": "Speedcube",
+        "description": "Show HN: Rubiks Cube Solver",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://speedcube.com.br/",
+        "discovered_at": "2026-07-10"
+    },
+    {
         "name": "Spending Pulse",
         "description": "This API will provide monthly data which includes metrics such as sales volume and growth rate.",
         "category": "Other",
@@ -95181,6 +95331,16 @@
         "cors": "unknown",
         "url": "https://developer.mastercard.com/devzone/api/portal/swagger/spendingpulse",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Spice",
+        "description": "Show HN: Spice 2.0 – Real-Time Analytical Query on Operational Data, Without ETL",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://spice.ai/blog/spice-2-0-is-now-available",
+        "discovered_at": "2026-07-10"
     },
     {
         "name": "Splitsense",
@@ -96453,6 +96613,16 @@
         "discovered_at": "2026-05-04"
     },
     {
+        "name": "Whentofly",
+        "description": "Show HN: Whentofly – flexible-date flight search that says if the price is good",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://whentofly.io",
+        "discovered_at": "2026-07-10"
+    },
+    {
         "name": "Whereisartemis",
         "description": "Show HN: Where Is Artemis?",
         "category": "Other",
@@ -96981,6 +97151,16 @@
         "cors": "unknown",
         "url": "https://animateoldphotos.org/add-loved-one-to-photo",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Applewalls",
+        "description": "Show HN: AppleWalls – free 4K wallpapers for Apple devices",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.applewalls.com/en",
+        "discovered_at": "2026-07-10"
     },
     {
         "name": "Audiofftimage",
