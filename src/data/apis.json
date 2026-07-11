@@ -8079,6 +8079,16 @@
         "discovered_at": "2026-04-24"
     },
     {
+        "name": "Neciudan",
+        "description": "What's the best way to do authentication in modern applications",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://neciudan.dev/most-secure-way-to-store-auth-token",
+        "discovered_at": "2026-07-11"
+    },
+    {
         "name": "Okta",
         "description": "Enterprise identity and access management",
         "category": "Auth & Identity",
@@ -8995,6 +9005,16 @@
         "cors": "unknown",
         "url": "https://teardownhq.io",
         "discovered_at": "2026-06-08"
+    },
+    {
+        "name": "Torrentfreak",
+        "description": "Pearson's Anti-Piracy Vendor Takes Down Best-Selling Author's Own GitHub Repo",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://torrentfreak.com/pearsons-anti-piracy-vendor-takes-down-best-selling-authors-own-github-repo/",
+        "discovered_at": "2026-07-11"
     },
     {
         "name": "Trees",
@@ -15905,6 +15925,16 @@
         "cors": "unknown",
         "url": "https://vyvoice.com",
         "discovered_at": "2026-05-17"
+    },
+    {
+        "name": "Willowvoice",
+        "description": "Show HN: Willow Voice – Free AI Dictation",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://willowvoice.com/",
+        "discovered_at": "2026-07-11"
     },
     {
         "name": "Zedmail",
@@ -78721,6 +78751,16 @@
         "discovered_at": "2026-04-30"
     },
     {
+        "name": "Biteread",
+        "description": "Show HN: Hacker News book recs as study guides",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://biteread.ai/collection/hacker-news-top-nonfiction",
+        "discovered_at": "2026-07-11"
+    },
+    {
         "name": "Convexly",
         "description": "Show HN: I built a 2-min quiz that shows you how bad you are at estimating",
         "category": "Education",
@@ -80076,6 +80116,16 @@
         "discovered_at": "2026-05-31"
     },
     {
+        "name": "Pip",
+        "description": "Show HN: River Rescue – Game mechanic for 3yo",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.pip.quest/",
+        "discovered_at": "2026-07-11"
+    },
+    {
         "name": "Planedrift",
         "description": "Show HN: Planedrift – Play Infocom games in the browser",
         "category": "Entertainment",
@@ -80403,6 +80453,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.frankfurter.app/"
+    },
+    {
+        "name": "Goldbean-api",
+        "description": "Show HN: Pay-per-call MCP server with 47 AI endpoints, micropayments via x402",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://goldbean-api.xyz",
+        "discovered_at": "2026-07-11"
     },
     {
         "name": "Helmterminal",
@@ -89043,6 +89103,16 @@
         "discovered_at": "2026-07-07"
     },
     {
+        "name": "Cardneuro",
+        "description": "Would you use an app that picks your best card based on where you're?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cardneuro.com/",
+        "discovered_at": "2026-07-11"
+    },
+    {
         "name": "Celesto",
         "description": "Show HN: Automate legacy software on a Windows Sandbox",
         "category": "Other",
@@ -92503,6 +92573,16 @@
         "discovered_at": "2026-04-06"
     },
     {
+        "name": "Markeron",
+        "description": "Show HN: MarkerOn – Keyboard-first screen annotation tool (~1.5 MB, Tauri v2)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://markeron.cn/",
+        "discovered_at": "2026-07-11"
+    },
+    {
         "name": "Marketing Events Extension",
         "description": "These APIs allow you to interact with HubSpot's Marketing Events Extension. It allows you to:\n* Create, Read or update Marketing Event information in HubSpot\n* Specify whether a HubSpot contact has re",
         "category": "Other",
@@ -95593,6 +95673,16 @@
         "discovered_at": "2026-05-10"
     },
     {
+        "name": "Swaggertomcp",
+        "description": "Show HN: MCP Gateway – Turn existing APIs and databases into MCP servers",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://swaggertomcp.com",
+        "discovered_at": "2026-07-11"
+    },
+    {
         "name": "Sweatdiary",
         "description": "Show HN: SweatDiary – simple workout journal, native iOS and macOS app",
         "category": "Other",
@@ -95611,6 +95701,16 @@
         "cors": "unknown",
         "url": "https://www.swipecopilot.com/",
         "discovered_at": "2026-05-08"
+    },
+    {
+        "name": "Sxp",
+        "description": "Show HN: SubjectiveZero, an open-source agentic node editor for creative coding",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sxp.studio/apps/subz",
+        "discovered_at": "2026-07-11"
     },
     {
         "name": "Sylve",
@@ -96113,6 +96213,16 @@
         "discovered_at": "2026-05-25"
     },
     {
+        "name": "Trollbridge",
+        "description": "Show HN: Trollbridge – let your agent run YOLO but without the whole internet",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://trollbridge.dev/",
+        "discovered_at": "2026-07-11"
+    },
+    {
         "name": "Tronbrowser",
         "description": "TronBrowser is an open-source, privacy-first, AI-native web browser",
         "category": "Other",
@@ -96171,6 +96281,16 @@
         "cors": "unknown",
         "url": "https://www.turbinefi.com",
         "discovered_at": "2026-04-25"
+    },
+    {
+        "name": "Turfmark",
+        "description": "Marketing tool for small businesses test",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://turfmark.vercel.app/",
+        "discovered_at": "2026-07-11"
     },
     {
         "name": "Turso",
@@ -110552,6 +110672,16 @@
         "discovered_at": "2026-05-18"
     },
     {
+        "name": "Gallery",
+        "description": "Show HN: I built a YouTube for generative videos in 50 prompts",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gallery.samsar.one/",
+        "discovered_at": "2026-07-11"
+    },
+    {
         "name": "Game",
         "description": "Show HN: We benchmarked 3 AI video detection APIs on 190 videos",
         "category": "Video & Media",
@@ -110789,6 +110919,16 @@
         "cors": "unknown",
         "url": "https://runapi.ai/",
         "discovered_at": "2026-06-09"
+    },
+    {
+        "name": "Runwayml",
+        "description": "AVTensor: A High-Performance Rust Media Decoder for Training Pipelines",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://runwayml.com/news/avtensor-a-high-performance-rust-media-decoder-for-training-pipelines",
+        "discovered_at": "2026-07-11"
     },
     {
         "name": "Sankara",
