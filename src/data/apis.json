@@ -30,6 +30,16 @@
         "discovered_at": "2026-05-30"
     },
     {
+        "name": "1h-money",
+        "description": "Show HN: My AI agent has 9 hours left to win a public bet – live dashboard",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://1h-money.vercel.app/finale.html",
+        "discovered_at": "2026-07-12"
+    },
+    {
         "name": "3d-agent",
         "description": "Show HN: 3D-Agent – AI that edits Blender scenes through the Python API",
         "category": "AI & Machine Learning",
@@ -190,6 +200,16 @@
         "discovered_at": "2026-04-28"
     },
     {
+        "name": "Ai-arcade",
+        "description": "AI Arcade – which coding model can build the best arcade game",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ai-arcade.app",
+        "discovered_at": "2026-07-12"
+    },
+    {
         "name": "Ai-boost",
         "description": "Show HN: AI Boost – an MCP for accessing your everyday patterns",
         "category": "AI & Machine Learning",
@@ -218,6 +238,16 @@
         "cors": "unknown",
         "url": "https://ai-olympics.vercel.app",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Ai-visibility",
+        "description": "Show HN: Free AI Visibility Audit Tool& Agent",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ai-visibility.pro",
+        "discovered_at": "2026-07-12"
     },
     {
         "name": "Aic-ai-lab",
@@ -1106,6 +1136,16 @@
         "cors": "unknown",
         "url": "https://danubeai.com",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Data",
+        "description": "The AI Disagreement Index: 8 models agreed on the \"best tool\" 0 of 16 times",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://data.deepsynthesis.org/",
+        "discovered_at": "2026-07-12"
     },
     {
         "name": "Dataconcierge",
@@ -3142,6 +3182,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Promptowl",
+        "description": "Show HN: ContextNest versioned, governed context for AI agents (open-source CLI)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://promptowl.ai/resources/building-a-viewable-second-brain-with-context/",
+        "discovered_at": "2026-07-12"
+    },
+    {
         "name": "Proreview",
         "description": "Show HN: AI command review drill for engineers and vibe coders",
         "category": "AI & Machine Learning",
@@ -4487,6 +4537,16 @@
         "cors": "unknown",
         "url": "https://www.wiz.io/vulnerability-database/cve/cve-2026-33413",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Wizard",
+        "description": "Show HN: Wizard – Self-extending Rust terminal AI agent (one-line install)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wizard.teddytennant.com",
+        "discovered_at": "2026-07-12"
     },
     {
         "name": "Wolffi",
@@ -8807,6 +8867,16 @@
         "cors": "unknown",
         "url": "https://www.indiehackers.com/post/open-source-next-js-salon-booking-template-built-on-opencals-booking-api-o51auLoWnHxcAnaQTdfe",
         "discovered_at": "2026-06-11"
+    },
+    {
+        "name": "Jakubhalmes",
+        "description": "Show HN: I turned my quote collection into a walkable 3D library (desktop-only)",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jakubhalmes.com/library/",
+        "discovered_at": "2026-07-12"
     },
     {
         "name": "Lelu-ai",
@@ -59626,6 +59696,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Rubygems",
+        "description": "Show HN: AsyncFutures – A Ruby gem for asynchronous/concurrent code execution",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rubygems.org/gems/async_futures/versions/0.1.2",
+        "discovered_at": "2026-07-12"
+    },
+    {
         "name": "Rumble Video Downloader Pro",
         "description": "𝗙𝗶𝗻𝗮𝗹𝗹𝘆 - 𝗔 𝗥𝘂𝗺𝗯𝗹𝗲 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗲𝗿 𝗧𝗵𝗮𝘁 𝗗𝗼𝗲𝘀𝗻'𝘁 𝗦𝘂𝗰𝗸 No more one-at-a-time downloads or missing metadata. Concurrent processing, full data extraction, multiple...",
         "category": "Development",
@@ -59634,6 +59714,16 @@
         "cors": "unknown",
         "url": "https://apify.com/xtech/rumble-video-downloader-pro",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Runaether",
+        "description": "Show HN: Aether – Run Claude Code, Codex, or OpenCode in devboxes you can watch",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.runaether.dev/",
+        "discovered_at": "2026-07-12"
     },
     {
         "name": "Rust Input Function Example",
@@ -78781,6 +78871,16 @@
         "discovered_at": "2026-04-04"
     },
     {
+        "name": "Gupea",
+        "description": "Negotiating AI in Open Source Software Communities: A Case Study of LLVM Project",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gupea.ub.gu.se/server/api/core/bitstreams/ad9b523e-f6d5-4dc2-b632-64f9734484cf/content",
+        "discovered_at": "2026-07-12"
+    },
+    {
         "name": "Hyper",
         "description": "Show HN: Run the popular LLM-Course tutorials on HyperAI",
         "category": "Education",
@@ -80136,6 +80236,16 @@
         "discovered_at": "2026-04-18"
     },
     {
+        "name": "Play",
+        "description": "Show HN: A strategic word game where you make many words with 1 letter per turn",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://play.letterphile.com",
+        "discovered_at": "2026-07-12"
+    },
+    {
         "name": "Playtiao",
         "description": "Show HN: Tiao, A two-player turn-based board game",
         "category": "Entertainment",
@@ -80339,6 +80449,26 @@
         "cors": "unknown",
         "url": "https://variety.com/2026/music/news/oliver-tree-dead-helicopter-crash-alien-boy-life-goes-on-1236780964/",
         "discovered_at": "2026-06-15"
+    },
+    {
+        "name": "Wanderinghorse",
+        "description": "Show HN: Rules-free solo-only client for the Paperback tabletop game",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wanderinghorse.net/gaming/paperback/solo.html",
+        "discovered_at": "2026-07-12"
+    },
+    {
+        "name": "Whatpetshouldiget",
+        "description": "Show HN: I used Claude to make some free fun pet-themed browser arcade games",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://whatpetshouldiget.com/play.html",
+        "discovered_at": "2026-07-12"
     },
     {
         "name": "20022validator",
@@ -87823,6 +87953,16 @@
         "discovered_at": "2026-03-13"
     },
     {
+        "name": "A8",
+        "description": "Show HN: Sfotty Pie – A browser-based Atari 8-bit emulator in TypeScript",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://a8.aygun.me",
+        "discovered_at": "2026-07-12"
+    },
+    {
         "name": "Aasheesh",
         "description": "My LSM tree was slower than a B-tree. Then I profiled it",
         "category": "Other",
@@ -88493,6 +88633,16 @@
         "discovered_at": "2026-03-03"
     },
     {
+        "name": "Axletic",
+        "description": "Show HN: Axletic – a local-first workout tracker for iPhone",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.axletic.app",
+        "discovered_at": "2026-07-12"
+    },
+    {
         "name": "Bacist",
         "description": "Show HN: Irregular German Verbs – a simple app, no ads or tracking",
         "category": "Other",
@@ -88591,6 +88741,16 @@
         "cors": "unknown",
         "url": "https://bets.bernikins.com/",
         "discovered_at": "2026-04-28"
+    },
+    {
+        "name": "Better-prayer",
+        "description": "Show HN: I made a free Islamic prayer app to stop saying \"Ill pray in 5 minutes\"",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://better-prayer.com",
+        "discovered_at": "2026-07-12"
     },
     {
         "name": "Betterftp",
@@ -91603,6 +91763,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Index",
+        "description": "Show HN: A Trust Index for MCP Servers",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://index.canopii.dev",
+        "discovered_at": "2026-07-12"
+    },
+    {
         "name": "Indiatoday",
         "description": "Meta's Claudeonomics leaderboard",
         "category": "Other",
@@ -93503,6 +93673,16 @@
         "discovered_at": "2026-03-17"
     },
     {
+        "name": "Openbenchmarks",
+        "description": "Show HN: OpenBenchmarks – Helping agents discover and pick the right SaaS APIs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://openbenchmarks.com",
+        "discovered_at": "2026-07-12"
+    },
+    {
         "name": "Openbrand",
         "description": "Show HN: Open-source, extract any brand's logos, colors, and assets from a URL",
         "category": "Other",
@@ -95021,6 +95201,16 @@
         "cors": "unknown",
         "url": "https://seoscoreapi.com",
         "discovered_at": "2026-03-02"
+    },
+    {
+        "name": "Servicebeard",
+        "description": "Show HN: ServiceBeard – Turn your support mailbox into an issue board",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://servicebeard.app/",
+        "discovered_at": "2026-07-12"
     },
     {
         "name": "Sethkarten",
@@ -110393,6 +110583,16 @@
         "cors": "unknown",
         "url": "https://richinto.com/",
         "discovered_at": "2026-06-18"
+    },
+    {
+        "name": "Templateson",
+        "description": "Show HN: Image Generation API with QR code tracking and MCP support",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://templateson.com",
+        "discovered_at": "2026-07-12"
     },
     {
         "name": "U2m",
