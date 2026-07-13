@@ -3990,6 +3990,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Techradar",
+        "description": "'Quality decays exponentially following AI arrival': Experts leaving in droves",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.techradar.com/pro/quality-decays-exponentially-following-ai-arrival-research-shows-experts-and-contributors-leaving-online-communities-amidst-silent-knowledge-reset",
+        "discovered_at": "2026-07-13"
+    },
+    {
         "name": "Techstrong",
         "description": "For most of the world, open-source AI is the only way forward",
         "category": "AI & Machine Learning",
@@ -93341,6 +93351,16 @@
         "cors": "unknown",
         "url": "https://navalstrike.app",
         "discovered_at": "2026-05-07"
+    },
+    {
+        "name": "Nebusec",
+        "description": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nebusec.ai/research/ionstack-part-2/",
+        "discovered_at": "2026-07-13"
     },
     {
         "name": "Necessarycuts",
