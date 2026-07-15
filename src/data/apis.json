@@ -210,6 +210,16 @@
         "discovered_at": "2026-04-28"
     },
     {
+        "name": "Agnost",
+        "description": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agnost.ai",
+        "discovered_at": "2026-07-15"
+    },
+    {
         "name": "Ai-arcade",
         "description": "AI Arcade – which coding model can build the best arcade game",
         "category": "AI & Machine Learning",
@@ -1405,6 +1415,16 @@
         "cors": "unknown",
         "url": "https://www.echoo.ai/",
         "discovered_at": "2026-07-09"
+    },
+    {
+        "name": "Economist",
+        "description": "When China's open-source AI is a trap",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.economist.com/international/2026/07/14/when-chinas-open-source-ai-is-a-trap",
+        "discovered_at": "2026-07-15"
     },
     {
         "name": "Efficienist",
@@ -3222,6 +3242,16 @@
         "discovered_at": "2026-03-16"
     },
     {
+        "name": "Prathibhax",
+        "description": "Show HN: A free tool that turns any AI topic into an interactive, cited lesson",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://prathibhax.com/",
+        "discovered_at": "2026-07-15"
+    },
+    {
         "name": "Prevail",
         "description": "Prevail – open-source AI \"life OS\" (not for your job)",
         "category": "AI & Machine Learning",
@@ -4238,6 +4268,16 @@
         "cors": "unknown",
         "url": "https://thoughts.jock.pl/p/familiar-local-ai-agent-mac",
         "discovered_at": "2026-03-11"
+    },
+    {
+        "name": "Time",
+        "description": "Open Source AI Rebel Alliance",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://time.com/article/2026/07/13/open-source-ai-mozilla-rebel-alliance/",
+        "discovered_at": "2026-07-15"
     },
     {
         "name": "Tinker",
@@ -7786,6 +7826,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Kant2002",
+        "description": "Integrating .NET GC in your C++ application",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kant2002.github.io/en/dotnet/open-source/2026/07/12/dotnet-gc.html",
+        "discovered_at": "2026-07-15"
+    },
+    {
         "name": "Khanacademy",
         "description": "Classification of amino acids",
         "category": "Animals",
@@ -8237,6 +8287,16 @@
         "cors": "unknown",
         "url": "https://limenauth.dev/blog/introducing-limen",
         "discovered_at": "2026-04-26"
+    },
+    {
+        "name": "Mcp-billing",
+        "description": "Show HN: MCP-Billing – self-hosted auth and usage billing for MCP servers",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mcp-billing.com",
+        "discovered_at": "2026-07-15"
     },
     {
         "name": "Mcp-shark",
@@ -9165,6 +9225,16 @@
         "cors": "unknown",
         "url": "https://smithereen.software",
         "discovered_at": "2026-05-22"
+    },
+    {
+        "name": "Stagewhisper",
+        "description": "Show HN: BYO AI free notetaking with optional screen reading for OpenClaw/hermes",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stagewhisper.io/lite",
+        "discovered_at": "2026-07-15"
     },
     {
         "name": "Staythere",
@@ -16027,6 +16097,16 @@
         "cors": "unknown",
         "url": "https://traceapp.info",
         "discovered_at": "2026-06-15"
+    },
+    {
+        "name": "Tryspillit",
+        "description": "Show HN: Spill It A local voice dictation app",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tryspillit.com",
+        "discovered_at": "2026-07-15"
     },
     {
         "name": "Ttslab",
@@ -68856,6 +68936,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Emaginasion",
+        "description": "Show HN: Chauffeur – One Click restore of your aplication Context",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.emaginasion.com/",
+        "discovered_at": "2026-07-15"
+    },
+    {
         "name": "Email",
         "description": "-",
         "category": "E-Commerce",
@@ -80716,6 +80806,16 @@
         "url": "https://finnhub.io/docs/api"
     },
     {
+        "name": "Fn2",
+        "description": "Show HN: I Built OpenClaw for Stocks",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fn2.ai/",
+        "discovered_at": "2026-07-15"
+    },
+    {
         "name": "Frankfurter",
         "description": "Exchange rates published by the European Central Bank",
         "category": "Finance",
@@ -81740,6 +81840,16 @@
         "url": "https://punkapi.com/"
     },
     {
+        "name": "Souva",
+        "description": "Show HN: I built a free app that turns your fridge into recipes (solo dev)",
+        "category": "Food & Drink",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://souva.app",
+        "discovered_at": "2026-07-15"
+    },
+    {
         "name": "Spoonacular",
         "description": "Recipes, meal plans, and nutrition data",
         "category": "Food & Drink",
@@ -82692,6 +82802,16 @@
         "cors": "unknown",
         "url": "https://helloveil.com/sdk/",
         "discovered_at": "2026-03-11"
+    },
+    {
+        "name": "Hpcwire",
+        "description": "Alternative(s) to run CUDA on non-Nvidia hardware",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
+        "discovered_at": "2026-07-15"
     },
     {
         "name": "Hydron",
@@ -84914,6 +85034,16 @@
         "cors": "unknown",
         "url": "https://hooked.news/",
         "discovered_at": "2026-05-06"
+    },
+    {
+        "name": "Ichingportal",
+        "description": "Show HN: IChingPortal – Keyword search and news aggregator using the I Ching",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ichingportal.com/",
+        "discovered_at": "2026-07-15"
     },
     {
         "name": "Independent-wire",
@@ -88443,6 +88573,16 @@
         "discovered_at": "2026-07-01"
     },
     {
+        "name": "Anam",
+        "description": "Show HN: Real-time avatars that change emotions as you talk",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://anam.ai/",
+        "discovered_at": "2026-07-15"
+    },
+    {
         "name": "Andonlabs",
         "description": "We let AIs run radio stations",
         "category": "Other",
@@ -89503,6 +89643,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Chefkiss",
+        "description": "Chefkiss Inferno: Open-Source Apple Silicon Emulator",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://chefkiss.dev/applehax/inferno/",
+        "discovered_at": "2026-07-15"
+    },
+    {
         "name": "Chestnut",
         "description": "Show HN: Chestnut – The antidote to AI-induced skill atrophy",
         "category": "Other",
@@ -89601,6 +89751,26 @@
         "cors": "unknown",
         "url": "https://cli.deepgram.com/",
         "discovered_at": "2026-04-17"
+    },
+    {
+        "name": "Cli",
+        "description": "Show HN: Multi-player poker on SSH – ssh cli.poker",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.cli.poker/",
+        "discovered_at": "2026-07-15"
+    },
+    {
+        "name": "Clickhouse",
+        "description": "Two sizes fit most: Postgres and ClickHouse",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://clickhouse.com/blog/ai-best-of-breed-data-stack",
+        "discovered_at": "2026-07-15"
     },
     {
         "name": "clickup20",
@@ -90591,6 +90761,16 @@
         "cors": "unknown",
         "url": "https://economictimes.indiatimes.com/news/international/us/say-goodbye-to-traditional-air-conditioning-millions-are-turning-to-a-cheaper-electricity-free-cooling-solution/articleshow/130510992.cms?from=mdr",
         "discovered_at": "2026-04-27"
+    },
+    {
+        "name": "Edgarkit",
+        "description": "Show HN: EdgarKit – a real-time JSON API for SEC EDGAR filings",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://edgarkit.com/",
+        "discovered_at": "2026-07-15"
     },
     {
         "name": "Eepublicdownloads",
@@ -94253,6 +94433,16 @@
         "discovered_at": "2026-03-08"
     },
     {
+        "name": "Pastesheet",
+        "description": "Show HN: PasteSheet – Turn a Google Sheet into a REST API and MCP Server",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pastesheet.com",
+        "discovered_at": "2026-07-15"
+    },
+    {
         "name": "PatientView",
         "description": "The recommended REST API endpoints to be used when integrating with PatientView",
         "category": "Other",
@@ -96773,6 +96963,16 @@
         "discovered_at": "2026-05-26"
     },
     {
+        "name": "Trydatapoint",
+        "description": "Show HN: Datapoint – API for Human Preference Data",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://trydatapoint.com/docs/",
+        "discovered_at": "2026-07-15"
+    },
+    {
         "name": "Tryevaluator",
         "description": "Show HN: Don't ask if devs cheat with AI, test if they're good with it",
         "category": "Other",
@@ -97998,6 +98198,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://pixabay.com/api/docs/"
+    },
+    {
+        "name": "Pixfinder",
+        "description": "Show HN: PixFinder – Offline AI+OCR Image Search",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pixfinder.app/",
+        "discovered_at": "2026-07-15"
     },
     {
         "name": "Pixshot",
@@ -111511,6 +111721,16 @@
         "discovered_at": "2026-06-18"
     },
     {
+        "name": "Spet",
+        "description": "Spet, free no-signup transcription that's good at non-English audio",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://spet.app/",
+        "discovered_at": "2026-07-15"
+    },
+    {
         "name": "Stenobird",
         "description": "Show HN: Stenobird, podcast transcription service for your agent",
         "category": "Video & Media",
@@ -111568,6 +111788,16 @@
         "cors": "unknown",
         "url": "https://video-commander.com",
         "discovered_at": "2026-04-08"
+    },
+    {
+        "name": "Video-editor",
+        "description": "Show HN: Timeline Studio – Open-source AI video editing",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://video-editor.ai-creator.top/",
+        "discovered_at": "2026-07-15"
     },
     {
         "name": "Videolyti",
