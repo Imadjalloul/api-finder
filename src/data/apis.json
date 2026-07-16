@@ -680,6 +680,16 @@
         "discovered_at": "2026-05-30"
     },
     {
+        "name": "Benchmarklist",
+        "description": "Show HN: Benchmarklist: track AI benchmarks (2.4k+), models, and capabilities",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://benchmarklist.com/",
+        "discovered_at": "2026-07-16"
+    },
+    {
         "name": "Bestofai",
         "description": "Show HN: Best of AI – Handpicked and Curated Open-Source List of AI Tools",
         "category": "AI & Machine Learning",
@@ -798,6 +808,16 @@
         "cors": "unknown",
         "url": "https://blog.doubleword.ai/frontier-os-llm",
         "discovered_at": "2026-06-27"
+    },
+    {
+        "name": "Blog",
+        "description": "Which Doc Format Is Best for AI Specifications?",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": false,
+        "cors": "unknown",
+        "url": "http://blog.vanillajava.blog/2026/07/which-doc-format-is-best-for-ai.html",
+        "discovered_at": "2026-07-16"
     },
     {
         "name": "Boesch",
@@ -1415,6 +1435,16 @@
         "cors": "unknown",
         "url": "https://www.echoo.ai/",
         "discovered_at": "2026-07-09"
+    },
+    {
+        "name": "Economics",
+        "description": "Speculative Growth and the AI \"Bubble\" [pdf]",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf",
+        "discovered_at": "2026-07-16"
     },
     {
         "name": "Economist",
@@ -3990,6 +4020,16 @@
         "discovered_at": "2026-05-14"
     },
     {
+        "name": "Suhasbhairav",
+        "description": "Show HN: AI Starter Templates in NextJS and OpenAI",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://suhasbhairav.com/ai-templates",
+        "discovered_at": "2026-07-16"
+    },
+    {
         "name": "Sungeuns",
         "description": "Foundation Model Engineering: A free textbook for AI engineers",
         "category": "AI & Machine Learning",
@@ -4339,6 +4379,16 @@
         "discovered_at": "2026-05-28"
     },
     {
+        "name": "Tpmme",
+        "description": "Show HN: Complete the survey and get personal free AI toothpaste recommendation",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tpmme.me",
+        "discovered_at": "2026-07-16"
+    },
+    {
         "name": "Traceaio",
         "description": "Show HN: TraceAIO – open-source LLM visibility tracker",
         "category": "AI & Machine Learning",
@@ -4477,6 +4527,16 @@
         "cors": "unknown",
         "url": "https://vaultbix.com",
         "discovered_at": "2026-05-13"
+    },
+    {
+        "name": "Vaultcharts",
+        "description": "Show HN: Free Ollama AI Trading Desktop App",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.vaultcharts.com/",
+        "discovered_at": "2026-07-16"
     },
     {
         "name": "Veil-api",
@@ -8326,6 +8386,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://developer.okta.com/docs/reference/"
+    },
+    {
+        "name": "Openai-oauth",
+        "description": "Show HN: Sign in with your ChatGPT account for free AI",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://openai-oauth.vercel.app/",
+        "discovered_at": "2026-07-16"
     },
     {
         "name": "Opencomputer",
@@ -15092,6 +15162,16 @@
         "url": "https://pastebin.com/doc_api"
     },
     {
+        "name": "Pocketweb",
+        "description": "Free local AI video clipper – No Upload, All in browser",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pocketweb.tools/video-clipper",
+        "discovered_at": "2026-07-16"
+    },
+    {
         "name": "Rigorcloud",
         "description": "Show HN: Rigor – Anti-Enshittification Proxy for Your AI Agents",
         "category": "Cloud & Storage",
@@ -15808,6 +15888,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://documentation.mailgun.com/"
+    },
+    {
+        "name": "Mailoven",
+        "description": "Show HN: Mailoven email testing made easy",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mailoven.com/",
+        "discovered_at": "2026-07-16"
     },
     {
         "name": "Mailparse",
@@ -49636,6 +49726,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Contributist",
+        "description": "Show HN: GitHub Contribution Graph Painter",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://contributist.stupidity.works/en",
+        "discovered_at": "2026-07-16"
+    },
+    {
         "name": "Convert image aspect ratio",
         "description": "Transform any image to your desired aspect ratio (square, widescreen, portrait, custom) with intelligent background filling and quality preservation. Supports multiple image formats and batch...",
         "category": "Development",
@@ -57726,6 +57826,16 @@
         "cors": "unknown",
         "url": "https://apify.com/yourapiservice/novaoil-training-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Novaforge-ai",
+        "description": "NovaForge AI – Free AI, PDF, Image and Developer Tools in One Place",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://novaforge-ai.pages.dev",
+        "discovered_at": "2026-07-16"
     },
     {
         "name": "npm Package Scraper - Registry Data & Downloads API",
@@ -77711,6 +77821,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Webround",
+        "description": "Show HN: Webround - an API-first e-commerce platform",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://webround.com/en",
+        "discovered_at": "2026-07-16"
+    },
+    {
         "name": "Whangamata Realestate Sale List",
         "description": "Extract recently sold property data from Whangamata Real Estate effortlessly. Scrape detailed descriptions, high-res images, sales consultants, and key particulars in clean JSON. Ideal for market...",
         "category": "E-Commerce",
@@ -82267,6 +82387,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Siegelendowment",
+        "description": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+        "discovered_at": "2026-07-16"
+    },
+    {
         "name": "Splabs",
         "description": "Show HN: How to analyze your LLM output – A behavioural health monitor for LLMs",
         "category": "Government & Health",
@@ -82332,6 +82462,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.who.int/data/gho/info/gho-odata-api"
+    },
+    {
+        "name": "Withmurph",
+        "description": "Show HN: OpenClaw for Your Health",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.withmurph.ai",
+        "discovered_at": "2026-07-16"
     },
     {
         "name": "DigitalOcean API",
@@ -82772,6 +82912,16 @@
         "cors": "unknown",
         "url": "https://freedspeech.xyz",
         "discovered_at": "2026-05-05"
+    },
+    {
+        "name": "Getlimits",
+        "description": "Show HN: Limits, an on-device iOS app for tracking AI usage limits",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getlimits.app",
+        "discovered_at": "2026-07-16"
     },
     {
         "name": "Ghostedwatch",
@@ -84956,6 +85106,16 @@
         "cors": "unknown",
         "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/",
         "discovered_at": "2026-07-05"
+    },
+    {
+        "name": "Eunews",
+        "description": "Ban on broadcasting: EU Court clarifies that it also applies to free websites",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.eunews.it/en/2026/07/02/ban-on-broadcasting-russia-today-the-eu-court-clarifies-that-it-also-applies-to-free-websites/",
+        "discovered_at": "2026-07-16"
     },
     {
         "name": "Euronews",
@@ -89823,6 +89983,16 @@
         "discovered_at": "2026-03-24"
     },
     {
+        "name": "Coasty",
+        "description": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://coasty.ai/docs",
+        "discovered_at": "2026-07-16"
+    },
+    {
         "name": "Codifycli",
         "description": "Show HN: Codify – Terraform for Dev Environments",
         "category": "Other",
@@ -92213,6 +92383,16 @@
         "discovered_at": "2026-05-05"
     },
     {
+        "name": "Inferall",
+        "description": "Show HN: InferAll – One API for OpenAI, Anthropic, Google, Nvidia Nim",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://inferall.ai/?src=hn",
+        "discovered_at": "2026-07-16"
+    },
+    {
         "name": "Ingelt",
         "description": "Show HN: Parsing hostile industrial data in 64MB WASM sandboxes",
         "category": "Other",
@@ -92723,6 +92903,16 @@
         "discovered_at": "2026-06-05"
     },
     {
+        "name": "Labrujulaverde",
+        "description": "Sealed Tomb Filled with Paintings and Inscriptions Discovered in Egypt",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
+        "discovered_at": "2026-07-16"
+    },
+    {
         "name": "Lakyus",
         "description": "Show HN: Launch and Run Companies on Autopilot",
         "category": "Other",
@@ -92971,6 +93161,16 @@
         "cors": "unknown",
         "url": "https://www.lorea.app/3d-library",
         "discovered_at": "2026-06-17"
+    },
+    {
+        "name": "Lorislab",
+        "description": "Show HN: Throttle – Local Claude Cockpit for macOS, now with remote control",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lorislab.fr/throttle/",
+        "discovered_at": "2026-07-16"
     },
     {
         "name": "Loxeai",
@@ -93763,6 +93963,16 @@
         "discovered_at": "2026-06-16"
     },
     {
+        "name": "Myhomestead",
+        "description": "Show HN: Homestead – Build apps for you, your family, and your agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://myhomestead.dev/",
+        "discovered_at": "2026-07-16"
+    },
+    {
         "name": "Myintelbrief",
         "description": "Show HN: My Intel Brief - Rival-intel briefs sm biz, white-lbl for agencies",
         "category": "Other",
@@ -93821,6 +94031,16 @@
         "cors": "unknown",
         "url": "https://necessarycuts.com/play",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Nestforge",
+        "description": "Show HN: NestForge, true-shape nesting in the browser, every layout re-verified",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nestforge.dauerschicht.com/app/",
+        "discovered_at": "2026-07-16"
     },
     {
         "name": "Netscopeapp",
@@ -94893,6 +95113,16 @@
         "discovered_at": "2026-04-30"
     },
     {
+        "name": "Pullboard",
+        "description": "Show HN: Pullboard – a work queue for agents, built to run a quant desk",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pullboard.dev/",
+        "discovered_at": "2026-07-16"
+    },
+    {
         "name": "Pulse",
         "description": "Show HN: Free API for social post metrics – URL in, views/likes/comments out",
         "category": "Other",
@@ -95613,6 +95843,16 @@
         "discovered_at": "2026-05-21"
     },
     {
+        "name": "Screenshotapis",
+        "description": "Show HN: ScreenshotAPIs – screenshot/PDF API with credits that never expire",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://screenshotapis.org",
+        "discovered_at": "2026-07-16"
+    },
+    {
         "name": "Searchcue",
         "description": "Show HN: SearchCue",
         "category": "Other",
@@ -96253,6 +96493,16 @@
         "discovered_at": "2026-06-19"
     },
     {
+        "name": "Stemning",
+        "description": "Show HN: Stemning AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stemning.ai/packs/historical-portraits",
+        "discovered_at": "2026-07-16"
+    },
+    {
         "name": "Stillis",
         "description": "Show HN: Stillis – An open-ended anonymous polling platform for anything",
         "category": "Other",
@@ -96371,6 +96621,16 @@
         "cors": "unknown",
         "url": "https://superinstance.ai/demos",
         "discovered_at": "2026-05-10"
+    },
+    {
+        "name": "Swag",
+        "description": "Show HN: Swagsocial",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://swag.nomaakip.xyz/browse",
+        "discovered_at": "2026-07-16"
     },
     {
         "name": "Swaggertomcp",
@@ -105395,6 +105655,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Taiga",
+        "description": "Taiga: Open source agile project management software",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://taiga.io/",
+        "discovered_at": "2026-07-16"
+    },
+    {
         "name": "Take 5 Lottery Past Winning Numbers",
         "description": "This actor retrieves historical winning numbers for the Take 5 lottery within a specified date range.",
         "category": "Productivity",
@@ -105563,6 +105833,16 @@
         "cors": "unknown",
         "url": "https://apify.com/easyapi/threads-post-media-downloader",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Threelinecal",
+        "description": "Show HN: 3-line calendar for Apple Watch – free, open source, no sign-in",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://threelinecal.apps.zzn.im/",
+        "discovered_at": "2026-07-16"
     },
     {
         "name": "Ticketmaster Events Scraper 🎫",
@@ -111569,6 +111849,16 @@
         "cors": "unknown",
         "url": "https://ma.ttias.be/transcribing-syscast-with-local-ai/",
         "discovered_at": "2026-06-15"
+    },
+    {
+        "name": "Masterselects",
+        "description": "Show HN: Update on my media editor in browser no back end",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.masterselects.com",
+        "discovered_at": "2026-07-16"
     },
     {
         "name": "Media API",
