@@ -250,6 +250,16 @@
         "discovered_at": "2026-04-25"
     },
     {
+        "name": "Ai-law-tracker",
+        "description": "Show HN: AI Law Tracker – one audited API for US, EU and global AI law",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ai-law-tracker.com",
+        "discovered_at": "2026-07-17"
+    },
+    {
         "name": "Ai-olympics",
         "description": "Show HN: AI Olympics – Claude vs. GPT-4 vs. Gemini in live browser competitions",
         "category": "AI & Machine Learning",
@@ -1827,6 +1837,16 @@
         "discovered_at": "2026-04-07"
     },
     {
+        "name": "Globalcareers-3qwcpfkw",
+        "description": "Global Careers Hub – Free AI Tools, Scholarships and Career Resources",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://globalcareers-3qwcpfkw.manus.space/",
+        "discovered_at": "2026-07-17"
+    },
+    {
         "name": "Go-micro",
         "description": "Show HN: Build Your Own AI Agent CLI in 150 Lines",
         "category": "AI & Machine Learning",
@@ -2052,6 +2072,16 @@
         "cors": "unknown",
         "url": "https://iamalex-afk.github.io/human-os-patch-33-protocols/",
         "discovered_at": "2026-04-18"
+    },
+    {
+        "name": "Iamit",
+        "description": "Show HN: Darby, a Hugo docs theme with in-browser AI Q&A (no back end, no keys)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://iamit.in/darby/",
+        "discovered_at": "2026-07-17"
     },
     {
         "name": "Inariwatch",
@@ -3033,6 +3063,16 @@
         "discovered_at": "2026-07-14"
     },
     {
+        "name": "Open-atelier",
+        "description": "Atelier, an open source local AI desktop app for everyone",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://open-atelier.app",
+        "discovered_at": "2026-07-17"
+    },
+    {
         "name": "OpenAI",
         "description": "GPT, DALL-E, Whisper — advanced AI models via API",
         "category": "AI & Machine Learning",
@@ -3859,6 +3899,16 @@
         "cors": "unknown",
         "url": "https://skilldb.dev/blog/agentic-loops-why-the-best-ai-coding-workflows-are-loops",
         "discovered_at": "2026-06-20"
+    },
+    {
+        "name": "Skillful",
+        "description": "Show HN: Skillful, stop maintaining the same AI workflow in five places",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://skillful.md/",
+        "discovered_at": "2026-07-17"
     },
     {
         "name": "Skillhound",
@@ -8133,6 +8183,16 @@
         "discovered_at": "2026-07-09"
     },
     {
+        "name": "Weblog",
+        "description": "Creating Dual Use Windows GUI and Console Applications",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://weblog.west-wind.com/posts/2026/Jun/23/Creating-Dual-Use-Windows-GUI-and-Console-Applications",
+        "discovered_at": "2026-07-17"
+    },
+    {
         "name": "Wiley",
         "description": "Sex matters: European urban birds flee approaching women sooner than men",
         "category": "Animals",
@@ -8832,6 +8892,16 @@
         "discovered_at": "2026-07-09"
     },
     {
+        "name": "Tokengobbler",
+        "description": "Show HN: Token Gobbler – the goofy game where you're the LLM",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tokengobbler.vercel.app/",
+        "discovered_at": "2026-07-17"
+    },
+    {
         "name": "Tokenizer",
         "description": "Show HN: Actual Claude Tokenizer",
         "category": "Blockchain",
@@ -9157,6 +9227,16 @@
         "cors": "unknown",
         "url": "https://mochijs.com/",
         "discovered_at": "2026-05-10"
+    },
+    {
+        "name": "Mojibake",
+        "description": "Show HN: Mojibake – A low-level Unicode library written in C",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mojibake.zaerl.com/",
+        "discovered_at": "2026-07-17"
     },
     {
         "name": "Mydatavalue",
@@ -15859,6 +15939,16 @@
         "cors": "unknown",
         "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
         "discovered_at": "2026-07-10"
+    },
+    {
+        "name": "Libretto",
+        "description": "Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://libretto.sh/debug-agents",
+        "discovered_at": "2026-07-17"
     },
     {
         "name": "License Manager API",
@@ -80359,6 +80449,16 @@
         "discovered_at": "2026-03-31"
     },
     {
+        "name": "Gameswithtony",
+        "description": "Show HN: QBasic Gorillas (Repeeled)",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gameswithtony.com/gorillas/",
+        "discovered_at": "2026-07-17"
+    },
+    {
         "name": "Gascraft",
         "description": "Show HN: I visualized Wasteland as an RTS game",
         "category": "Entertainment",
@@ -83912,6 +84012,16 @@
         "discovered_at": "2026-03-04"
     },
     {
+        "name": "Openenergytransition",
+        "description": "Open Source Will Eat AI",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code",
+        "discovered_at": "2026-07-17"
+    },
+    {
         "name": "Openrouter",
         "description": "Qwen 3.6 Free",
         "category": "Maps & Transport",
@@ -85322,6 +85432,16 @@
         "cors": "unknown",
         "url": "https://newsletter.ownersnotrenters.com/p/closing-the-open-source-gap",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Newsletter",
+        "description": "What can we learn from Bun's rapid Rust rewrite with AI?",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-07f",
+        "discovered_at": "2026-07-17"
     },
     {
         "name": "Oruk",
@@ -89493,6 +89613,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Bot-trade",
+        "description": "Show HN: BotTrade – a replayable benchmark for autonomous trading agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bot-trade.org/",
+        "discovered_at": "2026-07-17"
+    },
+    {
         "name": "Breadboard",
         "description": "Show HN: Breadboard – Figma for Breadboard Hackers",
         "category": "Other",
@@ -89871,6 +90001,16 @@
         "cors": "unknown",
         "url": "https://claude5.ai/en/news/claude-fable-5-free-access-june-9-22-pro-max-team-enterprise",
         "discovered_at": "2026-06-11"
+    },
+    {
+        "name": "Claudelines",
+        "description": "Show HN: Custom Claude Status Lines",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://claudelines.com/",
+        "discovered_at": "2026-07-17"
     },
     {
         "name": "Claudes-challenge",
@@ -91463,6 +91603,16 @@
         "discovered_at": "2026-07-10"
     },
     {
+        "name": "Formplume",
+        "description": "Show HN: AI-ready free form backend",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://formplume.com/",
+        "discovered_at": "2026-07-17"
+    },
+    {
         "name": "Fortune",
         "description": "Tech is in turmoil but the rest of corporate America isn't",
         "category": "Other",
@@ -91511,6 +91661,16 @@
         "cors": "unknown",
         "url": "https://free.ai/",
         "discovered_at": "2026-03-29"
+    },
+    {
+        "name": "Freeapi",
+        "description": "I monitor 99 free public APIs hourly so you don't integrate dead ones",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://freeapi.watch/",
+        "discovered_at": "2026-07-17"
     },
     {
         "name": "Freenet",
@@ -92483,6 +92643,16 @@
         "discovered_at": "2026-07-04"
     },
     {
+        "name": "Ipek",
+        "description": "Show HN: I kept rewriting scripts for my teams, so I built a visual tool instead",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ipek.run/",
+        "discovered_at": "2026-07-17"
+    },
+    {
         "name": "IPQualityScore API",
         "description": "IPQualityScore API API",
         "category": "Other",
@@ -93311,6 +93481,16 @@
         "cors": "unknown",
         "url": "https://www.makeuseof.com/stopped-using-lm-studio-found-open-source-alternative/",
         "discovered_at": "2026-04-24"
+    },
+    {
+        "name": "Malisper",
+        "description": "Pgrust was built: four attempts to rewrite Postgres in Rust with AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://malisper.me/how-pgrust-was-built-four-attempts-to-rewrite-postgres-in-rust-with-ai/",
+        "discovered_at": "2026-07-17"
     },
     {
         "name": "Manual",
@@ -94643,6 +94823,16 @@
         "discovered_at": "2026-03-03"
     },
     {
+        "name": "Pastehex",
+        "description": "Show HN: I've built tldraw for HTML and Markdown pages (with encryption)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pastehex.dev/",
+        "discovered_at": "2026-07-17"
+    },
+    {
         "name": "Pasterapp",
         "description": "Show HN: Paster – A keyboard-first clipboard manager for Vim users",
         "category": "Other",
@@ -95791,6 +95981,16 @@
         "cors": "unknown",
         "url": "https://scaleninja.com/noject/",
         "discovered_at": "2026-06-18"
+    },
+    {
+        "name": "Schema-harness",
+        "description": "Schema Harness Achieves ~99% on Arc‑AGI‑3 Public",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://schema-harness.github.io/",
+        "discovered_at": "2026-07-17"
     },
     {
         "name": "Scholar-sidekick",
@@ -98251,6 +98451,16 @@
         "cors": "unknown",
         "url": "https://animateoldphotos.org/add-loved-one-to-photo",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Apiwatermark",
+        "description": "Show HN: APIWatermark – Automation Tool for Image, Video and PDF Watermarking",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apiwatermark.com",
+        "discovered_at": "2026-07-17"
     },
     {
         "name": "Applewalls",
@@ -111779,6 +111989,16 @@
         "cors": "unknown",
         "url": "https://www.heyalys.com/",
         "discovered_at": "2026-04-07"
+    },
+    {
+        "name": "Howdousound",
+        "description": "Show HN: Real-Time Microphone Quality Scoring Using Web Audio API",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://howdousound.com/",
+        "discovered_at": "2026-07-17"
     },
     {
         "name": "Instantvideos",
