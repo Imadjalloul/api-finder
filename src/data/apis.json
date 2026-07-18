@@ -1737,6 +1737,16 @@
         "discovered_at": "2026-04-08"
     },
     {
+        "name": "Getjailbroken",
+        "description": "Show HN: The AI Lethal Trifecta",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.getjailbroken.com/",
+        "discovered_at": "2026-07-18"
+    },
+    {
         "name": "Getloreo",
         "description": "Show HN: Loreo – Bot-free, 8MB AI meeting transcriber using Scribe v2",
         "category": "AI & Machine Learning",
@@ -3172,6 +3182,16 @@
         "discovered_at": "2026-03-25"
     },
     {
+        "name": "Oversikt",
+        "description": "Public data and an AI evidence engine for Swedish politics",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://oversikt.se/",
+        "discovered_at": "2026-07-18"
+    },
+    {
         "name": "Pageindex",
         "description": "A file-level tree that lets an LLM reason over a document corpus",
         "category": "AI & Machine Learning",
@@ -3799,6 +3819,16 @@
         "cors": "unknown",
         "url": "https://www.screamer.app/",
         "discovered_at": "2026-03-31"
+    },
+    {
+        "name": "Selbonds",
+        "description": "Show HN: On-chain bond market where the issuers are AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://selbonds.now",
+        "discovered_at": "2026-07-18"
     },
     {
         "name": "Senthex",
@@ -4807,6 +4837,16 @@
         "cors": "unknown",
         "url": "https://wizard.teddytennant.com",
         "discovered_at": "2026-07-12"
+    },
+    {
+        "name": "Wolbarg",
+        "description": "Show HN: Wolbarg – Local-first shared memory for AI agents using SQLite",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wolbarg.com/blog/why-sqlite-is-enough-for-local-ai-agent-memory",
+        "discovered_at": "2026-07-18"
     },
     {
         "name": "Wolffi",
@@ -7936,6 +7976,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Justif",
+        "description": "Show HN: Justif – Knuth-Plass justification and microtypography for the web",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://justif.lyall.co/",
+        "discovered_at": "2026-07-18"
+    },
+    {
         "name": "Kant2002",
         "description": "Integrating .NET GC in your C++ application",
         "category": "Animals",
@@ -8044,6 +8094,16 @@
         "cors": "unknown",
         "url": "https://petercsauer.github.io/docktor-releases/",
         "discovered_at": "2026-04-29"
+    },
+    {
+        "name": "Petergray",
+        "description": "\"Free Range\" Offline and On",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://petergray.substack.com/p/121-free-range-offline-and-on",
+        "discovered_at": "2026-07-18"
     },
     {
         "name": "Pets Api",
@@ -8972,6 +9032,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Allbooks",
+        "description": "Show HN: A clean, distraction-free reading site for Plato's Apology of Socrates",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://allbooks.pages.dev",
+        "discovered_at": "2026-07-18"
+    },
+    {
         "name": "Amoilanen",
         "description": "Show HN: Algorithms and Data Structures in TypeScript – Free Book (~400 Pages)",
         "category": "Books",
@@ -9269,6 +9339,16 @@
         "discovered_at": "2026-04-02"
     },
     {
+        "name": "Ogblocks",
+        "description": "Show HN: Ogblocks – Copy-Paste Animated UI Library for Modern Web Apps",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ogblocks.dev",
+        "discovered_at": "2026-07-18"
+    },
+    {
         "name": "Oint",
         "description": "Show HN: Oint, a free booking app for salons and studios",
         "category": "Books",
@@ -9335,6 +9415,16 @@
         "cors": "unknown",
         "url": "https://www.readingvault.app",
         "discovered_at": "2026-04-26"
+    },
+    {
+        "name": "Relikes",
+        "description": "Show HN: Re:Likes – open-source library to be particular about reactions to text",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://relikes.com/#demo",
+        "discovered_at": "2026-07-18"
     },
     {
         "name": "Respeak-io",
@@ -15084,6 +15174,16 @@
         "url": "https://cloud.google.com/storage/docs/json_api"
     },
     {
+        "name": "Gpu",
+        "description": "Gpu.ai $1k Grand Prize Buildathon August 22nd 2026: Build on Free Cloud GPUs",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gpu.ai/buildathon",
+        "discovered_at": "2026-07-18"
+    },
+    {
         "name": "Help",
         "description": "Yahoo reduces email storage limits for free and paid accounts",
         "category": "Cloud & Storage",
@@ -15350,6 +15450,16 @@
         "cors": "unknown",
         "url": "https://twill.ai",
         "discovered_at": "2026-04-11"
+    },
+    {
+        "name": "Typst-wasm-playground-cloudflare",
+        "description": "Show HN: Typst-WASM – Compile Typst in browsers, Node, and serverless runtimes",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://typst-wasm-playground-cloudflare.will-bradshaw50.workers.dev/",
+        "discovered_at": "2026-07-18"
     },
     {
         "name": "User API",
@@ -82369,6 +82479,16 @@
         "discovered_at": "2026-07-02"
     },
     {
+        "name": "Donislawdev",
+        "description": "Show HN: Bean Network Tester – a free tool to simulate bad network conditions QA",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://donislawdev.itch.io/bean-network-tester",
+        "discovered_at": "2026-07-18"
+    },
+    {
         "name": "Eve",
         "description": "Show HN: Eve – Managed OpenClaw for work",
         "category": "Government & Health",
@@ -85462,6 +85582,16 @@
         "cors": "unknown",
         "url": "https://www.osnews.com/story/145130/open-source-project-contains-hidden-instruction-for-ai-agents-delete-my-code/",
         "discovered_at": "2026-06-02"
+    },
+    {
+        "name": "Oversightboard",
+        "description": "An Assessment of How AI Models Protect Free Expression",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.oversightboard.com/news/are-llms-stifling-political-speech-an-assessment-of-how-ai-models-protect-free-expression/",
+        "discovered_at": "2026-07-18"
     },
     {
         "name": "Passages",
@@ -88853,6 +88983,16 @@
         "discovered_at": "2026-07-01"
     },
     {
+        "name": "Amperebattery",
+        "description": "Ampere, open-source battery charge control for Apple Silicon Macs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://amperebattery.app/",
+        "discovered_at": "2026-07-18"
+    },
+    {
         "name": "Anam",
         "description": "Show HN: Real-time avatars that change emotions as you talk",
         "category": "Other",
@@ -90253,6 +90393,16 @@
         "discovered_at": "2026-04-10"
     },
     {
+        "name": "Cooltivo",
+        "description": "Show HN: Fitbod Meets Duolingo",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cooltivo.io/",
+        "discovered_at": "2026-07-18"
+    },
+    {
         "name": "Copresent",
         "description": "Show HN: Copresent – Turn your phone into a Google Slides remote",
         "category": "Other",
@@ -91453,6 +91603,16 @@
         "discovered_at": "2026-04-28"
     },
     {
+        "name": "Filterboxbuilder",
+        "description": "Open Source Parametric DIY Air Purifier Builder",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.filterboxbuilder.com/",
+        "discovered_at": "2026-07-18"
+    },
+    {
         "name": "Finqual",
         "description": "Show HN: Finqual – Free SEC-based API for fundamentals, insider and 13F data",
         "category": "Other",
@@ -91931,6 +92091,16 @@
         "cors": "unknown",
         "url": "https://ghosttyplayground.com/",
         "discovered_at": "2026-06-16"
+    },
+    {
+        "name": "Gian-reto",
+        "description": "Show HN: PrintBlocks – API and MCP server for your thermal printer",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gian-reto.github.io/print-blocks/",
+        "discovered_at": "2026-07-18"
     },
     {
         "name": "Giantjson",
@@ -93023,6 +93193,16 @@
         "discovered_at": "2026-06-24"
     },
     {
+        "name": "Kreo",
+        "description": "Kreo – Postgres to Instant REST API, Redis Cache and WebSockets",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kreo.work/",
+        "discovered_at": "2026-07-18"
+    },
+    {
         "name": "Kumbukum",
         "description": "Show HN: Kumbukum, open source memory infrastructure for teams",
         "category": "Other",
@@ -93191,6 +93371,16 @@
         "cors": "unknown",
         "url": "https://lifelog.my/episode/why-i-vibe-in-go-not-rust-or-python",
         "discovered_at": "2026-03-23"
+    },
+    {
+        "name": "Lific",
+        "description": "Show HN: Lific: Issue trackers should be simple, right?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lific.dev",
+        "discovered_at": "2026-07-18"
     },
     {
         "name": "Lightwhale",
@@ -94061,6 +94251,16 @@
         "cors": "unknown",
         "url": "https://morningstack.app/demo/",
         "discovered_at": "2026-06-15"
+    },
+    {
+        "name": "Mosaicfilings",
+        "description": "Show HN: I built a site that shows private US company filings",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mosaicfilings.pages.dev/",
+        "discovered_at": "2026-07-18"
     },
     {
         "name": "Moseyparker",
@@ -96651,6 +96851,16 @@
         "cors": "unknown",
         "url": "https://starwalkn.github.io/aastro-docs/",
         "discovered_at": "2026-06-20"
+    },
+    {
+        "name": "Stateofopensource",
+        "description": "The state of open source AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stateofopensource.ai/",
+        "discovered_at": "2026-07-18"
     },
     {
         "name": "Statusdrop",
@@ -108296,6 +108506,16 @@
         "discovered_at": "2026-07-14"
     },
     {
+        "name": "Capitalone",
+        "description": "VulnHunter: Capital One's agentic AI code security tool",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+        "discovered_at": "2026-07-18"
+    },
+    {
         "name": "Cifer-security",
         "description": "Show HN: Cifer, zero-key custody using threshold cryptography",
         "category": "Security",
@@ -111615,6 +111835,16 @@
         "url": "https://randomuser.me/"
     },
     {
+        "name": "Randomverse-social",
+        "description": "Randomverse – A randomized, algorithm-free social network",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://randomverse-social.vercel.app",
+        "discovered_at": "2026-07-18"
+    },
+    {
         "name": "Redgridtactical",
         "description": "Show HN: Coordinate converter in a single HTML file",
         "category": "Utilities",
@@ -111999,6 +112229,16 @@
         "cors": "unknown",
         "url": "https://howdousound.com/",
         "discovered_at": "2026-07-17"
+    },
+    {
+        "name": "Img2svg-animation",
+        "description": "Show HN: Turn any image into self-drawing SVG line art",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://img2svg-animation.vercel.app/",
+        "discovered_at": "2026-07-18"
     },
     {
         "name": "Instantvideos",
@@ -112396,6 +112636,16 @@
         "cors": "unknown",
         "url": "https://youtubetranscript.us/",
         "discovered_at": "2026-05-07"
+    },
+    {
+        "name": "Ytbulktranscript",
+        "description": "Show HN: Bulk download YouTube transcripts–free per video, pay once",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ytbulktranscript.app/",
+        "discovered_at": "2026-07-18"
     },
     {
         "name": "Ytranscript",
