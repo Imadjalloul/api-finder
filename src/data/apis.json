@@ -2094,6 +2094,16 @@
         "discovered_at": "2026-07-17"
     },
     {
+        "name": "Iandmacomber",
+        "description": "Show HN: ride-recap, teaching a LLM my taste to automate cycling highlights",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.iandmacomber.com/blog/gopro-garmin-gemini-ride-recap/",
+        "discovered_at": "2026-07-19"
+    },
+    {
         "name": "Inariwatch",
         "description": "InariWatch – Open-source AI monitoring that writes the fix while you sleep",
         "category": "AI & Machine Learning",
@@ -3709,6 +3719,16 @@
         "cors": "unknown",
         "url": "https://www.rnz.co.nz/life/wellbeing/tech-bros-say-ai-can-be-your-best-friend-experts-explain-why-it-can-t",
         "discovered_at": "2026-05-19"
+    },
+    {
+        "name": "Rtagi",
+        "description": "Show HN: Race to AGI – a simulation browser game about running a frontier AI lab",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rtagi.online",
+        "discovered_at": "2026-07-19"
     },
     {
         "name": "Runcabinet",
@@ -8880,6 +8900,16 @@
         "cors": "unknown",
         "url": "https://parcle.ai/",
         "discovered_at": "2026-06-20"
+    },
+    {
+        "name": "Profiler",
+        "description": "Free AI Harness Profiler – What tf did Fable do with your tokens",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": false,
+        "cors": "unknown",
+        "url": "http://profiler.getrekon.com/",
+        "discovered_at": "2026-07-19"
     },
     {
         "name": "Qlaud",
@@ -65636,6 +65666,16 @@
         "discovered_at": "2026-03-26"
     },
     {
+        "name": "Zlvox",
+        "description": "Show HN: Zlvox – 25 Free Developer Tools (AI, JSON, PDF) with Zero Tracking",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://zlvox.com/",
+        "discovered_at": "2026-07-19"
+    },
+    {
         "name": "Zoho Help Center",
         "description": "Get Categories and Articles from a Zoho Desk Help Center. It's fast and costs little.",
         "category": "Development",
@@ -80431,6 +80471,16 @@
         "discovered_at": "2026-05-20"
     },
     {
+        "name": "Aivideogenerator",
+        "description": "Show HN: Turn a Suno song into a music video with beat-synced auto-editing",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aivideogenerator.so/",
+        "discovered_at": "2026-07-19"
+    },
+    {
         "name": "Arcadelab",
         "description": "Show HN: Easily share games made by you/ your kids/ your dog etc.",
         "category": "Entertainment",
@@ -88613,6 +88663,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "1000songs",
+        "description": "Show HN: Can You Name the Tune?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://1000songs.co.uk/#namethattune",
+        "discovered_at": "2026-07-19"
+    },
+    {
         "name": "1clicklinux",
         "description": "Show HN: Linux installer .exe without pendrives (secure-boot compatible)",
         "category": "Other",
@@ -88961,6 +89021,16 @@
         "cors": "unknown",
         "url": "https://amdson.github.io/blog/crystals/",
         "discovered_at": "2026-04-12"
+    },
+    {
+        "name": "Amigafreeware",
+        "description": "Classic Amiga titles, free to download",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://amigafreeware.downer.tech/",
+        "discovered_at": "2026-07-19"
     },
     {
         "name": "Aminrj",
@@ -89351,6 +89421,16 @@
         "cors": "unknown",
         "url": "https://axiomoverclock.ca/",
         "discovered_at": "2026-04-18"
+    },
+    {
+        "name": "Axiomreason",
+        "description": "Show HN: Axiom toolkit – Make your ideas precise enough to be proven wrong",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://axiomreason.com",
+        "discovered_at": "2026-07-19"
     },
     {
         "name": "Axion",
@@ -97411,6 +97491,16 @@
         "cors": "unknown",
         "url": "https://til.rfy.nz",
         "discovered_at": "2026-06-01"
+    },
+    {
+        "name": "Tim",
+        "description": "Better Than Free: How to Differentiate in the Age of AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tim.blog/2026/07/17/better-than-free/",
+        "discovered_at": "2026-07-19"
     },
     {
         "name": "Timesofindia",
@@ -107920,6 +108010,16 @@
         "cors": "unknown",
         "url": "https://fata.dev",
         "discovered_at": "2026-06-16"
+    },
+    {
+        "name": "Fosnie",
+        "description": "Show HN: Fosnie – open-source self-hosted AI workspace for regulated teams",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fosnie.dev/",
+        "discovered_at": "2026-07-19"
     },
     {
         "name": "Gdbs",
