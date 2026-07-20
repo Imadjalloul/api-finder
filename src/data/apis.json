@@ -940,6 +940,16 @@
         "discovered_at": "2026-05-02"
     },
     {
+        "name": "Canopywave",
+        "description": "I compared 5 AI coding subscriptions by pricing model and usage limits",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://canopywave.com/blog/best-ai-coding-plans-2026-pricing-limits-use-cases",
+        "discovered_at": "2026-07-20"
+    },
+    {
         "name": "Caravo",
         "description": "Show HN: Service marketplace for AI agents, 300 APIs and data sources",
         "category": "AI & Machine Learning",
@@ -1027,6 +1037,16 @@
         "cors": "unknown",
         "url": "https://classer.ai",
         "discovered_at": "2026-06-12"
+    },
+    {
+        "name": "Claudete",
+        "description": "Show HN: AI Buddy – Free STT and Screenshot Tool for Mac (Requires Gemini)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://claudete.co/ai-buddy",
+        "discovered_at": "2026-07-20"
     },
     {
         "name": "Clawhub",
@@ -2162,6 +2182,16 @@
         "cors": "unknown",
         "url": "https://interfaze.ai/blog/introducing-structured-output-benchmark",
         "discovered_at": "2026-04-30"
+    },
+    {
+        "name": "Interviewpracticeai",
+        "description": "Show HN: AI mock interview tool that scores your answers – free, no signup",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://interviewpracticeai.com",
+        "discovered_at": "2026-07-20"
     },
     {
         "name": "Isitartstudio",
@@ -3781,6 +3811,16 @@
         "discovered_at": "2026-03-30"
     },
     {
+        "name": "Sairc",
+        "description": "Compiled List of over $1000 in AI/GPU/LLM Credits (100% Free)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sairc.vercel.app/resources",
+        "discovered_at": "2026-07-20"
+    },
+    {
         "name": "Sarvita",
         "description": "Show HN: Sarvita – AI coach that tracks and reverses your biological age",
         "category": "AI & Machine Learning",
@@ -3859,6 +3899,16 @@
         "cors": "unknown",
         "url": "https://senthex.com:443/proxy/",
         "discovered_at": "2026-04-08"
+    },
+    {
+        "name": "Shikigami",
+        "description": "Show HN: Shikigami, run AI coding agents in parallel, each in a Git worktree",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://shikigami.dev/",
+        "discovered_at": "2026-07-20"
     },
     {
         "name": "Shiporslop",
@@ -16317,6 +16367,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://docs.sendgrid.com/"
+    },
+    {
+        "name": "Sente",
+        "description": "Show HN: Email for Agents with 1 Prompt",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sente.run/",
+        "discovered_at": "2026-07-20"
     },
     {
         "name": "Smolinvoiceagent",
@@ -72925,6 +72985,16 @@
         "discovered_at": "2026-03-23"
     },
     {
+        "name": "Meetthecluster",
+        "description": "Show HN: My Fable 5 Project Was a Multiraft Database and Blob Store",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://meetthecluster.github.io/",
+        "discovered_at": "2026-07-20"
+    },
+    {
         "name": "Meijer Parser Spider",
         "description": "This powerful Apify Actor scrapes comprehensive product data from Meijer's online store, including prices, descriptions, images, and availability....",
         "category": "E-Commerce",
@@ -80471,6 +80541,16 @@
         "discovered_at": "2026-05-20"
     },
     {
+        "name": "Ahaprompt",
+        "description": "Show HN: Free, curated prompts for AI image, video and music",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ahaprompt.app",
+        "discovered_at": "2026-07-20"
+    },
+    {
         "name": "Aivideogenerator",
         "description": "Show HN: Turn a Suno song into a music video with beat-synced auto-editing",
         "category": "Entertainment",
@@ -80627,6 +80707,16 @@
         "cors": "unknown",
         "url": "https://gascraft.ai",
         "discovered_at": "2026-04-12"
+    },
+    {
+        "name": "Geochess",
+        "description": "Show HN: GeoChess – open-source geography strategy game",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://geochess.org",
+        "discovered_at": "2026-07-20"
     },
     {
         "name": "Jikan",
@@ -82625,6 +82715,16 @@
         "cors": "unknown",
         "url": "https://openclaw.ai/blog/openclaw-security-in-public",
         "discovered_at": "2026-05-01"
+    },
+    {
+        "name": "Politico",
+        "description": "Trump pushes UN 'free speech' declaration in veiled attack on EU tech regulation",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.politico.eu/article/trump-administration-will-push-un-free-speech-declaration-that-takes-aim-at-european-tech-regulation/",
+        "discovered_at": "2026-07-20"
     },
     {
         "name": "Radiologybusiness",
@@ -95903,6 +96003,16 @@
         "discovered_at": "2026-03-23"
     },
     {
+        "name": "Regularly",
+        "description": "Show HN: Regularly, hand-picked daily logic and number puzzles, no ads",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://regularly.co",
+        "discovered_at": "2026-07-20"
+    },
+    {
         "name": "Remotejobs",
         "description": "Show HN: Remote Job Board",
         "category": "Other",
@@ -106133,6 +106243,16 @@
         "cors": "unknown",
         "url": "https://apify.com/flamboyant_leaf/summary-xl",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Super-productivity",
+        "description": "Super Productivity: Focus tools in one open-source app, offline and private",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://super-productivity.com/",
+        "discovered_at": "2026-07-20"
     },
     {
         "name": "Supermu Product Spider",
