@@ -940,6 +940,16 @@
         "discovered_at": "2026-05-02"
     },
     {
+        "name": "Calyxa",
+        "description": "Show HN: Calyxa – Browser Native AI tutor solving the \"cheating\" problem",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://calyxa.app",
+        "discovered_at": "2026-07-21"
+    },
+    {
         "name": "Canopywave",
         "description": "I compared 5 AI coding subscriptions by pricing model and usage limits",
         "category": "AI & Machine Learning",
@@ -2094,6 +2104,16 @@
         "discovered_at": "2026-05-14"
     },
     {
+        "name": "I-programmer",
+        "description": "DeepSWE – Best Benchmark for Evaluating AI Coding Agents?",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.i-programmer.info/professional-programmer/103-i-programmer/18759-why-software-engineering-will-never-die-revisited-in-the-age-of-spec-driven-development.html",
+        "discovered_at": "2026-07-21"
+    },
+    {
         "name": "Iamalex-afk",
         "description": "Show HN: Mind-OS – First free online AI dependency self‑assessment",
         "category": "AI & Machine Learning",
@@ -2352,6 +2372,16 @@
         "cors": "unknown",
         "url": "https://labs.tryopendata.ai/designing-an-api-for-llms",
         "discovered_at": "2026-03-31"
+    },
+    {
+        "name": "Lake8",
+        "description": "Show HN: Lagotto Meter – how well do AI agents understand your website?",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lake8.dev/lagotto-meter/",
+        "discovered_at": "2026-07-21"
     },
     {
         "name": "Launchkit-5g9",
@@ -4128,6 +4158,16 @@
         "cors": "unknown",
         "url": "https://stagent.io/book/",
         "discovered_at": "2026-04-06"
+    },
+    {
+        "name": "Stokegate",
+        "description": "Stoke – Kill switch for runaway AI agents (Rust, budget caps)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stokegate.com",
+        "discovered_at": "2026-07-21"
     },
     {
         "name": "Streamrai",
@@ -8478,6 +8518,16 @@
         "cors": "unknown",
         "url": "https://display.dev/",
         "discovered_at": "2026-05-13"
+    },
+    {
+        "name": "Docs",
+        "description": "Ahrefs free DR API Authentication starting August 10 2026",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://docs.ahrefs.com/en/api/reference/public/get-domain-rating-free",
+        "discovered_at": "2026-07-21"
     },
     {
         "name": "Firebase Auth",
@@ -15432,6 +15482,16 @@
         "discovered_at": "2026-07-16"
     },
     {
+        "name": "Qube-predict",
+        "description": "Show HN: QUBE Predict – A cloud platform for drug response prediction",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://qube-predict.streamlit.app/",
+        "discovered_at": "2026-07-21"
+    },
+    {
         "name": "Rigorcloud",
         "description": "Show HN: Rigor – Anti-Enshittification Proxy for Your AI Agents",
         "category": "Cloud & Storage",
@@ -16019,6 +16079,16 @@
         "cors": "unknown",
         "url": "https://extend.redsystem.dev",
         "discovered_at": "2026-05-31"
+    },
+    {
+        "name": "Fellowgeek",
+        "description": "Show HN: Give your AI agent a personality (and a voice) without external APIs",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fellowgeek.github.io/mcp-speak/",
+        "discovered_at": "2026-07-21"
     },
     {
         "name": "Firethering",
@@ -43165,6 +43235,16 @@
         "cors": "unknown",
         "url": "https://apify.com/shahidirfan/workopolis-job-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Worldsolve",
+        "description": "Show HN: An open database of 1,355 global problems with a zero-auth API",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.worldsolve.org/",
+        "discovered_at": "2026-07-21"
     },
     {
         "name": "WPS-inc.com Dealers Scraper",
@@ -75103,6 +75183,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Refundhalt",
+        "description": "Show HN: RefundHalt, contest App Store and Google Play refunds automatically",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://refundhalt.com",
+        "discovered_at": "2026-07-21"
+    },
+    {
         "name": "Remax Urls",
         "description": "The Remax-Urls Apify Actor extracts detailed real estate data from Remax property listings in clean JSON. Get price, address, beds, baths, sqft, agent info, images, and school details. Perfect for...",
         "category": "E-Commerce",
@@ -85399,6 +85489,16 @@
         "discovered_at": "2026-04-28"
     },
     {
+        "name": "Clair",
+        "description": "Show HN: Clair – open-source semantic news API",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://clair.im",
+        "discovered_at": "2026-07-21"
+    },
+    {
         "name": "Compressor",
         "description": "Show HN: Compressor.app – Compress almost any file format",
         "category": "News",
@@ -89383,6 +89483,16 @@
         "discovered_at": "2026-06-10"
     },
     {
+        "name": "Arpitbhayani",
+        "description": "Don't Wait, Learn – The Best Resource Is Mythical",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://arpitbhayani.me/blogs/best-resource-is-mythical/",
+        "discovered_at": "2026-07-21"
+    },
+    {
         "name": "Arpitrage",
         "description": "The Rent Freeze, and a Return to the 1970s",
         "category": "Other",
@@ -91521,6 +91631,16 @@
         "cors": "unknown",
         "url": "https://epicpencil.es/",
         "discovered_at": "2026-05-15"
+    },
+    {
+        "name": "Epilude",
+        "description": "Model 4: Our best model yet for local dictation and cleanup on Mac",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.epilude.com/news/introducing-model-4",
+        "discovered_at": "2026-07-21"
     },
     {
         "name": "Epub",
@@ -96673,6 +96793,16 @@
         "discovered_at": "2026-04-22"
     },
     {
+        "name": "Sidereon",
+        "description": "Show HN: Sidereon: GNSS and Astrodynamics (Python, Rust, JavaScript, C, Elixir)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sidereon.dev",
+        "discovered_at": "2026-07-21"
+    },
+    {
         "name": "Sift",
         "description": "Show HN: Sift – 10-12 HN discussions daily, ranked by practitioner depth",
         "category": "Other",
@@ -98183,6 +98313,16 @@
         "discovered_at": "2026-03-02"
     },
     {
+        "name": "Voxthermic",
+        "description": "Show HN: VoxThermic – A macOS journaling app that uses Apple's Foundation Models",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://voxthermic.jbri.workers.dev/",
+        "discovered_at": "2026-07-21"
+    },
+    {
         "name": "Vrong",
         "description": "What is `std:pin:Pin` in Rust?",
         "category": "Other",
@@ -98521,6 +98661,16 @@
         "cors": "unknown",
         "url": "https://yarn6.netlify.app/blog/2026-01-28-yarn-6-preview/",
         "discovered_at": "2026-03-01"
+    },
+    {
+        "name": "Yarnspinner",
+        "description": "The Yarn Spinner Public License",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://yarnspinner.dev/yspl",
+        "discovered_at": "2026-07-21"
     },
     {
         "name": "Zilliz",
@@ -99107,6 +99257,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://placekitten.com/"
+    },
+    {
+        "name": "Portraify",
+        "description": "Show HN: Turn casual photos into professional headshots with AI",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://portraify.app",
+        "discovered_at": "2026-07-21"
     },
     {
         "name": "Sunex-ai",
@@ -108299,6 +108459,16 @@
         "discovered_at": "2026-07-04"
     },
     {
+        "name": "Restk",
+        "description": "Show HN: Restk – a native API client that stores your workspace as files in Git",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://restk.ai",
+        "discovered_at": "2026-07-21"
+    },
+    {
         "name": "Sciencedirect",
         "description": "Wave-inspired path-planning strategy for support-free horizontal overhang FDM",
         "category": "Science",
@@ -108405,6 +108575,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://earthquake.usgs.gov/fdsnws/event/1/"
+    },
+    {
+        "name": "Velprium",
+        "description": "Show HN: Velprium - Time Workspace",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.velprium.com/",
+        "discovered_at": "2026-07-21"
     },
     {
         "name": "Woltspace",
@@ -109401,6 +109581,16 @@
         "discovered_at": "2026-05-11"
     },
     {
+        "name": "Jan",
+        "description": "Jan – Open-Source ChatGPT Replacement",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.jan.ai/",
+        "discovered_at": "2026-07-21"
+    },
+    {
         "name": "Jerrysniffs",
         "description": "Show HN: JerrySniffs – MCP Server (and API's) for web and social media search",
         "category": "Social",
@@ -109594,6 +109784,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://dev.twitch.tv/docs/api/"
+    },
+    {
+        "name": "Useekko",
+        "description": "Show HN: Ekko – post-quantum E2EE layer for Instagram, WhatsApp, Telegram Web",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://useekko.app/",
+        "discovered_at": "2026-07-21"
     },
     {
         "name": "Visitor Identification",
@@ -111218,6 +111418,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.purgomalum.com/"
+    },
+    {
+        "name": "Readthetape",
+        "description": "Show HN: Read the Tape – Wordle for daytrading, five blind S&P 500 charts a day",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://readthetape.cc/",
+        "discovered_at": "2026-07-21"
     },
     {
         "name": "Runmat",
