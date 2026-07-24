@@ -540,6 +540,16 @@
         "discovered_at": "2026-07-22"
     },
     {
+        "name": "Api",
+        "description": "Show HN: Verify what an AI agent did, then tamper with the record (no signup)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://api.cinchor.com/proof/refund",
+        "discovered_at": "2026-07-24"
+    },
+    {
         "name": "Apicula",
         "description": "Show HN: When Your Repo Moves, Your AI Coding History Doesn't",
         "category": "AI & Machine Learning",
@@ -588,6 +598,16 @@
         "cors": "unknown",
         "url": "https://app.olima.ai",
         "discovered_at": "2026-06-11"
+    },
+    {
+        "name": "App",
+        "description": "Show HN: Free API keys for open models (Llama, Qwen, GPT-OSS, Gemma)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.tensormux.com/pages/login.html",
+        "discovered_at": "2026-07-24"
     },
     {
         "name": "Apply-tracker",
@@ -1149,6 +1169,16 @@
         "discovered_at": "2026-03-15"
     },
     {
+        "name": "Cloro",
+        "description": "Show HN: Generous free tier for SERP and AI web scraping",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cloro.dev/",
+        "discovered_at": "2026-07-24"
+    },
+    {
         "name": "Cnbc",
         "description": "Bill Gurley on AI bubble: A bunch of people got rich quick and a reset is coming",
         "category": "AI & Machine Learning",
@@ -1595,6 +1625,16 @@
         "cors": "unknown",
         "url": "https://elvean.app/",
         "discovered_at": "2026-04-22"
+    },
+    {
+        "name": "Enblog",
+        "description": "How AI Is Changing Open Source",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://enblog.eischmann.cz/2026/07/23/how-ai-is-changing-open-source/",
+        "discovered_at": "2026-07-24"
     },
     {
         "name": "Enterprise",
@@ -3362,6 +3402,16 @@
         "discovered_at": "2026-06-13"
     },
     {
+        "name": "Opentax",
+        "description": "Open Source Tax Engine outperforming GPT sol and Fable 5",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://opentax.invaro.ai/",
+        "discovered_at": "2026-07-24"
+    },
+    {
         "name": "Opper",
         "description": "Show HN: AI Roundtable – Let 200 models debate your question",
         "category": "AI & Machine Learning",
@@ -4059,6 +4109,16 @@
         "cors": "unknown",
         "url": "https://senthex.com:443/proxy/",
         "discovered_at": "2026-04-08"
+    },
+    {
+        "name": "Setoku",
+        "description": "Show HN: Setoku – Self-hosted knowledge server for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://setoku.com/",
+        "discovered_at": "2026-07-24"
     },
     {
         "name": "Shikigami",
@@ -15633,6 +15693,16 @@
         "discovered_at": "2026-06-01"
     },
     {
+        "name": "Notebooker",
+        "description": "Show HN: Notebooker.ai – NotebookLM alternative, your own models, keys, storage",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://notebooker.ai/",
+        "discovered_at": "2026-07-24"
+    },
+    {
         "name": "Oblien",
         "description": "Show HN: Cloud VMs with a Built-In REST API for AI Agents",
         "category": "Cloud & Storage",
@@ -16679,6 +16749,16 @@
         "discovered_at": "2026-07-20"
     },
     {
+        "name": "Skim-tech",
+        "description": "Show HN: Skim – a minimalist open-source email client for Windows (MIT)",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://skim-tech.com/",
+        "discovered_at": "2026-07-24"
+    },
+    {
         "name": "Smolinvoiceagent",
         "description": "Show HN: Smol Invoice Agent, invoice processor that learns from your corrections",
         "category": "Communication",
@@ -16875,6 +16955,16 @@
         "cors": "unknown",
         "url": "https://vyvoice.com",
         "discovered_at": "2026-05-17"
+    },
+    {
+        "name": "Wawebsender",
+        "description": "Free WhatsApp Sender",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wawebsender.com",
+        "discovered_at": "2026-07-24"
     },
     {
         "name": "Willowvoice",
@@ -49107,6 +49197,16 @@
         "discovered_at": "2026-04-22"
     },
     {
+        "name": "Besser-pearl",
+        "description": "Besser is an open-source low-code platform to build all APIs, databases, agents",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://besser-pearl.org/",
+        "discovered_at": "2026-07-24"
+    },
+    {
         "name": "Best Tiktok Following Scraper",
         "description": "Extract the list of TikTok accounts a user is following, including their usernames, bios, follower counts, and more. Just enter one or more TikTok usernames and get structured data for research,...",
         "category": "Development",
@@ -56468,6 +56568,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Kolegacode",
+        "description": "Show HN: Frontier model pricing is a rip-off, so I built an open-source CLI",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kolegacode.com",
+        "discovered_at": "2026-07-24"
+    },
+    {
         "name": "Korean Statistics Analyzer",
         "description": "Extract and analyze comprehensive statistical data from Korea's KOSIS (Korean Statistical Information Service) portal. This Actor provides easy access to Korean government statistics with powerful...",
         "category": "Development",
@@ -61046,6 +61156,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Semisafe",
+        "description": "Sorcery in the open: is generated code still source code?",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://semisafe.com/coding/ai/2026/07/22/sorcery-in-the-open",
+        "discovered_at": "2026-07-24"
+    },
+    {
         "name": "Semrush Scraper",
         "description": "Extract enterprise-level SEO data from Semrush including domain authority, traffic analytics, keyword rankings, backlink profiles, trending sites & competitor insights. Supports bulk analysis with...",
         "category": "Development",
@@ -64174,6 +64294,16 @@
         "cors": "unknown",
         "url": "https://apify.com/parseforge/usaspending-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Usebdfl",
+        "description": "Show HN: BDFL – Open-source supervisor for Codex and Claude Code",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://usebdfl.com/",
+        "discovered_at": "2026-07-24"
     },
     {
         "name": "Usegitbar",
@@ -81049,6 +81179,16 @@
         "discovered_at": "2026-06-26"
     },
     {
+        "name": "Cupqualifier",
+        "description": "I took a paper card game to a free multiplayer browser game as a non-engineer",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cupqualifier.app",
+        "discovered_at": "2026-07-24"
+    },
+    {
         "name": "Curvytron2",
         "description": "Show HN: Curvytron 2, I rewrote my browser party game, 10 years later",
         "category": "Entertainment",
@@ -83118,6 +83258,16 @@
         "discovered_at": "2026-04-26"
     },
     {
+        "name": "Modelbias",
+        "description": "Show HN: What's AI's go-to, public or private healthcare?",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.modelbias.ai/prompt/public-or-private-healthcare",
+        "discovered_at": "2026-07-24"
+    },
+    {
         "name": "Open FDA",
         "description": "U.S. FDA drug, food, and device data",
         "category": "Government & Health",
@@ -83692,6 +83842,16 @@
         "cors": "unknown",
         "url": "https://fleet.docketqa.com",
         "discovered_at": "2026-06-25"
+    },
+    {
+        "name": "Flowshelf",
+        "description": "HN: FlowShelf –free,native macOS shelf/clipboard/screenshot app,on-device AI",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://flowshelf.app/",
+        "discovered_at": "2026-07-24"
     },
     {
         "name": "Freedspeech",
@@ -85777,6 +85937,16 @@
         "cors": "unknown",
         "url": "https://www.base-layer.ai/",
         "discovered_at": "2026-03-11"
+    },
+    {
+        "name": "Beamwire",
+        "description": "Show HN: I built my wife an ad-free news brief that fact-checks and flags bias",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://beamwire.ai/",
+        "discovered_at": "2026-07-24"
     },
     {
         "name": "Blog",
@@ -90203,6 +90373,16 @@
         "discovered_at": "2026-05-04"
     },
     {
+        "name": "Bike",
+        "description": "Show HN: Find undervalued bikes near you with ML",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bike.broker",
+        "discovered_at": "2026-07-24"
+    },
+    {
         "name": "Billingengine",
         "description": "Show HN: BillingEngine – usage-based billing for APIs with real-time rating",
         "category": "Other",
@@ -90271,6 +90451,16 @@
         "cors": "unknown",
         "url": "https://blacktwist.app/mcp",
         "discovered_at": "2026-03-17"
+    },
+    {
+        "name": "Blazephoenix",
+        "description": "A DEX aggregator whose quotes are computed on-chain (free API, no key)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blazephoenix.xyz/",
+        "discovered_at": "2026-07-24"
     },
     {
         "name": "Blitzgraph",
@@ -91881,6 +92071,16 @@
         "cors": "unknown",
         "url": "https://drumforge.app/",
         "discovered_at": "2026-05-08"
+    },
+    {
+        "name": "Dsauerbrun",
+        "description": "Show HN: Connecting my dumb garage and car's homelink buttons to Home Assistant",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dsauerbrun.com/writing/dumb-garage",
+        "discovered_at": "2026-07-24"
     },
     {
         "name": "Duetbrowser",
@@ -95603,6 +95803,16 @@
         "discovered_at": "2026-03-08"
     },
     {
+        "name": "Openparser",
+        "description": "Show HN: Hosted PaddleOCR-VL-1.6 API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.openparser.dev/",
+        "discovered_at": "2026-07-24"
+    },
+    {
         "name": "Openscreenshot",
         "description": "Show HN: OpenScreenShot: open-source full-page screenshot and annotation tool",
         "category": "Other",
@@ -95701,6 +95911,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/vtex/openapi-schemas/master/VTEX - Orders API (PII version).json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Oriflow",
+        "description": "Show HN: Oriflow - A Vibe Coding Platform for Building Personal Apps",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://oriflow.in/",
+        "discovered_at": "2026-07-24"
     },
     {
         "name": "Originary",
@@ -95921,6 +96141,16 @@
         "cors": "unknown",
         "url": "https://pdf2md.deepdiy.net/",
         "discovered_at": "2026-05-18"
+    },
+    {
+        "name": "Pdfly",
+        "description": "Show HN: PDFly – 56 free PDF tools that run in the browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pdfly.uk/",
+        "discovered_at": "2026-07-24"
     },
     {
         "name": "Pdfpipe",
@@ -97073,6 +97303,16 @@
         "discovered_at": "2026-07-04"
     },
     {
+        "name": "Scoutfox",
+        "description": "Show HN: ScoutFox – An alert layer for first-mover intelligence",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://scoutfox.in",
+        "discovered_at": "2026-07-24"
+    },
+    {
         "name": "Scrapewithruno",
         "description": "Show HN: Runo – Scraping API that returns typed JSON, not raw HTML",
         "category": "Other",
@@ -98211,6 +98451,16 @@
         "cors": "unknown",
         "url": "https://www.theverge.com/tech/899602/best-phone-android-ios-app-store",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Thisispaper",
+        "description": "Show HN: 15 years of hand-curated architecture, art and design as an MCP server",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.thisispaper.com/intelligence/api-docs",
+        "discovered_at": "2026-07-24"
     },
     {
         "name": "Thuki",
@@ -110179,6 +110429,16 @@
         "cors": "unknown",
         "url": "https://lobsteady.com",
         "discovered_at": "2026-06-08"
+    },
+    {
+        "name": "Loopmein",
+        "description": "Show HN: Loop me in - Get looped into people's chats with AI. Help out. Get paid",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.loopmein.ai/",
+        "discovered_at": "2026-07-24"
     },
     {
         "name": "Manticthink",
