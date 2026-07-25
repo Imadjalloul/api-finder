@@ -1697,6 +1697,16 @@
         "discovered_at": "2026-04-07"
     },
     {
+        "name": "Find-best-job",
+        "description": "I let an AI agent run my job search: the real numbers, including the LLM bill",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://find-best-job.com/en/blog/agent-job-search-real-numbers",
+        "discovered_at": "2026-07-25"
+    },
+    {
         "name": "Flint",
         "description": "Flint – local AI runtime for Rust (no internet, no API keys)",
         "category": "AI & Machine Learning",
@@ -3213,6 +3223,16 @@
         "discovered_at": "2026-03-02"
     },
     {
+        "name": "Notjustyou",
+        "description": "Show HN: Open-Source for AI tool status checker",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://notjustyou.dev",
+        "discovered_at": "2026-07-25"
+    },
+    {
         "name": "Novyxlabs",
         "description": "Show HN: Novyx – Memory API for AI agents (rollback, replay, semantic search)",
         "category": "AI & Machine Learning",
@@ -4628,6 +4648,16 @@
         "cors": "unknown",
         "url": "https://the-designengineer.com/model-cost-estimator/",
         "discovered_at": "2026-04-17"
+    },
+    {
+        "name": "Theatlantic",
+        "description": "AI companies stripping universities of their best computer scientists",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.theatlantic.com/technology/2026/07/ai-companies-hiring-academics/688002/",
+        "discovered_at": "2026-07-25"
     },
     {
         "name": "Thehill",
@@ -8485,6 +8515,16 @@
         "url": "https://randomfox.ca/"
     },
     {
+        "name": "Rentry",
+        "description": "Specification for a 100% AI-Free Software Supply Chain",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rentry.co/organic-code-spec-v1-0-md",
+        "discovered_at": "2026-07-25"
+    },
+    {
         "name": "Steady",
         "description": "Show HN: I wrote an application to help me practice speaking slower",
         "category": "Animals",
@@ -9380,6 +9420,16 @@
         "cors": "unknown",
         "url": "https://yolo-auto.com/",
         "discovered_at": "2026-07-06"
+    },
+    {
+        "name": "Abdulqabiz",
+        "description": "Show HN: Mathematics Refresher Book for people returning to maths",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://abdulqabiz.com/mathematics-refresher-book/",
+        "discovered_at": "2026-07-25"
     },
     {
         "name": "Agenttrust",
@@ -96703,6 +96753,16 @@
         "discovered_at": "2026-06-30"
     },
     {
+        "name": "Racecondition",
+        "description": "The Aside That Built a Test Suite",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.racecondition.software/blog/the-aside-that-built-a-test-suite/",
+        "discovered_at": "2026-07-25"
+    },
+    {
         "name": "Radiodock",
         "description": "Show HN: Free Community Radio Player (PWA)",
         "category": "Other",
@@ -110300,6 +110360,16 @@
         "cors": "unknown",
         "url": "https://burnroom.chat",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Chrrpt",
+        "description": "Chrrpt 5.0: the ONLY Free Messaging App in the world the USCloudAct can't touch",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://chrrpt.app/",
+        "discovered_at": "2026-07-25"
     },
     {
         "name": "Community",
