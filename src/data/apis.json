@@ -520,6 +520,16 @@
         "discovered_at": "2026-06-04"
     },
     {
+        "name": "Apertus-ai",
+        "description": "True open-source LLM Apertus 1.5 released",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.apertus-ai.org/articles/2026-07-apertus-1-5/",
+        "discovered_at": "2026-07-26"
+    },
+    {
         "name": "Apfel",
         "description": "Show HN: Apfel – The free AI already on your Mac",
         "category": "AI & Machine Learning",
@@ -9057,6 +9067,16 @@
         "discovered_at": "2026-04-02"
     },
     {
+        "name": "Ai-meter",
+        "description": "Show HN: AI Meter – Local token usage with energy and water estimates",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ai-meter.app",
+        "discovered_at": "2026-07-26"
+    },
+    {
         "name": "Alchemy",
         "description": "Web3 development platform for Ethereum and more",
         "category": "Blockchain",
@@ -9806,6 +9826,16 @@
         "cors": "unknown",
         "url": "https://www.opsorch.com/",
         "discovered_at": "2026-03-16"
+    },
+    {
+        "name": "Ordinarymantrying",
+        "description": "Show HN: Which investing school are you? Free AI diagnostic and Prompt Library",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ordinarymantrying.com/tools/ai-invest-os.html",
+        "discovered_at": "2026-07-26"
     },
     {
         "name": "Paco",
@@ -81683,6 +81713,16 @@
         "url": "https://ghibliapi.vercel.app/"
     },
     {
+        "name": "Synaptale",
+        "description": "Show HN: What 180k words look like as a temporal knowledge graph (Oz series)",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://synaptale.com/graph?ch=100",
+        "discovered_at": "2026-07-26"
+    },
+    {
         "name": "Theglobeandmail",
         "description": "CBC to stop airing NHL games after 74 years, end of free hockey on Canadian TV",
         "category": "Entertainment",
@@ -83217,6 +83257,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://disease.sh/docs/"
+    },
+    {
+        "name": "Datasociety",
+        "description": "Using government procurement for greener AI",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://datasociety.net/research-library/greening-ai-in-the-public-sector-an-introductory-handbook-for-procurement/",
+        "discovered_at": "2026-07-26"
     },
     {
         "name": "Democrata",
@@ -91563,6 +91613,16 @@
         "discovered_at": "2026-05-20"
     },
     {
+        "name": "Cygnus",
+        "description": "Show HN: Cygnus – A fast, lightweight self-hostable serverless runtime and PaaS",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cygnus.run",
+        "discovered_at": "2026-07-26"
+    },
+    {
         "name": "Darrikonn",
         "description": "Show HN: I turned my personal website into a bash shell (with Vim)",
         "category": "Other",
@@ -97273,6 +97333,16 @@
         "discovered_at": "2026-05-28"
     },
     {
+        "name": "Sandbox-cli",
+        "description": "Sandbox-CLI is now in public beta",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sandbox-cli.vercel.app",
+        "discovered_at": "2026-07-26"
+    },
+    {
         "name": "Satteri",
         "description": "Satteri: A Markdown pipeline forged in Rust for the JavaScript world",
         "category": "Other",
@@ -97301,6 +97371,16 @@
         "cors": "unknown",
         "url": "https://sbnyc.app/",
         "discovered_at": "2026-07-10"
+    },
+    {
+        "name": "Scalattice",
+        "description": "Show HN: I built a hypervisor and client for inference on consumer compute",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://scalattice.com/blog/openai-sdk-scalattice/",
+        "discovered_at": "2026-07-26"
     },
     {
         "name": "Scaleninja",
@@ -99923,6 +100003,16 @@
         "discovered_at": "2026-07-06"
     },
     {
+        "name": "Chivukulavirinchi",
+        "description": "Show HN: Smriti: Your Photos, Your Memories",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://chivukulavirinchi.github.io/photovault/",
+        "discovered_at": "2026-07-26"
+    },
+    {
         "name": "Ddphotos",
         "description": "Show HN: DD Photos – static photo albums, now with Docker and 1-command deploy",
         "category": "Photography",
@@ -99971,6 +100061,16 @@
         "cors": "unknown",
         "url": "https://framefit.photo",
         "discovered_at": "2026-03-14"
+    },
+    {
+        "name": "Free-ai-art-generator",
+        "description": "Try Unlimited Text to Image Generator for Free",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://free-ai-art-generator.pages.dev",
+        "discovered_at": "2026-07-26"
     },
     {
         "name": "geodesystems.com:443",
@@ -109073,6 +109173,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Algohol",
+        "description": "Show HN: I made an algorithmic arena game with physics in 3D",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://algohol.net/",
+        "discovered_at": "2026-07-26"
+    },
+    {
         "name": "App",
         "description": "Show HN: Physics-accurate 3D assets for robotics simulations from any input",
         "category": "Science",
@@ -114086,6 +114196,16 @@
         "cors": "unknown",
         "url": "https://www.zkhrv.com/parrot",
         "discovered_at": "2026-05-04"
+    },
+    {
+        "name": "Brolly",
+        "description": "Show HN: Brolly, a plain-text weather forecast site",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://brolly.sh/forecast/RWFP2qW8",
+        "discovered_at": "2026-07-26"
     },
     {
         "name": "Consgicody-asos-tools",
