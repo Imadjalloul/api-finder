@@ -3572,6 +3572,16 @@
         "discovered_at": "2026-07-14"
     },
     {
+        "name": "Point",
+        "description": "The AI bioweapon risk isn't jailbreaks",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://point.free/blog/the-ai-bioweapon-risk-isnt-jailbreaks/",
+        "discovered_at": "2026-07-27"
+    },
+    {
         "name": "Point-wild",
         "description": "Catching the LiteLLM and Telnyx supply chain zero-days via semantic analysis",
         "category": "AI & Machine Learning",
@@ -53965,6 +53975,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Gitcharta",
+        "description": "Show HN: GitCharta, generate a snapshot of any GitHub user's global network",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gitcharta.vercel.app/",
+        "discovered_at": "2026-07-27"
+    },
+    {
         "name": "Gitcomet",
         "description": "Show HN: GitComet speedy Git GUI written in Rust end-to-end",
         "category": "Development",
@@ -81259,6 +81279,16 @@
         "discovered_at": "2026-06-26"
     },
     {
+        "name": "Crossle",
+        "description": "Show HN: Crossle – A daily puzzle game where you find 3 intersecting words",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://crossle.resistancelabs.tech",
+        "discovered_at": "2026-07-27"
+    },
+    {
         "name": "Cupqualifier",
         "description": "I took a paper card game to a free multiplayer browser game as a non-engineer",
         "category": "Entertainment",
@@ -84921,6 +84951,16 @@
         "cors": "unknown",
         "url": "https://ionrouter.io",
         "discovered_at": "2026-03-13"
+    },
+    {
+        "name": "Krouter",
+        "description": "Show HN: Krouter, a compliant Kubernetes Gateway API implementation",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://krouter.cloud",
+        "discovered_at": "2026-07-27"
     },
     {
         "name": "Lastshelf",
@@ -112393,6 +112433,16 @@
         "discovered_at": "2026-06-24"
     },
     {
+        "name": "Lexicon-writer",
+        "description": "Show HN: Lexicon a free Grammarly alternative, local writing assistant",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lexicon-writer.pages.dev/",
+        "discovered_at": "2026-07-27"
+    },
+    {
         "name": "LibreTranslate",
         "description": "Free and open-source machine translation",
         "category": "Text & Language",
@@ -114038,6 +114088,16 @@
         "cors": "unknown",
         "url": "https://thedaily.fm/",
         "discovered_at": "2026-07-23"
+    },
+    {
+        "name": "Thorvg-janitor",
+        "description": "Show HN: A browser-based vector animation engine rendering animated objects",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thorvg-janitor.vercel.app/",
+        "discovered_at": "2026-07-27"
     },
     {
         "name": "Tinyrec",
