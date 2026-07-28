@@ -630,6 +630,16 @@
         "discovered_at": "2026-07-22"
     },
     {
+        "name": "Applyassists",
+        "description": "Show HN: ApplyAssists – AI resume builder using Google XYZ formula",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://applyassists.com/",
+        "discovered_at": "2026-07-28"
+    },
+    {
         "name": "Aptselect",
         "description": "Show HN: AptSelect – A local desktop app to test LLMs side-by-side",
         "category": "AI & Machine Learning",
@@ -678,6 +688,16 @@
         "cors": "unknown",
         "url": "https://arena.angel-serv.com/",
         "discovered_at": "2026-07-14"
+    },
+    {
+        "name": "Argmin",
+        "description": "A call for AI models with open weights, open source, and open corpus",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.argmin.net/p/public-intelligence",
+        "discovered_at": "2026-07-28"
     },
     {
         "name": "Arize",
@@ -1228,6 +1248,16 @@
         "url": "https://docs.cohere.com/"
     },
     {
+        "name": "Con-dog",
+        "description": "Show HN: Watch 14-Byte AI \"brains\" attempt to solve a 2D maze (Its hard)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://con-dog.github.io/MINIMIO-PUBLIC-FRONTEND/",
+        "discovered_at": "2026-07-28"
+    },
+    {
         "name": "Console",
         "description": "Show HN: Seltz – The fastest, high quality, search API for AI agents",
         "category": "AI & Machine Learning",
@@ -1435,6 +1465,16 @@
         "cors": "unknown",
         "url": "https://www.digitalapplied.com/blog/us-ai-gatekeeping-china-open-source-advantage-2026",
         "discovered_at": "2026-06-30"
+    },
+    {
+        "name": "Discuss",
+        "description": "Run the AI Studio deletion test to show the chat isn't deleted",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://discuss.ai.google.dev/t/please-help-do-the-ai-studio-delete-test-so-we-can-prove-that-google-does-not-delete-the-chat/174376",
+        "discovered_at": "2026-07-28"
     },
     {
         "name": "Disputron",
@@ -2993,6 +3033,16 @@
         "discovered_at": "2026-04-22"
     },
     {
+        "name": "Modelfuzz",
+        "description": "Show HN: ModelFuzz – Open-source runtime guardrails for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.modelfuzz.com/",
+        "discovered_at": "2026-07-28"
+    },
+    {
         "name": "Modelparams",
         "description": "Show HN: Modelparams.dev: AI Model Parameters Database (UI, API, NPM)",
         "category": "AI & Machine Learning",
@@ -3682,6 +3732,16 @@
         "discovered_at": "2026-07-12"
     },
     {
+        "name": "Prompttrace",
+        "description": "Show HN: PromptTrace – Free hands-on labs to practice hacking LLMs",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://prompttrace.airedlab.com",
+        "discovered_at": "2026-07-28"
+    },
+    {
         "name": "Proreview",
         "description": "Show HN: AI command review drill for engineers and vibe coders",
         "category": "AI & Machine Learning",
@@ -4349,6 +4409,16 @@
         "cors": "unknown",
         "url": "https://spidra.io",
         "discovered_at": "2026-03-04"
+    },
+    {
+        "name": "Spirofloropoulos",
+        "description": "Holy Digital Trinity – Rust and React and AI = Supremacy",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://spirofloropoulos.com/digital_holy_trinity/",
+        "discovered_at": "2026-07-28"
     },
     {
         "name": "Squarefacegenerator",
@@ -51276,6 +51346,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Developer-tech",
+        "description": "Open Secure AI Alliance aims to open-source AI security defences",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.developer-tech.com/news/open-secure-ai-alliance-open-source-ai-security-defences/",
+        "discovered_at": "2026-07-28"
+    },
+    {
         "name": "Devthropology",
         "description": "Show HN: Devthropology – Better Insights for GitHub Repos",
         "category": "Development",
@@ -62594,6 +62674,16 @@
         "cors": "unknown",
         "url": "https://apify.com/yourapiservice/swapter-blog-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Swarm",
+        "description": "I built 337 API tools behind a paywall. 3 free calls, then €0.50",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://swarm.gadgethumans.com/x402/",
+        "discovered_at": "2026-07-28"
     },
     {
         "name": "Sweetcli",
@@ -81319,6 +81409,16 @@
         "discovered_at": "2026-06-28"
     },
     {
+        "name": "Dozenal",
+        "description": "Show HN: Dozenal – A Game of Spatial Arithmetic",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dozenal.game",
+        "discovered_at": "2026-07-28"
+    },
+    {
         "name": "Eu-west-1a",
         "description": "ShowTracker – Free social tracker for TV, movies, anime, and manga",
         "category": "Entertainment",
@@ -81858,6 +81958,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.alphavantage.co/"
+    },
+    {
+        "name": "Alphai",
+        "description": "Show HN: We killed our AI stock analysis and kept the news feed (API and MCP)",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://alphai.io/developers",
+        "discovered_at": "2026-07-28"
     },
     {
         "name": "Bill Payment Validator",
@@ -86179,6 +86289,16 @@
         "discovered_at": "2026-07-02"
     },
     {
+        "name": "Ctvnews",
+        "description": "Quebec scraps AI and automation projects in the public sector",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.ctvnews.ca/montreal/article/quebec-scraps-ai-and-automation-projects-in-the-public-sector/",
+        "discovered_at": "2026-07-28"
+    },
+    {
         "name": "Currents API",
         "description": "Latest news published in various news sources",
         "category": "News",
@@ -90231,6 +90351,16 @@
         "cors": "unknown",
         "url": "https://aspire.dev/",
         "discovered_at": "2026-04-10"
+    },
+    {
+        "name": "Asteriskmag",
+        "description": "Anthropic should learn from those cotton-picking socialists",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://asteriskmag.com/issues/15/rust-and-boll",
+        "discovered_at": "2026-07-28"
     },
     {
         "name": "Asthi",
@@ -94633,6 +94763,16 @@
         "discovered_at": "2026-06-03"
     },
     {
+        "name": "Lockwood",
+        "description": "How is the Bun rewrite in Rust going?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+        "discovered_at": "2026-07-28"
+    },
+    {
         "name": "Lookaway",
         "description": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt",
         "category": "Other",
@@ -95953,6 +96093,16 @@
         "discovered_at": "2026-03-08"
     },
     {
+        "name": "Openotp",
+        "description": "Show HN: My First OSS as a Teen",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://openotp.app",
+        "discovered_at": "2026-07-28"
+    },
+    {
         "name": "Openparser",
         "description": "Show HN: Hosted PaddleOCR-VL-1.6 API",
         "category": "Other",
@@ -97213,6 +97363,16 @@
         "discovered_at": "2026-03-20"
     },
     {
+        "name": "Rise-reforming",
+        "description": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.rise-reforming.com",
+        "discovered_at": "2026-07-28"
+    },
+    {
         "name": "Rnbulktools",
         "description": "RnBulkTools – Free Bulk Background Removal with API",
         "category": "Other",
@@ -97771,6 +97931,16 @@
         "cors": "unknown",
         "url": "https://signal-memo.com/memo-salesforce-and-sap-are-making-opposite-bets-about-how-agents-will-use-enterprise-software-the-rest-of-the-stack-is-about-to-have-to-pick-a-side/",
         "discovered_at": "2026-06-08"
+    },
+    {
+        "name": "Silkdrop",
+        "description": "Show HN: SilkDrop – MilkDrop port for web with live editor",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://silkdrop.vercel.app/",
+        "discovered_at": "2026-07-28"
     },
     {
         "name": "Simonwillison",
@@ -98483,6 +98653,16 @@
         "discovered_at": "2026-07-08"
     },
     {
+        "name": "Telnyx",
+        "description": "Kimi K3 Now Available via Telnyx Inference API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+        "discovered_at": "2026-07-28"
+    },
+    {
         "name": "Temataro",
         "description": "Show HN: Better Graphs – Teach agents to stop making plain Matplotlib slop",
         "category": "Other",
@@ -98871,6 +99051,16 @@
         "cors": "unknown",
         "url": "https://www.trademylease.com",
         "discovered_at": "2026-06-09"
+    },
+    {
+        "name": "Traintrack",
+        "description": "Show HN: 100% Free Indian Railways API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://traintrack.stupidlabs.lol/",
+        "discovered_at": "2026-07-28"
     },
     {
         "name": "Travel Partner API",
@@ -104594,6 +104784,16 @@
         "cors": "unknown",
         "url": "https://apify.com/hckr-studio/keboola-uploader",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Keynotepro",
+        "description": "Show HN: Composer – A Markdown-driven automation engine for Apple Keynote",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://keynotepro.com/JSRequired.html",
+        "discovered_at": "2026-07-28"
     },
     {
         "name": "Kia Parts Catalog",
@@ -111001,6 +111201,16 @@
         "cors": "unknown",
         "url": "https://marketplace.atlassian.com/apps/356517983/public-pages-for-confluence",
         "discovered_at": "2026-05-08"
+    },
+    {
+        "name": "Meodai",
+        "description": "Show HN: Ray-color, color palettes sampled off a raytraced tennis ball",
+        "category": "Sports",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://meodai.github.io/ray-color/",
+        "discovered_at": "2026-07-28"
     },
     {
         "name": "NBA",
