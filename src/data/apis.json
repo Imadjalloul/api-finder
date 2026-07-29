@@ -500,6 +500,16 @@
         "discovered_at": "2026-03-05"
     },
     {
+        "name": "Anybody",
+        "description": "Anybody.dev – The Open Source AI App Builder",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://anybody.dev",
+        "discovered_at": "2026-07-29"
+    },
+    {
         "name": "Apekey",
         "description": "Show HN: ApeKey – One API for multiple AI providers, predictable pricing",
         "category": "AI & Machine Learning",
@@ -5259,6 +5269,16 @@
         "discovered_at": "2026-03-04"
     },
     {
+        "name": "Wisgate",
+        "description": "Best AI APIs for Startups – WisGate",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wisgate.ai/blogs/best-ai-apis-for-startups",
+        "discovered_at": "2026-07-29"
+    },
+    {
         "name": "Wiz",
         "description": "CVE-2026-33413 found in ETCD by open source AI agent (strix.ai), 8.8 CVSS",
         "category": "AI & Machine Learning",
@@ -8594,6 +8614,16 @@
         "cors": "unknown",
         "url": "https://playanimalis.com/",
         "discovered_at": "2026-07-22"
+    },
+    {
+        "name": "Puppet",
+        "description": "Our Approach to Responsible Agentic Development in Open Source",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.puppet.com/blog/ai-open-source",
+        "discovered_at": "2026-07-29"
     },
     {
         "name": "RandomFox",
@@ -16000,6 +16030,16 @@
         "cors": "unknown",
         "url": "https://www.suse.com/c/eu-cloud-ai-development-act-open-source-first/",
         "discovered_at": "2026-06-04"
+    },
+    {
+        "name": "Tajd",
+        "description": "Show HN: Open-source Cloudflare deployed agent native task management and wiki",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tajd.github.io/projektor/",
+        "discovered_at": "2026-07-29"
     },
     {
         "name": "Tenantbox",
@@ -59348,6 +59388,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Paseo",
+        "description": "Paseo: Open-source desktop and mobile app for TUI coding agents (Codex, CC)",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://paseo.sh/",
+        "discovered_at": "2026-07-29"
+    },
+    {
         "name": "Password Generator Api",
         "description": "Generate cryptographically secure, customizable passwords through automated API endpoints. This sophisticated password generation solution delivers enterprise-grade security with flexible...",
         "category": "Development",
@@ -80211,6 +80261,16 @@
         "discovered_at": "2026-05-29"
     },
     {
+        "name": "Andreadimatteo",
+        "description": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://andreadimatteo.com/md-to-html-compiler.html",
+        "discovered_at": "2026-07-29"
+    },
+    {
         "name": "Ap-quiz",
         "description": "Show HN: AP Quiz – mobile-first AP practice prep web app",
         "category": "Education",
@@ -81279,6 +81339,16 @@
         "cors": "unknown",
         "url": "https://aivideogenerator.so/",
         "discovered_at": "2026-07-19"
+    },
+    {
+        "name": "Antics",
+        "description": "Show HN: Antics: Drop-in multiplayer for your AI-built games",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://antics.gg/",
+        "discovered_at": "2026-07-29"
     },
     {
         "name": "Arcadelab",
@@ -82371,6 +82441,16 @@
         "cors": "unknown",
         "url": "https://zarq.ai/zarq/doc",
         "discovered_at": "2026-03-09"
+    },
+    {
+        "name": "Zenlyfinancial",
+        "description": "Show HN: Zenly – Investment research platform built around a quality/value score",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://zenlyfinancial.com/",
+        "discovered_at": "2026-07-29"
     },
     {
         "name": "1Forge Finance APIs",
@@ -84232,6 +84312,16 @@
         "cors": "unknown",
         "url": "https://gist.githubusercontent.com/MikeRalphson/77bb693d4cf9213909527b9cc4566609/raw/9febc5d16d8d162c93f3503510ce0808a8075d5b/openuv.yaml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Pidgeiot",
+        "description": "Show HN: PidgeIoT – open-source IoT/Embedded device management for all (free*)",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pidgeiot.com/",
+        "discovered_at": "2026-07-29"
     },
     {
         "name": "Qrvpn",
@@ -89703,6 +89793,16 @@
         "discovered_at": "2026-04-10"
     },
     {
+        "name": "43",
+        "description": "Show HN: DeepSeek API – 50pct cheaper, no minimum, instant key delivery",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://43.155.207.94.sslip.io",
+        "discovered_at": "2026-07-29"
+    },
+    {
         "name": "4worlds",
         "description": "Replacing WebView2 print-to-PDF with an embedded Typst engine (Rust)",
         "category": "Other",
@@ -90201,6 +90301,16 @@
         "cors": "unknown",
         "url": "https://apipulse.app/",
         "discovered_at": "2026-04-15"
+    },
+    {
+        "name": "Apisubstack",
+        "description": "Show HN: The Posting Substack API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apisubstack.com/",
+        "discovered_at": "2026-07-29"
     },
     {
         "name": "App",
@@ -90741,6 +90851,16 @@
         "cors": "unknown",
         "url": "https://blitzgraph.com/",
         "discovered_at": "2026-06-15"
+    },
+    {
+        "name": "Blockatlas",
+        "description": "Show HN: How many people live within an hour walk of you?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blockatlas.com/tools/radius/walk",
+        "discovered_at": "2026-07-29"
     },
     {
         "name": "Blog",
@@ -91581,6 +91701,16 @@
         "cors": "unknown",
         "url": "https://www.copresent.app/",
         "discovered_at": "2026-07-09"
+    },
+    {
+        "name": "Cosmos47",
+        "description": "Show HN: Cosmos47, a public chronological feed without algorithms",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cosmos47.com/",
+        "discovered_at": "2026-07-29"
     },
     {
         "name": "Covalence",
@@ -92901,6 +93031,16 @@
         "cors": "unknown",
         "url": "https://flashmesh.netlify.app/",
         "discovered_at": "2026-03-31"
+    },
+    {
+        "name": "Flashpaper",
+        "description": "Show HN: Flashpaper – Self-destructing secret sharing with no database",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://flashpaper.app/",
+        "discovered_at": "2026-07-29"
     },
     {
         "name": "Flexprice",
@@ -95623,6 +95763,16 @@
         "discovered_at": "2026-06-07"
     },
     {
+        "name": "Mustuse",
+        "description": "Show HN: Mustuse.ai – Open-source automated ranking system run by agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mustuse.ai",
+        "discovered_at": "2026-07-29"
+    },
+    {
         "name": "My-morning-report",
         "description": "Show HN: Morning Report – daily briefing compiled from Sentry, Linear, Gmail,etc",
         "category": "Other",
@@ -95661,6 +95811,16 @@
         "cors": "unknown",
         "url": "https://myintelbrief.com/",
         "discovered_at": "2026-07-14"
+    },
+    {
+        "name": "N3mo",
+        "description": "Show HN: PR review time decreased by N3MO:impact analyzer (15 days free trial)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://n3mo.vercel.app",
+        "discovered_at": "2026-07-29"
     },
     {
         "name": "Nano",
@@ -96823,6 +96983,16 @@
         "discovered_at": "2026-04-22"
     },
     {
+        "name": "Prove-yourself",
+        "description": "Show HN: A tool to privately timestamp a claim and reveal it on schedule",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://prove-yourself.sebmellen.com/",
+        "discovered_at": "2026-07-29"
+    },
+    {
         "name": "Proving",
         "description": "Show HN: Proving – A Career Intelligence App",
         "category": "Other",
@@ -96891,6 +97061,16 @@
         "cors": "unknown",
         "url": "https://www.pulsepages.co",
         "discovered_at": "2026-05-06"
+    },
+    {
+        "name": "Purple-hammer",
+        "description": "Show HN: Purple Hammer – construction takeoff and estimating in Tauri/Rust/WASM",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://purple-hammer.com/",
+        "discovered_at": "2026-07-29"
     },
     {
         "name": "Puzzlepage",
@@ -100343,6 +100523,16 @@
         "discovered_at": "2026-06-13"
     },
     {
+        "name": "Kilnimage",
+        "description": "Show HN: Kiln – a fast, native batch image processor",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kilnimage.app",
+        "discovered_at": "2026-07-29"
+    },
+    {
         "name": "Lightwindow",
         "description": "Show HN: Sun light and path calculation for photography",
         "category": "Photography",
@@ -100467,6 +100657,16 @@
         "cors": "unknown",
         "url": "https://portraify.app",
         "discovered_at": "2026-07-21"
+    },
+    {
+        "name": "Renderpop",
+        "description": "Show HN: RenderPop – Free browser-based AI image and video generator",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.renderpop.app",
+        "discovered_at": "2026-07-29"
     },
     {
         "name": "Sunex-ai",
@@ -104214,6 +104414,16 @@
         "cors": "unknown",
         "url": "https://apify.com/xyzzy/http-api",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Hubble",
+        "description": "Hubble: Open-source notetaking app for you and your agents",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.hubble.md/",
+        "discovered_at": "2026-07-29"
     },
     {
         "name": "Hyundai Parts Catalog",
@@ -110702,6 +110912,16 @@
         "discovered_at": "2026-06-30"
     },
     {
+        "name": "Brainbustle",
+        "description": "Show HN: Could you please check out my social media website/mobile app?",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://brainbustle.com/",
+        "discovered_at": "2026-07-29"
+    },
+    {
         "name": "Burnroom",
         "description": "Show HN: Burn Room – End-to-End Encrypted Ephemeral SSH Chat",
         "category": "Social",
@@ -114281,6 +114501,16 @@
         "discovered_at": "2026-03-25"
     },
     {
+        "name": "Studio",
+        "description": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://studio.academa.ai/",
+        "discovered_at": "2026-07-29"
+    },
+    {
         "name": "Tenor",
         "description": "GIF search engine with trending and categories",
         "category": "Video & Media",
@@ -114554,6 +114784,16 @@
         "cors": "unknown",
         "url": "https://photosignal.app/",
         "discovered_at": "2026-07-02"
+    },
+    {
+        "name": "Polybridge",
+        "description": "Show HN: PolyBridge – a causal model for forecasting global events",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://polybridge.ai",
+        "discovered_at": "2026-07-29"
     },
     {
         "name": "Portal",
