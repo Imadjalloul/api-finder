@@ -300,6 +300,16 @@
         "discovered_at": "2026-06-05"
     },
     {
+        "name": "Aicontentfootprint",
+        "description": "Show HN: Energy, carbon and water estimates for AI content, shown as ranges",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aicontentfootprint.com/",
+        "discovered_at": "2026-07-30"
+    },
+    {
         "name": "Aictl",
         "description": "Show HN: AICTL – A native AI agent for terminal and macOS, in Rust",
         "category": "AI & Machine Learning",
@@ -3562,6 +3572,16 @@
         "discovered_at": "2026-05-28"
     },
     {
+        "name": "Perbhat",
+        "description": "Show HN: An AI Color Grader – Pico",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.perbhat.com/pico",
+        "discovered_at": "2026-07-30"
+    },
+    {
         "name": "Persist",
         "description": "Show HN: Persist – an AI agent that follows up accrued channels till they reply",
         "category": "AI & Machine Learning",
@@ -4219,6 +4239,16 @@
         "cors": "unknown",
         "url": "https://senthex.com:443/proxy/",
         "discovered_at": "2026-04-08"
+    },
+    {
+        "name": "Serendb",
+        "description": "We Created a Free Password Manager for AI Agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://serendb.com/blog/three-reasons-we-created-seren-passwords-for-ai-agents-before-humans",
+        "discovered_at": "2026-07-30"
     },
     {
         "name": "Setoku",
@@ -5107,6 +5137,16 @@
         "cors": "unknown",
         "url": "https://verla.io",
         "discovered_at": "2026-07-10"
+    },
+    {
+        "name": "Vernllm",
+        "description": "Show HN: VernLLM – The AI resilience layer for TypeScript",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vernllm.vercel.app",
+        "discovered_at": "2026-07-30"
     },
     {
         "name": "Vibedrift",
@@ -8406,6 +8446,16 @@
         "url": "https://dog.ceo/dog-api/"
     },
     {
+        "name": "Essaycompass",
+        "description": "Show HN: College application essay inspiration and brainstorm",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://essaycompass.net/",
+        "discovered_at": "2026-07-30"
+    },
+    {
         "name": "Finalapp",
         "description": "Show HN: FinalApp – paste a job link, review the filled application, then submit",
         "category": "Animals",
@@ -9542,6 +9592,16 @@
         "discovered_at": "2026-03-22"
     },
     {
+        "name": "Usetokenless",
+        "description": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://usetokenless.com/",
+        "discovered_at": "2026-07-30"
+    },
+    {
         "name": "Yolo-auto",
         "description": "Show HN: An unmetered LLM API–$6/month, no token tracking, no limits",
         "category": "Blockchain",
@@ -10095,6 +10155,16 @@
         "cors": "unknown",
         "url": "https://trees.software/",
         "discovered_at": "2026-04-26"
+    },
+    {
+        "name": "Tryreader",
+        "description": "Show HN: Reading Assistant for Physical Books",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tryreader.app/",
+        "discovered_at": "2026-07-30"
     },
     {
         "name": "Ubik",
@@ -15811,6 +15881,16 @@
         "cors": "unknown",
         "url": "https://kampfinsel.com/",
         "discovered_at": "2026-04-12"
+    },
+    {
+        "name": "Kedge",
+        "description": "Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kedge.dev/",
+        "discovered_at": "2026-07-30"
     },
     {
         "name": "Konxios",
@@ -51396,6 +51476,16 @@
         "discovered_at": "2026-07-28"
     },
     {
+        "name": "Developers",
+        "description": "Cloudflare removes top open coding models from free tier",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://developers.cloudflare.com/changelog/post/2026-07-28-models-require-workers-paid/",
+        "discovered_at": "2026-07-30"
+    },
+    {
         "name": "Devthropology",
         "description": "Show HN: Devthropology – Better Insights for GitHub Repos",
         "category": "Development",
@@ -56497,6 +56587,16 @@
         "cors": "unknown",
         "url": "https://apify.com/yourapiservice/johnkitchens-blog-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Jolicode",
+        "description": "Writing the PHP Virtual Machine in Rust (With a Lot of Help from AI)",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jolicode.com/blog/writing-the-php-virtual-machine-in-rust-with-a-lot-of-help-from-ai",
+        "discovered_at": "2026-07-30"
     },
     {
         "name": "Joolree By D Blog Scraper",
@@ -85369,6 +85469,16 @@
         "url": "https://rapidapi.com/transloc/api/openapi-1-2/"
     },
     {
+        "name": "Uavradar",
+        "description": "Show HN: A detailed air alert map of Ukraine and Russia, built on free tier",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://uavradar.live/",
+        "discovered_at": "2026-07-30"
+    },
+    {
         "name": "Usegenosis",
         "description": "Show HN: Genosis – LLM cost optimization that learns from your traffic",
         "category": "Maps & Transport",
@@ -89893,6 +90003,16 @@
         "discovered_at": "2026-07-22"
     },
     {
+        "name": "Achiever",
+        "description": "Show HN: Steam-style achievements, but for real life (777 milestones)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://achiever.so",
+        "discovered_at": "2026-07-30"
+    },
+    {
         "name": "Aegisoptikon",
         "description": "Free nonce and API key generator",
         "category": "Other",
@@ -91231,6 +91351,26 @@
         "cors": "unknown",
         "url": "https://bwanaerp.medium.com/how-to-stop-losing-api-keys-forever-i-built-a-tool-for-this-8b2adfca782a",
         "discovered_at": "2026-06-28"
+    },
+    {
+        "name": "Bztsrc",
+        "description": "Show HN: Palette Manipulator",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bztsrc.gitlab.io/paltool/",
+        "discovered_at": "2026-07-30"
+    },
+    {
+        "name": "Cacm",
+        "description": "Unpacking Open Source AI: Toward a Framework for Openness in Foundation Models",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cacm.acm.org/research/unpacking-open-source-artificial-intelligence-toward-a-framework-for-openness-in-foundation-models/",
+        "discovered_at": "2026-07-30"
     },
     {
         "name": "Cadara",
@@ -93073,6 +93213,16 @@
         "discovered_at": "2026-04-02"
     },
     {
+        "name": "Flipcloc",
+        "description": "Show HN: FlipCloc for Mac out now. A gorgeous flip clock and screensaver",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://flipcloc.com",
+        "discovered_at": "2026-07-30"
+    },
+    {
         "name": "Fluidcad",
         "description": "Show HN: FluidCAD – Parametric CAD with JavaScript",
         "category": "Other",
@@ -94143,6 +94293,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Inkspan",
+        "description": "Show HN: Inkspan – one API for the PDF/doc plumbing I kept rebuilding",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://inkspan.dev",
+        "discovered_at": "2026-07-30"
+    },
+    {
         "name": "Insidertrack",
         "description": "Show HN: Insidertrack – free SEC Form 4 insider trade tracker",
         "category": "Other",
@@ -94581,6 +94741,16 @@
         "cors": "unknown",
         "url": "https://kontext.dev/blog/announcing-kontext",
         "discovered_at": "2026-03-21"
+    },
+    {
+        "name": "Koodisi",
+        "description": "Show HN: Expose Your APIs to Agents Without Losing Control via Koodisi MCP",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://koodisi.com/blog/expose-your-apis-to-agents-without-losing-control",
+        "discovered_at": "2026-07-30"
     },
     {
         "name": "Kotlin-api",
@@ -95441,6 +95611,16 @@
         "cors": "unknown",
         "url": "https://messageboard.tech/",
         "discovered_at": "2026-07-07"
+    },
+    {
+        "name": "Metedata",
+        "description": "My Best Mental Models I Use to Work with AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://metedata.substack.com/p/015-the-mental-models-i-use-to-work",
+        "discovered_at": "2026-07-30"
     },
     {
         "name": "Micro",
@@ -96923,6 +97103,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Prieco",
+        "description": "Show HN: PriEco (open source, 400M index, EU search engine) integrated Goggles",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://prieco.net/",
+        "discovered_at": "2026-07-30"
+    },
+    {
         "name": "Primereviewspro",
         "description": "Show HN: A free analyzer for spotting fake Amazon reviews via distribution shape",
         "category": "Other",
@@ -97403,6 +97593,16 @@
         "discovered_at": "2026-03-03"
     },
     {
+        "name": "Repoinpeace",
+        "description": "Show HN: RepoInPeace – A marketplace to buy and sell abandoned startup IP",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://repoinpeace.app/",
+        "discovered_at": "2026-07-30"
+    },
+    {
         "name": "Reports API",
         "description": "The [Reports API](/reports/overview) enables you to request a report of activity for your Vonage account.\n\nDepending on your query pattern, you can choose from one of the two versions of the Reports A",
         "category": "Other",
@@ -97421,6 +97621,16 @@
         "cors": "unknown",
         "url": "https://developer.mastercard.com/devzone/api/portal/swagger/mastercard-repower",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Reprodev",
+        "description": "Apprenticeships: You Can Get into Tech in the UK and USA for Free and Get Paid",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://reprodev.com/how-you-can-get-into-tech-in-the-uk-and-around-the-world-for-free/",
+        "discovered_at": "2026-07-30"
     },
     {
         "name": "Reproof",
@@ -98503,6 +98713,16 @@
         "discovered_at": "2026-03-01"
     },
     {
+        "name": "Steadra",
+        "description": "Show HN: Steadra.dev is for automated QA with no effort",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://steadra.dev",
+        "discovered_at": "2026-07-30"
+    },
+    {
         "name": "Stellafoster",
         "description": "Show HN: Stella Foster – iMessage on Any Phone",
         "category": "Other",
@@ -98641,6 +98861,16 @@
         "cors": "unknown",
         "url": "https://supabase.com/blog/supabase-pipelines-public-alpha",
         "discovered_at": "2026-07-22"
+    },
+    {
+        "name": "Supapool",
+        "description": "Show HN: Supapool – a Supabase per coding agent in ~400 ms",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://supapool.io/",
+        "discovered_at": "2026-07-30"
     },
     {
         "name": "Supercsv",
@@ -109889,6 +110119,16 @@
         "discovered_at": "2026-07-04"
     },
     {
+        "name": "Replicant",
+        "description": "Show HN: Replicant Space – an HTTP API-based game based on the Bobiverse books",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://replicant.space/",
+        "discovered_at": "2026-07-30"
+    },
+    {
         "name": "Restk",
         "description": "Show HN: Restk – a native API client that stores your workspace as files in Git",
         "category": "Science",
@@ -110035,6 +110275,16 @@
         "cors": "unknown",
         "url": "https://workspace.google.com/marketplace/app/ai_response_feedback_for_forms/1081979139028",
         "discovered_at": "2026-06-16"
+    },
+    {
+        "name": "Worldip",
+        "description": "Show HN: A free curl API for IP data (we scan the IPv4 space in <24h)",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://worldip.io/news/keyless-ip-api-no-key-required",
+        "discovered_at": "2026-07-30"
     },
     {
         "name": "Zaai",
@@ -110503,6 +110753,16 @@
         "cors": "unknown",
         "url": "https://lateos.ai/llm-research/gpt5-nano/",
         "discovered_at": "2026-06-16"
+    },
+    {
+        "name": "Leaderboard",
+        "description": "Show HN: AI Security Leaderboard – comparing cyber and CBRN safeguards",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://leaderboard.far.ai/",
+        "discovered_at": "2026-07-30"
     },
     {
         "name": "Malwaresiblings",
@@ -111274,6 +111534,16 @@
         "cors": "unknown",
         "url": "https://api.hubspot.com/api-catalog-public/v1/apis/conversations/v3/visitor-identification",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Vostorq",
+        "description": "Show HN: Vostorq – I built the anti-Slack after working at a Slack-first company",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.vostorq.com/",
+        "discovered_at": "2026-07-30"
     },
     {
         "name": "Vrt",
@@ -114560,6 +114830,16 @@
         "discovered_at": "2026-06-03"
     },
     {
+        "name": "Tuberank-ai",
+        "description": "TubeRank AI – Free YouTube SEO Tool Built with AI",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tuberank-ai.com/",
+        "discovered_at": "2026-07-30"
+    },
+    {
         "name": "Video-commander",
         "description": "Show HN: Video Commander – A desktop IDE for video engineers (FFmpeg, VMAF)",
         "category": "Video & Media",
@@ -114814,6 +115094,16 @@
         "cors": "unknown",
         "url": "https://preflightapi.io/",
         "discovered_at": "2026-03-04"
+    },
+    {
+        "name": "Strataweather",
+        "description": "Show HN: Experiments with Weather Data",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://strataweather.com/map",
+        "discovered_at": "2026-07-30"
     },
     {
         "name": "Swellslots",
