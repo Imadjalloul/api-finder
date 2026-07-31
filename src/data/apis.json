@@ -1040,6 +1040,16 @@
         "discovered_at": "2026-07-02"
     },
     {
+        "name": "Bytetality",
+        "description": "How do you compare open-source LLMs before deploying them?",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bytetality.com/ai/models",
+        "discovered_at": "2026-07-31"
+    },
+    {
         "name": "Cachd",
         "description": "Show HN: The open-source AI bookmark manager for busy people",
         "category": "AI & Machine Learning",
@@ -1356,6 +1366,16 @@
         "cors": "unknown",
         "url": "https://csv-analyzer-green.vercel.app",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Ctgt",
+        "description": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+        "discovered_at": "2026-07-31"
     },
     {
         "name": "Ctxoverflow",
@@ -1997,6 +2017,16 @@
         "discovered_at": "2026-04-24"
     },
     {
+        "name": "Getslaide",
+        "description": "Show HN: Slaide, open-source Markdown slides AI writes and PowerPoint opens",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getslaide.com/",
+        "discovered_at": "2026-07-31"
+    },
+    {
         "name": "Getsotto",
         "description": "Show HN: Sotto – AI interview assistant for Mac",
         "category": "AI & Machine Learning",
@@ -2273,6 +2303,16 @@
         "cors": "unknown",
         "url": "https://hormuztrail.com/",
         "discovered_at": "2026-04-16"
+    },
+    {
+        "name": "Howmachinesthink",
+        "description": "I built a free AI curriculum from philosophy to LLMs",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://howmachinesthink.substack.com/",
+        "discovered_at": "2026-07-31"
     },
     {
         "name": "Howtotestfrontend",
@@ -5476,6 +5516,16 @@
         "cors": "unknown",
         "url": "https://zenodo.org/records/20349904",
         "discovered_at": "2026-05-23"
+    },
+    {
+        "name": "Zenresume",
+        "description": "Show HN: ZenResume – Free, local-first ATS resume builder with AI import",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.zenresume.online/",
+        "discovered_at": "2026-07-31"
     },
     {
         "name": "Zero-human-labs",
@@ -16072,6 +16122,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Scalix",
+        "description": "Show HN: Scalix World – AI native Neo cloud built by two engineers in Rust",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://scalix.world/",
+        "discovered_at": "2026-07-31"
+    },
+    {
         "name": "Service Broker",
         "description": "The Google Cloud Platform Service Broker API provides Google hosted\nimplementation of the Open Service Broker API\n(https://www.openservicebrokerapi.org/).",
         "category": "Cloud & Storage",
@@ -16200,6 +16260,16 @@
         "cors": "unknown",
         "url": "https://vram.run",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Widen",
+        "description": "Show HN: Widen – Open-source Mac Postgres GUI with local or cloud text-to-SQL",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://widen.dev/",
+        "discovered_at": "2026-07-31"
     },
     {
         "name": "Word-cloud",
@@ -16988,6 +17058,16 @@
         "cors": "unknown",
         "url": "https://quickinvoice-jade.vercel.app",
         "discovered_at": "2026-06-30"
+    },
+    {
+        "name": "Reclip",
+        "description": "Show HN: Reclip – AI Video Clipper, Voiceover and Creator Tools",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.reclip.io",
+        "discovered_at": "2026-07-31"
     },
     {
         "name": "Robotomail",
@@ -47607,6 +47687,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Aakash2408",
+        "description": "Show HN: Ripple – Auto-fixes downstream code when APIs change",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aakash2408.github.io/ripple/",
+        "discovered_at": "2026-07-31"
+    },
+    {
         "name": "Abort And Resurrect",
         "description": "Aborts actor runs in bulk and resurrects them with new input and options.",
         "category": "Development",
@@ -58886,6 +58976,16 @@
         "cors": "unknown",
         "url": "https://nopoint.app",
         "discovered_at": "2026-05-16"
+    },
+    {
+        "name": "Normos",
+        "description": "Show HN: GitHub scanner that finds real ISO 27001/SoC 2 gaps – no AI, no signup",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://normos.io/free-github-scan",
+        "discovered_at": "2026-07-31"
     },
     {
         "name": "Nostr",
@@ -84324,6 +84424,16 @@
         "discovered_at": "2026-03-11"
     },
     {
+        "name": "Heyski",
+        "description": "Show HN: Ski – Voice Coding for Claude Code, Codex and More – On-Device – Free",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://heyski.io/",
+        "discovered_at": "2026-07-31"
+    },
+    {
         "name": "Hpcwire",
         "description": "Alternative(s) to run CUDA on non-Nvidia hardware",
         "category": "IoT & Hardware",
@@ -90393,6 +90503,16 @@
         "discovered_at": "2026-05-12"
     },
     {
+        "name": "Api",
+        "description": "Audited APIs for public compliance data (SEC EDGAR, FINRA, OFAC, and more)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://api.techcompass.com.au/index.html",
+        "discovered_at": "2026-07-31"
+    },
+    {
         "name": "API",
         "description": "Web API for TL mobile and web app",
         "category": "Other",
@@ -90411,6 +90531,16 @@
         "cors": "unknown",
         "url": "https://apiark.dev",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Apigen",
+        "description": "Show HN: APIgen – Generate Fusio REST APIs and Angular UIs from TypeSchema",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apigen.app/",
+        "discovered_at": "2026-07-31"
     },
     {
         "name": "Apipulse",
@@ -90951,6 +91081,16 @@
         "cors": "unknown",
         "url": "https://blacktwist.app/mcp",
         "discovered_at": "2026-03-17"
+    },
+    {
+        "name": "Blankie",
+        "description": "Blankie – Ambient sounds for your flow state",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blankie.rest/",
+        "discovered_at": "2026-07-31"
     },
     {
         "name": "Blazephoenix",
@@ -93093,6 +93233,16 @@
         "discovered_at": "2026-07-08"
     },
     {
+        "name": "Figranium",
+        "description": "Show HN: Figranium – Open-source visual Playwright control plane (Docker, API)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://figranium.dev",
+        "discovered_at": "2026-07-31"
+    },
+    {
         "name": "Filestash",
         "description": "Filestash: Open-Source Platform for File Sharing/Document Management/Archiving",
         "category": "Other",
@@ -93451,6 +93601,16 @@
         "cors": "unknown",
         "url": "https://gemini-speedrun.vercel.app/",
         "discovered_at": "2026-03-16"
+    },
+    {
+        "name": "Generateppt",
+        "description": "Show HN: I Made Generateppt.com Free",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.generateppt.com/",
+        "discovered_at": "2026-07-31"
     },
     {
         "name": "Geovalida",
@@ -95281,6 +95441,16 @@
         "cors": "unknown",
         "url": "https://malisper.me/how-pgrust-was-built-four-attempts-to-rewrite-postgres-in-rust-with-ai/",
         "discovered_at": "2026-07-17"
+    },
+    {
+        "name": "Mallary",
+        "description": "Show HN: Reply to Your Comments with an API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mallary.ai/",
+        "discovered_at": "2026-07-31"
     },
     {
         "name": "Manual",
@@ -97121,6 +97291,16 @@
         "cors": "unknown",
         "url": "https://primereviewspro.com/spot-fake-amazon-reviews",
         "discovered_at": "2026-06-09"
+    },
+    {
+        "name": "Prized",
+        "description": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://prized.dev",
+        "discovered_at": "2026-07-31"
     },
     {
         "name": "Prod-i",
@@ -100263,6 +100443,16 @@
         "discovered_at": "2026-07-21"
     },
     {
+        "name": "Yeshivsher",
+        "description": "Show HN: EyeReset – Evidence-based eye-strain relief (no account, local-only)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://yeshivsher.com/apps/eye-reset/",
+        "discovered_at": "2026-07-31"
+    },
+    {
         "name": "Zilliz",
         "description": "Show HN: Vectordb benchmark – cost (e.g..turbopuffer vs. Zilliz vs. Pinecone",
         "category": "Other",
@@ -100887,6 +101077,16 @@
         "cors": "unknown",
         "url": "https://portraify.app",
         "discovered_at": "2026-07-21"
+    },
+    {
+        "name": "Prizmkey",
+        "description": "Show HN: Prizm – One API key for every top AI video, image and voice model",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.prizmkey.com",
+        "discovered_at": "2026-07-31"
     },
     {
         "name": "Renderpop",
@@ -113767,6 +113967,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.abstractapi.com/email-verification-validation-api"
+    },
+    {
+        "name": "Aisolohr",
+        "description": "Free FMLA Leave and Intermittent Hours Calculator",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aisolohr.com/tools/fmla-leave-calculator",
+        "discovered_at": "2026-07-31"
     },
     {
         "name": "API for the Settlement Currency Rate converter",
