@@ -4900,6 +4900,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Thomsonreuters",
+        "description": "Thomson Reuters built its own AI model that now ranks among the best",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-built-its-own-ai-model-that-now-ranks-among-the-worlds-best/",
+        "discovered_at": "2026-08-01"
+    },
+    {
         "name": "Thoughts",
         "description": "Show HN: Familiar – Open-source local AI agent for macOS(and iOS)",
         "category": "AI & Machine Learning",
@@ -9801,6 +9811,16 @@
         "discovered_at": "2026-06-01"
     },
     {
+        "name": "Digitalshelf",
+        "description": "Show HN: A bookshelf you can share as a link",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://digitalshelf.me/cip",
+        "discovered_at": "2026-08-01"
+    },
+    {
         "name": "Edit-mind",
         "description": "Show HN: Local AI search for your video library (local, open source)",
         "category": "Books",
@@ -9987,6 +10007,16 @@
         "cors": "unknown",
         "url": "https://mydatavalue.github.io/polter/",
         "discovered_at": "2026-04-11"
+    },
+    {
+        "name": "Nawc",
+        "description": "Show HN: A notebook for prototyping with your agent",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nawc.dev/",
+        "discovered_at": "2026-08-01"
     },
     {
         "name": "Nextgov",
@@ -16819,6 +16849,16 @@
         "cors": "unknown",
         "url": "https://joonote.com/",
         "discovered_at": "2026-03-22"
+    },
+    {
+        "name": "Keepscreenon",
+        "description": "I made a free web app that prevents your screen from turning off automatically",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://keepscreenon.vercel.app",
+        "discovered_at": "2026-08-01"
     },
     {
         "name": "Knock",
@@ -64136,6 +64176,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Trytilde",
+        "description": "Show HN: How to build and self-host a code review agent",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
+        "discovered_at": "2026-08-01"
+    },
+    {
         "name": "Ttanv",
         "description": "Show HN: Levi – run AlphaEvolve on your Claude Code/Codex for dirt cheap",
         "category": "Development",
@@ -76163,6 +76213,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Ringup",
+        "description": "Show HN: How I built Remembered checkout for Voice",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ringup.dev/",
+        "discovered_at": "2026-08-01"
+    },
+    {
         "name": "Rinso Urls Spider",
         "description": "The Rinso Urls Spider efficiently scrapes detailed product data from Rinso URLs, extracting names, descriptions, social media links, brand details, and logos....",
         "category": "E-Commerce",
@@ -81581,6 +81641,16 @@
         "discovered_at": "2026-06-21"
     },
     {
+        "name": "Baduz",
+        "description": "Show HN: Baduz – Action Adventure Game Maker",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://baduz.com/",
+        "discovered_at": "2026-08-01"
+    },
+    {
         "name": "Bal",
         "description": "Show HN: Bal – a Knights and Knaves logic puzzle game with Glicko rating system",
         "category": "Entertainment",
@@ -85568,6 +85638,16 @@
         "cors": "unknown",
         "url": "https://trailmaps.app/",
         "discovered_at": "2026-05-15"
+    },
+    {
+        "name": "Trames",
+        "description": "Show HN: Offline Flock Navigation",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://trames.karazajac.io",
+        "discovered_at": "2026-08-01"
     },
     {
         "name": "TransLoc",
@@ -93653,6 +93733,16 @@
         "discovered_at": "2026-04-25"
     },
     {
+        "name": "Getbrainstorm",
+        "description": "Show HN: Brainstorm – a local-first, AI-native OS for knowledge work",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getbrainstorm.online/",
+        "discovered_at": "2026-08-01"
+    },
+    {
         "name": "Getcabinfever",
         "description": "Show HN: Plan your multi-day hut hikes in the alps",
         "category": "Other",
@@ -96353,6 +96443,16 @@
         "discovered_at": "2026-05-28"
     },
     {
+        "name": "Nowledge-labs",
+        "description": "Rent the Intelligence. Own the Memory",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nowledge-labs.ai/blog/rent-the-intelligence-own-the-memory",
+        "discovered_at": "2026-08-01"
+    },
+    {
         "name": "Npgsqlrest",
         "description": "PostgreSQL REST API from SQL Scripts",
         "category": "Other",
@@ -96883,6 +96983,16 @@
         "discovered_at": "2026-03-03"
     },
     {
+        "name": "Pastedb",
+        "description": "Show HN: PasteDB – A Feature-Rich Pastebin",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pastedb.netlify.app/",
+        "discovered_at": "2026-08-01"
+    },
+    {
         "name": "Pastehex",
         "description": "Show HN: I've built tldraw for HTML and Markdown pages (with encryption)",
         "category": "Other",
@@ -97291,6 +97401,16 @@
         "cors": "unknown",
         "url": "https://primereviewspro.com/spot-fake-amazon-reviews",
         "discovered_at": "2026-06-09"
+    },
+    {
+        "name": "Privacything",
+        "description": "Show HN: I built a cross-browser extension that controls fingerprinting surfaces",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://privacything.com/en/",
+        "discovered_at": "2026-08-01"
     },
     {
         "name": "Prized",
@@ -98253,6 +98373,16 @@
         "discovered_at": "2026-07-14"
     },
     {
+        "name": "Sebastiancarlos",
+        "description": "Show HN: Hacker Fables – A satirical cyberpunk novel you can read as a man page",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sebastiancarlos.github.io/hacker-fables/",
+        "discovered_at": "2026-08-01"
+    },
+    {
         "name": "Secondseat",
         "description": "Show HN: Free tool to verify legal citations",
         "category": "Other",
@@ -98803,6 +98933,16 @@
         "discovered_at": "2026-05-01"
     },
     {
+        "name": "Spryly",
+        "description": "Show HN: Spryly – Track outdated dependencies across every repo and registry",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://spryly.io",
+        "discovered_at": "2026-08-01"
+    },
+    {
         "name": "Spuddy",
         "description": "Show HN: Spuddy.sh – Describe your API in terminal get a hosted API with state",
         "category": "Other",
@@ -98931,6 +99071,16 @@
         "cors": "unknown",
         "url": "https://stemning.ai/packs/historical-portraits",
         "discovered_at": "2026-07-16"
+    },
+    {
+        "name": "Stencil",
+        "description": "Snapcompact: SoTA compaction – instant, local, free. Pick 3",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stencil.so/blog/snapcompact",
+        "discovered_at": "2026-08-01"
     },
     {
         "name": "Stillis",
@@ -99121,6 +99271,16 @@
         "cors": "unknown",
         "url": "https://sxp.studio/apps/subz",
         "discovered_at": "2026-07-11"
+    },
+    {
+        "name": "Sylixide",
+        "description": "Show HN: The Goal is simple, there should be an actual free editor",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sylixide.com",
+        "discovered_at": "2026-08-01"
     },
     {
         "name": "Sylve",
@@ -100453,6 +100613,16 @@
         "discovered_at": "2026-07-31"
     },
     {
+        "name": "Zerofs",
+        "description": "Building a Linux filesystem module in almost pure Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.zerofs.net/blog/linux-filesystem-module-in-rust/",
+        "discovered_at": "2026-08-01"
+    },
+    {
         "name": "Zilliz",
         "description": "Show HN: Vectordb benchmark – cost (e.g..turbopuffer vs. Zilliz vs. Pinecone",
         "category": "Other",
@@ -100990,6 +101160,16 @@
         "cors": "unknown",
         "url": "https://makevideofromphoto.com/",
         "discovered_at": "2026-04-19"
+    },
+    {
+        "name": "Narcis",
+        "description": "Free photo tools, no signup, no watermark",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://narcis.ai/tools",
+        "discovered_at": "2026-08-01"
     },
     {
         "name": "Nobolee88",
@@ -103264,6 +103444,16 @@
         "cors": "unknown",
         "url": "https://apify.com/flamboyant_leaf/dataset2gpt",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Daymo",
+        "description": "Show HN: Daymo – calendar app with a new day list layout",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://daymo.flown.io",
+        "discovered_at": "2026-08-01"
     },
     {
         "name": "DeepL Translate Scraper 🌐🔤",
@@ -113174,6 +113364,16 @@
         "cors": "unknown",
         "url": "https://www.clipto.com/",
         "discovered_at": "2026-06-03"
+    },
+    {
+        "name": "Collab",
+        "description": "Show HN: Collab Word in Web - A collaborative DOCX Editor with MS Word Parity",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://collab.word-in-web.com/",
+        "discovered_at": "2026-08-01"
     },
     {
         "name": "Cranki",
