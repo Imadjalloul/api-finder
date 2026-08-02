@@ -820,6 +820,16 @@
         "discovered_at": "2026-06-03"
     },
     {
+        "name": "Bestprompts",
+        "description": "Bestprompts.sh – Best AI Prompts",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bestprompts.sh",
+        "discovered_at": "2026-08-02"
+    },
+    {
         "name": "Bettercallclaude",
         "description": "Show HN: BetterCallClaude – Open Source AI Legal Agents for Italy",
         "category": "AI & Machine Learning",
@@ -1845,6 +1855,16 @@
         "cors": "unknown",
         "url": "https://www.foryouriver.com/",
         "discovered_at": "2026-03-28"
+    },
+    {
+        "name": "Freeaipromptgen",
+        "description": "Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://freeaipromptgen.com/",
+        "discovered_at": "2026-08-02"
     },
     {
         "name": "Freeheadshot",
@@ -52505,6 +52525,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Episko",
+        "description": "Show HN: Cockpit for you Claude Code agents in Rust",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://episko.dev/",
+        "discovered_at": "2026-08-02"
+    },
+    {
         "name": "Error Messages Deduplication",
         "description": "Filter items from the dataset with `#debug` fieldName and saves them to the dataset and deduplicates `errorMessages` so you don't have to go through all the errors.",
         "category": "Development",
@@ -83423,6 +83453,16 @@
         "discovered_at": "2026-05-14"
     },
     {
+        "name": "Drinqly",
+        "description": "Show HN: Created a Drink Journal App, Drinqly",
+        "category": "Food & Drink",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://drinqly.io/welcome",
+        "discovered_at": "2026-08-02"
+    },
+    {
         "name": "Edamam",
         "description": "Nutrition analysis and recipe search API",
         "category": "Food & Drink",
@@ -83945,6 +83985,16 @@
         "cors": "unknown",
         "url": "https://streakout.app/",
         "discovered_at": "2026-05-24"
+    },
+    {
+        "name": "Stridee",
+        "description": "Show HN: Unified API for wearable and health data at 1/25th of Terra's price",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stridee.fit/developer",
+        "discovered_at": "2026-08-02"
     },
     {
         "name": "Thelancet",
@@ -90203,6 +90253,16 @@
         "discovered_at": "2026-07-30"
     },
     {
+        "name": "Ae2",
+        "description": "Rust – What .boxed() costs you (and a tiny crate to avoid it)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ae2.rs/post/boxed-vs-box-pin",
+        "discovered_at": "2026-08-02"
+    },
+    {
         "name": "Aegisoptikon",
         "description": "Free nonce and API key generator",
         "category": "Other",
@@ -92151,6 +92211,16 @@
         "cors": "unknown",
         "url": "https://crawler.sh/",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Creativebloq",
+        "description": "Type designers have created a free font that \"poisons\" AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.creativebloq.com/design/fonts-typography/type-designers-have-created-a-free-font-that-poisons-ai",
+        "discovered_at": "2026-08-02"
     },
     {
         "name": "Credwork",
@@ -101152,6 +101222,16 @@
         "discovered_at": "2026-07-03"
     },
     {
+        "name": "Makerstack",
+        "description": "Show HN: MakerStack: a pay-once maker page (SSR, OG images, custom domains)",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://makerstack.altuzar.dev/",
+        "discovered_at": "2026-08-02"
+    },
+    {
         "name": "Makevideofromphoto",
         "description": "Show HN: Make Video from Photo for Free",
         "category": "Photography",
@@ -101160,6 +101240,16 @@
         "cors": "unknown",
         "url": "https://makevideofromphoto.com/",
         "discovered_at": "2026-04-19"
+    },
+    {
+        "name": "Mosaicora",
+        "description": "Show HN: I built a free Open Graph image designer",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mosaicora.io/tools/og-image-designer",
+        "discovered_at": "2026-08-02"
     },
     {
         "name": "Narcis",
@@ -114257,6 +114347,16 @@
         "cors": "unknown",
         "url": "https://codequest.work/generator/image-compressor/en/",
         "discovered_at": "2026-06-18"
+    },
+    {
+        "name": "Costperprompt",
+        "description": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://costperprompt.com/",
+        "discovered_at": "2026-08-02"
     },
     {
         "name": "CountAPI",
