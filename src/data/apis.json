@@ -2614,6 +2614,16 @@
         "discovered_at": "2026-04-10"
     },
     {
+        "name": "Kota",
+        "description": "Show HN: Kota – Bring AI agent CLIs into the same room",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.kota.place/",
+        "discovered_at": "2026-08-03"
+    },
+    {
         "name": "Kradle",
         "description": "Lying is Best. The Most Honest AI Won Anyway.",
         "category": "AI & Machine Learning",
@@ -3852,6 +3862,16 @@
         "discovered_at": "2026-04-28"
     },
     {
+        "name": "Psychologytoday",
+        "description": "AI and the iPod Test",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202607/ai-and-the-ipod-test",
+        "discovered_at": "2026-08-03"
+    },
+    {
         "name": "Publicai",
         "description": "Building Public AI with Libraries",
         "category": "AI & Machine Learning",
@@ -3980,6 +4000,16 @@
         "cors": "unknown",
         "url": "https://www.ragnerock.com",
         "discovered_at": "2026-04-29"
+    },
+    {
+        "name": "Rails-agent",
+        "description": "Show HN: Rails Agent – Build Autonomous AI Agents Natively in Ruby on Rails",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rails-agent.com",
+        "discovered_at": "2026-08-03"
     },
     {
         "name": "Rauno",
@@ -9117,6 +9147,16 @@
         "cors": "unknown",
         "url": "https://limenauth.dev/blog/introducing-limen",
         "discovered_at": "2026-04-26"
+    },
+    {
+        "name": "Markojs-tutorial",
+        "description": "Show HN: An interactive in-browser tutorial for MarkoJS V6 with solvable lessons",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://markojs-tutorial.netlify.app/",
+        "discovered_at": "2026-08-03"
     },
     {
         "name": "Mcp-billing",
@@ -51106,6 +51146,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Crestnotch",
+        "description": "Show HN: Crest, a MacBook notch control room that answers Claude Code prompts",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://crestnotch.app/",
+        "discovered_at": "2026-08-03"
+    },
+    {
         "name": "CrewAI MCP Tester",
         "description": "Automated Model Context Protocol (MCP) server testing tool. Connects to MCP servers, tests available tools using CrewAI agent, and generates detailed reports with pass/fail status. Supports custom...",
         "category": "Development",
@@ -81769,6 +81819,16 @@
         "discovered_at": "2026-07-01"
     },
     {
+        "name": "D2ykijtrvb890q",
+        "description": "Show HN: Vein, a minimalist open-source resource management game",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://d2ykijtrvb890q.cloudfront.net/",
+        "discovered_at": "2026-08-03"
+    },
+    {
         "name": "Decomp-academy",
         "description": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
         "category": "Entertainment",
@@ -84702,6 +84762,16 @@
         "cors": "unknown",
         "url": "https://www.speakcrisper.com/",
         "discovered_at": "2026-05-20"
+    },
+    {
+        "name": "Sprocket-demo",
+        "description": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sprocket-demo.spikonado.com",
+        "discovered_at": "2026-08-03"
     },
     {
         "name": "Suprastructure",
@@ -90713,6 +90783,16 @@
         "discovered_at": "2026-04-18"
     },
     {
+        "name": "App",
+        "description": "Show HN: We made Arcad, a parametric CAD in the browser, free and no signup",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.arcad.studio/",
+        "discovered_at": "2026-08-03"
+    },
+    {
         "name": "Appnull",
         "description": "Show HN: Null. – Free RSVP speed reader built for ADHD brains",
         "category": "Other",
@@ -91221,6 +91301,16 @@
         "cors": "unknown",
         "url": "https://blacktwist.app/mcp",
         "discovered_at": "2026-03-17"
+    },
+    {
+        "name": "Blanked",
+        "description": "Show HN: Blanked – Compare tech hiring processes by role and company",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.blanked.work/",
+        "discovered_at": "2026-08-03"
     },
     {
         "name": "Blankie",
@@ -97283,6 +97373,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Pixcodrops",
+        "description": "Show HN: Framer Theme Toggle Component for Light and Dark Mode",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pixcodrops.com/articles/theme-toggle-for-framer/",
+        "discovered_at": "2026-08-03"
+    },
+    {
         "name": "Pixtrava",
         "description": "Show HN: Pixtrava – Public Profiles for Our Persistent 3D Voxel World",
         "category": "Other",
@@ -97633,6 +97733,16 @@
         "discovered_at": "2026-07-29"
     },
     {
+        "name": "Purplehoisin",
+        "description": "Own your family tree with a local-first app",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://purplehoisin.com/own-your-family-tree/",
+        "discovered_at": "2026-08-03"
+    },
+    {
         "name": "Puzzlepage",
         "description": "A free puzzle generator that guarantees unique Sudoku/nonogram solutions",
         "category": "Other",
@@ -97681,6 +97791,16 @@
         "cors": "unknown",
         "url": "https://pyrefly.org/blog/pandas-type-completeness/",
         "discovered_at": "2026-03-10"
+    },
+    {
+        "name": "Pythonspeed",
+        "description": "Faster floating point math with Rust's new API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
+        "discovered_at": "2026-08-03"
     },
     {
         "name": "Qed",
@@ -98093,6 +98213,16 @@
         "discovered_at": "2026-06-19"
     },
     {
+        "name": "Rezmatch",
+        "description": "Show HN: Resume parsing and candidate matching, as an API and MCP server",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.rezmatch.ai/",
+        "discovered_at": "2026-08-03"
+    },
+    {
         "name": "Ride",
         "description": "Show HN: Follow London Trains in 3D",
         "category": "Other",
@@ -98363,6 +98493,16 @@
         "discovered_at": "2026-07-17"
     },
     {
+        "name": "Schmess",
+        "description": "Show HN: Schmess – chess with no turns; pieces freeze on cooldown after moving",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://schmess.com/",
+        "discovered_at": "2026-08-03"
+    },
+    {
         "name": "Scholar-sidekick",
         "description": "Show HN: Scholar Sidekick – citation verifier for the \"real DOI, wrong paper\"",
         "category": "Other",
@@ -98591,6 +98731,16 @@
         "cors": "unknown",
         "url": "https://shazow.net/posts/permissive-vs-copyleft/",
         "discovered_at": "2026-06-28"
+    },
+    {
+        "name": "Shees",
+        "description": "Show HN: I spent 2.5 years developing my 3D portfolio website, all under 5 MB",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://shees.dev",
+        "discovered_at": "2026-08-03"
     },
     {
         "name": "Shiftapi",
@@ -100701,6 +100851,16 @@
         "cors": "unknown",
         "url": "https://zilliz.com/vdbbench-leaderboard-v2",
         "discovered_at": "2026-06-26"
+    },
+    {
+        "name": "Zizq",
+        "description": "Show HN: Zizq is a fast, single-binary job queue that fits into any stack",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://zizq.io",
+        "discovered_at": "2026-08-03"
     },
     {
         "name": "Account API",
@@ -108405,6 +108565,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Ssp",
+        "description": "Show HN: My public second brain – 660 notes, 15 years, open source",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.ssp.sh/brain/",
+        "discovered_at": "2026-08-03"
+    },
+    {
         "name": "Startpage Search Scraper 🔍",
         "description": "🔍 A powerful Startpage search results scraper that extracts comprehensive data including titles, URLs, descriptions, and source sites. Perfect for market research, competitor analysis, and content...",
         "category": "Productivity",
@@ -113512,6 +113682,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://dictionaryapi.dev/"
+    },
+    {
+        "name": "Dmerullo",
+        "description": "Show HN: Project ESPAÑOL: Find level-appropriate Spanish-language poems",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dmerullo.github.io/project-espanol/",
+        "discovered_at": "2026-08-03"
     },
     {
         "name": "Forkle",
