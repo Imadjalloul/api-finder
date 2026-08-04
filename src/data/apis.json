@@ -720,6 +720,16 @@
         "discovered_at": "2026-07-28"
     },
     {
+        "name": "Argot",
+        "description": "Show HN: Argot, a Rust AI guardrail based on your codebase AST patterns",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://argot.tmonier.com/",
+        "discovered_at": "2026-08-04"
+    },
+    {
         "name": "Arize",
         "description": "Code is free, technical debt isn't: Notes from AI Engineer Europe",
         "category": "AI & Machine Learning",
@@ -3620,6 +3630,16 @@
         "cors": "unknown",
         "url": "https://www.pairform.io/",
         "discovered_at": "2026-03-21"
+    },
+    {
+        "name": "Passcontrol",
+        "description": "Show HN: PassControl – so your AI agents never hold your real API keys",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://passcontrol.vertias.eu",
+        "discovered_at": "2026-08-04"
     },
     {
         "name": "Paxerp",
@@ -8793,6 +8813,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://randomfox.ca/"
+    },
+    {
+        "name": "Read-the-water",
+        "description": "Show HN: A free mini game that makes you a smarter fly fisherperson",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://read-the-water.netlify.app/",
+        "discovered_at": "2026-08-04"
     },
     {
         "name": "Rentry",
@@ -15994,6 +16024,16 @@
         "discovered_at": "2026-06-03"
     },
     {
+        "name": "Hoplite",
+        "description": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hoplite.sh",
+        "discovered_at": "2026-08-04"
+    },
+    {
         "name": "Imgur",
         "description": "Image and video hosting with albums and galleries",
         "category": "Cloud & Storage",
@@ -20655,6 +20695,16 @@
         "cors": "unknown",
         "url": "https://apify.com/saswave/argus-auto-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Armature",
+        "description": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://armature.tech/",
+        "discovered_at": "2026-08-04"
     },
     {
         "name": "Arrivl",
@@ -80761,6 +80811,16 @@
         "discovered_at": "2026-06-28"
     },
     {
+        "name": "Reviscio",
+        "description": "Reviscio – Free AI learning and study tools",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://reviscio.com",
+        "discovered_at": "2026-08-04"
+    },
+    {
         "name": "Steadcast",
         "description": "Show HN: Steadcast – Free Mac podcast player for learning, not background noise",
         "category": "Education",
@@ -82005,6 +82065,16 @@
         "cors": "unknown",
         "url": "https://minigames.world/en",
         "discovered_at": "2026-06-14"
+    },
+    {
+        "name": "Msn",
+        "description": "Hollywood fights AI in public while building it into movies",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.msn.com/en-us/money/other/hollywood-fights-ai-in-public-while-quietly-building-it-into-movies/ar-AA28IhCH",
+        "discovered_at": "2026-08-04"
     },
     {
         "name": "Music0",
@@ -91903,6 +91973,16 @@
         "discovered_at": "2026-05-04"
     },
     {
+        "name": "Choreomotion",
+        "description": "Show HN: Choreo A free visual design tool for UI behavior and micro-interactions",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.choreomotion.app/",
+        "discovered_at": "2026-08-04"
+    },
+    {
         "name": "Christophermeiklejohn",
         "description": "The Test Suite Was the Incident",
         "category": "Other",
@@ -92363,6 +92443,16 @@
         "discovered_at": "2026-05-15"
     },
     {
+        "name": "Ctaio",
+        "description": "Show HN: The best-paid AI/tech job anyone advertises pays $824k, not $100M",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ctaio.dev/en/jobs/",
+        "discovered_at": "2026-08-04"
+    },
+    {
         "name": "Curl",
         "description": "Show HN: Curl.md – URL to Markdown for Agents",
         "category": "Other",
@@ -92631,6 +92721,16 @@
         "cors": "unknown",
         "url": "https://www.desktalk.ai/",
         "discovered_at": "2026-04-08"
+    },
+    {
+        "name": "Desktop-dashboard",
+        "description": "Show HN: Add secure widgets on your Windows Desktop or write your own",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.desktop-dashboard.com",
+        "discovered_at": "2026-08-04"
     },
     {
         "name": "Devinthakker",
@@ -93611,6 +93711,16 @@
         "cors": "unknown",
         "url": "https://flipcloc.com",
         "discovered_at": "2026-07-30"
+    },
+    {
+        "name": "Floodlight",
+        "description": "Show HN: A fast, native, open-source Spotlight search alternative",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://floodlight.vmg.dev/",
+        "discovered_at": "2026-08-04"
     },
     {
         "name": "Fluidcad",
@@ -94833,6 +94943,16 @@
         "discovered_at": "2026-04-27"
     },
     {
+        "name": "Jackcushman",
+        "description": "Show HN: Christopher Nolan's Hymn to Athena",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jackcushman.org/writing/hymn-to-athena/",
+        "discovered_at": "2026-08-04"
+    },
+    {
         "name": "Jackonomics",
         "description": "Giving Is a Public Good: Slightly Contra Scott Alexander on Foreign Aid",
         "category": "Other",
@@ -95321,6 +95441,16 @@
         "cors": "unknown",
         "url": "https://www.latentdiaries.com/",
         "discovered_at": "2026-04-08"
+    },
+    {
+        "name": "Latex",
+        "description": "Show HN: Latex.to – LaTeX to PDF via Full Tex Live in the Browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://latex.to/",
+        "discovered_at": "2026-08-04"
     },
     {
         "name": "Layoutmaster",
@@ -96641,6 +96771,16 @@
         "cors": "unknown",
         "url": "https://nyaaywatch.in",
         "discovered_at": "2026-05-08"
+    },
+    {
+        "name": "Nymag",
+        "description": "The Mysterious Case of the JetBlue Flight That Went into Free Fall",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nymag.com/intelligencer/article/mysterious-case-jetblue-1230-airbus-free-fall.html",
+        "discovered_at": "2026-08-04"
     },
     {
         "name": "O-u",
@@ -106885,6 +107025,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Onethingatatime",
+        "description": "Show HN: One Thing at a Time – a todo app that hides your list",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://onethingatatime.app/",
+        "discovered_at": "2026-08-04"
+    },
+    {
         "name": "Onlyfans Item Api",
         "description": "Scrape all the public information from the OnlyFans api for an OnlyFans profile.",
         "category": "Productivity",
@@ -109513,6 +109663,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Velokey",
+        "description": "Show HN: Velokey – One Task API for Kling, Veo, Seedance, and Sora",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://velokey.ai",
+        "discovered_at": "2026-08-04"
+    },
+    {
         "name": "Video Downloader",
         "description": "This Video downloader pulls videos from all sites irrespective of the steam url , proxy ban or any block.",
         "category": "Productivity",
@@ -111326,6 +111486,16 @@
         "discovered_at": "2026-03-07"
     },
     {
+        "name": "Ghscan",
+        "description": "Show HN: GHScan – Paste a GitHub URL, get a free security report in the browser",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ghscan.vercel.app",
+        "discovered_at": "2026-08-04"
+    },
+    {
         "name": "Giovannigatti",
         "description": "Show HN: I benchmarked LLM agents on fixing real-world security vulnerabilities",
         "category": "Security",
@@ -111373,6 +111543,16 @@
         "cors": "unknown",
         "url": "https://www.heise.de/en/news/EU-age-verification-app-Worry-free-package-with-security-vulnerabilities-11262921.html",
         "discovered_at": "2026-04-20"
+    },
+    {
+        "name": "Hostblock",
+        "description": "Show HN: HostBlock – A menu bar app that blocks ads and malware (for my grandma)",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hostblock.app",
+        "discovered_at": "2026-08-04"
     },
     {
         "name": "Ipinsights",
@@ -113970,6 +114150,16 @@
         "discovered_at": "2026-03-08"
     },
     {
+        "name": "Tbook",
+        "description": "Show HN: Open-source book format for instant translations and Android app",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tbook.dev/",
+        "discovered_at": "2026-08-04"
+    },
+    {
         "name": "TCGdex API",
         "description": "A Multilanguage Pokémon TCG Database with Cards Pictures and most of the informations contained on the cards.\nYou can find out more about TCGdex at [https://www.tcgdex.net](https://www.tcgdex.net) or",
         "category": "Text & Language",
@@ -115706,6 +115896,16 @@
         "cors": "unknown",
         "url": "https://www.forecast-planner.com/",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Futuresearch",
+        "description": "Show HN: FutureSearch, AI forecasting you can verify",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://futuresearch.ai/",
+        "discovered_at": "2026-08-04"
     },
     {
         "name": "Harper",
