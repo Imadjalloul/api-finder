@@ -1637,6 +1637,16 @@
         "discovered_at": "2026-03-25"
     },
     {
+        "name": "Draftlight",
+        "description": "Show HN: Draftlight – AI that makes you a better writer (leaves writing to you)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://draftlight.xyz/",
+        "discovered_at": "2026-08-05"
+    },
+    {
         "name": "Duck",
         "description": "Free and private AI chat from DuckDuckGo",
         "category": "AI & Machine Learning",
@@ -1705,6 +1715,16 @@
         "cors": "unknown",
         "url": "https://www.economist.com/international/2026/07/14/when-chinas-open-source-ai-is-a-trap",
         "discovered_at": "2026-07-15"
+    },
+    {
+        "name": "Edotenv",
+        "description": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://edotenv.com/",
+        "discovered_at": "2026-08-05"
     },
     {
         "name": "Efficienist",
@@ -3111,6 +3131,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://docs.mistral.ai/"
+    },
+    {
+        "name": "Mixar",
+        "description": "Show HN: Blender for AI Agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.mixar.app",
+        "discovered_at": "2026-08-05"
     },
     {
         "name": "Mljar",
@@ -5157,6 +5187,16 @@
         "cors": "unknown",
         "url": "https://underpricedai.com",
         "discovered_at": "2026-03-15"
+    },
+    {
+        "name": "Union",
+        "description": "Flyte 2 is GA: durable distributed AI workflows using regular Python",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.union.ai/blog-post/flyte-2-is-generally-available-the-durable-open-source-ai-runtime",
+        "discovered_at": "2026-08-05"
     },
     {
         "name": "Usecomposer",
@@ -50776,6 +50816,16 @@
         "discovered_at": "2026-03-29"
     },
     {
+        "name": "Codewithbullet",
+        "description": "Show HN: A faster coding agent than Codex and Claude Code",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.codewithbullet.com",
+        "discovered_at": "2026-08-05"
+    },
+    {
         "name": "Codex-theme-gallery",
         "description": "Show HN: Public-safe skin packs for the Codex desktop app",
         "category": "Development",
@@ -58336,6 +58386,16 @@
         "cors": "unknown",
         "url": "https://apify.com/harvest/mega-millions-lottery-past-winning-numbers",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Memcode",
+        "description": "Show HN: Memcode launches a new terminal coding agent",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.memcode.ai/",
+        "discovered_at": "2026-08-05"
     },
     {
         "name": "Mercado Libre Product Details Scraper",
@@ -82196,6 +82256,16 @@
         "discovered_at": "2026-07-12"
     },
     {
+        "name": "Playdowntime",
+        "description": "Show HN: My journey into game development with AI",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://playdowntime.com/",
+        "discovered_at": "2026-08-05"
+    },
+    {
         "name": "Playtiao",
         "description": "Show HN: Tiao, A two-player turn-based board game",
         "category": "Entertainment",
@@ -85768,6 +85838,16 @@
         "cors": "unknown",
         "url": "https://reticleops.com/",
         "discovered_at": "2026-06-17"
+    },
+    {
+        "name": "Routerfuel",
+        "description": "Show HN: AI gateway open source integrated with cursor and open router",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.routerfuel.com/",
+        "discovered_at": "2026-08-05"
     },
     {
         "name": "Searchrouter-demo",
@@ -93573,6 +93653,16 @@
         "discovered_at": "2026-07-08"
     },
     {
+        "name": "Fernway",
+        "description": "Show HN: LLC Compliance Monitor",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fernway.io",
+        "discovered_at": "2026-08-05"
+    },
+    {
         "name": "Figranium",
         "description": "Show HN: Figranium – Open-source visual Playwright control plane (Docker, API)",
         "category": "Other",
@@ -93621,6 +93711,16 @@
         "cors": "unknown",
         "url": "https://finqual.app/",
         "discovered_at": "2026-03-04"
+    },
+    {
+        "name": "Firecrawl",
+        "description": "Pdf-inspector: The rust-powered open-source PDF parser for AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://firecrawl.github.io/pdf-inspector/",
+        "discovered_at": "2026-08-05"
     },
     {
         "name": "Fireworks",
@@ -94423,6 +94523,16 @@
         "discovered_at": "2026-05-28"
     },
     {
+        "name": "Heronsperch",
+        "description": "Open Source Is Hobbling Itself over Generative AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://heronsperch.blogspot.com/2026/08/open-source-is-hobbling-itself-over.html",
+        "discovered_at": "2026-08-05"
+    },
+    {
         "name": "hetras Hotel API Version 0",
         "description": "hetras Hotel API Version 0 API",
         "category": "Other",
@@ -94631,6 +94741,16 @@
         "cors": "unknown",
         "url": "https://www.hypercubic.ai/hopper",
         "discovered_at": "2026-05-13"
+    },
+    {
+        "name": "Hyperlaneide",
+        "description": "Show HN: Hyperlane – A IDE and ADE merging agent worktrees with native tooling",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hyperlaneide.com",
+        "discovered_at": "2026-08-05"
     },
     {
         "name": "Hyperpaste",
@@ -95061,6 +95181,16 @@
         "cors": "unknown",
         "url": "https://jornal.ink",
         "discovered_at": "2026-06-03"
+    },
+    {
+        "name": "Jotchi",
+        "description": "Show HN: Jotchi, a smart scratchpad for the busy brain",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jotchi.com/app",
+        "discovered_at": "2026-08-05"
     },
     {
         "name": "Jottit",
@@ -96191,6 +96321,16 @@
         "cors": "unknown",
         "url": "https://www.middleeasteye.net/opinion/west-bubble-illusion-israel-about-itself-finally-being-burst",
         "discovered_at": "2026-05-06"
+    },
+    {
+        "name": "Mightydash",
+        "description": "Show HN: MightyDash – A Free, Privacy-Focused iPhone Dashcam App",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.mightydash.app/",
+        "discovered_at": "2026-08-05"
     },
     {
         "name": "Mikaweiss6",
@@ -98173,6 +98313,16 @@
         "discovered_at": "2026-06-11"
     },
     {
+        "name": "Redirectiq",
+        "description": "Show HN: Free SEO checker that finds redirect chains and www issues",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://redirectiq.com/tools/seo-checker",
+        "discovered_at": "2026-08-05"
+    },
+    {
         "name": "Refearnapp",
         "description": "Show HN: RefearnApp – Open-source alternative to Rewardful/Tolt",
         "category": "Other",
@@ -98713,6 +98863,16 @@
         "discovered_at": "2026-07-16"
     },
     {
+        "name": "Seam",
+        "description": "Show HN: Find what users want by analyzing app reviews",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://seam.obverselabs.com/",
+        "discovered_at": "2026-08-05"
+    },
+    {
         "name": "Searchcue",
         "description": "Show HN: SearchCue",
         "category": "Other",
@@ -98973,6 +99133,16 @@
         "discovered_at": "2026-07-21"
     },
     {
+        "name": "Sierra",
+        "description": "Rent the Intelligence, Own the Relationship",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sierra.ai/blog/context-engine",
+        "discovered_at": "2026-08-05"
+    },
+    {
         "name": "Sift",
         "description": "Show HN: Sift – 10-12 HN discussions daily, ranked by practitioner depth",
         "category": "Other",
@@ -99041,6 +99211,16 @@
         "cors": "unknown",
         "url": "https://www.sinkhole.app",
         "discovered_at": "2026-03-10"
+    },
+    {
+        "name": "Sixb",
+        "description": "Show HN: Sixb – the operating layer for enterprise AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sixb.ai/news/sixb-framework-launch",
+        "discovered_at": "2026-08-05"
     },
     {
         "name": "Skillswitch",
@@ -99851,6 +100031,16 @@
         "cors": "unknown",
         "url": "https://theapplied.substack.com/p/from-product-led-to-agent-led-growth",
         "discovered_at": "2026-06-27"
+    },
+    {
+        "name": "Thecompany",
+        "description": "Show HN: MoneyCo – A coding agent built for accounting",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thecompany.money/",
+        "discovered_at": "2026-08-05"
     },
     {
         "name": "Thedebrief",
@@ -111643,6 +111833,16 @@
         "cors": "unknown",
         "url": "https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Paraxial",
+        "description": "Security Vendor's AI Best Practices Labels Critical Elixir RCE Safe",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://paraxial.io/blog/ai-spam",
+        "discovered_at": "2026-08-05"
     },
     {
         "name": "Pcguide",
