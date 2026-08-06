@@ -330,6 +330,16 @@
         "discovered_at": "2026-04-18"
     },
     {
+        "name": "Aidatacenterimpact",
+        "description": "Show HN AI Data Center Alert",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aidatacenterimpact.com/",
+        "discovered_at": "2026-08-06"
+    },
+    {
         "name": "Aiforactualwork",
         "description": "AI for Actual Work – a free, self-paced AI training program by Remote.com",
         "category": "AI & Machine Learning",
@@ -790,6 +800,16 @@
         "discovered_at": "2026-06-24"
     },
     {
+        "name": "Auditbadger",
+        "description": "Show HN: AuditBadger – SOC 2 and ISO 27001 – AI drafts, you approve",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://auditbadger.com/",
+        "discovered_at": "2026-08-06"
+    },
+    {
         "name": "Autoicdapi",
         "description": "Show HN: AutoICD API – AI clinical coding platform for ICD-10 and SNOMED",
         "category": "AI & Machine Learning",
@@ -960,6 +980,16 @@
         "discovered_at": "2026-07-16"
     },
     {
+        "name": "Blog",
+        "description": "AI review missed Coldcard flaw",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.coinkite.com/adding-to-public-record/",
+        "discovered_at": "2026-08-06"
+    },
+    {
         "name": "Boesch",
         "description": "Show HN: Letting an LLM write robot programs",
         "category": "AI & Machine Learning",
@@ -968,6 +998,16 @@
         "cors": "unknown",
         "url": "https://boesch.dev/posts/llm-trajectory/",
         "discovered_at": "2026-04-08"
+    },
+    {
+        "name": "Books",
+        "description": "Free book (software development in the AI era)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://books.kodel.com.br/pt-br/livros/software-development-ia-era/",
+        "discovered_at": "2026-08-06"
     },
     {
         "name": "Borg",
@@ -3992,6 +4032,16 @@
         "discovered_at": "2026-03-23"
     },
     {
+        "name": "Quantsignals",
+        "description": "Show HN: An AI agent that trades inside limits you set, starting on paper",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://quantsignals.xyz/fst",
+        "discovered_at": "2026-08-06"
+    },
+    {
         "name": "Queryveil",
         "description": "Show HN: QueryVeil – An AI data analyst that investigates your data",
         "category": "AI & Machine Learning",
@@ -4638,6 +4688,16 @@
         "cors": "unknown",
         "url": "https://stagent.io/book/",
         "discovered_at": "2026-04-06"
+    },
+    {
+        "name": "Starrykit",
+        "description": "Show HN: AI Presentaions, Posters, and All Visual Designs",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://starrykit.com",
+        "discovered_at": "2026-08-06"
     },
     {
         "name": "Stokegate",
@@ -16153,6 +16213,16 @@
         "discovered_at": "2026-04-01"
     },
     {
+        "name": "Mindcloud",
+        "description": "You don't need an MCP server. A Markdown file is enough",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mindcloud.co/docs/universal/rest/home/latest/introduction/build-with-ai",
+        "discovered_at": "2026-08-06"
+    },
+    {
         "name": "Nekoni",
         "description": "Show HN: Nekoni – local AI agent accessible from your phone, no cloud",
         "category": "Cloud & Storage",
@@ -16460,6 +16530,16 @@
         "cors": "unknown",
         "url": "https://zerogate.cloud",
         "discovered_at": "2026-07-08"
+    },
+    {
+        "name": "Zipbox",
+        "description": "Show HN: Cloud based firecracker VMs for agents, with email, domains and wallets",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://zipbox.ai/setup/claude",
+        "discovered_at": "2026-08-06"
     },
     {
         "name": "Avaza API Documentation",
@@ -80791,6 +80871,16 @@
         "discovered_at": "2026-05-20"
     },
     {
+        "name": "Learnos",
+        "description": "Show HN: LearnOS – Open-source, AI-native Coursera you run locally",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://learnos.opara-ai.com/",
+        "discovered_at": "2026-08-06"
+    },
+    {
         "name": "Macdailynews",
         "description": "Kansas City Public Schools goes all-in on Apple with 30k devices",
         "category": "Education",
@@ -85514,6 +85604,16 @@
         "discovered_at": "2026-06-25"
     },
     {
+        "name": "Cityedit",
+        "description": "Show HN: CityEdit – Open-source map for voting on NYC street changes",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cityedit.org/m/nyc-proposals",
+        "discovered_at": "2026-08-06"
+    },
+    {
         "name": "Cyrinx",
         "description": "Show HN: Cyrinx (36kbps Acoustic Transport)",
         "category": "Maps & Transport",
@@ -86859,6 +86959,16 @@
         "discovered_at": "2026-07-24"
     },
     {
+        "name": "Bitvibelabs",
+        "description": "Show HN: TickerNotch: Live tickers and news in the MacBook notch",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bitvibelabs.com/tickernotch/",
+        "discovered_at": "2026-08-06"
+    },
+    {
         "name": "Blog",
         "description": "Show HN: API checks show three suppression strategies on X",
         "category": "News",
@@ -87352,6 +87462,16 @@
         "cors": "unknown",
         "url": "https://snewpapers.com/",
         "discovered_at": "2026-05-03"
+    },
+    {
+        "name": "Sprinklz",
+        "description": "Show HN: Hacker News with reduced priority for AI driven content",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sprinklz.io/public/nncrnx74ykir",
+        "discovered_at": "2026-08-06"
     },
     {
         "name": "Squeezes",
@@ -94343,6 +94463,16 @@
         "discovered_at": "2026-06-15"
     },
     {
+        "name": "Glaxom",
+        "description": "Show HN: I built an economy designed to crash",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://glaxom.netlify.app",
+        "discovered_at": "2026-08-06"
+    },
+    {
         "name": "Glucera",
         "description": "Show HN: Glucera Local-first iPhone glucose app, seeking fingerstick beta tester",
         "category": "Other",
@@ -96163,6 +96293,16 @@
         "discovered_at": "2026-05-04"
     },
     {
+        "name": "Maximecb",
+        "description": "Show HN: I built one of the most advanced web-based drum/beat sequencers",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://maximecb.github.io/groovie/#a_96_bar_berlin_techno_arrangement/FdAnck8QxEjUoejHv1EvwfEK6CeBmwopEcII9JpEroPEWkq1BNYCSCCGuJfjJXg-IlIsCRaIxHSJy3kypqJbIWInFCJnoAKRACYV6k66nWHiLAkKcUOiNHoJYx8spdj6AiiApQ4MYQYiORhGkyyR7YlJspwJJsWUzW0gmxi1h5BQCgiABSWcUtGvoirKXQx6x8gkTVroJyQDVpJIPpIGD0lvoyQHMeHgCKIFK8SfJ5dlnnng",
+        "discovered_at": "2026-08-06"
+    },
+    {
         "name": "Maximumroulette",
         "description": "Show HN: Matrix Engine WGPU – focus on mobile]",
         "category": "Other",
@@ -97003,6 +97143,16 @@
         "discovered_at": "2026-05-11"
     },
     {
+        "name": "Ocw",
+        "description": "Synthetic Aperture Radar (SAR) Imaging Using the MIT Laptop Based Radar (2011)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ocw.mit.edu/courses/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/resources/mitres_ll_003iap11_lec04/",
+        "discovered_at": "2026-08-06"
+    },
+    {
         "name": "Odocs",
         "description": "Show HN: Odocs.co – multiplayer draw.io and docs for agent and human collab",
         "category": "Other",
@@ -97141,6 +97291,16 @@
         "cors": "unknown",
         "url": "https://openloom.live/",
         "discovered_at": "2026-03-08"
+    },
+    {
+        "name": "Openmouse",
+        "description": "OpenMouse: Open-source, browser-based app for managing computer mice",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://openmouse.app/",
+        "discovered_at": "2026-08-06"
     },
     {
         "name": "Openotp",
@@ -97781,6 +97941,16 @@
         "cors": "unknown",
         "url": "https://postgres.saneengineer.com",
         "discovered_at": "2026-07-08"
+    },
+    {
+        "name": "Postsfromtemplates",
+        "description": "Show HN: Create tweet-style and text-first social posts",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.postsfromtemplates.com/",
+        "discovered_at": "2026-08-06"
     },
     {
         "name": "Predictionhunt",
@@ -99203,6 +99373,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Simpluna",
+        "description": "Show HN: Six years of running a period tracker app with no subscription, no ads",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://simpluna.app/en",
+        "discovered_at": "2026-08-06"
+    },
+    {
         "name": "Sinkhole",
         "description": "Show HN: Sinkhole – 30 free browser-based tools, no signup, MIT licensed",
         "category": "Other",
@@ -99261,6 +99441,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/vtex/openapi-schemas/master/VTEX - SKU Bindings API.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Slickfast",
+        "description": "Show HN: SlickFast Deterministic Chart/Dash Renderer, No Browser(JSON → SVG/PNG)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://slickfast.com/",
+        "discovered_at": "2026-08-06"
     },
     {
         "name": "Slicksearchhq",
@@ -100901,6 +101091,16 @@
         "cors": "unknown",
         "url": "https://api.swaggerhub.com/apis/Wealth-Reader/api/1.0.0",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Webklip",
+        "description": "Show HN: Webklip – ephemeral online clipboard with live sync and E2E encryption",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://webklip.com/",
+        "discovered_at": "2026-08-06"
     },
     {
         "name": "Weco",
@@ -109415,6 +109615,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Today",
+        "description": "Show HN: An app to dump notes during the day and plan todos without distraction",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://today.spqrk.net/",
+        "discovered_at": "2026-08-06"
+    },
+    {
         "name": "Todoist",
         "description": "Task management and to-do list application",
         "category": "Productivity",
@@ -112269,6 +112479,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://discord.com/developers/docs/intro"
+    },
+    {
+        "name": "Earde",
+        "description": "Show HN: Earde – an indexed Discord alternative just for open-source projects",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://earde.com/feed",
+        "discovered_at": "2026-08-06"
     },
     {
         "name": "Flightsmoothie-dot",
@@ -115243,6 +115463,16 @@
         "url": "https://www.uuidtools.com/api"
     },
     {
+        "name": "Vest",
+        "description": "Show HN: Vest.fyi – equity calculator shows range of outcomes and benchmarks",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vest.fyi/",
+        "discovered_at": "2026-08-06"
+    },
+    {
         "name": "Victorpoughon",
         "description": "Show HN: I made a calculator that works over disjoint sets of intervals",
         "category": "Utilities",
@@ -115701,6 +115931,16 @@
         "discovered_at": "2026-06-01"
     },
     {
+        "name": "Myhomecat",
+        "description": "Show HN: HomeCat – Turn a phone video into permit-ready building plans",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://myhomecat.com",
+        "discovered_at": "2026-08-06"
+    },
+    {
         "name": "Nosuggest",
         "description": "Show HN: NoSuggest – Watch YouTube without the recommendation algorithm",
         "category": "Video & Media",
@@ -115977,6 +116217,16 @@
         "cors": "unknown",
         "url": "https://www.vynix.app",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Wan3pro",
+        "description": "Wan 3.0 Best AI Video Generator",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wan3pro.com",
+        "discovered_at": "2026-08-06"
     },
     {
         "name": "Webaudio",
