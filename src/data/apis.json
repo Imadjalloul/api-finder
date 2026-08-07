@@ -1319,6 +1319,16 @@
         "discovered_at": "2026-06-29"
     },
     {
+        "name": "Cochat",
+        "description": "Show HN: AI Assistant that verifies its own sources",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cochat.ai/",
+        "discovered_at": "2026-08-07"
+    },
+    {
         "name": "Code",
         "description": "Show HN: No ads and noise from any page, get a clean AI reformat in one click",
         "category": "AI & Machine Learning",
@@ -1336,6 +1346,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://docs.cohere.com/"
+    },
+    {
+        "name": "Computerweekly",
+        "description": "Flood warning: How citizens' AI agents will swamp public services",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.computerweekly.com/opinion/Flood-warning-How-citizens-AI-agents-will-swamp-public-services",
+        "discovered_at": "2026-08-07"
     },
     {
         "name": "Con-dog",
@@ -1885,6 +1905,16 @@
         "cors": "unknown",
         "url": "https://flint.brantandco.com",
         "discovered_at": "2026-03-19"
+    },
+    {
+        "name": "Flyskye",
+        "description": "Show HN: Skye, AI Travel Companion",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.flyskye.ai/skye",
+        "discovered_at": "2026-08-07"
     },
     {
         "name": "Foglamp",
@@ -3102,6 +3132,16 @@
         "cors": "unknown",
         "url": "https://mementovault.meltinbitfarm.cloud",
         "discovered_at": "2026-05-15"
+    },
+    {
+        "name": "Memoars",
+        "description": "Show HN: Memoars - encrypted memory layer that your AI assistants share",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://memoars.com/",
+        "discovered_at": "2026-08-07"
     },
     {
         "name": "Mentisphere",
@@ -5269,6 +5309,16 @@
         "discovered_at": "2026-04-03"
     },
     {
+        "name": "Useknowable",
+        "description": "Show HN: AI Tutoring with Visual Grounding",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://useknowable.ai/",
+        "discovered_at": "2026-08-07"
+    },
+    {
         "name": "Usereyn",
         "description": "Show HN: Reyn – local-first AI that journals and recalls your work",
         "category": "AI & Machine Learning",
@@ -5277,6 +5327,16 @@
         "cors": "unknown",
         "url": "https://www.usereyn.com/",
         "discovered_at": "2026-06-18"
+    },
+    {
+        "name": "Usesaint",
+        "description": "New Best Agetic AI Model Named Saint",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.usesaint.com/",
+        "discovered_at": "2026-08-07"
     },
     {
         "name": "Vakr",
@@ -8558,6 +8618,16 @@
         "discovered_at": "2026-04-05"
     },
     {
+        "name": "Alexanderwanyoike",
+        "description": "Show HN: Jolt a decentralised content syndication network",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://alexanderwanyoike.github.io/jolt/",
+        "discovered_at": "2026-08-07"
+    },
+    {
         "name": "Anthropic",
         "description": "Anthropic donates Petri open-source alignment tool",
         "category": "Animals",
@@ -8913,6 +8983,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://randomfox.ca/"
+    },
+    {
+        "name": "Ratcn",
+        "description": "Ratcn preview: Build beautiful TUI applications in Rust",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ratcn.kristoferlund.se",
+        "discovered_at": "2026-08-07"
     },
     {
         "name": "Read-the-water",
@@ -15887,6 +15967,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Atlascloud",
+        "description": "Show HN: Seedance 2.5 video API (30s single-take, 50 refs, 4K) on Atlas Cloud",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.atlascloud.ai/models/seedance-2.5",
+        "discovered_at": "2026-08-07"
+    },
+    {
         "name": "Boxes",
         "description": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
         "category": "Cloud & Storage",
@@ -16181,6 +16271,16 @@
         "cors": "unknown",
         "url": "https://konxios.com",
         "discovered_at": "2026-06-20"
+    },
+    {
+        "name": "Krowoc",
+        "description": "Open source Cloud AI agents",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.krowoc.com/",
+        "discovered_at": "2026-08-07"
     },
     {
         "name": "Mantledb",
@@ -51836,6 +51936,16 @@
         "discovered_at": "2026-04-15"
     },
     {
+        "name": "Developer",
+        "description": "Show HN: Node.JS in the Browser – An Open-source Alternative to WebContainers",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://developer.puter.com/labs/node/",
+        "discovered_at": "2026-08-07"
+    },
+    {
         "name": "Developer Intelligence Pro",
         "description": "Advanced developer ecosystem analysis. Tracks technology trends and community insights. Essential for tech companies and developers.",
         "category": "Development",
@@ -62644,6 +62754,16 @@
         "cors": "unknown",
         "url": "https://apify.com/cheerful_jive/sonartext-speech-to-text",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Sonatalabs",
+        "description": "Digital twins of your business to test your agents",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sonatalabs.ai/before-you-deploy/",
+        "discovered_at": "2026-08-07"
     },
     {
         "name": "Sophie Chiche Blog Scraper",
@@ -87335,6 +87455,16 @@
         "discovered_at": "2026-07-22"
     },
     {
+        "name": "News",
+        "description": "How Americans view capitalism, socialism and free enterprise",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx",
+        "discovered_at": "2026-08-07"
+    },
+    {
         "name": "NewsAPI",
         "description": "Search worldwide news articles from 80,000+ sources",
         "category": "News",
@@ -91193,6 +91323,16 @@
         "discovered_at": "2026-06-30"
     },
     {
+        "name": "Artificialanalysis",
+        "description": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+        "discovered_at": "2026-08-07"
+    },
+    {
         "name": "Aspire",
         "description": "MS Aspire – Open-source stack, streamlined",
         "category": "Other",
@@ -92301,6 +92441,16 @@
         "cors": "unknown",
         "url": "https://clifton-topaz.vercel.app/",
         "discovered_at": "2026-03-22"
+    },
+    {
+        "name": "Clipboardsync",
+        "description": "Show HN: Clipboard Sync – Share a clipboard, mouse and keyboard on your LAN",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://clipboardsync.fuzhuo.me",
+        "discovered_at": "2026-08-07"
     },
     {
         "name": "Cliptop",
@@ -95713,6 +95863,16 @@
         "discovered_at": "2026-08-04"
     },
     {
+        "name": "Laugh",
+        "description": "Show HN: Humor Arena – Which frontier model is funniest?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://laugh.so/benchmark/",
+        "discovered_at": "2026-08-07"
+    },
+    {
         "name": "Layoutmaster",
         "description": "Show HN: Layoutmaster cures DOM reflow with six simple API",
         "category": "Other",
@@ -95791,6 +95951,16 @@
         "cors": "unknown",
         "url": "https://limenedge.com/docs/getting-started",
         "discovered_at": "2026-06-21"
+    },
+    {
+        "name": "Line9",
+        "description": "Show HN: Line9 - a Mermaid rendering engine with its own layout",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://line9.ai/diagram",
+        "discovered_at": "2026-08-07"
     },
     {
         "name": "Linear",
@@ -96881,6 +97051,16 @@
         "cors": "unknown",
         "url": "https://necessarycuts.com/play",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Nellailabs",
+        "description": "Show HN: Validate your idea, know what to charge, and how to get first users",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nellailabs.ai",
+        "discovered_at": "2026-08-07"
     },
     {
         "name": "Nestforge",
@@ -98101,6 +98281,16 @@
         "cors": "unknown",
         "url": "https://prove-yourself.sebmellen.com/",
         "discovered_at": "2026-07-29"
+    },
+    {
+        "name": "Provenmetal",
+        "description": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://provenmetal.com",
+        "discovered_at": "2026-08-07"
     },
     {
         "name": "Proving",
@@ -100783,6 +100973,16 @@
         "discovered_at": "2026-04-14"
     },
     {
+        "name": "Usecharming",
+        "description": "Show HN: Charming – Build and share apps like Google Docs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://usecharming.com/",
+        "discovered_at": "2026-08-07"
+    },
+    {
         "name": "Usefeyn",
         "description": "Show HN: Pulpie – Pareto-Optimal Models for Cleaning the Web",
         "category": "Other",
@@ -101950,6 +102150,16 @@
         "cors": "unknown",
         "url": "https://narcis.ai/tools",
         "discovered_at": "2026-08-01"
+    },
+    {
+        "name": "Neonglow",
+        "description": "Show HN: Stop Animated Images from Autoplaying",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://neonglow.studio/gif-control/",
+        "discovered_at": "2026-08-07"
     },
     {
         "name": "Nobolee88",
@@ -112511,6 +112721,16 @@
         "discovered_at": "2026-04-26"
     },
     {
+        "name": "Fosbury",
+        "description": "Show HN: I deleted DMs from our work chat",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fosbury.ai/",
+        "discovered_at": "2026-08-07"
+    },
+    {
         "name": "Gitinspect",
         "description": "Show HN: Replace \"hub\" with \"inspect\" on any GitHub url and chat with any repo",
         "category": "Social",
@@ -115861,6 +116081,16 @@
         "discovered_at": "2026-07-23"
     },
     {
+        "name": "Lawfaremedia",
+        "description": "Immigration as a Test Case for Executive AI Governance",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.lawfaremedia.org/article/immigration-as-a-test-case-for-executive-ai-governance",
+        "discovered_at": "2026-08-07"
+    },
+    {
         "name": "Legato",
         "description": "Show HN: Legato – a Rust audio graph framework with a minimal DSL",
         "category": "Video & Media",
@@ -115981,6 +116211,16 @@
         "discovered_at": "2026-04-18"
     },
     {
+        "name": "Portfoliovideo",
+        "description": "Show HN: AI Video Resume and Pitch Deck Generator",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://portfoliovideo.com",
+        "discovered_at": "2026-08-07"
+    },
+    {
         "name": "Ravan",
         "description": "Show HN: Ravan – Free streaming for AI-generated instrumental music",
         "category": "Video & Media",
@@ -116041,6 +116281,16 @@
         "discovered_at": "2026-04-06"
     },
     {
+        "name": "Scrapingisnotacrime",
+        "description": "A Public-Data API for Instagram, TikTok and YouTube",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://scrapingisnotacrime.com/",
+        "discovered_at": "2026-08-07"
+    },
+    {
         "name": "Sentienttube",
         "description": "Show HN: SentientTube – The YouTube for AI Agents",
         "category": "Video & Media",
@@ -116049,6 +116299,16 @@
         "cors": "unknown",
         "url": "https://www.sentienttube.com/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Simplepixelart",
+        "description": "Show HN: Open-source pixel art editor with animation and auto-tiling tilesets",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://simplepixelart.com/editor",
+        "discovered_at": "2026-08-07"
     },
     {
         "name": "Smooth",
@@ -116376,6 +116636,16 @@
         "cors": "unknown",
         "url": "https://literadar.com",
         "discovered_at": "2026-07-23"
+    },
+    {
+        "name": "Nickleenders",
+        "description": "Show HN: Ranking weather models by how their forecasts turned out",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nickleenders.github.io/verisky-scoreboard/?city=newyork",
+        "discovered_at": "2026-08-07"
     },
     {
         "name": "Open-Meteo",
