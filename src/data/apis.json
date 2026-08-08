@@ -450,6 +450,16 @@
         "discovered_at": "2026-05-26"
     },
     {
+        "name": "Alyph",
+        "description": "Show HN: Alyph, a manual transmission for LLM context",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.alyph.ai/",
+        "discovered_at": "2026-08-08"
+    },
+    {
         "name": "Ama2",
         "description": "Show HN: AMA2, messenger built for AI agent",
         "category": "AI & Machine Learning",
@@ -588,6 +598,16 @@
         "cors": "unknown",
         "url": "https://api.cinchor.com/proof/refund",
         "discovered_at": "2026-07-24"
+    },
+    {
+        "name": "Api",
+        "description": "Show HN: AgisHub – pay-per-call tools for AI agents over x402 (USDC on Base)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://api.agishub.com/try",
+        "discovered_at": "2026-08-08"
     },
     {
         "name": "Apicula",
@@ -5299,6 +5319,16 @@
         "discovered_at": "2026-08-05"
     },
     {
+        "name": "Uptimelabs",
+        "description": "Incident Response in the Age of AI (Incident Fest)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.uptimelabs.io/articles/incident-response-ai",
+        "discovered_at": "2026-08-08"
+    },
+    {
         "name": "Usecomposer",
         "description": "Show HN: Composer – AI architect / MCP for software architecture diagrams",
         "category": "AI & Machine Learning",
@@ -8866,6 +8896,16 @@
         "discovered_at": "2026-03-13"
     },
     {
+        "name": "Naveensrinivasan",
+        "description": "Finding Hidden Internal Apps Through Public Certificate Logs",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://naveensrinivasan.com/posts/2026-08-07-finding-hidden-internal-apps-through-public-certificate-logs/",
+        "discovered_at": "2026-08-08"
+    },
+    {
         "name": "Nookipedia",
         "description": "The Nookipedia API provides endpoints for retrieving *Animal Crossing* data pulled from the [Nookipedia wiki](https://nookipedia.com/wiki/Main_Page). A couple of the key benefits of using the Nookiped",
         "category": "Animals",
@@ -10475,6 +10515,16 @@
         "cors": "unknown",
         "url": "https://staythere.ai/",
         "discovered_at": "2026-07-04"
+    },
+    {
+        "name": "Tape-music-hub",
+        "description": "Show HN: Tape Music Hub, local music library manager with a P2P phone companion",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tape-music-hub.gordo.design/",
+        "discovered_at": "2026-08-08"
     },
     {
         "name": "Teardownhq",
@@ -50497,6 +50547,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Capytoolkit",
+        "description": "Show HN: CapyToolkit – Browser-native developer and hardware diagnostic tools",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://capytoolkit.com/",
+        "discovered_at": "2026-08-08"
+    },
+    {
         "name": "Cardmarket Card Details Scraper",
         "description": "Extract comprehensive One Piece card details from Cardmarket.com including prices, seller information, and product specifications for market analysis and automated trading.",
         "category": "Development",
@@ -58628,6 +58688,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Mergeoa",
+        "description": "Show HN: Merge – AI-native code review assessments for engineering hiring",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mergeoa.com",
+        "discovered_at": "2026-08-08"
+    },
+    {
         "name": "Meta (Facebook) Ad Scrapper (Using Ad Library URL) (Premium)",
         "description": "Scrape Meta ads instantly using any brand’s Ad Library URL. Just enter the URL and number of ads you want — get structured, real-time ad data in seconds. Ideal for marketers, analysts, and creators...",
         "category": "Development",
@@ -58806,6 +58876,16 @@
         "cors": "unknown",
         "url": "https://apify.com/conduit/minor-planet-center-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Mirafold",
+        "description": "Show HN: Mirafold – Your Agent with Generative UI (Codex, Claude Code, Gemini)",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mirafold.com/",
+        "discovered_at": "2026-08-08"
     },
     {
         "name": "Mitch Cammidge Coaching Blog Scraper",
@@ -84268,6 +84348,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Houstonchronicle",
+        "description": "Texas Children's Hospital must provide free 'detransition' care under settlement",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.houstonchronicle.com/politics/texas/article/texas-childrens-detransition-clinic-22376427.php",
+        "discovered_at": "2026-08-08"
+    },
+    {
         "name": "Infermedica API",
         "description": "Empower your healthcare services with intelligent diagnostic insights of Infermedica API.",
         "category": "Government & Health",
@@ -86080,6 +86170,16 @@
         "discovered_at": "2026-06-18"
     },
     {
+        "name": "Sentino",
+        "description": "Show HN: We map free text to NEO PI-R personality facets",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sentino.org/blog/personality-api/the-science-behind-every-sentino-score/",
+        "discovered_at": "2026-08-08"
+    },
+    {
         "name": "Silentshark",
         "description": "Show HN: I made a tactical map-based WWII submarine simulator (public beta)",
         "category": "Maps & Transport",
@@ -86108,6 +86208,16 @@
         "cors": "unknown",
         "url": "https://stashbase.ai/build-map/",
         "discovered_at": "2026-05-29"
+    },
+    {
+        "name": "Supakit",
+        "description": "Show HN: Make your own unique maps for collections, trips etc.",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://supakit.app/apps/mapiq",
+        "discovered_at": "2026-08-08"
     },
     {
         "name": "Tech",
@@ -87047,6 +87157,16 @@
         "cors": "unknown",
         "url": "http://spinbot.net/spinbot_api_swagger.yaml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Asiaviewnews",
+        "description": "Free Jimmy Lai",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://asiaviewnews.com/gigabots/threads?p=120068",
+        "discovered_at": "2026-08-08"
     },
     {
         "name": "Bais",
@@ -90723,6 +90843,26 @@
         "discovered_at": "2026-07-30"
     },
     {
+        "name": "Adcreator-ai",
+        "description": "Show HN: Free ad-headline generator that labels the persuasion technique used",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://adcreator-ai.com/free/headline-generator",
+        "discovered_at": "2026-08-08"
+    },
+    {
+        "name": "Ade-app",
+        "description": "Show HN: ADE syncs all your coding agents between web, mobile, and CLI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.ade-app.dev",
+        "discovered_at": "2026-08-08"
+    },
+    {
         "name": "Ae2",
         "description": "Rust – What .boxed() costs you (and a tiny crate to avoid it)",
         "category": "Other",
@@ -90831,6 +90971,16 @@
         "cors": "unknown",
         "url": "https://agentswarms.fyi/",
         "discovered_at": "2026-04-27"
+    },
+    {
+        "name": "Agenttunnels",
+        "description": "Show HN: Agent Tunnels – coding agents collaborate across companies",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agenttunnels.com/",
+        "discovered_at": "2026-08-08"
     },
     {
         "name": "Ahd",
@@ -91191,6 +91341,16 @@
         "cors": "unknown",
         "url": "https://app.arcad.studio/",
         "discovered_at": "2026-08-03"
+    },
+    {
+        "name": "App",
+        "description": "Show HN: Public Web Change Intelligence",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.monity.ai",
+        "discovered_at": "2026-08-08"
     },
     {
         "name": "Appnull",
@@ -94723,6 +94883,16 @@
         "discovered_at": "2026-04-06"
     },
     {
+        "name": "Hackaday",
+        "description": "Calculus-free PID almost in a spreadsheet",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hackaday.com/2026/08/06/calculus-free-pid-almost-in-a-spreadsheet/",
+        "discovered_at": "2026-08-08"
+    },
+    {
         "name": "Hackney",
         "description": "Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices",
         "category": "Other",
@@ -94831,6 +95001,16 @@
         "cors": "unknown",
         "url": "https://hextrap.com/products/firewall/",
         "discovered_at": "2026-06-18"
+    },
+    {
+        "name": "Hirenewtalent",
+        "description": "Show HN: Hirenewtalent.ai – Hire offshore in minutes via API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hirenewtalent.ai/",
+        "discovered_at": "2026-08-08"
     },
     {
         "name": "Hitoku",
@@ -95903,6 +96083,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Letscurio",
+        "description": "Show HN: Curio, a place for HTML files",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://letscurio.app",
+        "discovered_at": "2026-08-08"
+    },
+    {
         "name": "Lgtmeme",
         "description": "Show HN: LGTMeme – AI-generated memes for your pull requests",
         "category": "Other",
@@ -96533,6 +96723,16 @@
         "discovered_at": "2026-03-26"
     },
     {
+        "name": "Meettogather",
+        "description": "Show HN: Picks a fair meeting point for your group, whatever their commute types",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://meettogather.com/",
+        "discovered_at": "2026-08-08"
+    },
+    {
         "name": "Meilisearch v1.0",
         "description": "Meilisearch v1.0 API",
         "category": "Other",
@@ -97121,6 +97321,16 @@
         "cors": "unknown",
         "url": "https://nial.se/blog/agile-manifesto/",
         "discovered_at": "2026-03-23"
+    },
+    {
+        "name": "Nicholas-a-hall",
+        "description": "Show HN: ESP32 Bowling System technical write-up",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nicholas-a-hall.github.io/openlanelink/",
+        "discovered_at": "2026-08-08"
     },
     {
         "name": "Nightingale",
@@ -98723,6 +98933,16 @@
         "discovered_at": "2026-05-21"
     },
     {
+        "name": "Renderfy",
+        "description": "Show HN: I Built an API That Turns HTML/Tailwind/Markdown into PNG or PDF",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://renderfy.io",
+        "discovered_at": "2026-08-08"
+    },
+    {
         "name": "Rep-protocol",
         "description": "Show HN: REP – build-once, run anywhere. Secure runtime config for web apps",
         "category": "Other",
@@ -99053,6 +99273,16 @@
         "discovered_at": "2026-07-06"
     },
     {
+        "name": "Salestrics",
+        "description": "Show HN: Salestrics – An open MCP server and CRM for AI-native revenue teams",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.salestrics.com/",
+        "discovered_at": "2026-08-08"
+    },
+    {
         "name": "Salt-lang",
         "description": "Show HN: Write and Run Salt v0.9.2 in the Browser",
         "category": "Other",
@@ -99221,6 +99451,16 @@
         "cors": "unknown",
         "url": "https://screenshotapis.org",
         "discovered_at": "2026-07-16"
+    },
+    {
+        "name": "Sdsentry",
+        "description": "Show HN: Free 2-minute OSHA HazCom self-audit, no signup",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sdsentry.0xpi.com/hazcom-self-audit.html",
+        "discovered_at": "2026-08-08"
     },
     {
         "name": "Seam",
@@ -114514,6 +114754,16 @@
         "discovered_at": "2026-08-03"
     },
     {
+        "name": "Fabscene",
+        "description": "Publishing Schematics Before \"Open Source\" Was a Word",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
+        "discovered_at": "2026-08-08"
+    },
+    {
         "name": "Forkle",
         "description": "Show HN: Updated – A dual crossword puzzle where two crosswords share one grid",
         "category": "Text & Language",
@@ -114709,6 +114959,16 @@
         "cors": "unknown",
         "url": "https://motplot.app/",
         "discovered_at": "2026-06-14"
+    },
+    {
+        "name": "Nsmat",
+        "description": "Show HN: Lefts – a domain specific language for building creative ML models",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nsmat.github.io/lefts/",
+        "discovered_at": "2026-08-08"
     },
     {
         "name": "Purgomalum",
@@ -116119,6 +116379,16 @@
         "cors": "unknown",
         "url": "https://ma.ttias.be/transcribing-syscast-with-local-ai/",
         "discovered_at": "2026-06-15"
+    },
+    {
+        "name": "Martini",
+        "description": "Show HN: FLUX.3 Video 1k generation test (180 mins of footage)",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.martini.film/p/35b02ee5-2488-4dc6-a9d9-c403211cfede/flux-3-15ryn2n",
+        "discovered_at": "2026-08-08"
     },
     {
         "name": "Masterselects",
