@@ -3762,6 +3762,16 @@
         "discovered_at": "2026-03-21"
     },
     {
+        "name": "Paper-trader",
+        "description": "Show HN: A Free Paper Trading Platform with AI Coaching for Global Markets",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://paper-trader.org",
+        "discovered_at": "2026-08-09"
+    },
+    {
         "name": "Passcontrol",
         "description": "Show HN: PassControl – so your AI agents never hold your real API keys",
         "category": "AI & Machine Learning",
@@ -9605,6 +9615,16 @@
         "cors": "unknown",
         "url": "https://ai-meter.app",
         "discovered_at": "2026-07-26"
+    },
+    {
+        "name": "Ainexusdaily",
+        "description": "DeepSeek V4-Flash released: 284B params, 1M-token context, free to use",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ainexusdaily.vercel.app",
+        "discovered_at": "2026-08-09"
     },
     {
         "name": "Alchemy",
@@ -49385,6 +49405,16 @@
         "cors": "unknown",
         "url": "https://apify.com/scraper-mind/appsumo-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Apptizo",
+        "description": "I aggregated tracker SDKs and permissions across 300 open-source Android apps",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apptizo.com/reports/app-trackers-permissions/",
+        "discovered_at": "2026-08-09"
     },
     {
         "name": "Arabam.com Scraper &#124; Fast & Reliable &#124; $6 / 1k",
@@ -90903,6 +90933,16 @@
         "discovered_at": "2026-06-30"
     },
     {
+        "name": "Agentblog",
+        "description": "AgentBlog – open-source, AI-native SEO blog",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agentblog.dev",
+        "discovered_at": "2026-08-09"
+    },
+    {
         "name": "Agentcash",
         "description": "Show HN: AgentCash – access 280 paid APIs with no API keys",
         "category": "Other",
@@ -92001,6 +92041,16 @@
         "cors": "unknown",
         "url": "https://blog.smartthings.com/smartthings-updates/a-new-enhanced-smartthings-api-experience/",
         "discovered_at": "2026-07-22"
+    },
+    {
+        "name": "Blog",
+        "description": "Show HN: JustAPI:a Python web framework where the framework itself is Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.swadhin.cv/blog/just-api-a-python-framework/",
+        "discovered_at": "2026-08-09"
     },
     {
         "name": "Blogmaker",
@@ -93561,6 +93611,16 @@
         "cors": "unknown",
         "url": "https://dorkly.stanl.ink/download/",
         "discovered_at": "2026-03-15"
+    },
+    {
+        "name": "Dragonruby",
+        "description": "DragonRuby Jam License – Free to All",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dragonruby.itch.io/dragonruby-gtk/devlog/1620970/dragonruby-jam-license-free-to-all",
+        "discovered_at": "2026-08-09"
     },
     {
         "name": "Dreamworkhq",
@@ -98733,6 +98793,16 @@
         "discovered_at": "2026-07-14"
     },
     {
+        "name": "Rankparse",
+        "description": "Show HN: RankParse – An SEO and backlink data API built from Common Crawl",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rankparse.com",
+        "discovered_at": "2026-08-09"
+    },
+    {
         "name": "Ras",
         "description": "Places to Look for Alien Life",
         "category": "Other",
@@ -102301,6 +102371,16 @@
         "cors": "unknown",
         "url": "https://hushbee.app/engine/",
         "discovered_at": "2026-04-22"
+    },
+    {
+        "name": "Imageapiai",
+        "description": "Show HN: Image generation API using AI",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://imageapiai.com",
+        "discovered_at": "2026-08-09"
     },
     {
         "name": "Imagemetadataextractor",
