@@ -2277,6 +2277,16 @@
         "discovered_at": "2026-03-28"
     },
     {
+        "name": "Goodfault",
+        "description": "Show HN: Goodfault: insurance for AI agents and robots",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://goodfault.com",
+        "discovered_at": "2026-08-10"
+    },
+    {
         "name": "Google Gemini",
         "description": "Google's multimodal AI model with free tier",
         "category": "AI & Machine Learning",
@@ -2343,6 +2353,16 @@
         "cors": "unknown",
         "url": "https://handler.team/",
         "discovered_at": "2026-06-02"
+    },
+    {
+        "name": "Helppeer",
+        "description": "HelpPeer: A public commons for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://helppeer.ai",
+        "discovered_at": "2026-08-10"
     },
     {
         "name": "Hermes-agent",
@@ -3742,6 +3762,16 @@
         "discovered_at": "2026-07-18"
     },
     {
+        "name": "Pacslate",
+        "description": "Show HN: Pacific Slate: a self-hosted, model-agnostic multi-agent AI assistant",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pacslate.com/",
+        "discovered_at": "2026-08-10"
+    },
+    {
         "name": "Pageindex",
         "description": "A file-level tree that lets an LLM reason over a document corpus",
         "category": "AI & Machine Learning",
@@ -4399,6 +4429,16 @@
         "cors": "unknown",
         "url": "https://safeparse.com",
         "discovered_at": "2026-03-09"
+    },
+    {
+        "name": "Sagivo",
+        "description": "Quoted $1M for AI code review. Built it for free",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sagivo.com/blog/i-was-quoted-1m-to-get-ai-diff-review-tool",
+        "discovered_at": "2026-08-10"
     },
     {
         "name": "Sairc",
@@ -16037,6 +16077,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Argonix",
+        "description": "Show HN: Argonix – One AI-powered platform for SRE and cloud operations",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://argonix.io/",
+        "discovered_at": "2026-08-10"
+    },
+    {
         "name": "Atlascloud",
         "description": "Show HN: Seedance 2.5 video API (30s single-take, 50 refs, 4K) on Atlas Cloud",
         "category": "Cloud & Storage",
@@ -16901,6 +16951,16 @@
         "discovered_at": "2026-05-15"
     },
     {
+        "name": "Airy",
+        "description": "Show HN: Airy – Free, fast, and simple voice content creation",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://airy.so",
+        "discovered_at": "2026-08-10"
+    },
+    {
         "name": "Amotionsinc",
         "description": "Show HN: Amotions app in Zoom: real-time guidance for sales calls",
         "category": "Communication",
@@ -17470,6 +17530,16 @@
         "discovered_at": "2026-04-23"
     },
     {
+        "name": "Preloop",
+        "description": "Show HN: Run your GitHub Actions locally or self-hosted in isolated microvms",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://preloop.dev",
+        "discovered_at": "2026-08-10"
+    },
+    {
         "name": "Pushward",
         "description": "PushWard – Hosted APNs gateway for iOS Live Activities, with open-source bridges",
         "category": "Communication",
@@ -17755,6 +17825,16 @@
         "cors": "unknown",
         "url": "https://wawebsender.com",
         "discovered_at": "2026-07-24"
+    },
+    {
+        "name": "Whodunnitai",
+        "description": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.whodunnitai.com/",
+        "discovered_at": "2026-08-10"
     },
     {
         "name": "Willowvoice",
@@ -81071,6 +81151,16 @@
         "discovered_at": "2026-04-04"
     },
     {
+        "name": "Foundera",
+        "description": "Show HN: YC Startup School, but AI-Native",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://foundera.app/",
+        "discovered_at": "2026-08-10"
+    },
+    {
         "name": "Gupea",
         "description": "Negotiating AI in Open Source Software Communities: A Case Study of LLVM Project",
         "category": "Education",
@@ -91253,6 +91343,16 @@
         "discovered_at": "2026-03-25"
     },
     {
+        "name": "Antigma",
+        "description": "DeepSeek V4 Flash 0731: 82.7% on Terminal-Bench 2.1 with a public harness",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://antigma.ai/eval",
+        "discovered_at": "2026-08-10"
+    },
+    {
         "name": "Anything",
         "description": "Show HN: Anything API – Get APIs from Websites Without APIs",
         "category": "Other",
@@ -91771,6 +91871,16 @@
         "cors": "unknown",
         "url": "https://bench-bets.com/",
         "discovered_at": "2026-05-20"
+    },
+    {
+        "name": "Bestmillionstartups",
+        "description": "X Is Changing How Creators Get Paid in 2026",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.bestmillionstartups.com/best/x-original-content-rewards-2026",
+        "discovered_at": "2026-08-10"
     },
     {
         "name": "Bestresource-ai",
@@ -92771,6 +92881,16 @@
         "cors": "unknown",
         "url": "https://computerpoker.ai",
         "discovered_at": "2026-04-02"
+    },
+    {
+        "name": "Comuniq",
+        "description": "The Apple II Wasn't the Best Computer of 1977",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://comuniq.xyz/post?t=1526",
+        "discovered_at": "2026-08-10"
     },
     {
         "name": "Conceptz",
@@ -95103,6 +95223,16 @@
         "discovered_at": "2026-05-15"
     },
     {
+        "name": "Hnhiring",
+        "description": "Show HN: HN Hiring – Search and Filter Who Is Hiring",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hnhiring.azuanz.com",
+        "discovered_at": "2026-08-10"
+    },
+    {
         "name": "Hnshah",
         "description": "Idea Killshot: stress-test your startup idea before the market does",
         "category": "Other",
@@ -96423,6 +96553,16 @@
         "discovered_at": "2026-06-16"
     },
     {
+        "name": "Machinesatplay",
+        "description": "Show HN: Remaking Unreal engine in Rust for coding agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://machinesatplay.com",
+        "discovered_at": "2026-08-10"
+    },
+    {
         "name": "Maestral",
         "description": "Maestral open-source Dropbox client no longer actively supported",
         "category": "Other",
@@ -97461,6 +97601,16 @@
         "cors": "unknown",
         "url": "https://notifai.net/",
         "discovered_at": "2026-05-28"
+    },
+    {
+        "name": "Novc",
+        "description": "NOVC: Venture Capital Free",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://novc.fyi/",
+        "discovered_at": "2026-08-10"
     },
     {
         "name": "Nowledge-labs",
@@ -113209,6 +113359,16 @@
         "url": "https://www.reddit.com/dev/api/"
     },
     {
+        "name": "Robss2020",
+        "description": "Show HN: See how long it takes ChatGPT Sol 5.6 to send a byte across the LAN",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://robss2020.github.io/sol-vnc-elapsed/",
+        "discovered_at": "2026-08-10"
+    },
+    {
         "name": "Runcord",
         "description": "Show HN: Free open source coding models in Slack",
         "category": "Social",
@@ -114941,6 +115101,16 @@
         "cors": "unknown",
         "url": "https://languagemodelbuilder.com/",
         "discovered_at": "2026-07-23"
+    },
+    {
+        "name": "Lector",
+        "description": "Show HN: Lector, a FOSS self-hosted language reader (with a cloud option)",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lector.dev/",
+        "discovered_at": "2026-08-10"
     },
     {
         "name": "Lex-the-lab",
