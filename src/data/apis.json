@@ -150,6 +150,16 @@
         "discovered_at": "2026-03-01"
     },
     {
+        "name": "Agentmemoryleaderboard",
+        "description": "Show HN: Agent Memory Leaderboard – first public results for AI memory systems",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agentmemoryleaderboard.ai/leaderboard/academic/textual",
+        "discovered_at": "2026-08-13"
+    },
+    {
         "name": "Agentpen",
         "description": "Show HN: AgentPen – macOS dashboard for managing OpenClaw AI agents",
         "category": "AI & Machine Learning",
@@ -8898,6 +8908,16 @@
         "discovered_at": "2026-03-05"
     },
     {
+        "name": "Bookdna",
+        "description": "My favorite nonfiction animal books that make you go holy shit",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bookdna.com/best-books/nonfiction-animal-books-that-make-you-go-holy-sht",
+        "discovered_at": "2026-08-13"
+    },
+    {
         "name": "Brasilia-phi",
         "description": "Show HN: A living Vancouver. Connor is walking dogs at the SPCA this morning",
         "category": "Animals",
@@ -10230,6 +10250,16 @@
         "cors": "unknown",
         "url": "https://yolo-auto.com/",
         "discovered_at": "2026-07-06"
+    },
+    {
+        "name": "Zrainbow",
+        "description": "The Missing Public-Policy Ecosystem Behind Expensive AI Tokens",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://zrainbow.substack.com/p/the-missing-public-policy-ecosystem",
+        "discovered_at": "2026-08-13"
     },
     {
         "name": "Abdulqabiz",
@@ -27825,6 +27855,16 @@
         "cors": "unknown",
         "url": "https://apify.com/build_matrix/getlatka-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Getseisin",
+        "description": "Show HN: Seisin – a desktop app that turns your job search into analytics",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getseisin.com",
+        "discovered_at": "2026-08-13"
     },
     {
         "name": "GitHub Email Scraper – Advanced, Cheapest & Reliable 📧⚡📷",
@@ -64206,6 +64246,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "The-digital-junk-drawer",
+        "description": "Show HN: The Digital Junk Drawer – a shoebox of tiny web apps",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://the-digital-junk-drawer.vercel.app/",
+        "discovered_at": "2026-08-13"
+    },
+    {
         "name": "TheMoviedb Scraper",
         "description": "Introducing TheMoviedb Scraper! This versatile actor extracts rich movie, TV, and celebrity data from TheMovieDB. It offers two modes: use the official API for fast, stable results, or scrape directly",
         "category": "Development",
@@ -91823,6 +91873,16 @@
         "discovered_at": "2026-04-22"
     },
     {
+        "name": "Apps",
+        "description": "A road could change West Africa's urban future",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apps.npr.org/west-africa-trade-growth-economy-nigeria-ghana-lagos/",
+        "discovered_at": "2026-08-13"
+    },
+    {
         "name": "Appsec",
         "description": "Show HN: Appsec.fi – Interactive AppSec training matched to your stack",
         "category": "Other",
@@ -92121,6 +92181,16 @@
         "cors": "unknown",
         "url": "https://bacist.com/german-irregular-verbs-app/",
         "discovered_at": "2026-04-22"
+    },
+    {
+        "name": "Ballet",
+        "description": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.ballet.dev/",
+        "discovered_at": "2026-08-13"
     },
     {
         "name": "Bambu3design",
@@ -92821,6 +92891,16 @@
         "cors": "unknown",
         "url": "https://calendly.com/qualityfolio2026/30min",
         "discovered_at": "2026-05-21"
+    },
+    {
+        "name": "Camelai",
+        "description": "Show HN: Stream – Unlimited DeepSeek v4 Flash 0731",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://camelai.com/unlimited-deepseek-api",
+        "discovered_at": "2026-08-13"
     },
     {
         "name": "Candle",
@@ -94573,6 +94653,16 @@
         "discovered_at": "2026-05-24"
     },
     {
+        "name": "Federaide",
+        "description": "Show HN: FEDERaiDE, a TUI harness with P2P multi-agent routing and built in IDE",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://federaide.rocklab.in",
+        "discovered_at": "2026-08-13"
+    },
+    {
         "name": "Feedfluffy",
         "description": "Show HN: FeedFluffy a dead man switch for people living alone",
         "category": "Other",
@@ -95373,6 +95463,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Gribble",
+        "description": "Show HN: Gribble – Pixelated pixel art editor in the browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gribble.app",
+        "discovered_at": "2026-08-13"
+    },
+    {
         "name": "Gridpath",
         "description": "Show HN: GridPath – Faster and Better Agent for Spreadsheets (Tauri, Rust)",
         "category": "Other",
@@ -96031,6 +96131,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/IPQualityScore/IP_Quality_Score_API_Spec/Review1/postman/collections/IP%20API%20Spec%20Review%201.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Ipvm",
+        "description": "Blocking LPR with Rust-Oleum Reflective Paint Does Not Work – Tested",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ipvm.com/reports/rust-oleum-lpr-test",
+        "discovered_at": "2026-08-13"
     },
     {
         "name": "Isaacus",
@@ -96923,6 +97033,16 @@
         "discovered_at": "2026-08-10"
     },
     {
+        "name": "Macsources",
+        "description": "Show HN: My first app got 97% on MacSources",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://macsources.com/tickernotch-macos-app-review/",
+        "discovered_at": "2026-08-13"
+    },
+    {
         "name": "Maestral",
         "description": "Maestral open-source Dropbox client no longer actively supported",
         "category": "Other",
@@ -97441,6 +97561,16 @@
         "cors": "unknown",
         "url": "https://mintai.base44.app",
         "discovered_at": "2026-03-24"
+    },
+    {
+        "name": "Mintpdf",
+        "description": "Show HN: MintPDF – HTML/Markdown to PDF API with an MCP Server",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mintpdf.dev",
+        "discovered_at": "2026-08-13"
     },
     {
         "name": "Mirrorball",
@@ -98061,6 +98191,16 @@
         "cors": "unknown",
         "url": "https://objo.dev",
         "discovered_at": "2026-05-12"
+    },
+    {
+        "name": "Obligement",
+        "description": "Amiga history: In the beginning was CAOS (1988)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": false,
+        "cors": "unknown",
+        "url": "http://obligement.free.fr/articles_traduction/in_the_beginning_was_caos_en.php",
+        "discovered_at": "2026-08-13"
     },
     {
         "name": "Obsidian",
@@ -100493,6 +100633,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Sleezr",
+        "description": "Show HN: Sleezr – Manage your hosts file without opening a terminal",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.sleezr.com/en",
+        "discovered_at": "2026-08-13"
+    },
+    {
         "name": "Slickfast",
         "description": "Show HN: SlickFast Deterministic Chart/Dash Renderer, No Browser(JSON → SVG/PNG)",
         "category": "Other",
@@ -101681,6 +101831,16 @@
         "cors": "unknown",
         "url": "https://tronbrowser.dev/",
         "discovered_at": "2026-06-25"
+    },
+    {
+        "name": "Trunchbull",
+        "description": "Show HN: Trunchbull, run real models against any benchmark in your browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://trunchbull.dev",
+        "discovered_at": "2026-08-13"
     },
     {
         "name": "Tryardent",
@@ -112362,6 +112522,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Lifesprites",
+        "description": "Show HN: Meteor shower, planet alignment, eclipse kit",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lifesprites.com/share/0ACA25",
+        "discovered_at": "2026-08-13"
+    },
+    {
         "name": "Luma",
         "description": "Show HN: Luma – A New Workspace for Frida",
         "category": "Science",
@@ -115890,6 +116060,16 @@
         "discovered_at": "2026-06-28"
     },
     {
+        "name": "Woxi",
+        "description": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://woxi.ad-si.com",
+        "discovered_at": "2026-08-13"
+    },
+    {
         "name": "Yesify",
         "description": "Show HN: Yesify – We raised $40M to return the word \"yes\" from an API endpoint",
         "category": "Text & Language",
@@ -116811,6 +116991,16 @@
         "cors": "unknown",
         "url": "https://cloakshare.dev/",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Crabsoup",
+        "description": "Show HN: Crabsoup, a Liquidsoap-inspired audio streaming engine in Rust.",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://crabsoup.vercel.app",
+        "discovered_at": "2026-08-13"
     },
     {
         "name": "Cutia",
