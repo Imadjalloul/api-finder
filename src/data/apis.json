@@ -1329,6 +1329,16 @@
         "discovered_at": "2026-03-15"
     },
     {
+        "name": "Clixad",
+        "description": "Show HN: Clixad – Free AI coding agent in the terminal, funded by an offerwall",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://clixad.io/",
+        "discovered_at": "2026-08-14"
+    },
+    {
         "name": "Cloro",
         "description": "Show HN: Generous free tier for SERP and AI web scraping",
         "category": "AI & Machine Learning",
@@ -1997,6 +2007,16 @@
         "discovered_at": "2026-05-05"
     },
     {
+        "name": "Forklane",
+        "description": "Forklane AI – Public Beta Launch",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://forklane.ai",
+        "discovered_at": "2026-08-14"
+    },
+    {
         "name": "Foryouriver",
         "description": "Show HN: For You – AI art floats down a river for strangers to find",
         "category": "AI & Machine Learning",
@@ -2344,6 +2364,16 @@
         "cors": "unknown",
         "url": "https://grassdx.com/",
         "discovered_at": "2026-06-16"
+    },
+    {
+        "name": "Grigio",
+        "description": "Same Prompt, Same Model Different Results Put 5 AI Harnesses to the Test",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://grigio.org/same-prompt-same-model-wildly-different-results-i-put-5-ai-coding-harnesses-to-the-test/",
+        "discovered_at": "2026-08-14"
     },
     {
         "name": "Groq",
@@ -5417,6 +5447,16 @@
         "cors": "unknown",
         "url": "https://tracium.ai/",
         "discovered_at": "2026-03-05"
+    },
+    {
+        "name": "Tradewithdelphi",
+        "description": "Show HN: Delphi – Build your own AI trading agent in seconds",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tradewithdelphi.com/",
+        "discovered_at": "2026-08-14"
     },
     {
         "name": "Triyambakam-apex-corp",
@@ -9066,6 +9106,16 @@
         "discovered_at": "2026-05-12"
     },
     {
+        "name": "Labs",
+        "description": "Beyond WASI: Running any Rust application in the browser with BrowserPod 3.0",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://labs.leaningtech.com/blog/browserpod-rust",
+        "discovered_at": "2026-08-14"
+    },
+    {
         "name": "Ladybird",
         "description": "Ladybird adopts Rust, with help from AI",
         "category": "Animals",
@@ -9265,6 +9315,16 @@
         "discovered_at": "2026-07-25"
     },
     {
+        "name": "Snippety",
+        "description": "Show HN: Snippety.app – macOS snippet manager I've been building for 6 years",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://snippety.app",
+        "discovered_at": "2026-08-14"
+    },
+    {
         "name": "Steady",
         "description": "Show HN: I wrote an application to help me practice speaking slower",
         "category": "Animals",
@@ -9293,6 +9353,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/vtex/openapi-schemas/master/VTEX - Subscriptions API (v2).json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Sunranker",
+        "description": "Show HN: My solar died for 6 months, so I built a watchdog",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sunranker.com",
+        "discovered_at": "2026-08-14"
     },
     {
         "name": "TheCatAPI",
@@ -50527,6 +50597,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Bleepingcomputer",
+        "description": "Who Vets AI's Code? The Scale Challenge Facing Open Source Ingestion",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/",
+        "discovered_at": "2026-08-14"
+    },
+    {
         "name": "Blog",
         "description": "Show HN: Lexe – Self-Custodial Lightning Nodes in TEEs, Python and Rust SDKs",
         "category": "Development",
@@ -61506,6 +61586,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Readiteasy",
+        "description": "Show HN: Read it easy – Read-only code editor with an improved Go to Definition",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.readiteasy.app/",
+        "discovered_at": "2026-08-14"
+    },
+    {
         "name": "Real Estate Api With Mortgage History",
         "description": "Real Estate API With Mortgage History is a powerful tool for accessing comprehensive real estate data, including property details, sales history, tax assessments, and mortgage information. Provide an.",
         "category": "Development",
@@ -63086,6 +63176,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Sniffnet",
+        "description": "What I Learned Securing Sniffnet with the GitHub Secure Open Source Fund",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sniffnet.app/news/github-secure-open-source-fund/",
+        "discovered_at": "2026-08-14"
+    },
+    {
         "name": "SnipCSS Extractor (HTML/CSS/Tailwind)",
         "description": "SnipCSS is a unique actor that extracts target element designs.  It's not a scraper - SnipCSS uses DevTools protocol to extract CSS.  It also converts extractions to Tailwind code.  Built on the...",
         "category": "Development",
@@ -63734,6 +63834,16 @@
         "cors": "unknown",
         "url": "https://apify.com/fatihtahta/substack-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Substructure",
+        "description": "Show HN: An agent engine with no SDK, just TOML and webhooks",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://substructure.ai/",
+        "discovered_at": "2026-08-14"
     },
     {
         "name": "Suggestions",
@@ -77523,6 +77633,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Shop",
+        "description": "Open-source pikocore: 15 homemade hacks",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://shop.infinitedigits.co/blog/the-pikocore-underground/",
+        "discovered_at": "2026-08-14"
+    },
+    {
         "name": "SHOP SHASHI Scraper",
         "description": "Scrape SHOP SHASHI and extract data on clothing accessories from shopshashi.com. Our SHOP SHASHI API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON,...",
         "category": "E-Commerce",
@@ -82501,6 +82621,16 @@
         "discovered_at": "2026-05-20"
     },
     {
+        "name": "9to5mac",
+        "description": "Apple TV just added a bunch of classic movies to stream for free",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://9to5mac.com/2026/08/12/apple-tv-just-added-a-bunch-of-classic-movies-to-stream-for-free/",
+        "discovered_at": "2026-08-14"
+    },
+    {
         "name": "Ahaprompt",
         "description": "Show HN: Free, curated prompts for AI image, video and music",
         "category": "Entertainment",
@@ -85644,6 +85774,16 @@
         "discovered_at": "2026-06-13"
     },
     {
+        "name": "Sovseal",
+        "description": "Free private memory across every AI you use on-device",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sovseal.com/",
+        "discovered_at": "2026-08-14"
+    },
+    {
         "name": "Speakcrisper",
         "description": "Show HN: Crisper – On-device voice to polished text for macOS",
         "category": "IoT & Hardware",
@@ -86232,6 +86372,16 @@
         "cors": "unknown",
         "url": "https://alit.dev/",
         "discovered_at": "2026-04-28"
+    },
+    {
+        "name": "Apimade",
+        "description": "Show HN: I modded the Codex client to auto-route to the \"right-sized\" model",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apimade.com/chatgpt-auto-router/",
+        "discovered_at": "2026-08-14"
     },
     {
         "name": "Bizdata-web",
@@ -91463,6 +91613,16 @@
         "discovered_at": "2026-05-06"
     },
     {
+        "name": "Ai-updates",
+        "description": "OpenAI's Rogue-Agent Incident Has Become a Test of Its Safety Culture",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ai-updates.net/openai-rogue-agent-incident-safety-culture-test/",
+        "discovered_at": "2026-08-14"
+    },
+    {
         "name": "Aibodh",
         "description": "The Impatient Programmer's Guide to Bevy and Rust: Ch 12 Let There Be Networking",
         "category": "Other",
@@ -92443,6 +92603,16 @@
         "discovered_at": "2026-07-31"
     },
     {
+        "name": "Blaze",
+        "description": "Show HN: Agents that run your finances",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blaze.money",
+        "discovered_at": "2026-08-14"
+    },
+    {
         "name": "Blazephoenix",
         "description": "A DEX aggregator whose quotes are computed on-chain (free API, no key)",
         "category": "Other",
@@ -93273,6 +93443,16 @@
         "discovered_at": "2026-06-20"
     },
     {
+        "name": "Comma",
+        "description": "Comma.ai Launches a PCIe Gen4 X4 to USB4 Dock with Open-Source Firmware",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://comma.ai/shop/chestnut",
+        "discovered_at": "2026-08-14"
+    },
+    {
         "name": "Composer-sepia",
         "description": "Show HN: I built a free PDF editor to fix Claude's horribly-generated PDFs",
         "category": "Other",
@@ -93751,6 +93931,16 @@
         "cors": "unknown",
         "url": "https://www.deliberate.dev/",
         "discovered_at": "2026-06-01"
+    },
+    {
+        "name": "Delimiter",
+        "description": "Delimiter.live – 100 free browser-based text and data tools",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.delimiter.live/tools",
+        "discovered_at": "2026-08-14"
     },
     {
         "name": "Demo",
@@ -95833,6 +96023,16 @@
         "discovered_at": "2026-04-28"
     },
     {
+        "name": "Hwbusters",
+        "description": "Chestnut – eGPU dock with open-source firmware",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
+        "discovered_at": "2026-08-14"
+    },
+    {
         "name": "Hyperc",
         "description": "Show HN: P34 – tabular profit prediction without the optimism bias",
         "category": "Other",
@@ -97621,6 +97821,16 @@
         "cors": "unknown",
         "url": "https://mlpatron.com",
         "discovered_at": "2026-03-30"
+    },
+    {
+        "name": "Mltraining",
+        "description": "Show HN: MLTraining Free AI/ML training resources for everyone",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mltraining.org/",
+        "discovered_at": "2026-08-14"
     },
     {
         "name": "Mnemos",
@@ -99933,6 +100143,16 @@
         "discovered_at": "2026-06-07"
     },
     {
+        "name": "Roundos",
+        "description": "Show HN: RoundOS Datarooms – Free DocSend Alternative (Tracked Links, VDRs)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://roundos.ai/free-docsend-alternative",
+        "discovered_at": "2026-08-14"
+    },
+    {
         "name": "Roy",
         "description": "REST APIs must be hypertext-driven (2008)",
         "category": "Other",
@@ -100883,6 +101103,16 @@
         "discovered_at": "2026-04-13"
     },
     {
+        "name": "Stackdome",
+        "description": "Show HN: Stackdome – An open source self-hostable Railway alternative on K8s",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stackdome.com",
+        "discovered_at": "2026-08-14"
+    },
+    {
         "name": "Stackscope",
         "description": "Show HN: StackScope – I crawled over 40k indie launches to see what they ship",
         "category": "Other",
@@ -101271,6 +101501,16 @@
         "cors": "unknown",
         "url": "https://tapfi.uno/",
         "discovered_at": "2026-04-22"
+    },
+    {
+        "name": "Taurusagents",
+        "description": "Show HN: Taurus Agents, my take on multi-agent hierarchies",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://taurusagents.com/",
+        "discovered_at": "2026-08-14"
     },
     {
         "name": "Taxlens",
@@ -101773,6 +102013,16 @@
         "discovered_at": "2026-07-28"
     },
     {
+        "name": "Transcribe",
+        "description": "Show HN: LymeScribe – one computer on your network transcribes for the rest",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://transcribe.lymestack.com/",
+        "discovered_at": "2026-08-14"
+    },
+    {
         "name": "Travel Partner API",
         "description": "The Travel Partner API provides you with a RESTful interface to the Google Hotel Center platform. It enables an app to efficiently retrieve and change Hotel Center data, and is thus suitable for manag",
         "category": "Other",
@@ -102041,6 +102291,16 @@
         "cors": "unknown",
         "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
         "discovered_at": "2026-07-02"
+    },
+    {
+        "name": "Usemojo",
+        "description": "Before You Add Another Class, Make the Time Slot Prove Itself",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.usemojo.app/en/blog/test-a-new-class-time-slot",
+        "discovered_at": "2026-08-14"
     },
     {
         "name": "Usepablo",
@@ -102573,6 +102833,16 @@
         "discovered_at": "2026-04-18"
     },
     {
+        "name": "Xenon-app",
+        "description": "HN: Xenon, open source dashboard for a second screen, tablet or phone",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://xenon-app.com/",
+        "discovered_at": "2026-08-14"
+    },
+    {
         "name": "Xsdr",
         "description": "Show HN: XSDR – Real-time event monitoring infrastructure for agents",
         "category": "Other",
@@ -103051,6 +103321,16 @@
         "cors": "unknown",
         "url": "https://ddphotos.donohoe.info",
         "discovered_at": "2026-05-01"
+    },
+    {
+        "name": "Diffusion",
+        "description": "Show HN: Diffusion PDF – A Diffusion Image Model Embedded Entirely in a PDF File",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://diffusion.alexvd.dev/",
+        "discovered_at": "2026-08-14"
     },
     {
         "name": "Facial Recognition Reverse Image Face Search API",
@@ -110625,6 +110905,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Taskfuel",
+        "description": "Show HN: TaskFuel – agents discover and pay per call for 100 APIs",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://taskfuel.ai/",
+        "discovered_at": "2026-08-14"
+    },
+    {
         "name": "Tasty Articles",
         "description": "Get Tasty.co articles",
         "category": "Productivity",
@@ -114176,6 +114466,16 @@
         "discovered_at": "2026-04-23"
     },
     {
+        "name": "Xfluxapi",
+        "description": "Show HN: XFlux – X/Twitter read API and account monitors (free tier)",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.xfluxapi.com",
+        "discovered_at": "2026-08-14"
+    },
+    {
         "name": "Xpalapp",
         "description": "Secure Messaging Apps Have Solved Encryption. The Rest Is the Problem",
         "category": "Social",
@@ -117102,6 +117402,16 @@
         "discovered_at": "2026-06-26"
     },
     {
+        "name": "Forge",
+        "description": "The median open-source repo pays no \"AI review tax\" (data from 5,388 repos)",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://forge.ambera.app/review-tax-index",
+        "discovered_at": "2026-08-14"
+    },
+    {
         "name": "Forum",
         "description": "Sam Altman on Building the Future of AI [video]",
         "category": "Video & Media",
@@ -117179,6 +117489,16 @@
         "cors": "unknown",
         "url": "https://hammermind.com",
         "discovered_at": "2026-06-16"
+    },
+    {
+        "name": "Hardresetmedia",
+        "description": "Why Google killed its best argument for AI",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.hardresetmedia.com/p/why-google-killed-its-best-argument",
+        "discovered_at": "2026-08-14"
     },
     {
         "name": "Heyaio",
