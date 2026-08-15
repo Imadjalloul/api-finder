@@ -640,6 +640,16 @@
         "discovered_at": "2026-03-16"
     },
     {
+        "name": "Apimart",
+        "description": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apimart.ai/register?aff=yScTCM",
+        "discovered_at": "2026-08-15"
+    },
+    {
         "name": "Apimatic",
         "description": "Show HN: Context Plugins – API context for AI coding assistants",
         "category": "AI & Machine Learning",
@@ -708,6 +718,16 @@
         "cors": "unknown",
         "url": "https://applyassists.com/",
         "discovered_at": "2026-07-28"
+    },
+    {
+        "name": "Applywise",
+        "description": "Show HN: ApplyWise – I built an AI layer for the job application process",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://applywise.eu/",
+        "discovered_at": "2026-08-15"
     },
     {
         "name": "Aptselect",
@@ -2117,6 +2137,16 @@
         "discovered_at": "2026-06-20"
     },
     {
+        "name": "Gatewai",
+        "description": "Show HN: Artifex - Graph Based GPU Harness for AI Agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gatewai.studio/artifex",
+        "discovered_at": "2026-08-15"
+    },
+    {
         "name": "Geohot",
         "description": "Closed Source AI = Neofeudalism",
         "category": "AI & Machine Learning",
@@ -2732,6 +2762,16 @@
         "cors": "unknown",
         "url": "https://jcode.sh/",
         "discovered_at": "2026-08-12"
+    },
+    {
+        "name": "Joarvarndt",
+        "description": "Being Against LLMs Is Against the Spirit of Floss",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://joarvarndt.se/free-vibes-2",
+        "discovered_at": "2026-08-15"
     },
     {
         "name": "Jobbi",
@@ -3521,6 +3561,16 @@
         "cors": "unknown",
         "url": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
         "discovered_at": "2026-04-26"
+    },
+    {
+        "name": "Nextplatform",
+        "description": "The War Between Open Source, Open Weight, and Closed AI Models",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.nextplatform.com/ai/2026/08/13/the-war-between-open-source-open-weight-and-closed-ai-models/5287504",
+        "discovered_at": "2026-08-15"
     },
     {
         "name": "Nexus-gateway",
@@ -4519,6 +4569,16 @@
         "cors": "unknown",
         "url": "https://rtagi.online",
         "discovered_at": "2026-07-19"
+    },
+    {
+        "name": "Run",
+        "description": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+        "discovered_at": "2026-08-15"
     },
     {
         "name": "Runcabinet",
@@ -17501,6 +17561,16 @@
         "discovered_at": "2026-06-17"
     },
     {
+        "name": "Emailverifier",
+        "description": "Show HN: A simple, powerful, and cheaper email verification API",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://emailverifier.dev/",
+        "discovered_at": "2026-08-15"
+    },
+    {
         "name": "Extend",
         "description": "Show HN: Extend AI turns a voice note into posts that sound like you",
         "category": "Communication",
@@ -17868,6 +17938,16 @@
         "cors": "unknown",
         "url": "https://www.reclip.io",
         "discovered_at": "2026-07-31"
+    },
+    {
+        "name": "Riffn",
+        "description": "Show HN: Riffn. An instant voice link with your AI agents and local models",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://riffn.io/how-riffn-works/",
+        "discovered_at": "2026-08-15"
     },
     {
         "name": "Robotomail",
@@ -77103,6 +77183,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Rendemo",
+        "description": "Show HN: Interactive Product Demos made easy",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.rendemo.com",
+        "discovered_at": "2026-08-15"
+    },
+    {
         "name": "Reseller Ratings Scraper",
         "description": "Scrape business data from Reseller Ratings",
         "category": "E-Commerce",
@@ -81561,6 +81651,16 @@
         "discovered_at": "2026-04-07"
     },
     {
+        "name": "Crux",
+        "description": "Show HN: Am-1 Arpeggio Machine – A Love Letter to Berlin School Music",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://crux.garden/zacos/am-1",
+        "discovered_at": "2026-08-15"
+    },
+    {
         "name": "Detawk",
         "description": "Show HN: I built a small app for FSI German Course",
         "category": "Education",
@@ -83126,6 +83226,16 @@
         "discovered_at": "2026-08-05"
     },
     {
+        "name": "Playhyperbubble",
+        "description": "Show HN: I asked Claude to turn 20 years of my research into a game",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://playhyperbubble.com/",
+        "discovered_at": "2026-08-15"
+    },
+    {
         "name": "Playtiao",
         "description": "Show HN: Tiao, A two-player turn-based board game",
         "category": "Entertainment",
@@ -83154,6 +83264,16 @@
         "cors": "unknown",
         "url": "https://www.quaxio.com/music_box/",
         "discovered_at": "2026-05-18"
+    },
+    {
+        "name": "Rankandrun",
+        "description": "Show HN: Rank and Run – No free version of this card game existed, so I made one",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.rankandrun.app/",
+        "discovered_at": "2026-08-15"
     },
     {
         "name": "RAWG",
@@ -86887,6 +87007,16 @@
         "cors": "unknown",
         "url": "https://wifiheatmap.app/",
         "discovered_at": "2026-05-20"
+    },
+    {
+        "name": "Windygap",
+        "description": "Show HN: I precompiled the path network of 3 continents to invent hiking routes",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://windygap.app",
+        "discovered_at": "2026-08-15"
     },
     {
         "name": "Adobe Experience Manager (AEM) API",
@@ -97103,6 +97233,16 @@
         "discovered_at": "2026-07-28"
     },
     {
+        "name": "Longbridge",
+        "description": "Gpui-component: Rust GUI components for building cross-platform apps",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://longbridge.github.io/gpui-component/",
+        "discovered_at": "2026-08-15"
+    },
+    {
         "name": "Lookaway",
         "description": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt",
         "category": "Other",
@@ -97171,6 +97311,16 @@
         "cors": "unknown",
         "url": "https://lrcmux.dev",
         "discovered_at": "2026-06-30"
+    },
+    {
+        "name": "Luacad",
+        "description": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://luacad.ad-si.com",
+        "discovered_at": "2026-08-15"
     },
     {
         "name": "Lucidtech API",
@@ -98213,6 +98363,16 @@
         "discovered_at": "2026-05-08"
     },
     {
+        "name": "Next",
+        "description": "Best US- and EU-hosted abliterated models with no input/output prompt retention",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://next.abliteration.ai",
+        "discovered_at": "2026-08-15"
+    },
+    {
         "name": "Nexttrain",
         "description": "Show HN: A web to see nearby TFL trains",
         "category": "Other",
@@ -98741,6 +98901,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/vtex/openapi-schemas/master/VTEX - Orders API (PII version).json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Oreilly",
+        "description": "Why Open Source Matters for AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.oreilly.com/radar/why-open-source-matters-for-ai/",
+        "discovered_at": "2026-08-15"
     },
     {
         "name": "Oreillyradar",
@@ -99483,6 +99653,16 @@
         "discovered_at": "2026-05-01"
     },
     {
+        "name": "Public",
+        "description": "Quake Version 1.07 on RS/6000 Systems",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://public.dhe.ibm.com/aix/freeSoftware/games/Quake/",
+        "discovered_at": "2026-08-15"
+    },
+    {
         "name": "Puck",
         "description": "Love It or Lehane It",
         "category": "Other",
@@ -99771,6 +99951,16 @@
         "cors": "unknown",
         "url": "https://rdapapi.io",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Rdio-docs",
+        "description": "Show HN: Rdio – an open-source internet radio control suite",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rdio-docs.vercel.app",
+        "discovered_at": "2026-08-15"
     },
     {
         "name": "Rdw",
@@ -100953,6 +101143,16 @@
         "discovered_at": "2026-04-12"
     },
     {
+        "name": "Softedge-techdemo",
+        "description": "Show HN: A painting engine that lets you sculpt drawings (tech demo)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://softedge-techdemo.jign.workers.dev/",
+        "discovered_at": "2026-08-15"
+    },
+    {
         "name": "Solar VPS",
         "description": "This is the Solar VPS Public API. You can find more at http://www.solarvps.com",
         "category": "Other",
@@ -102033,6 +102233,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Travelmatchr",
+        "description": "TravelMatchr I built a matching app for travelers whose friends are never free",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://travelmatchr.com",
+        "discovered_at": "2026-08-15"
+    },
+    {
         "name": "Tribuneslaststand",
         "description": "Show HN: Tribune's Last Stand, a browser-based Warhammer 40K vertical slice",
         "category": "Other",
@@ -102703,6 +102913,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Wild",
+        "description": "Show HN: Atlas – like GeoGuessr but multiple choice, daily, no sign-up",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wild.space/atlas",
+        "discovered_at": "2026-08-15"
+    },
+    {
         "name": "Win-update-tracker",
         "description": "Show HN: Crowdsourced tracker for what each Windows/M365 update breaks",
         "category": "Other",
@@ -103271,6 +103491,16 @@
         "cors": "unknown",
         "url": "https://apiwatermark.com",
         "discovered_at": "2026-07-17"
+    },
+    {
+        "name": "App",
+        "description": "Show HN: Home search that chats, reads the photos, and est. monthly costs",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.ag3nt.homes",
+        "discovered_at": "2026-08-15"
     },
     {
         "name": "Applewalls",
@@ -108604,6 +108834,16 @@
         "cors": "unknown",
         "url": "https://apify.com/getdataforme/mimo-products-spider",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Mininote",
+        "description": "Show HN: Mininote: Instant, plain-text note taking without tracking or lock-in",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mininote.ink/",
+        "discovered_at": "2026-08-15"
     },
     {
         "name": "Mitsubishi Parts Catalog",
@@ -114250,6 +114490,16 @@
         "url": "https://docs.joinmastodon.org/api/"
     },
     {
+        "name": "Mazurka",
+        "description": "Show HN: Musical social media site where you can throw tomatoes at each other",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mazurka.cafe/",
+        "discovered_at": "2026-08-15"
+    },
+    {
         "name": "Memotrader",
         "description": "Show HN: MemoTrader – a marketplace for AI-Human messaging",
         "category": "Social",
@@ -115267,6 +115517,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://fakerjs.dev/"
+    },
+    {
+        "name": "Getmocktail",
+        "description": "Show HN: Mocktail – Free, open-source mock API server with a built-in dashboard",
+        "category": "Testing",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getmocktail.com/",
+        "discovered_at": "2026-08-15"
     },
     {
         "name": "Infinitymock",
