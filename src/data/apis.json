@@ -2067,6 +2067,16 @@
         "discovered_at": "2026-05-21"
     },
     {
+        "name": "Freellmapi",
+        "description": "Free LLM API – every free model behind one key",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://freellmapi.co/",
+        "discovered_at": "2026-08-16"
+    },
+    {
         "name": "Frogapi",
         "description": "Show HN: Get GPT-5.2, Grok-4.1-fast, KimiK2.5 and more LLMs at half the cost",
         "category": "AI & Machine Learning",
@@ -9612,6 +9622,16 @@
         "discovered_at": "2026-06-16"
     },
     {
+        "name": "Asimovaddendum",
+        "description": "The Apache Lesson for AI",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://asimovaddendum.substack.com/p/why-open-source-matters-for-ai",
+        "discovered_at": "2026-08-16"
+    },
+    {
         "name": "Auth0",
         "description": "Authentication and authorization as a service",
         "category": "Auth & Identity",
@@ -10875,6 +10895,16 @@
         "cors": "unknown",
         "url": "https://relikes.com/#demo",
         "discovered_at": "2026-07-18"
+    },
+    {
+        "name": "Remindlink",
+        "description": "Show HN: RemindLink – reminders for bookmarks you forgot to revisit",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://remindlink.app/",
+        "discovered_at": "2026-08-16"
     },
     {
         "name": "Respeak-io",
@@ -78731,6 +78761,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Temporalstore",
+        "description": "TemporalStore: A disruptive open-source engine managing your LLM memory",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://temporalstore.ai/blog-context-management.html",
+        "discovered_at": "2026-08-16"
+    },
+    {
         "name": "Tesco Grocery Scraper",
         "description": "💫 Scrape Tesco.com Grocery",
         "category": "E-Commerce",
@@ -83824,6 +83864,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Spread",
+        "description": "Show HN: Spread – Real-Time New Zealand Supermarket Data via API and MCP",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://spread.butterup.app/",
+        "discovered_at": "2026-08-16"
+    },
+    {
         "name": "Sprime",
         "description": "Show HN: Sprime – weather, crypto, news, forex all normalized to one JSON schema",
         "category": "Finance",
@@ -86950,6 +87000,16 @@
         "discovered_at": "2026-06-03"
     },
     {
+        "name": "The-express",
+        "description": "US hires over 2k 'best and brightest' video gamers as air traffic controllers",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.the-express.com/news/world-news/213828/us-hires-over-2-000-video-gamers-air-traffic-controllers-faa-drive",
+        "discovered_at": "2026-08-16"
+    },
+    {
         "name": "Trailmaps",
         "description": "Show HN: Trailmaps.app – Mobile maps that match the trail",
         "category": "Maps & Transport",
@@ -88313,6 +88373,16 @@
         "cors": "unknown",
         "url": "https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx",
         "discovered_at": "2026-08-07"
+    },
+    {
+        "name": "News",
+        "description": "Startup creates tech for pain-free tattoos",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://news.cornell.edu/stories/2026/08/alums-company-creates-tech-pain-free-tattoos",
+        "discovered_at": "2026-08-16"
     },
     {
         "name": "NewsAPI",
@@ -96663,6 +96733,16 @@
         "discovered_at": "2026-05-06"
     },
     {
+        "name": "Jovethra",
+        "description": "Show HN: Jovethra – prepaid OpenAI-compatible API with hard usage limits",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jovethra.xyz/playground",
+        "discovered_at": "2026-08-16"
+    },
+    {
         "name": "Juanpabloaj",
         "description": "Show HN: A lightweight way to make agents talk without paying for API usage",
         "category": "Other",
@@ -98691,6 +98771,16 @@
         "cors": "unknown",
         "url": "https://onlyfansapi.com",
         "discovered_at": "2026-03-17"
+    },
+    {
+        "name": "Ontfly",
+        "description": "Ontfly – test your idea before building",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ontfly.ai",
+        "discovered_at": "2026-08-16"
     },
     {
         "name": "Opbox",
@@ -101243,6 +101333,16 @@
         "discovered_at": "2026-07-10"
     },
     {
+        "name": "Spliit",
+        "description": "My open source project's donations no longer go through my bank account",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://spliit.app/blog/spliit-funding-is-now-on-open-collective",
+        "discovered_at": "2026-08-16"
+    },
+    {
         "name": "Splitsense",
         "description": "Free landing page review tool",
         "category": "Other",
@@ -102731,6 +102831,16 @@
         "cors": "unknown",
         "url": "https://waggle.zone",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Waku",
+        "description": "Show HN: I built a native app for coding agents with Rust and GPUI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://waku.sh",
+        "discovered_at": "2026-08-16"
     },
     {
         "name": "Wardstone",
@@ -116419,6 +116529,16 @@
         "cors": "unknown",
         "url": "https://memorygrain.org/",
         "discovered_at": "2026-03-05"
+    },
+    {
+        "name": "Mimilearn",
+        "description": "Show HN: Mimi – the free language learning app that anyone can edit",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mimilearn.org/",
+        "discovered_at": "2026-08-16"
     },
     {
         "name": "Motplot",
