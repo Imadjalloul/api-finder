@@ -1887,6 +1887,16 @@
         "discovered_at": "2026-04-22"
     },
     {
+        "name": "Empirical",
+        "description": "Enlicitide: A stress test for AI in drug discovery",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.empirical.health/blog/macrocyclic-peptides/",
+        "discovered_at": "2026-08-17"
+    },
+    {
         "name": "Enblog",
         "description": "How AI Is Changing Open Source",
         "category": "AI & Machine Learning",
@@ -5917,6 +5927,16 @@
         "cors": "unknown",
         "url": "https://whycantwehaveanagentforthis.com",
         "discovered_at": "2026-03-04"
+    },
+    {
+        "name": "Wildstatic",
+        "description": "Show HN: A public AI whose memory is shared across all users",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wildstatic.com/",
+        "discovered_at": "2026-08-17"
     },
     {
         "name": "Wisgate",
@@ -10865,6 +10885,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://poetrydb.org"
+    },
+    {
+        "name": "Prop-line",
+        "description": "Show HN: One page per betting market – 21 books' odds, every outcome graded",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://prop-line.com/odds-api",
+        "discovered_at": "2026-08-17"
     },
     {
         "name": "Readingvault",
@@ -51866,6 +51896,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Conw",
+        "description": "Show HN: Conw.ai – Independent local AI platform and developer API",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://conw.ai",
+        "discovered_at": "2026-08-17"
+    },
+    {
         "name": "Copart Public Search Scraper",
         "description": "Extract comprehensive vehicle auction data from Copart using direct API calls. This actor retrieves detailed vehicle information including lot details, build sheets, damage reports, pricing data,...",
         "category": "Development",
@@ -81751,6 +81791,16 @@
         "discovered_at": "2026-05-20"
     },
     {
+        "name": "Kr-asia",
+        "description": "Mind Lab puts continual learning to the test with Macaron-V1",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kr-asia.com/mind-lab-puts-continual-learning-to-the-test-with-macaron-v1",
+        "discovered_at": "2026-08-17"
+    },
+    {
         "name": "Learnos",
         "description": "Show HN: LearnOS – Open-source, AI-native Coursera you run locally",
         "category": "Education",
@@ -83616,6 +83666,16 @@
         "cors": "unknown",
         "url": "https://cointales.ai/en/create-your-book",
         "discovered_at": "2026-03-08"
+    },
+    {
+        "name": "Continuum-app",
+        "description": "Show HN: Continuum – Financial simulations for DIY multimillionaires",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://continuum-app.xyz/",
+        "discovered_at": "2026-08-17"
     },
     {
         "name": "Crypto-enrich",
@@ -96413,6 +96473,16 @@
         "discovered_at": "2026-07-16"
     },
     {
+        "name": "Inference",
+        "description": "Show HN: Qwen3.8-27B API, 140 tok/s on one GPU",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://inference.tiyuvta.ai/login?next=%2Fapp",
+        "discovered_at": "2026-08-17"
+    },
+    {
         "name": "Ingelt",
         "description": "Show HN: Parsing hostile industrial data in 64MB WASM sandboxes",
         "category": "Other",
@@ -97331,6 +97401,16 @@
         "cors": "unknown",
         "url": "https://lookaway.com",
         "discovered_at": "2026-06-25"
+    },
+    {
+        "name": "Looktwice",
+        "description": "Show HN: LookTwice – validation APIs that don't turn outages into invalid data",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://looktwice.dev/tools",
+        "discovered_at": "2026-08-17"
     },
     {
         "name": "Loony",
@@ -99791,6 +99871,16 @@
         "cors": "unknown",
         "url": "https://www.pulsepages.co",
         "discovered_at": "2026-05-06"
+    },
+    {
+        "name": "Punchy",
+        "description": "Show HN: A punch clock to help with hourly household workers",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.punchy.live/",
+        "discovered_at": "2026-08-17"
     },
     {
         "name": "Purple-hammer",
@@ -102401,6 +102491,16 @@
         "cors": "unknown",
         "url": "https://trunchbull.dev",
         "discovered_at": "2026-08-13"
+    },
+    {
+        "name": "Trustband",
+        "description": "Show HN: TrustBand Hire – operator personas as Markdown you paste into Grok Bot",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://trustband.app/hire",
+        "discovered_at": "2026-08-17"
     },
     {
         "name": "Tryardent",
