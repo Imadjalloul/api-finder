@@ -30,6 +30,16 @@
         "discovered_at": "2026-05-30"
     },
     {
+        "name": "1667",
+        "description": "Show HN: 1667, a terminal UI for writing fiction with language models",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://1667.ai/",
+        "discovered_at": "2026-08-18"
+    },
+    {
         "name": "1h-money",
         "description": "Show HN: My AI agent has 9 hours left to win a public bet – live dashboard",
         "category": "AI & Machine Learning",
@@ -2435,6 +2445,16 @@
         "url": "https://console.groq.com/docs/quickstart"
     },
     {
+        "name": "Gruhn",
+        "description": "A Test for AI Consciousness",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gruhn.me/blog/2026-08-16/",
+        "discovered_at": "2026-08-18"
+    },
+    {
         "name": "Guardianreplay",
         "description": "Show HN: I built a tamper-evident evidence system for AI agents",
         "category": "AI & Machine Learning",
@@ -4679,6 +4699,16 @@
         "cors": "unknown",
         "url": "https://sairc.vercel.app/resources",
         "discovered_at": "2026-07-20"
+    },
+    {
+        "name": "Saor",
+        "description": "Saor.io – Persistent memory for AI agents, free, connects via MCP",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://saor.io",
+        "discovered_at": "2026-08-18"
     },
     {
         "name": "Sarvita",
@@ -10332,6 +10362,16 @@
         "discovered_at": "2026-05-24"
     },
     {
+        "name": "Solheim",
+        "description": "Show HN: Virtual Private LLM, fixed fee with no usage or token limits",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://solheim.ai",
+        "discovered_at": "2026-08-18"
+    },
+    {
         "name": "Tamp",
         "description": "Tamp.dev – save up to 63% on AI tokens (free, works with Claude Code)",
         "category": "Blockchain",
@@ -10549,6 +10589,16 @@
         "cors": "unknown",
         "url": "https://www.classkeep.app",
         "discovered_at": "2026-05-20"
+    },
+    {
+        "name": "Cutthroat",
+        "description": "Show HN: Replaced news reading with two tiny editions a day, then made it public",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cutthroat.news/",
+        "discovered_at": "2026-08-18"
     },
     {
         "name": "Cyclearchive",
@@ -18097,6 +18147,16 @@
         "cors": "unknown",
         "url": "https://www.speechsdk.dev/",
         "discovered_at": "2026-04-04"
+    },
+    {
+        "name": "Speko",
+        "description": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://speko.ai/",
+        "discovered_at": "2026-08-18"
     },
     {
         "name": "Steadwing",
@@ -79231,6 +79291,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Together",
+        "description": "A/B testing LLMs in production",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.together.ai/blog/a-b-test-models-in-production",
+        "discovered_at": "2026-08-18"
+    },
+    {
         "name": "Tokopedia Scraper",
         "description": "💫 All-in-One Tokopedia.com Scraper",
         "category": "E-Commerce",
@@ -81801,6 +81871,16 @@
         "discovered_at": "2026-08-17"
     },
     {
+        "name": "Learning-rust",
+        "description": "Learning-Rust.Github.io: Labs: Project 1 – RESTful API Workspace",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://learning-rust.github.io/labs/building-a-containerized-restful-api/",
+        "discovered_at": "2026-08-18"
+    },
+    {
         "name": "Learnos",
         "description": "Show HN: LearnOS – Open-source, AI-native Coursera you run locally",
         "category": "Education",
@@ -83314,6 +83394,16 @@
         "cors": "unknown",
         "url": "https://playdowntime.com/",
         "discovered_at": "2026-08-05"
+    },
+    {
+        "name": "Playflashframe",
+        "description": "Show HN: FlashFrame-Free Browser-Based Fast Multiplayer Movie Guessing Game",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://playflashframe.com/",
+        "discovered_at": "2026-08-18"
     },
     {
         "name": "Playhyperbubble",
@@ -88296,6 +88386,16 @@
         "discovered_at": "2026-06-12"
     },
     {
+        "name": "Hncli",
+        "description": "Show HN: An Hacker News TUI Reader, handcrafted in Rust",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.hncli.newstackwhodis.com",
+        "discovered_at": "2026-08-18"
+    },
+    {
         "name": "Hnup",
         "description": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
         "category": "News",
@@ -92473,6 +92573,16 @@
         "discovered_at": "2026-05-29"
     },
     {
+        "name": "Atlasblock",
+        "description": "Show HN: Rate any US neighborhood 0 to 10, and the API behind it",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://atlasblock.dev/rate",
+        "discovered_at": "2026-08-18"
+    },
+    {
         "name": "Atomicapp",
         "description": "Show HN: Atomic – Local-first, AI-augmented personal knowledge base",
         "category": "Other",
@@ -95543,6 +95653,16 @@
         "discovered_at": "2026-03-16"
     },
     {
+        "name": "Gene-inspector",
+        "description": "Show HN: Gene Inspector Pro – I built a tool for exploring your own genome",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gene-inspector.pro/",
+        "discovered_at": "2026-08-18"
+    },
+    {
         "name": "Generateppt",
         "description": "Show HN: I Made Generateppt.com Free",
         "category": "Other",
@@ -98343,6 +98463,16 @@
         "discovered_at": "2026-07-03"
     },
     {
+        "name": "Mrrglo",
+        "description": "Show HN: I made a 3D Globe platform to promote your startup based on your MRR",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mrrglo.be",
+        "discovered_at": "2026-08-18"
+    },
+    {
         "name": "Mumbli",
         "description": "Show HN: Free OSS transcription app I made and found it's faster than wispr flow",
         "category": "Other",
@@ -99041,6 +99171,16 @@
         "cors": "unknown",
         "url": "https://opub.dev/blog/introducing-opub",
         "discovered_at": "2026-05-22"
+    },
+    {
+        "name": "Orbitquote",
+        "description": "Show HN: A Buyer's Editor to Fix B2B Procurement PDF Hell with API and MCP",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://orbitquote.com/",
+        "discovered_at": "2026-08-18"
     },
     {
         "name": "Orcabot",
@@ -100543,6 +100683,16 @@
         "discovered_at": "2026-03-22"
     },
     {
+        "name": "Rss",
+        "description": "Show HN: An RSS Feed for DeepSWE Benchmarks",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rss.xlit.app/deepswe",
+        "discovered_at": "2026-08-18"
+    },
+    {
         "name": "Rtrvr",
         "description": "Show HN: Reverse-engineer any site's API from inside the browser",
         "category": "Other",
@@ -101223,6 +101373,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Skybits",
+        "description": "Show HN: Skybits – A document editor for humans and agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://skybits.ai",
+        "discovered_at": "2026-08-18"
+    },
+    {
         "name": "Sleezr",
         "description": "Show HN: Sleezr – Manage your hosts file without opening a terminal",
         "category": "Other",
@@ -101453,6 +101613,16 @@
         "discovered_at": "2026-07-04"
     },
     {
+        "name": "Sprag",
+        "description": "We're hosting Qwen3.8-27B for Free API usage",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sprag.ai/models/qwen/qwen3.8-27b",
+        "discovered_at": "2026-08-18"
+    },
+    {
         "name": "Spreadsheetpreview",
         "description": "Show HN: Display Excel files in your web app",
         "category": "Other",
@@ -101671,6 +101841,16 @@
         "cors": "unknown",
         "url": "https://strata.space/show",
         "discovered_at": "2026-07-02"
+    },
+    {
+        "name": "Streamfusion",
+        "description": "Apache Flink accelerator built with Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://streamfusion.tech/",
+        "discovered_at": "2026-08-18"
     },
     {
         "name": "Streams",
@@ -118109,6 +118289,16 @@
         "cors": "unknown",
         "url": "https://ma.ttias.be/transcribing-syscast-with-local-ai/",
         "discovered_at": "2026-06-15"
+    },
+    {
+        "name": "Magichour",
+        "description": "Fable vs. Sol – How's Their Taste in Video",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://magichour.ai/blog/fable-vs-sol-taste-test",
+        "discovered_at": "2026-08-18"
     },
     {
         "name": "Martini",
