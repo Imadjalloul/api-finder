@@ -410,6 +410,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Aiomniu",
+        "description": "Show HN: AI Resume Optimization Tool for Specific Job Positions",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aiomniu.top/services/resume-builder",
+        "discovered_at": "2026-08-19"
+    },
+    {
         "name": "Airposture",
         "description": "AirPosture – AirPods as AI posture coach (Open source)",
         "category": "AI & Machine Learning",
@@ -1270,6 +1280,16 @@
         "discovered_at": "2026-07-09"
     },
     {
+        "name": "Chatoss",
+        "description": "Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://chatoss.ai",
+        "discovered_at": "2026-08-19"
+    },
+    {
         "name": "Chatpanel",
         "description": "Show HN: ChatPanel, A Privacy-first AI Agent browser side panel",
         "category": "AI & Machine Learning",
@@ -1617,6 +1637,16 @@
         "url": "https://www.deepl.com/docs-api"
     },
     {
+        "name": "Deftwriting",
+        "description": "Show HN: Deft Writing, an AI lab for non-slop LLMs",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://deftwriting.com",
+        "discovered_at": "2026-08-19"
+    },
+    {
         "name": "Deployrocketship",
         "description": "Show HN: Rocketship, the only AI app builder with built-in sales team",
         "category": "AI & Machine Learning",
@@ -1665,6 +1695,16 @@
         "cors": "unknown",
         "url": "https://www.digitalapplied.com/blog/us-ai-gatekeeping-china-open-source-advantage-2026",
         "discovered_at": "2026-06-30"
+    },
+    {
+        "name": "Digitalescapetools",
+        "description": "Magnitude – Open-source AI coding agent that runs local models offline",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://digitalescapetools.com/tools/tool.html?id=magnitude",
+        "discovered_at": "2026-08-19"
     },
     {
         "name": "Discuss",
@@ -3274,6 +3314,16 @@
         "discovered_at": "2026-03-13"
     },
     {
+        "name": "Maritime",
+        "description": "Show HN: Maritime, a platform for running AI agents for $1 a month",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://maritime.sh",
+        "discovered_at": "2026-08-19"
+    },
+    {
         "name": "Mariusb",
         "description": "AI Agent Coding Comparison: The Rust Leap Year Challenge",
         "category": "AI & Machine Learning",
@@ -3431,6 +3481,16 @@
         "cors": "unknown",
         "url": "https://www.mixar.app",
         "discovered_at": "2026-08-05"
+    },
+    {
+        "name": "Mkornreich",
+        "description": "Show HN: Sokoban AI Solver",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mkornreich.me/projects/sokoban/",
+        "discovered_at": "2026-08-19"
     },
     {
         "name": "Mljar",
@@ -9433,6 +9493,16 @@
         "cors": "unknown",
         "url": "https://rentry.co/organic-code-spec-v1-0-md",
         "discovered_at": "2026-07-25"
+    },
+    {
+        "name": "Sniffcat",
+        "description": "SniffCat – A free API for checking and reporting abusive IPs",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sniffcat.com/",
+        "discovered_at": "2026-08-19"
     },
     {
         "name": "Snippety",
@@ -18048,6 +18118,16 @@
         "cors": "unknown",
         "url": "https://www.reclip.io",
         "discovered_at": "2026-07-31"
+    },
+    {
+        "name": "Resumeskip",
+        "description": "Show HN: ResumeSkip – automatically tailor your resume to jobs",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://resumeskip.com/",
+        "discovered_at": "2026-08-19"
     },
     {
         "name": "Riffn",
@@ -50827,6 +50907,16 @@
         "discovered_at": "2026-05-14"
     },
     {
+        "name": "Blog",
+        "description": "Muninn: Code localization model in the world fits on your phone",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.brokk.ai/muninn-the-best-code-localization-model-at-any-size/",
+        "discovered_at": "2026-08-19"
+    },
+    {
         "name": "Blog / Dated Content Crawler",
         "description": "Crawl an entire blog / knowledge base or filter to just the new content. Supporting relevant AI queries by filtering pages by date",
         "category": "Development",
@@ -60468,6 +60558,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Opendesk-edu",
+        "description": "OpenDesk Edu – Open-Source Digital Workplace for Universities",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://opendesk-edu.org/en",
+        "discovered_at": "2026-08-19"
+    },
+    {
         "name": "OpenFDA Drug Intelligence + AI Severity",
         "description": "Extract FDA drug adverse events, recalls, and safety data with AI severity scoring (0-100). Perfect for pharma research, pharmacovigilance, and healthcare analytics. Free FDA API - no keys needed.",
         "category": "Development",
@@ -66194,6 +66294,16 @@
         "cors": "unknown",
         "url": "https://apify.com/yourapiservice/viveexterior-resource-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Voidleap",
+        "description": "Show HN: Voidleap Code – agentic IDE, own harness, swap models mid-conversation",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://voidleap.com/",
+        "discovered_at": "2026-08-19"
     },
     {
         "name": "VS Code Extensions Scraper - Marketplace Data & Analytics API",
@@ -83089,6 +83199,16 @@
         "discovered_at": "2026-07-28"
     },
     {
+        "name": "Draw",
+        "description": "Show HN: Draw.city – geography game where you circle the target population [US]",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://draw.city/",
+        "discovered_at": "2026-08-19"
+    },
+    {
         "name": "Eu-west-1a",
         "description": "ShowTracker – Free social tracker for TV, movies, anime, and manga",
         "category": "Entertainment",
@@ -85258,6 +85378,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Jamanetwork",
+        "description": "Will Autonomous AI Exceed AI-Aided Physicians as the Best Medical Care?",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jamanetwork.com/journals/jama/fullarticle/2852952?guestAccessKey=562af865-a038-4425-993f-ff25e5e3a130",
+        "discovered_at": "2026-08-19"
+    },
+    {
         "name": "Klausai",
         "description": "Show HN: Klaus – OpenClaw on a VM, batteries included",
         "category": "Government & Health",
@@ -85305,6 +85435,16 @@
         "cors": "unknown",
         "url": "https://openclaw.ai/blog/openclaw-security-in-public",
         "discovered_at": "2026-05-01"
+    },
+    {
+        "name": "Pantheongpu",
+        "description": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pantheongpu.com/",
+        "discovered_at": "2026-08-19"
     },
     {
         "name": "Politico",
@@ -86794,6 +86934,16 @@
         "discovered_at": "2026-03-18"
     },
     {
+        "name": "Europeroboticsmap",
+        "description": "Show HN: Europe Robotics Map – An open source map of robotics companies",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://europeroboticsmap.com/",
+        "discovered_at": "2026-08-19"
+    },
+    {
         "name": "Feedvote",
         "description": "Turn Linear issues into a public roadmap and feedback board",
         "category": "Maps & Transport",
@@ -87227,6 +87377,16 @@
         "cors": "unknown",
         "url": "https://windygap.app",
         "discovered_at": "2026-08-15"
+    },
+    {
+        "name": "Yourroadmark",
+        "description": "Show HN: Roadmark – roadmaps that branch instead of overwriting the plan",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://yourroadmark.com",
+        "discovered_at": "2026-08-19"
     },
     {
         "name": "Adobe Experience Manager (AEM) API",
@@ -88543,6 +88703,16 @@
         "cors": "unknown",
         "url": "https://news.cornell.edu/stories/2026/08/alums-company-creates-tech-pain-free-tattoos",
         "discovered_at": "2026-08-16"
+    },
+    {
+        "name": "News",
+        "description": "Taxing AI to Help Workers Sounds Good, but Public Deserves More",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://news.bloombergtax.com/tax-insights-and-commentary/taxing-ai-to-help-workers-sounds-good-but-public-deserves-more",
+        "discovered_at": "2026-08-19"
     },
     {
         "name": "NewsAPI",
@@ -92473,6 +92643,16 @@
         "discovered_at": "2026-06-10"
     },
     {
+        "name": "Ark",
+        "description": "Measuring Apple M4 cache latency from Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ark.marianposaceanu.com/measuring-apple-m4-cache-latency",
+        "discovered_at": "2026-08-19"
+    },
+    {
         "name": "Arpitbhayani",
         "description": "Don't Wait, Learn – The Best Resource Is Mythical",
         "category": "Other",
@@ -93893,6 +94073,16 @@
         "discovered_at": "2026-03-22"
     },
     {
+        "name": "Context-engine",
+        "description": "Show HN: My agents kept hallucinating APIs, so I built them a headless IDE",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://context-engine.app",
+        "discovered_at": "2026-08-19"
+    },
+    {
         "name": "Contrapunk",
         "description": "Show HN: Contrapunk – Real-time counterpoint harmony from guitar input",
         "category": "Other",
@@ -94333,6 +94523,16 @@
         "discovered_at": "2026-07-06"
     },
     {
+        "name": "Demo",
+        "description": "Show HN: Keystroke Biometrics Demo",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://demo.behavlabs.com/",
+        "discovered_at": "2026-08-19"
+    },
+    {
         "name": "Demoday",
         "description": "Show HN: Beautiful Clickable Demos",
         "category": "Other",
@@ -94431,6 +94631,16 @@
         "cors": "unknown",
         "url": "https://dhruvahuja.me/posts/ai-impact-on-oss/",
         "discovered_at": "2026-05-15"
+    },
+    {
+        "name": "Diaryof",
+        "description": "Show HN: A static personal site with post-quantum signed and encrypted URLs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://diaryof.me/tools/",
+        "discovered_at": "2026-08-19"
     },
     {
         "name": "Didon",
@@ -95921,6 +96131,16 @@
         "cors": "unknown",
         "url": "https://glad-ia-tor.com/",
         "discovered_at": "2026-03-13"
+    },
+    {
+        "name": "Gladeapi",
+        "description": "Show HN: Glade API – Amazon data for every build",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gladeapi.com",
+        "discovered_at": "2026-08-19"
     },
     {
         "name": "Glama",
@@ -98713,6 +98933,16 @@
         "discovered_at": "2026-03-16"
     },
     {
+        "name": "Ninethirty",
+        "description": "Show HN: NinethirtyAI – A US equity research and analysis platform",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ninethirty.ai/drmarket/",
+        "discovered_at": "2026-08-19"
+    },
+    {
         "name": "Nishal21",
         "description": "Show HN: CarbonLint – Open-source real-time energy&carbon profiler for software",
         "category": "Other",
@@ -98791,6 +99021,16 @@
         "cors": "unknown",
         "url": "https://npgsqlrest.github.io/blog/sql-rest-api.html",
         "discovered_at": "2026-04-11"
+    },
+    {
+        "name": "Nradiobox",
+        "description": "Show HN: I brought back a free online radio player project I built 16 years ago",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nradiobox.com/",
+        "discovered_at": "2026-08-19"
     },
     {
         "name": "Numa",
@@ -99011,6 +99251,16 @@
         "cors": "unknown",
         "url": "https://openagentloops.featherless.ai/",
         "discovered_at": "2026-07-03"
+    },
+    {
+        "name": "Openalternative",
+        "description": "Spinifex: Open-Source Amazon Web Services Alternative – OpenAlternative",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://openalternative.co/spinifex",
+        "discovered_at": "2026-08-19"
     },
     {
         "name": "Openapi-test-generator",
@@ -100201,6 +100451,16 @@
         "cors": "unknown",
         "url": "https://ras.ac.uk/news-and-press/research-highlights/best-places-look-alien-life-scientists-identify-45-earth-worlds",
         "discovered_at": "2026-03-21"
+    },
+    {
+        "name": "Rasterly",
+        "description": "Show HN: Rasterly – a cheaper screenshot and PDF API with a live demo",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rasterly.dev/",
+        "discovered_at": "2026-08-19"
     },
     {
         "name": "Ratemyaisite",
@@ -103931,6 +104191,16 @@
         "cors": "unknown",
         "url": "https://chivukulavirinchi.github.io/photovault/",
         "discovered_at": "2026-07-26"
+    },
+    {
+        "name": "Codewindow",
+        "description": "Show HN: Codewindow – Picture in picture for terminal agents",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://codewindow.app/",
+        "discovered_at": "2026-08-19"
     },
     {
         "name": "Ddphotos",
@@ -108964,6 +109234,16 @@
         "cors": "unknown",
         "url": "https://apify.com/easyapi/lowes-product-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Lunacal-sable",
+        "description": "Customize a lunar calendar generator. Try FREE",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lunacal-sable.vercel.app/",
+        "discovered_at": "2026-08-19"
     },
     {
         "name": "MachineryTrader Search Scraper",
@@ -117981,6 +118261,16 @@
         "cors": "unknown",
         "url": "https://www.danielfox.ie/2026/ios-shortcuts-youtube-hls",
         "discovered_at": "2026-04-08"
+    },
+    {
+        "name": "Dbimg",
+        "description": "DBimg – free image/video/audio hosting with permanent direct links",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dbimg.app/en",
+        "discovered_at": "2026-08-19"
     },
     {
         "name": "Deezer",
