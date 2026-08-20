@@ -150,6 +150,16 @@
         "discovered_at": "2026-03-15"
     },
     {
+        "name": "Agentbadge",
+        "description": "Show HN: AgentBadge – Agent Readiness Scoring for APIs (SEO for AI Agents)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agentbadge.xyz/blog/what-is-agent-readiness",
+        "discovered_at": "2026-08-20"
+    },
+    {
         "name": "Agentlookup",
         "description": "Show HN: AgentLookup – A public registry where AI agents find each other",
         "category": "AI & Machine Learning",
@@ -780,6 +790,16 @@
         "discovered_at": "2026-04-18"
     },
     {
+        "name": "Archron",
+        "description": "Show HN: AI agents can now safely write to your CRMs",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.archron.app/",
+        "discovered_at": "2026-08-20"
+    },
+    {
         "name": "Archytasdigital",
         "description": "Show HN: A Free AI Visibility Tracker",
         "category": "AI & Machine Learning",
@@ -898,6 +918,16 @@
         "cors": "unknown",
         "url": "https://autoicdapi.com",
         "discovered_at": "2026-03-12"
+    },
+    {
+        "name": "Baseten",
+        "description": "Inference Engineering: A free book on the systems behind AI inference",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.baseten.co/inference-engineering/",
+        "discovered_at": "2026-08-20"
     },
     {
         "name": "Benchmark-yourself",
@@ -3304,6 +3334,16 @@
         "discovered_at": "2026-08-12"
     },
     {
+        "name": "Marginalhq",
+        "description": "Show HN: Marginal – See which customers and features drive your AI API costs",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://marginalhq.com/",
+        "discovered_at": "2026-08-20"
+    },
+    {
         "name": "Margindash",
         "description": "Show HN: Stop over-budget AI API calls per customer/feature (no proxy)",
         "category": "AI & Machine Learning",
@@ -4060,6 +4100,16 @@
         "cors": "unknown",
         "url": "https://www.pairform.io/",
         "discovered_at": "2026-03-21"
+    },
+    {
+        "name": "Palladiummag",
+        "description": "American AI May Not Survive Chinese Open-Source",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.palladiummag.com/2026/08/19/american-ai-may-not-survive-chinese-open-source/",
+        "discovered_at": "2026-08-20"
     },
     {
         "name": "Paper-trader",
@@ -6146,6 +6196,16 @@
         "cors": "unknown",
         "url": "https://wuphf.team",
         "discovered_at": "2026-05-10"
+    },
+    {
+        "name": "Xalgorix",
+        "description": "Show HN: Xalgorix – open-source AI pentester that proves vulnerabilities",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.xalgorix.com/",
+        "discovered_at": "2026-08-20"
     },
     {
         "name": "Yashkapure",
@@ -9800,6 +9860,16 @@
         "discovered_at": "2026-07-04"
     },
     {
+        "name": "Copylasso",
+        "description": "Show HN: CopyLasso, a free local screen OCR app for macOS",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://copylasso.com/",
+        "discovered_at": "2026-08-20"
+    },
+    {
         "name": "Display",
         "description": "Show HN: Display.dev, agent-native way to publish HTML or MD behind company auth",
         "category": "Auth & Identity",
@@ -10370,6 +10440,16 @@
         "cors": "unknown",
         "url": "https://picklebrowser.com/",
         "discovered_at": "2026-08-12"
+    },
+    {
+        "name": "Plugos",
+        "description": "A pocketable AI agent – Tokens free to use now",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://plugos.net/plugclaw/",
+        "discovered_at": "2026-08-20"
     },
     {
         "name": "Profiler",
@@ -17960,6 +18040,16 @@
         "discovered_at": "2026-04-21"
     },
     {
+        "name": "Mainly",
+        "description": "Show HN: Mail client optimized for self-hosted email across multiple domains",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mainly.crnst8.com/",
+        "discovered_at": "2026-08-20"
+    },
+    {
         "name": "Marcoapp",
         "description": "Show HN: Marco, a privacy-first, offline-first email client (IMAP-native, no AI)",
         "category": "Communication",
@@ -18267,6 +18357,16 @@
         "cors": "unknown",
         "url": "https://api.hubspot.com/api-catalog-public/v1/apis/communication-preferences/v3",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Tempo-checker",
+        "description": "Show HN: Tempo Checker – Real-time disposable email detection API",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tempo-checker.rami-dev.com/",
+        "discovered_at": "2026-08-20"
     },
     {
         "name": "Thelawin",
@@ -50117,6 +50217,16 @@
         "discovered_at": "2026-05-06"
     },
     {
+        "name": "Arc-skill",
+        "description": "100% RHAE on ARC-AGI-3 public with Claude Code, Opus 5, and one skill",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://arc-skill.vercel.app/",
+        "discovered_at": "2026-08-20"
+    },
+    {
         "name": "Arcaide",
         "description": "Show HN: Arcaide – Explore code with multi-level call graphs",
         "category": "Development",
@@ -52404,6 +52514,16 @@
         "cors": "unknown",
         "url": "https://apify.com/lukaskrivka/csv-file-to-dataset",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Ctrltool",
+        "description": "Show HN: CtrlTool – 132 free online tools for developers and everyday tasks",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ctrltool.wtf",
+        "discovered_at": "2026-08-20"
     },
     {
         "name": "Custom Web Scraping Service",
@@ -86074,6 +86194,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Hackster",
+        "description": "PINE64 halts their open-source hardware manufacturing until the AI bubble bursts",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.hackster.io/news/pine64-calls-time-on-the-linux-hardware-market-ceases-production-until-the-ai-bubble-bursts-a865c8345041",
+        "discovered_at": "2026-08-20"
+    },
+    {
         "name": "Helloveil",
         "description": "Show HN: VeilPhantom – Open-source on-device PII detection for AI pipelines",
         "category": "IoT & Hardware",
@@ -87278,6 +87408,16 @@
         "cors": "unknown",
         "url": "https://stashbase.ai/build-map/",
         "discovered_at": "2026-05-29"
+    },
+    {
+        "name": "Strawberry9",
+        "description": "The Psychological Transition from C to Rust",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://strawberry9.github.io/the-wrong-memory/Appendix_04.html",
+        "discovered_at": "2026-08-20"
     },
     {
         "name": "Supakit",
@@ -92483,6 +92623,16 @@
         "discovered_at": "2026-04-15"
     },
     {
+        "name": "Apisign",
+        "description": "Show HN: APISign – E-signature API, templates are Markdown files in your repo",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apisign.io/",
+        "discovered_at": "2026-08-20"
+    },
+    {
         "name": "Apisubstack",
         "description": "Show HN: The Posting Substack API",
         "category": "Other",
@@ -93861,6 +94011,16 @@
         "cors": "unknown",
         "url": "https://www.cli.poker/",
         "discovered_at": "2026-07-15"
+    },
+    {
+        "name": "Clibo",
+        "description": "Show HN: Clibo – A privacy-first, Vim inspired clipboard manager written in Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://clibo.app/",
+        "discovered_at": "2026-08-20"
     },
     {
         "name": "Clickhouse",
@@ -96733,6 +96893,16 @@
         "discovered_at": "2026-04-02"
     },
     {
+        "name": "Iiio",
+        "description": "Show HN: CIYA – Purely Deterministic AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://iiio.app?u=showhn",
+        "discovered_at": "2026-08-20"
+    },
+    {
         "name": "Imgur",
         "description": "Show HN: I forced Claude to play Tetris in Emacs",
         "category": "Other",
@@ -99503,6 +99673,16 @@
         "discovered_at": "2026-03-23"
     },
     {
+        "name": "Orion-agent",
+        "description": "Orion: The open-source agentic BI platform",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://orion-agent.ai",
+        "discovered_at": "2026-08-20"
+    },
+    {
         "name": "Oroboroslabs-ai",
         "description": "AGI asking for new data in public demo interface",
         "category": "Other",
@@ -99521,6 +99701,16 @@
         "cors": "unknown",
         "url": "https://orobot.io/",
         "discovered_at": "2026-05-15"
+    },
+    {
+        "name": "Orvena",
+        "description": "Show HN: Building a full agentic harness around a 4B model is hard",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://orvena.app/",
+        "discovered_at": "2026-08-20"
     },
     {
         "name": "Ossresistance",
@@ -102213,6 +102403,16 @@
         "discovered_at": "2026-05-10"
     },
     {
+        "name": "Superprez",
+        "description": "Show HN: Superprez.io – Sharing and Collaboration for AI-Generated Decks",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.superprez.io",
+        "discovered_at": "2026-08-20"
+    },
+    {
         "name": "Swag",
         "description": "Show HN: Swagsocial",
         "category": "Other",
@@ -103803,6 +104003,16 @@
         "discovered_at": "2026-08-03"
     },
     {
+        "name": "Zmina",
+        "description": "Show HN: Zmina – clipboard with per-app paste transforms",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://zmina.app/",
+        "discovered_at": "2026-08-20"
+    },
+    {
         "name": "Account API",
         "description": "This API is used for the classic integration. If you are just starting your implementation, refer to our [new integration guide](https://docs.adyen.com/marketplaces-and-platforms) instead.\n\nThe Accoun",
         "category": "payment",
@@ -104517,6 +104727,16 @@
         "cors": "unknown",
         "url": "https://www.prizmkey.com",
         "discovered_at": "2026-07-31"
+    },
+    {
+        "name": "Removelogofromphotos",
+        "description": "Show HN: Remove logo from any t-shirt",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.removelogofromphotos.com/",
+        "discovered_at": "2026-08-20"
     },
     {
         "name": "Renderpop",
@@ -110595,6 +110815,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Projectzen",
+        "description": "Show HN: Infinitely nestable visual task organizer and workload simulator",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://projectzen.com/home",
+        "discovered_at": "2026-08-20"
+    },
+    {
         "name": "Property24 South Africa Scraper",
         "description": "Effortlessly extract real estate data from Property24, South Africa's leading property portal. This powerful scraper collects comprehensive property details including prices, locations, descriptions,.",
         "category": "Productivity",
@@ -116235,6 +116465,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.mockaroo.com/api/docs"
+    },
+    {
+        "name": "Openmock",
+        "description": "Show HN: Open-source, 3D mockup designer for apps",
+        "category": "Testing",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://openmock.app/",
+        "discovered_at": "2026-08-20"
     },
     {
         "name": "ReqRes",
