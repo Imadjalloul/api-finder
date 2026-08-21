@@ -450,6 +450,16 @@
         "discovered_at": "2026-06-30"
     },
     {
+        "name": "Aitoolsinsiderhq",
+        "description": "Show HN: An autonomous AI agent running one project for two months in public",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aitoolsinsiderhq.com/log/",
+        "discovered_at": "2026-08-21"
+    },
+    {
         "name": "Aki",
         "description": "Aki.io – Open-source AI models via API on EU infrastructure (OpenAI-compatible)",
         "category": "AI & Machine Learning",
@@ -918,6 +928,16 @@
         "cors": "unknown",
         "url": "https://autoicdapi.com",
         "discovered_at": "2026-03-12"
+    },
+    {
+        "name": "Basecompute",
+        "description": "Show HN: Zero () friction local AI for Mac",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.basecompute.co/local",
+        "discovered_at": "2026-08-21"
     },
     {
         "name": "Baseten",
@@ -3673,6 +3693,16 @@
         "discovered_at": "2026-03-23"
     },
     {
+        "name": "Netic",
+        "description": "We replaced our 223-node agent graph with a single open-source LLM",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.netic.ai/replacing-node-agent-graph-with-open-source-llm",
+        "discovered_at": "2026-08-21"
+    },
+    {
         "name": "Neuronpedia",
         "description": "Neuronpedia, an open source platform for AI interpretability",
         "category": "AI & Machine Learning",
@@ -4370,6 +4400,16 @@
         "cors": "unknown",
         "url": "https://prompttrace.airedlab.com",
         "discovered_at": "2026-07-28"
+    },
+    {
+        "name": "Proofagent",
+        "description": "AI Agent Governance – a free book on AI Agent evaluation and governance",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.proofagent.ai/book",
+        "discovered_at": "2026-08-21"
     },
     {
         "name": "Proreview",
@@ -5328,6 +5368,16 @@
         "cors": "unknown",
         "url": "https://system-2-arena.vercel.app/",
         "discovered_at": "2026-07-14"
+    },
+    {
+        "name": "Tablecanon",
+        "description": "Show HN: Building Table Canon, an AI Campaign Memory Engine for TTRPGs",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tablecanon.app/",
+        "discovered_at": "2026-08-21"
     },
     {
         "name": "Tabularis",
@@ -45877,6 +45927,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Youtilitics",
+        "description": "Show HN: Youtilitics, energy usage analytics from utility data, no hardware",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://youtilitics.com/",
+        "discovered_at": "2026-08-21"
+    },
+    {
         "name": "Youtube Ads Realtime Scraper",
         "description": "Youtube ads scraper, from a list of youtube video, extract youtube advertisers from youtube ads showing on youtube videos. Extract the list of advertisers with multiple data. Is ad skipable, ad...",
         "category": "Data & Analytics",
@@ -53785,6 +53845,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Epho",
+        "description": "Show HN: Epho – run Claude Code with a curl",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://epho.io",
+        "discovered_at": "2026-08-21"
+    },
+    {
         "name": "Episko",
         "description": "Show HN: Cockpit for you Claude Code agents in Rust",
         "category": "Development",
@@ -59246,6 +59316,16 @@
         "cors": "unknown",
         "url": "https://apify.com/parseforge/markdown-to-pdf-mcp",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Markdownbuddy",
+        "description": "Show HN: Markdown Buddy – Native macOS Markdown Editor with Quick Look and Xcode",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://markdownbuddy.inawa.app/",
+        "discovered_at": "2026-08-21"
     },
     {
         "name": "Marketplace",
@@ -82051,6 +82131,16 @@
         "discovered_at": "2026-04-04"
     },
     {
+        "name": "Excusemyfrench",
+        "description": "Show HN: Excuse My French – an Open Source French-learning app",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://excusemyfrench.org/",
+        "discovered_at": "2026-08-21"
+    },
+    {
         "name": "Foundera",
         "description": "Show HN: YC Startup School, but AI-Native",
         "category": "Education",
@@ -82209,6 +82299,16 @@
         "cors": "unknown",
         "url": "https://reviscio.com",
         "discovered_at": "2026-08-04"
+    },
+    {
+        "name": "Scibly",
+        "description": "Show HN: Open-source tool turning company knowledge into Duolingo-like courses",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.scibly.com/de/",
+        "discovered_at": "2026-08-21"
     },
     {
         "name": "Steadcast",
@@ -85350,6 +85450,16 @@
         "discovered_at": "2026-04-22"
     },
     {
+        "name": "Bloomberglaw",
+        "description": "Rickman v. Apple, Inc. (N.D. Cal., Aug. 6, 2026)",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.bloomberglaw.com/api/v1/public/download/X2K9PC2CAT8OPAH7MV2P5QMI0B?public_link=RICKMANvAppleIncDocketNo526cv08218NDCalAug062026CourtDocket",
+        "discovered_at": "2026-08-21"
+    },
+    {
         "name": "Chicago",
         "description": "Private equity dismantled West Suburban Medical Center and other area hospitals",
         "category": "Government & Health",
@@ -86352,6 +86462,16 @@
         "cors": "unknown",
         "url": "https://signalcend.com/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Simedw",
+        "description": "Show HN: I trained a 125M model to autocomplete piano on-device",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+        "discovered_at": "2026-08-21"
     },
     {
         "name": "Simten",
@@ -88664,6 +88784,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://github.com/HackerNews/API"
+    },
+    {
+        "name": "Hackerznews",
+        "description": "Show HN: Hackerznews – Yet Another HN Client",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hackerznews.vercel.app",
+        "discovered_at": "2026-08-21"
     },
     {
         "name": "Hackobar",
@@ -92583,6 +92713,16 @@
         "discovered_at": "2026-07-31"
     },
     {
+        "name": "Api",
+        "description": "Show HN: luoluoAI – OpenAI-compatible and Claude Messages API gateway",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://api.luoluocoder.com/",
+        "discovered_at": "2026-08-21"
+    },
+    {
         "name": "API",
         "description": "Web API for TL mobile and web app",
         "category": "Other",
@@ -93101,6 +93241,16 @@
         "cors": "unknown",
         "url": "https://www.bbc.com/news/articles/cj0d6el50ppo",
         "discovered_at": "2026-03-21"
+    },
+    {
+        "name": "Beavercheck",
+        "description": "Show HN: Free Web audit over 100 checks",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://beavercheck.com/",
+        "discovered_at": "2026-08-21"
     },
     {
         "name": "Beehiiv-reader",
@@ -93861,6 +94011,16 @@
         "cors": "unknown",
         "url": "https://charityverify.com/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Charwise",
+        "description": "A better way to view diffs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://charwise.vercel.app/",
+        "discovered_at": "2026-08-21"
     },
     {
         "name": "Checkapi",
@@ -96143,6 +96303,16 @@
         "discovered_at": "2026-05-29"
     },
     {
+        "name": "Getmaxim",
+        "description": "Top Open Source MCP Gateways in 2026",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.getmaxim.ai/articles/top-5-open-source-mcp-gateways-in-2026/",
+        "discovered_at": "2026-08-21"
+    },
+    {
         "name": "Getpeek",
         "description": "Show HN: Peek – A Figma like DB GUI",
         "category": "Other",
@@ -96893,6 +97063,16 @@
         "discovered_at": "2026-04-02"
     },
     {
+        "name": "Ihatelatex",
+        "description": "Show HN: A LaTeX resume builder that compiles offline in the browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ihatelatex.com/",
+        "discovered_at": "2026-08-21"
+    },
+    {
         "name": "Iiio",
         "description": "Show HN: CIYA – Purely Deterministic AI",
         "category": "Other",
@@ -97391,6 +97571,16 @@
         "cors": "unknown",
         "url": "https://kalvir.life/clock",
         "discovered_at": "2026-07-23"
+    },
+    {
+        "name": "Kandelo",
+        "description": "Show HN: Kandelo – a POSIX-compatible multi-process WASM kernel for the browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kandelo.dev/20260819-demo/",
+        "discovered_at": "2026-08-21"
     },
     {
         "name": "Kaxil",
@@ -98433,6 +98623,16 @@
         "discovered_at": "2026-08-08"
     },
     {
+        "name": "Meiert",
+        "description": "AI-Driven Development Means Test-Driven Development",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://meiert.com/blog/ai-and-tdd/",
+        "discovered_at": "2026-08-21"
+    },
+    {
         "name": "Meilisearch v1.0",
         "description": "Meilisearch v1.0 API",
         "category": "Other",
@@ -99001,6 +99201,16 @@
         "cors": "unknown",
         "url": "https://nellailabs.ai",
         "discovered_at": "2026-08-07"
+    },
+    {
+        "name": "Nest",
+        "description": "Elpe, the Universal Package Installer",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nest.pijul.com/pmeunier/elpe/tree",
+        "discovered_at": "2026-08-21"
     },
     {
         "name": "Nestforge",
@@ -100023,6 +100233,16 @@
         "discovered_at": "2026-05-15"
     },
     {
+        "name": "Pingchange",
+        "description": "Show HN: PingChange – monitor web pages and OpenAPI specs for meaningful changes",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pingchange.com",
+        "discovered_at": "2026-08-21"
+    },
+    {
         "name": "Piruet",
         "description": "Show HN: Piruetas – A self-hosted diary app I built for my girlfriend",
         "category": "Other",
@@ -100401,6 +100621,16 @@
         "cors": "unknown",
         "url": "https://pu.dev/",
         "discovered_at": "2026-05-01"
+    },
+    {
+        "name": "Pub",
+        "description": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pub.doub.ly/",
+        "discovered_at": "2026-08-21"
     },
     {
         "name": "Public",
@@ -101241,6 +101471,16 @@
         "cors": "unknown",
         "url": "https://salt-lang.dev/playground/",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Sameerhimati",
+        "description": "Show HN: Sourcery – Benchmark for search APIs on the sources they return",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sameerhimati.com/sourcery/",
+        "discovered_at": "2026-08-21"
     },
     {
         "name": "Samspov",
@@ -102663,6 +102903,16 @@
         "discovered_at": "2026-06-19"
     },
     {
+        "name": "Testmagic",
+        "description": "Show HN: testmagic.link – Zero-setup magic link testing for coding agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://testmagic.link",
+        "discovered_at": "2026-08-21"
+    },
+    {
         "name": "Texposit",
         "description": "Show HN: TeXposit – LaTeX and Markdown Editor",
         "category": "Other",
@@ -103473,6 +103723,16 @@
         "discovered_at": "2026-06-03"
     },
     {
+        "name": "Vibeleaderboard",
+        "description": "Index of the best vibe coding tools",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.vibeleaderboard.ai/tools",
+        "discovered_at": "2026-08-21"
+    },
+    {
         "name": "Visisign",
         "description": "Show HN: VisiSign – $0.10 per envelope e-signatures with no monthly fee",
         "category": "Other",
@@ -103621,6 +103881,16 @@
         "cors": "unknown",
         "url": "https://washingtonspectator.org/israeli-government-is-spending-millions-to-court-american-evangelicals-amid-plummeting-public-support/",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Wavehouse",
+        "description": "Show HN: WaveHouse – Supabase for ClickHouse",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wavehouse.dev",
+        "discovered_at": "2026-08-21"
     },
     {
         "name": "Waxspinner",
@@ -104011,6 +104281,16 @@
         "cors": "unknown",
         "url": "https://zmina.app/",
         "discovered_at": "2026-08-20"
+    },
+    {
+        "name": "Zoneless",
+        "description": "Show HN: Open-source Stripe Connect alternative",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://zoneless.com",
+        "discovered_at": "2026-08-21"
     },
     {
         "name": "Account API",
@@ -113842,6 +114122,16 @@
         "url": "https://arxiv.org/help/api/"
     },
     {
+        "name": "Astronomy-buddy",
+        "description": "Show HN: Astronomy Buddy–what's worth pointing a telescope at tonight",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://astronomy-buddy.com/",
+        "discovered_at": "2026-08-21"
+    },
+    {
         "name": "Axios",
         "description": "Elon Musk's SpaceX files to go public",
         "category": "Science",
@@ -115172,6 +115462,16 @@
         "discovered_at": "2026-03-05"
     },
     {
+        "name": "Billiondollartweets",
+        "description": "Show HN: A directory of the best tweets available on twitter. hand-picked. no AI",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://billiondollartweets.com/",
+        "discovered_at": "2026-08-21"
+    },
+    {
         "name": "Boredpeoplechat",
         "description": "Show HN: Bored People Chat – Anonymous global chat room",
         "category": "Social",
@@ -115448,6 +115748,16 @@
         "cors": "unknown",
         "url": "https://platypusnotes.com/",
         "discovered_at": "2026-04-30"
+    },
+    {
+        "name": "Praxos",
+        "description": "Show HN: Praxos – team messaging with built-in memory",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.praxos.ai/",
+        "discovered_at": "2026-08-21"
     },
     {
         "name": "Reddit",
@@ -118881,6 +119191,16 @@
         "discovered_at": "2026-06-01"
     },
     {
+        "name": "Muscriptor-iota",
+        "description": "Hosted a Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://muscriptor-iota.vercel.app/",
+        "discovered_at": "2026-08-21"
+    },
+    {
         "name": "Myhomecat",
         "description": "Show HN: HomeCat – Turn a phone video into permit-ready building plans",
         "category": "Video & Media",
@@ -119424,6 +119744,16 @@
         "cors": "unknown",
         "url": "https://preflightapi.io/",
         "discovered_at": "2026-03-04"
+    },
+    {
+        "name": "Radi8",
+        "description": "Show HN: We chased a weather balloon across Montana and never found it",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://radi8.dev/blog/uplink/",
+        "discovered_at": "2026-08-21"
     },
     {
         "name": "Strataweather",
