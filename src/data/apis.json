@@ -550,6 +550,16 @@
         "discovered_at": "2026-04-10"
     },
     {
+        "name": "Anjadhe",
+        "description": "Show HN: Anjadhe – privacy first AI assistant, no account, no server DB",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.anjadhe.com/demo",
+        "discovered_at": "2026-08-22"
+    },
+    {
         "name": "Anothertodo",
         "description": "Show HN: A $4/mo AI todo app – 3 todos free, pay for the 4th",
         "category": "AI & Machine Learning",
@@ -3102,6 +3112,16 @@
         "cors": "unknown",
         "url": "https://lemonade-server.ai",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Letter",
+        "description": "American AI May Not Survive Chinese Open-Source",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://letter.palladiummag.com/p/american-ai-may-not-survive-chinese",
+        "discovered_at": "2026-08-22"
     },
     {
         "name": "Lettera-chi",
@@ -10237,6 +10257,16 @@
         "discovered_at": "2026-07-26"
     },
     {
+        "name": "Aikido",
+        "description": "We burned 11.7B tokens to find the best cyber AI model",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.aikido.dev/blog/ai-model-benchmarks-aug-21-2026",
+        "discovered_at": "2026-08-22"
+    },
+    {
         "name": "Ainexusdaily",
         "description": "DeepSeek V4-Flash released: 284B params, 1M-token context, free to use",
         "category": "Blockchain",
@@ -16917,6 +16947,16 @@
         "discovered_at": "2026-05-30"
     },
     {
+        "name": "Demo",
+        "description": "Show HN: Mini DBA – monitoring for on prem and cloud databases in 1 place",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://demo.minidba.com/kiosk-human-check?returnUrl=%2F",
+        "discovered_at": "2026-08-22"
+    },
+    {
         "name": "Dropbox",
         "description": "File storage, sharing, and synchronization",
         "category": "Cloud & Storage",
@@ -18565,6 +18605,16 @@
         "cors": "unknown",
         "url": "https://wawebsender.com",
         "discovered_at": "2026-07-24"
+    },
+    {
+        "name": "Wha",
+        "description": "WhatsApp raised some API rates 300% and will end free messages soon",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wha.tools/blog/whatsapp-business-pricing-investigation-2026",
+        "discovered_at": "2026-08-22"
     },
     {
         "name": "Whodunnitai",
@@ -85598,6 +85648,16 @@
         "discovered_at": "2026-08-08"
     },
     {
+        "name": "Humansystems",
+        "description": "Agentic AI overwhelmed CI, and test selection cut queueing from hours to minutes",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://humansystems.dudzik.co/p/when-agents-make-ci-the-bottleneck",
+        "discovered_at": "2026-08-22"
+    },
+    {
         "name": "Infermedica API",
         "description": "Empower your healthcare services with intelligent diagnostic insights of Infermedica API.",
         "category": "Government & Health",
@@ -87360,6 +87420,16 @@
         "cors": "unknown",
         "url": "https://www.maptoolkit.org/",
         "discovered_at": "2026-07-23"
+    },
+    {
+        "name": "Modelmap",
+        "description": "Show HN: Interactive, animated architecture of any HuggingFace models",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://modelmap.cc",
+        "discovered_at": "2026-08-22"
     },
     {
         "name": "Neobotnet",
@@ -92833,6 +92903,16 @@
         "discovered_at": "2026-08-12"
     },
     {
+        "name": "App",
+        "description": "Show HN: Flight Ledger – Track your flights, what they cost, and United status",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.flightledger.net",
+        "discovered_at": "2026-08-22"
+    },
+    {
         "name": "Appnull",
         "description": "Show HN: Null. – Free RSVP speed reader built for ADHD brains",
         "category": "Other",
@@ -93761,6 +93841,16 @@
         "cors": "unknown",
         "url": "https://www.brunoblocker.com/",
         "discovered_at": "2026-07-22"
+    },
+    {
+        "name": "Bryanhu",
+        "description": "Turn any REST API into the shape of another",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bryanhu.com/shotgun/",
+        "discovered_at": "2026-08-22"
     },
     {
         "name": "Bsky",
@@ -95853,6 +95943,16 @@
         "discovered_at": "2026-06-09"
     },
     {
+        "name": "Firezone",
+        "description": "Firezone REST API generally available",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.firezone.dev/blog/rest-api-ga",
+        "discovered_at": "2026-08-22"
+    },
+    {
         "name": "Fivetakes",
         "description": "String",
         "category": "Other",
@@ -97261,6 +97361,16 @@
         "cors": "unknown",
         "url": "https://intuitivecompute.com",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Investment-bets",
+        "description": "Show HN: Investment Bets – A performance tracker for market bets",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://investment-bets.com",
+        "discovered_at": "2026-08-22"
     },
     {
         "name": "Ipcrawl",
@@ -99693,6 +99803,16 @@
         "discovered_at": "2026-06-16"
     },
     {
+        "name": "Openknowledge",
+        "description": "Open-source plugin for Open Knowledge Format wikis",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://openknowledge.ai/blog/open-knowledge-format-okf-plugin-linter",
+        "discovered_at": "2026-08-22"
+    },
+    {
         "name": "Openloom",
         "description": "Show HN: OpenLoom, a Loom alternative, with your own Supabase",
         "category": "Other",
@@ -99941,6 +100061,16 @@
         "cors": "unknown",
         "url": "https://oy-agent.com",
         "discovered_at": "2026-04-02"
+    },
+    {
+        "name": "Ozbrain",
+        "description": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ozbrain.com",
+        "discovered_at": "2026-08-22"
     },
     {
         "name": "Pacetraining",
@@ -103233,6 +103363,16 @@
         "discovered_at": "2026-06-11"
     },
     {
+        "name": "Tosynch",
+        "description": "Show HN: Tosynch – reconnect with your friends and meet often",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tosynch.com",
+        "discovered_at": "2026-08-22"
+    },
+    {
         "name": "Trackm",
         "description": "Show HN: Trackm, a personal finance web app",
         "category": "Other",
@@ -103801,6 +103941,16 @@
         "cors": "unknown",
         "url": "https://vote-demo.dapp32.com/about",
         "discovered_at": "2026-03-02"
+    },
+    {
+        "name": "Voxoria",
+        "description": "Show HN: Can you tell Wodehouse from a model imitating Wodehouse?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://voxoria.ai/ai-or-not-text/",
+        "discovered_at": "2026-08-22"
     },
     {
         "name": "Voxthermic",
@@ -114132,6 +114282,16 @@
         "discovered_at": "2026-08-21"
     },
     {
+        "name": "Axiologic",
+        "description": "Show HN:Over 50 AI-assisted books on science fiction and original philosophy",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.axiologic.net/books.html",
+        "discovered_at": "2026-08-22"
+    },
+    {
         "name": "Axios",
         "description": "Elon Musk's SpaceX files to go public",
         "category": "Science",
@@ -115500,6 +115660,16 @@
         "cors": "unknown",
         "url": "https://burnroom.chat",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Chickenbutt",
+        "description": "Show HN: ChickenButt a Native GTK Chat Client for Ollama on Linux",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.chickenbutt.dev/",
+        "discovered_at": "2026-08-22"
     },
     {
         "name": "Chrrpt",
@@ -118467,6 +118637,16 @@
         "url": "https://loripsum.net/"
     },
     {
+        "name": "Lullabyconverter",
+        "description": "Show HN: AI-generated music box version of any song (for baby)",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lullabyconverter.com",
+        "discovered_at": "2026-08-22"
+    },
+    {
         "name": "Meiguodz",
         "description": "Show HN: Generate random, valid US residential addresses for testing",
         "category": "Utilities",
@@ -119239,6 +119419,16 @@
         "cors": "unknown",
         "url": "https://www.palmier.io/",
         "discovered_at": "2026-06-19"
+    },
+    {
+        "name": "Pianoify",
+        "description": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.pianoify.net/",
+        "discovered_at": "2026-08-22"
     },
     {
         "name": "Podads",
