@@ -9605,6 +9605,16 @@
         "discovered_at": "2026-08-07"
     },
     {
+        "name": "Rawdog-one",
+        "description": "Show HN: I built a simple free app that helps control ADHD symptoms",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rawdog-one.vercel.app/",
+        "discovered_at": "2026-08-23"
+    },
+    {
         "name": "Read-the-water",
         "description": "Show HN: A free mini game that makes you a smarter fly fisherperson",
         "category": "Animals",
@@ -10037,6 +10047,16 @@
         "cors": "unknown",
         "url": "https://limenauth.dev/blog/introducing-limen",
         "discovered_at": "2026-04-26"
+    },
+    {
+        "name": "Loginwithone",
+        "description": "Show HN: Anonymous age verification with passkey-powered encryption",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://loginwithone.com/",
+        "discovered_at": "2026-08-23"
     },
     {
         "name": "Markojs-tutorial",
@@ -84177,6 +84197,16 @@
         "url": "https://www.exchangerate-api.com/"
     },
     {
+        "name": "Financialdata",
+        "description": "Show HN: Financialdata.net – Stock Market API with Python SDK and MCP Server",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://financialdata.net/stock-market-api",
+        "discovered_at": "2026-08-23"
+    },
+    {
         "name": "Finnhub",
         "description": "Real-time stock prices, company financials, and news",
         "category": "Finance",
@@ -92243,6 +92273,16 @@
         "discovered_at": "2026-03-13"
     },
     {
+        "name": "A2gmarketplace",
+        "description": "Show HN: A2G (Agent to Agent) Marketplace – Beta Test",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.a2gmarketplace.com",
+        "discovered_at": "2026-08-23"
+    },
+    {
         "name": "A8",
         "description": "Show HN: Sfotty Pie – A browser-based Atari 8-bit emulator in TypeScript",
         "category": "Other",
@@ -96123,6 +96163,16 @@
         "discovered_at": "2026-07-17"
     },
     {
+        "name": "Forst-lang",
+        "description": "Show HN: Forst – migrate TypeScript back ends to Go incrementally",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://forst-lang.org/docs",
+        "discovered_at": "2026-08-23"
+    },
+    {
         "name": "Fortune",
         "description": "Tech is in turmoil but the rest of corporate America isn't",
         "category": "Other",
@@ -98723,6 +98773,16 @@
         "discovered_at": "2026-03-26"
     },
     {
+        "name": "Meetless",
+        "description": "Show HN: Active Source of Truth for Your Coding Agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://meetless.ai",
+        "discovered_at": "2026-08-23"
+    },
+    {
         "name": "Meettogather",
         "description": "Show HN: Picks a fair meeting point for your group, whatever their commute types",
         "category": "Other",
@@ -99071,6 +99131,16 @@
         "cors": "unknown",
         "url": "https://monochess.pages.dev",
         "discovered_at": "2026-05-31"
+    },
+    {
+        "name": "Monsterwriter",
+        "description": "Open sourcing MonsterWriter, piece by piece",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.monsterwriter.com/open-source.html",
+        "discovered_at": "2026-08-23"
     },
     {
         "name": "Mood",
@@ -103373,6 +103443,16 @@
         "discovered_at": "2026-08-22"
     },
     {
+        "name": "Traccia",
+        "description": "Show HN: Traccia - Observability, Runtime Control & Audit for agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://traccia.ai/",
+        "discovered_at": "2026-08-23"
+    },
+    {
         "name": "Trackm",
         "description": "Show HN: Trackm, a personal finance web app",
         "category": "Other",
@@ -104081,6 +104161,16 @@
         "cors": "unknown",
         "url": "https://api.swaggerhub.com/apis/Wealth-Reader/api/1.0.0",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Web-studio-mentorship",
+        "description": "Show HN: 2 Weeks 1-on-1 Web Design Mentorship Program (Registration Open)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://web-studio-mentorship.vercel.app",
+        "discovered_at": "2026-08-23"
     },
     {
         "name": "Webklip",
@@ -116907,6 +116997,16 @@
         "cors": "unknown",
         "url": "https://getmocktail.com/",
         "discovered_at": "2026-08-15"
+    },
+    {
+        "name": "Http-response",
+        "description": "Show HN: I built a tool for creating mock HTTP endpoints",
+        "category": "Testing",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.http-response.com/",
+        "discovered_at": "2026-08-23"
     },
     {
         "name": "Infinitymock",
