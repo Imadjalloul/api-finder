@@ -2994,6 +2994,16 @@
         "discovered_at": "2026-06-04"
     },
     {
+        "name": "Knowledgelens",
+        "description": "Show HN: Lens AI – generate your JSON-LD files and keep them up-to-date",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://knowledgelens.ai/",
+        "discovered_at": "2026-08-24"
+    },
+    {
         "name": "Kodama",
         "description": "Let your AI agent talk to someone else's – open-source MCP rooms",
         "category": "AI & Machine Learning",
@@ -3092,6 +3102,16 @@
         "cors": "unknown",
         "url": "https://leanpub.com/buildingpragmaticaiagentsthatusetoolsandapis",
         "discovered_at": "2026-06-19"
+    },
+    {
+        "name": "Learnleap",
+        "description": "Show HN: Learn Leap, an AI tutor that teaches from your own material",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://learnleap.xyz",
+        "discovered_at": "2026-08-24"
     },
     {
         "name": "Ledgi",
@@ -88659,6 +88679,16 @@
         "discovered_at": "2026-07-24"
     },
     {
+        "name": "Bitbucket",
+        "description": "News API Comparison 2026",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bitbucket.org/free-news-api/news-api-comparison/src/main/",
+        "discovered_at": "2026-08-24"
+    },
+    {
         "name": "Bitvibelabs",
         "description": "Show HN: TickerNotch: Live tickers and news in the MacBook notch",
         "category": "News",
@@ -95583,6 +95613,16 @@
         "discovered_at": "2026-04-26"
     },
     {
+        "name": "Encse",
+        "description": "Show HN: Ditdah – A Morse App for the Terminal",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://encse.github.io/ditdah/",
+        "discovered_at": "2026-08-24"
+    },
+    {
         "name": "Engagemii",
         "description": "Show HN: Is your brand invisible to AI? We built a free visibility score",
         "category": "Other",
@@ -95661,6 +95701,16 @@
         "cors": "unknown",
         "url": "https://eran.sandler.co.il/post/2026-04-27-batch-api-is-terrible-for-one-agent/",
         "discovered_at": "2026-04-28"
+    },
+    {
+        "name": "Eso",
+        "description": "Milky Way's fastest star orbits a black hole so close, it feels its spin",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.eso.org/public/news/eso2612/",
+        "discovered_at": "2026-08-24"
     },
     {
         "name": "Esploro",
@@ -104531,6 +104581,16 @@
         "cors": "unknown",
         "url": "https://zoneless.com",
         "discovered_at": "2026-08-21"
+    },
+    {
+        "name": "Zuse",
+        "description": "Show HN: Zuse\" One agent coordinating 20 Linear issues in worktrees",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.zuse.sh/",
+        "discovered_at": "2026-08-24"
     },
     {
         "name": "Account API",
@@ -115742,6 +115802,16 @@
         "discovered_at": "2026-07-29"
     },
     {
+        "name": "Bulkpublish",
+        "description": "Publish to 15 social media channels using AI agents, free",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.bulkpublish.com/",
+        "discovered_at": "2026-08-24"
+    },
+    {
         "name": "Burnroom",
         "description": "Show HN: Burn Room – End-to-End Encrypted Ephemeral SSH Chat",
         "category": "Social",
@@ -115968,6 +116038,16 @@
         "cors": "unknown",
         "url": "https://memotrader.com",
         "discovered_at": "2026-03-14"
+    },
+    {
+        "name": "Microphone",
+        "description": "Show HN: Self-Hosted Social Media Agents with Raspberry Pi",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.microphone.computer/",
+        "discovered_at": "2026-08-24"
     },
     {
         "name": "Openclawdiscord",
@@ -120074,6 +120154,16 @@
         "cors": "unknown",
         "url": "https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Terminaltrove",
+        "description": "Show HN: linecast – weather, radar, tides and maps in the terminal",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://terminaltrove.com/linecast/",
+        "discovered_at": "2026-08-24"
     },
     {
         "name": "Tomorrow.io",
