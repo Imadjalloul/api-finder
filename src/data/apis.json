@@ -2884,6 +2884,16 @@
         "discovered_at": "2026-06-22"
     },
     {
+        "name": "Jasondoyle",
+        "description": "Show HN: When AI Decides What Matters",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jasondoyle.ie/whitepapers/when-ai-decides-what-matters/",
+        "discovered_at": "2026-08-25"
+    },
+    {
         "name": "Jayacunzo",
         "description": "The best response to AI slop and online noise is from Robin Williams",
         "category": "AI & Machine Learning",
@@ -3691,6 +3701,16 @@
         "cors": "unknown",
         "url": "https://mvrckhckr.com/articles/ai-is-a-self-esteem-test",
         "discovered_at": "2026-04-10"
+    },
+    {
+        "name": "Mybestlook",
+        "description": "Show HN: AI stylist and virtual try-on for hair, makeup, and outfits",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mybestlook.app",
+        "discovered_at": "2026-08-25"
     },
     {
         "name": "Nature",
@@ -5628,6 +5648,16 @@
         "cors": "unknown",
         "url": "https://www.thewebsite.app/",
         "discovered_at": "2026-03-06"
+    },
+    {
+        "name": "Thisisrobin",
+        "description": "Show HN: AI for people that still browse the web",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thisisrobin.ai/",
+        "discovered_at": "2026-08-25"
     },
     {
         "name": "Thisorthis",
@@ -17103,6 +17133,16 @@
         "url": "https://apidocs.imgur.com/"
     },
     {
+        "name": "Infoq",
+        "description": "Cloudflare OS: Open-Source Corp AI Platform Built on a Capability-Based Model",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/",
+        "discovered_at": "2026-08-25"
+    },
+    {
         "name": "Infrawiseai",
         "description": "Show HN: Infrawise Azure Cloud Optimization",
         "category": "Cloud & Storage",
@@ -17290,6 +17330,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://pastebin.com/doc_api"
+    },
+    {
+        "name": "Picomq",
+        "description": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://picomq.com/",
+        "discovered_at": "2026-08-25"
     },
     {
         "name": "Pocketweb",
@@ -42955,6 +43005,16 @@
         "cors": "unknown",
         "url": "https://apify.com/sandaliaapps/truthsocial-profile-data-extractor",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Trydashi",
+        "description": "Show HN: Dashi – a 214KB Chrome new tab dashboard with no servers or analytics",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://trydashi.app/",
+        "discovered_at": "2026-08-25"
     },
     {
         "name": "Tumblr Email Scraper",
@@ -85748,6 +85808,16 @@
         "discovered_at": "2026-04-26"
     },
     {
+        "name": "Medicine",
+        "description": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+        "discovered_at": "2026-08-25"
+    },
+    {
         "name": "Modelbias",
         "description": "Show HN: What's AI's go-to, public or private healthcare?",
         "category": "Government & Health",
@@ -85756,6 +85826,16 @@
         "cors": "unknown",
         "url": "https://www.modelbias.ai/prompt/public-or-private-healthcare",
         "discovered_at": "2026-07-24"
+    },
+    {
+        "name": "Newatlas",
+        "description": "FDA approves first Alzheimer's blood test for Americans as young as 40",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://newatlas.com/brain/alzheimers-dementia/fda-approves-first-alzheimers-blood-test/",
+        "discovered_at": "2026-08-25"
     },
     {
         "name": "Open FDA",
@@ -93943,6 +94023,16 @@
         "discovered_at": "2026-06-05"
     },
     {
+        "name": "Bughunters",
+        "description": "Scaling Memory Safety: AI-Assisted Rewrites of C/C++ Dependencies to Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bughunters.google.com/blog/scaling-memory-safety",
+        "discovered_at": "2026-08-25"
+    },
+    {
         "name": "Bugstack",
         "description": "Show HN: BugStack – Autonomous error fixing that ships to prod while you sleep",
         "category": "Other",
@@ -94463,6 +94553,16 @@
         "discovered_at": "2026-07-22"
     },
     {
+        "name": "Colorclip",
+        "description": "Show HN: A <1MB free color picker that lives in your menu bar",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://colorclip.ionicabizau.net/",
+        "discovered_at": "2026-08-25"
+    },
+    {
         "name": "Colossee",
         "description": "Show HN: Timestamp and provenance records for AI-assisted creative work",
         "category": "Other",
@@ -94841,6 +94941,16 @@
         "cors": "unknown",
         "url": "https://cygnus.run",
         "discovered_at": "2026-07-26"
+    },
+    {
+        "name": "Danielvaughn",
+        "description": "Show HN: Huzzah – a novel approach to coding with AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.danielvaughn.dev/posts/huzzah/",
+        "discovered_at": "2026-08-25"
     },
     {
         "name": "Darrikonn",
@@ -96893,6 +97003,16 @@
         "discovered_at": "2026-03-13"
     },
     {
+        "name": "Hdls",
+        "description": "Show HN: Headless Tools – No UI SaaS tools for agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hdls.tools",
+        "discovered_at": "2026-08-25"
+    },
+    {
         "name": "Headlesspdf",
         "description": "Show HN: HeadlessPDF – An API for Generating PDFs from URLs",
         "category": "Other",
@@ -97891,6 +98011,16 @@
         "cors": "unknown",
         "url": "https://kmrjohnson55.github.io/truth-diagram/",
         "discovered_at": "2026-03-22"
+    },
+    {
+        "name": "Kms",
+        "description": "Show HN: My friend built a Gleam server – let's try to take it down",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kms.andrewpavlov.org/",
+        "discovered_at": "2026-08-25"
     },
     {
         "name": "Konbiniapi",
@@ -103021,6 +103151,16 @@
         "cors": "unknown",
         "url": "https://tapfi.uno/",
         "discovered_at": "2026-04-22"
+    },
+    {
+        "name": "Tarjan",
+        "description": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tarjan.itch.io/thoreaubasic",
+        "discovered_at": "2026-08-25"
     },
     {
         "name": "Taurusagents",
