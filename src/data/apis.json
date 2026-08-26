@@ -370,6 +370,16 @@
         "discovered_at": "2026-08-06"
     },
     {
+        "name": "Aiearnings",
+        "description": "Recent public co filings analyzed: AI not generating profit yet",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aiearnings.dev/",
+        "discovered_at": "2026-08-26"
+    },
+    {
         "name": "Aiforactualwork",
         "description": "AI for Actual Work – a free, self-paced AI training program by Remote.com",
         "category": "AI & Machine Learning",
@@ -2605,6 +2615,16 @@
         "discovered_at": "2026-06-09"
     },
     {
+        "name": "Hermes-agent",
+        "description": "Hermes Agent – Open-Source AI Agent That Grows with You",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hermes-agent.nousresearch.com",
+        "discovered_at": "2026-08-26"
+    },
+    {
         "name": "Heyhalo",
         "description": "Show HN: I built Halo, a private AI assistant for your Mac (free)",
         "category": "AI & Machine Learning",
@@ -2844,6 +2864,16 @@
         "discovered_at": "2026-04-30"
     },
     {
+        "name": "Interviewbasecamp",
+        "description": "Free AI Based Interview Preparation",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.interviewbasecamp.com/",
+        "discovered_at": "2026-08-26"
+    },
+    {
         "name": "Interviewpracticeai",
         "description": "Show HN: AI mock interview tool that scores your answers – free, no signup",
         "category": "AI & Machine Learning",
@@ -2972,6 +3002,16 @@
         "cors": "unknown",
         "url": "https://kagento.io",
         "discovered_at": "2026-03-28"
+    },
+    {
+        "name": "Keenable",
+        "description": "Show HN: Keenable – A different web search API for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://keenable.ai/",
+        "discovered_at": "2026-08-26"
     },
     {
         "name": "Kelet",
@@ -4652,6 +4692,16 @@
         "discovered_at": "2026-08-03"
     },
     {
+        "name": "Rankspot",
+        "description": "Show HN: AI SEO Blog driven by deep competitor intelligence",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.rankspot.ai",
+        "discovered_at": "2026-08-26"
+    },
+    {
         "name": "Rauno",
         "description": "Show HN: A multi-model interface where LLMs discuss & argue with each other",
         "category": "AI & Machine Learning",
@@ -4979,6 +5029,16 @@
         "cors": "unknown",
         "url": "https://www.screamer.app/",
         "discovered_at": "2026-03-31"
+    },
+    {
+        "name": "Sdi-protocol",
+        "description": "Show HN: A hash-chained ledger for AI reasoning you can verify yourself",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.sdi-protocol.org",
+        "discovered_at": "2026-08-26"
     },
     {
         "name": "Selbonds",
@@ -9900,6 +9960,16 @@
         "cors": "unknown",
         "url": "https://agent-thread.com",
         "discovered_at": "2026-05-20"
+    },
+    {
+        "name": "Agentgrid",
+        "description": "Show HN: Save Claude, codex, Grok and OpenCode sessions to an infinite canvas",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agentgrid.sh/",
+        "discovered_at": "2026-08-26"
     },
     {
         "name": "Agentlair",
@@ -52066,6 +52136,16 @@
         "discovered_at": "2026-03-28"
     },
     {
+        "name": "Codeengineered",
+        "description": "When Open Standards and Specs Are Better Than Open Source",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://codeengineered.com/blog/2026/open-spec-better-open-source/",
+        "discovered_at": "2026-08-26"
+    },
+    {
         "name": "Codeground",
         "description": "Which developer tools should be free or offer more features?",
         "category": "Development",
@@ -52094,6 +52174,16 @@
         "cors": "unknown",
         "url": "https://codeledger.dev",
         "discovered_at": "2026-03-18"
+    },
+    {
+        "name": "Codeplusequalsai",
+        "description": "Show HN: LLM-powered webapp to build LLM-powered webapps",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://codeplusequalsai.com/dashboard",
+        "discovered_at": "2026-08-26"
     },
     {
         "name": "Codesota",
@@ -58696,6 +58786,16 @@
         "cors": "unknown",
         "url": "https://apify.com/leadzen/leads-prospector-pro",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Learnfrom",
+        "description": "Show HN: I built a SaaS without knowing how to code – am I an idiot?",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.learnfrom.co/",
+        "discovered_at": "2026-08-26"
     },
     {
         "name": "Leasingmarkt.de Scraper",
@@ -68646,6 +68746,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Abovethelaw",
+        "description": "AI Contracts Are Quietly Becoming the Best Product Documentation",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://abovethelaw.com/2026/08/ai-contracts-are-quietly-becoming-the-best-product-documentation/",
+        "discovered_at": "2026-08-26"
+    },
+    {
         "name": "Acehardware Category Scraper",
         "description": "Effortlessly scrape detailed product data from Ace Hardware using keyword searches. Leverages PlaywrightCrawler for fast, reliable extraction of names, prices, stock, UPCs, brands, and images. Outputs",
         "category": "E-Commerce",
@@ -71414,6 +71524,16 @@
         "cors": "unknown",
         "url": "https://apify.com/mshopik/design-public-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Deskidols",
+        "description": "I think printable objects are an underrated way to test physical products",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://deskidols.vercel.app/",
+        "discovered_at": "2026-08-26"
     },
     {
         "name": "Desmond Dempsey Scraper",
@@ -82441,6 +82561,16 @@
         "discovered_at": "2026-06-28"
     },
     {
+        "name": "Readplusone",
+        "description": "Show HN: ReadPlusOne – Spanish stories built around the words you're learning",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://readplusone.com/",
+        "discovered_at": "2026-08-26"
+    },
+    {
         "name": "Reviscio",
         "description": "Reviscio – Free AI learning and study tools",
         "category": "Education",
@@ -83480,6 +83610,16 @@
         "discovered_at": "2026-06-09"
     },
     {
+        "name": "Canvasformusic",
+        "description": "Show HN: CanvasForMusic – I made a free Spotify Canvas maker that doesn't suck",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://canvasformusic.com",
+        "discovered_at": "2026-08-26"
+    },
+    {
         "name": "Chuck Norris Jokes",
         "description": "Random Chuck Norris jokes from a curated database",
         "category": "Entertainment",
@@ -83497,6 +83637,16 @@
         "cors": "unknown",
         "url": "https://coachess.app",
         "discovered_at": "2026-06-28"
+    },
+    {
+        "name": "Comic-cron",
+        "description": "Show HN: A daily cartoon contest between AI models, judged blind",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://comic-cron.com/",
+        "discovered_at": "2026-08-26"
     },
     {
         "name": "Contraband",
@@ -83577,6 +83727,26 @@
         "cors": "unknown",
         "url": "https://draw.city/",
         "discovered_at": "2026-08-19"
+    },
+    {
+        "name": "Drop7",
+        "description": "Show HN: Searching for optimal strategies in a puzzle game with chance (Drop7)",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://drop7.dev",
+        "discovered_at": "2026-08-26"
+    },
+    {
+        "name": "Est",
+        "description": "Show HN: Game to see if you're over-/under-confident in your own knowledge",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://est.alejo.ch/",
+        "discovered_at": "2026-08-26"
     },
     {
         "name": "Eu-west-1a",
@@ -83824,6 +83994,16 @@
         "cors": "unknown",
         "url": "https://omitten.com",
         "discovered_at": "2026-05-22"
+    },
+    {
+        "name": "Onlymusic",
+        "description": "Show HN: I built an AI music generator with some harnesses",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://onlymusic.ai",
+        "discovered_at": "2026-08-26"
     },
     {
         "name": "Phaser",
@@ -84139,6 +84319,16 @@
         "cors": "unknown",
         "url": "https://variety.com/2026/music/news/oliver-tree-dead-helicopter-crash-alien-boy-life-goes-on-1236780964/",
         "discovered_at": "2026-06-15"
+    },
+    {
+        "name": "Vidscio",
+        "description": "Show HN: VidScio – Identify movie/series from a URL, image or description",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.vidscio.com",
+        "discovered_at": "2026-08-26"
     },
     {
         "name": "Wanderinghorse",
@@ -92623,6 +92813,16 @@
         "discovered_at": "2026-08-08"
     },
     {
+        "name": "Agno",
+        "description": "100.00 RHAE on the ARC-AGI-3 public set",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.agno.com/articles/arc-agi-arcade",
+        "discovered_at": "2026-08-26"
+    },
+    {
         "name": "Ahd",
         "description": "Show HN: AHD – an open-source linter and eval framework for AI-generated UI",
         "category": "Other",
@@ -92671,6 +92871,16 @@
         "cors": "unknown",
         "url": "https://aisaastemplate.com/tools/cookiecutter/",
         "discovered_at": "2026-03-29"
+    },
+    {
+        "name": "Aito",
+        "description": "Aito v2: a predictive database over linked data, with vectors, graphs and SQL",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aito.ai/blog/aito-v2-public-beta/",
+        "discovered_at": "2026-08-26"
     },
     {
         "name": "Aiwai",
@@ -93833,6 +94043,16 @@
         "discovered_at": "2026-04-08"
     },
     {
+        "name": "Blogs",
+        "description": "Perplexity Launches Portable Computer Agent Optimized for Nvidia DGX Spark",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
+        "discovered_at": "2026-08-26"
+    },
+    {
         "name": "Bloomberg",
         "description": "OpenAI Is Almost Public",
         "category": "Other",
@@ -94211,6 +94431,16 @@
         "cors": "unknown",
         "url": "https://www.captchainbox.com",
         "discovered_at": "2026-07-07"
+    },
+    {
+        "name": "Captureagent",
+        "description": "Show HN: CaptureAgent – find, price, draft, grade, run and fund federal work",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://captureagent.us/",
+        "discovered_at": "2026-08-26"
     },
     {
         "name": "Cardneuro",
@@ -94643,6 +94873,16 @@
         "discovered_at": "2026-04-29"
     },
     {
+        "name": "Consumerreports",
+        "description": "Smart Toilets – Any serious opinions?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.consumerreports.org/home-garden/toilets/best-smart-toilets-a5030436405/",
+        "discovered_at": "2026-08-26"
+    },
+    {
         "name": "Context",
         "description": "Show HN: Context.dev – One API to scrape, enrich, and understand the web",
         "category": "Other",
@@ -94931,6 +95171,16 @@
         "cors": "unknown",
         "url": "https://cvforge.convexvalue.com/",
         "discovered_at": "2026-05-20"
+    },
+    {
+        "name": "Cybernetica",
+        "description": "France's tax agency got hacked (in French)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
+        "discovered_at": "2026-08-26"
     },
     {
         "name": "Cygnus",
@@ -95623,6 +95873,16 @@
         "discovered_at": "2026-06-10"
     },
     {
+        "name": "Ecdeos",
+        "description": "Show HN: Ecdeos – P2P Web/Native Distributed OS on Entity Core Protocol",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ecdeos.org",
+        "discovered_at": "2026-08-26"
+    },
+    {
         "name": "Echo",
         "description": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
         "category": "Other",
@@ -96023,6 +96283,16 @@
         "discovered_at": "2026-04-08"
     },
     {
+        "name": "Fdeploy",
+        "description": "Show HN: I built self-hosted deployment automation tool for Windows and IIS",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fdeploy.com/",
+        "discovered_at": "2026-08-26"
+    },
+    {
         "name": "Fed",
         "description": "Show HN: Fed.run – online collaborative Rust IDE and Markdown editor",
         "category": "Other",
@@ -96151,6 +96421,16 @@
         "cors": "unknown",
         "url": "https://www.firezone.dev/blog/rest-api-ga",
         "discovered_at": "2026-08-22"
+    },
+    {
+        "name": "Fitchratings",
+        "description": "U.S. Water Utilities Have Varied Ability to Absorb Colorado River Water Cuts",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.fitchratings.com/research/us-public-finance/us-water-utilities-have-varied-ability-to-absorb-colorado-river-water-cuts-25-08-2026",
+        "discovered_at": "2026-08-26"
     },
     {
         "name": "Fivetakes",
@@ -97363,6 +97643,16 @@
         "discovered_at": "2026-06-13"
     },
     {
+        "name": "Ifso",
+        "description": "Show HN: Ifso – A personal finance simulator for major life decisions",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ifso.io",
+        "discovered_at": "2026-08-26"
+    },
+    {
         "name": "Iggy",
         "description": "Apache Iggy: thread-per-core with io_uring in Rust",
         "category": "Other",
@@ -97761,6 +98051,16 @@
         "cors": "unknown",
         "url": "https://jigsawml.com/open-source-projects",
         "discovered_at": "2026-03-29"
+    },
+    {
+        "name": "Jobboardsearch",
+        "description": "Show HN: I built a search engine for 800 niche job boards",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jobboardsearch.com",
+        "discovered_at": "2026-08-26"
     },
     {
         "name": "Joeheyming",
@@ -98451,6 +98751,16 @@
         "cors": "unknown",
         "url": "https://looktwice.dev/tools",
         "discovered_at": "2026-08-17"
+    },
+    {
+        "name": "Loom",
+        "description": "Show HN: Propose and Dual-Control for DNS Changes",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.loom.com/share/16dff02ee5604b7daf3ebc7c9c93d8a4",
+        "discovered_at": "2026-08-26"
     },
     {
         "name": "Loony",
@@ -100803,6 +101113,16 @@
         "discovered_at": "2026-08-06"
     },
     {
+        "name": "Prasadpatil25",
+        "description": "Show HN: Mindspark",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://prasadpatil25.github.io/MindSpark/",
+        "discovered_at": "2026-08-26"
+    },
+    {
         "name": "Predictionhunt",
         "description": "Show HN: Prediction Hunt API – A unified layer for Polymarket, Kalshi, and more",
         "category": "Other",
@@ -101151,6 +101471,16 @@
         "cors": "unknown",
         "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
         "discovered_at": "2026-08-03"
+    },
+    {
+        "name": "Pyxle",
+        "description": "Show HN: Pyxle – Python and React in one file, no API layer",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pyxle.dev",
+        "discovered_at": "2026-08-26"
     },
     {
         "name": "Qed",
@@ -103423,6 +103753,16 @@
         "discovered_at": "2026-03-05"
     },
     {
+        "name": "Thevccorner",
+        "description": "5% of venture capitalists have generated roughly 90% of the industry's profits",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.thevccorner.com/p/100-best-performing-vc-firms-ranking-2026",
+        "discovered_at": "2026-08-26"
+    },
+    {
         "name": "Theverge",
         "description": "Welp, I Bought an iPhone Again",
         "category": "Other",
@@ -103973,6 +104313,16 @@
         "discovered_at": "2026-06-24"
     },
     {
+        "name": "Use-fs",
+        "description": "Show HN: Use-Fs – A React Hook for the File System Access API and OPFS",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://use-fs.com/",
+        "discovered_at": "2026-08-26"
+    },
+    {
         "name": "Useapparent",
         "description": "Show HN: Built a lightweight extension to simplify Gmail (free, local)",
         "category": "Other",
@@ -104483,6 +104833,16 @@
         "discovered_at": "2026-05-20"
     },
     {
+        "name": "Wirespan",
+        "description": "Show HN: Wirespan, a daily power grid optimization puzzle I made for my son",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wirespan.app/?r=hnn",
+        "discovered_at": "2026-08-26"
+    },
+    {
         "name": "Withcapsule",
         "description": "Show HN: Capsule – E2E encrypted file sharing",
         "category": "Other",
@@ -104681,6 +105041,16 @@
         "cors": "unknown",
         "url": "https://www.zerofs.net/blog/linux-filesystem-module-in-rust/",
         "discovered_at": "2026-08-01"
+    },
+    {
+        "name": "Zeroroot",
+        "description": "Show HN: Gibson ADK and Zero Trust Runtime",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.zeroroot.ai",
+        "discovered_at": "2026-08-26"
     },
     {
         "name": "Zilliz",
@@ -119370,6 +119740,16 @@
         "cors": "unknown",
         "url": "https://fastubu.com/",
         "discovered_at": "2026-06-23"
+    },
+    {
+        "name": "Feel-fx",
+        "description": "Open-sourced FeelFX – a Vision+Speech powered motion graphics engine for video",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://feel-fx.vercel.app/",
+        "discovered_at": "2026-08-26"
     },
     {
         "name": "Feralui",
