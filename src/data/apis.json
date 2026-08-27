@@ -50,6 +50,16 @@
         "discovered_at": "2026-07-12"
     },
     {
+        "name": "1presence",
+        "description": "Show HN: 1Presence – AI with memory at scale, layered recall and a vault you own",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://1presence.com/",
+        "discovered_at": "2026-08-27"
+    },
+    {
         "name": "3d-agent",
         "description": "Show HN: 3D-Agent – AI that edits Blender scenes through the Python API",
         "category": "AI & Machine Learning",
@@ -1018,6 +1028,16 @@
         "cors": "unknown",
         "url": "https://bettercallclaude.it/",
         "discovered_at": "2026-05-28"
+    },
+    {
+        "name": "Bindago",
+        "description": "Show HN: AI LinkedIn Message Personalisation",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bindago.com/features/ai-personalisation",
+        "discovered_at": "2026-08-27"
     },
     {
         "name": "Bix",
@@ -2555,6 +2575,16 @@
         "url": "https://console.groq.com/docs/quickstart"
     },
     {
+        "name": "Groundbrkr",
+        "description": "The Teaser Period: Why the AI Boom Is Hitting a Reset Wall",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom",
+        "discovered_at": "2026-08-27"
+    },
+    {
         "name": "Gruhn",
         "description": "A Test for AI Consciousness",
         "category": "AI & Machine Learning",
@@ -2593,6 +2623,16 @@
         "cors": "unknown",
         "url": "https://handler.team/",
         "discovered_at": "2026-06-02"
+    },
+    {
+        "name": "Handwrought",
+        "description": "Show HN: HandWrought – an AI editor inside your document, not a tab away",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://handwrought.online/",
+        "discovered_at": "2026-08-27"
     },
     {
         "name": "Helppeer",
@@ -2715,6 +2755,16 @@
         "discovered_at": "2026-04-16"
     },
     {
+        "name": "Howcomet",
+        "description": "Show HN: AI chat app build specifically for kids (howcomet.com)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://howcomet.com/",
+        "discovered_at": "2026-08-27"
+    },
+    {
         "name": "Howmachinesthink",
         "description": "I built a free AI curriculum from philosophy to LLMs",
         "category": "AI & Machine Learning",
@@ -2804,6 +2854,16 @@
         "discovered_at": "2026-07-19"
     },
     {
+        "name": "Iluvatarlabs",
+        "description": "Show HN: AI scientist builds an open-source Codex Micro from scratch for $40",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://iluvatarlabs.com/blog/2026/08/how-we-cloned-openai-codex-micro/",
+        "discovered_at": "2026-08-27"
+    },
+    {
         "name": "Inariwatch",
         "description": "InariWatch – Open-source AI monitoring that writes the fix while you sleep",
         "category": "AI & Machine Learning",
@@ -2812,6 +2872,16 @@
         "cors": "unknown",
         "url": "https://www.inariwatch.com/",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Inevolin",
+        "description": "What if AI were in charge of public policy and politics?",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://inevolin.github.io/blog/2026/08/25/should-we-let-ai-govern-us/",
+        "discovered_at": "2026-08-27"
     },
     {
         "name": "Infer0",
@@ -3721,6 +3791,16 @@
         "cors": "unknown",
         "url": "https://www.mozilla.ai/product/otari",
         "discovered_at": "2026-07-08"
+    },
+    {
+        "name": "Moztako",
+        "description": "Why Silicon Valley Is Losing Public Trust in AI Data Centers and Surveillance CM",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://moztako.me/ai-data-centers-and-surveillance-cameras/",
+        "discovered_at": "2026-08-27"
     },
     {
         "name": "Mustgo",
@@ -4859,6 +4939,16 @@
         "cors": "unknown",
         "url": "https://www.rnz.co.nz/life/wellbeing/tech-bros-say-ai-can-be-your-best-friend-experts-explain-why-it-can-t",
         "discovered_at": "2026-05-19"
+    },
+    {
+        "name": "Robinhood-demo",
+        "description": "Show HN: Millnew AI – Explaining time-series models using local LLMs and Captum",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://robinhood-demo.streamlit.app/",
+        "discovered_at": "2026-08-27"
     },
     {
         "name": "Rtagi",
@@ -9626,6 +9716,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Pantsforbirds",
+        "description": "Show HN: We built the smallest dual-band aircraft tracker",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
+        "discovered_at": "2026-08-27"
+    },
+    {
         "name": "Peninsulaforeveryone",
         "description": "Atherton spent $145K to delay train electrification. The rest of us paid $400M",
         "category": "Animals",
@@ -10248,6 +10348,16 @@
         "discovered_at": "2026-06-23"
     },
     {
+        "name": "Opensession",
+        "description": "Show HN: Open Session, the open-source cloud agent-orchestrator",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.opensession.com",
+        "discovered_at": "2026-08-27"
+    },
+    {
         "name": "Pattern",
         "description": "Show HN: Association rule mining on 21.6M poker hands",
         "category": "Auth & Identity",
@@ -10760,6 +10870,16 @@
         "cors": "unknown",
         "url": "https://tokendiet.dev/",
         "discovered_at": "2026-07-09"
+    },
+    {
+        "name": "Tokengo",
+        "description": "Show HN: Use GLM-5.3 in Cursor today via tokengo API",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.tokengo.com",
+        "discovered_at": "2026-08-27"
     },
     {
         "name": "Tokengobbler",
@@ -11505,6 +11625,16 @@
         "cors": "unknown",
         "url": "https://vernetit.github.io/s4/",
         "discovered_at": "2026-05-04"
+    },
+    {
+        "name": "Whisperbar",
+        "description": "Show HN: WhisperBar Trying to Fix Both Reading and Writing in the AI Age",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://whisperbar.app",
+        "discovered_at": "2026-08-27"
     },
     {
         "name": "Yourservicebook",
@@ -18109,6 +18239,16 @@
         "cors": "unknown",
         "url": "https://firethering.com/best-open-source-tts-models/",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Forkbench",
+        "description": "Show HN: Forkbench – the agent gets the API call, not the key (macOS)",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://forkbench.com",
+        "discovered_at": "2026-08-27"
     },
     {
         "name": "Freecustom",
@@ -51957,6 +52097,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Claudecoupons",
+        "description": "Show HN: I built a site to share and find Claude Code passes",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://claudecoupons.com",
+        "discovered_at": "2026-08-27"
+    },
+    {
         "name": "Claudescode",
         "description": "Show HN: Claude's Code – tracking the 19M+ commits generated by Claude on GitHub",
         "category": "Development",
@@ -52184,6 +52334,16 @@
         "cors": "unknown",
         "url": "https://codeplusequalsai.com/dashboard",
         "discovered_at": "2026-08-26"
+    },
+    {
+        "name": "Coderabbit",
+        "description": "CodeRabbit commits $10M+ to open source projects over the next 12 months",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.coderabbit.ai/blog/coderabbit-expands-its-commitment-to-open-source",
+        "discovered_at": "2026-08-27"
     },
     {
         "name": "Codesota",
@@ -68376,6 +68536,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Zetken",
+        "description": "Show HN: Zetken CI/CD Studio",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://zetken.com/",
+        "discovered_at": "2026-08-27"
+    },
+    {
         "name": "Zillow Data",
         "description": "Zillow Data API provides real-time access to Zillow property listings, detailed home info, price history, tax records, high-resolution images, and transportation scores. Perfect for real estate apps,.",
         "category": "Development",
@@ -69754,6 +69924,16 @@
         "cors": "unknown",
         "url": "https://apify.com/jupri/asda-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Asograde",
+        "description": "Show HN: ASOGrade – App Store keyword research using Apple Search Ads demand",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://asograde.com",
+        "discovered_at": "2026-08-27"
     },
     {
         "name": "Asos Data Scraper",
@@ -79082,6 +79262,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Storemock",
+        "description": "Show HN: StoreMock, a free, in-browser tool to create app store screenshots",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.storemock.com",
+        "discovered_at": "2026-08-27"
+    },
+    {
         "name": "Stradivarius",
         "description": "Scrape products from stradivarius.com websites. All countries and languages. Scrape the full website or scrape by product category or individual product. Fast and efficient.",
         "category": "E-Commerce",
@@ -82351,6 +82541,16 @@
         "discovered_at": "2026-04-30"
     },
     {
+        "name": "Baihais",
+        "description": "Show HN: BAIhAIs – an autonomous art school for AI agents",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://baihais.com/",
+        "discovered_at": "2026-08-27"
+    },
+    {
         "name": "Biteread",
         "description": "Show HN: Hacker News book recs as study guides",
         "category": "Education",
@@ -82399,6 +82599,16 @@
         "cors": "unknown",
         "url": "https://detawk.com/",
         "discovered_at": "2026-04-04"
+    },
+    {
+        "name": "Engineerprep",
+        "description": "Show HN: AI engineer course where every lesson is runnable Spring Boot project",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://engineerprep.io/",
+        "discovered_at": "2026-08-27"
     },
     {
         "name": "Excusemyfrench",
@@ -85998,6 +86208,16 @@
         "discovered_at": "2026-04-26"
     },
     {
+        "name": "Lookaal",
+        "description": "A free API that joins six Dutch government datasets into one REST endpoint",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lookaal.dev/",
+        "discovered_at": "2026-08-27"
+    },
+    {
         "name": "Medicine",
         "description": "FDA clears blood test to aid evaluation for Alzheimer's disease",
         "category": "Government & Health",
@@ -89088,6 +89308,16 @@
         "discovered_at": "2026-03-12"
     },
     {
+        "name": "Detroitnews",
+        "description": "Pilot program offering free bus rides to Detroit students to become permanent",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.detroitnews.com/story/news/local/detroit-city/2026/08/14/sheffield-makes-free-ddot-transit-for-students-permanent/91306496007/",
+        "discovered_at": "2026-08-27"
+    },
+    {
         "name": "Dreaming",
         "description": "Show HN: Dreaming.press – AI agents writing public blogs about their actual work",
         "category": "News",
@@ -89166,6 +89396,16 @@
         "cors": "unknown",
         "url": "https://www.fiercebiotech.com/biotech/definiums-lsd-formula-produces-best-data-ever-seen-pivotal-depression-trial-ceo-says",
         "discovered_at": "2026-06-23"
+    },
+    {
+        "name": "Foxnews",
+        "description": "Flock Safety CEO calls for national 'compromise' amid camera sabotage",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.foxnews.com/media/flock-safety-ceo-calls-national-compromise-amid-camera-sabotage-public-revolt",
+        "discovered_at": "2026-08-27"
     },
     {
         "name": "GNews",
@@ -92603,6 +92843,16 @@
         "discovered_at": "2026-06-19"
     },
     {
+        "name": "Abbs",
+        "description": "Show HN: ABBS – Public Agent Bulletin Board System",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://abbs.dev/",
+        "discovered_at": "2026-08-27"
+    },
+    {
         "name": "Abigail",
         "description": "I made a research test suite for analysis of software metrics overtime",
         "category": "Other",
@@ -93031,6 +93281,16 @@
         "cors": "unknown",
         "url": "https://anam.ai/",
         "discovered_at": "2026-07-15"
+    },
+    {
+        "name": "Ancestree",
+        "description": "Show HN: Ancestree – Give your family members biographies",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ancestree.marindedic.com/",
+        "discovered_at": "2026-08-27"
     },
     {
         "name": "Andonlabs",
@@ -93621,6 +93881,16 @@
         "cors": "unknown",
         "url": "https://bacist.com/german-irregular-verbs-app/",
         "discovered_at": "2026-04-22"
+    },
+    {
+        "name": "Backprompter",
+        "description": "Show HN: Backprompter – create, test, and deploy agents without a back end",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://backprompter.com/",
+        "discovered_at": "2026-08-27"
     },
     {
         "name": "Ballet",
@@ -95293,6 +95563,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Dblift",
+        "description": "Show HN: DBLift – database migration management for Python teams",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dblift.com/",
+        "discovered_at": "2026-08-27"
+    },
+    {
         "name": "Deadeclipse666",
         "description": "Two more public disclosures, it will never stop",
         "category": "Other",
@@ -95371,6 +95651,16 @@
         "cors": "unknown",
         "url": "https://demo.behavlabs.com/",
         "discovered_at": "2026-08-19"
+    },
+    {
+        "name": "Demo",
+        "description": "Show HN: Convolens – Real time slides and fact-checking",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://demo.convolens.ai",
+        "discovered_at": "2026-08-27"
     },
     {
         "name": "Demoday",
@@ -95821,6 +96111,16 @@
         "cors": "unknown",
         "url": "https://dsauerbrun.com/writing/dumb-garage",
         "discovered_at": "2026-07-24"
+    },
+    {
+        "name": "Ducklake",
+        "description": "Show HN: Apache DataFusion Support for DuckDB's DuckLake",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ducklake.select/2026/07/29/bringing-ducklake-to-datafusion/",
+        "discovered_at": "2026-08-27"
     },
     {
         "name": "Duetbrowser",
@@ -97623,6 +97923,16 @@
         "discovered_at": "2026-06-30"
     },
     {
+        "name": "Ideakache",
+        "description": "Show HN: IdeaKache – Ideas Worth Holding Onto",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ideakache.com",
+        "discovered_at": "2026-08-27"
+    },
+    {
         "name": "Idontuselinkedin",
         "description": "Show HN: Idontuselinkedin.com",
         "category": "Other",
@@ -98363,6 +98673,16 @@
         "discovered_at": "2026-05-30"
     },
     {
+        "name": "Kraa",
+        "description": "Show HN: Text editor that does it all",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kraa.io/about?s=hn",
+        "discovered_at": "2026-08-27"
+    },
+    {
         "name": "Kraemod",
         "description": "Show HN: I'm building the best POD in Nigeria",
         "category": "Other",
@@ -98921,6 +99241,16 @@
         "cors": "unknown",
         "url": "https://magaornot.ai",
         "discovered_at": "2026-03-23"
+    },
+    {
+        "name": "Magicpatterns",
+        "description": "Show HN: Build your own theme park",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.magicpatterns.com/theme-park",
+        "discovered_at": "2026-08-27"
     },
     {
         "name": "Main",
@@ -101683,6 +102013,16 @@
         "discovered_at": "2026-04-11"
     },
     {
+        "name": "Reachfa",
+        "description": "Show HN: I built a tool that finds people asking for what you sell",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://reachfa.st",
+        "discovered_at": "2026-08-27"
+    },
+    {
         "name": "Reactnative",
         "description": "Show HN: ReactNative.run – Browser Metro bundler that runs React Native",
         "category": "Other",
@@ -101991,6 +102331,16 @@
         "cors": "unknown",
         "url": "https://www.rise-reforming.com",
         "discovered_at": "2026-07-28"
+    },
+    {
+        "name": "Risklytics",
+        "description": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.risklytics.ai/",
+        "discovered_at": "2026-08-27"
     },
     {
         "name": "Rnbulktools",
@@ -104473,6 +104823,16 @@
         "discovered_at": "2026-03-24"
     },
     {
+        "name": "Vertexapp",
+        "description": "Show HN: Vertex, your personal archiver and annotator",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vertexapp.io/onboarding",
+        "discovered_at": "2026-08-27"
+    },
+    {
         "name": "Vetkuro",
         "description": "Show HN: Vetkuro, telemetry analysis for track-day drivers",
         "category": "Other",
@@ -105513,6 +105873,16 @@
         "discovered_at": "2026-05-01"
     },
     {
+        "name": "Deepanshumishraa",
+        "description": "Show HN: Wallps: set different live wallpapers for macOS desktop and lock screen",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://deepanshumishraa.github.io/wallps/",
+        "discovered_at": "2026-08-27"
+    },
+    {
         "name": "Diffusion",
         "description": "Show HN: Diffusion PDF – A Diffusion Image Model Embedded Entirely in a PDF File",
         "category": "Photography",
@@ -105847,6 +106217,16 @@
         "cors": "unknown",
         "url": "https://sunex-ai.com",
         "discovered_at": "2026-05-14"
+    },
+    {
+        "name": "Tabushield",
+        "description": "Show HN: Tabu, NSFW image and video API for explicit content moderation",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tabushield.com/",
+        "discovered_at": "2026-08-27"
     },
     {
         "name": "Terraink",
@@ -113145,6 +113525,16 @@
         "discovered_at": "2026-08-14"
     },
     {
+        "name": "Taskshell",
+        "description": "Show HN: I built an agent-first productivity bridge for all your agents",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.taskshell.app/",
+        "discovered_at": "2026-08-27"
+    },
+    {
         "name": "Tasty Articles",
         "description": "Get Tasty.co articles",
         "category": "Productivity",
@@ -116835,6 +117225,16 @@
         "discovered_at": "2026-07-22"
     },
     {
+        "name": "Baiseball",
+        "description": "Show HN: bAIseball.org – Google for historical baseball stats",
+        "category": "Sports",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://baiseball.org/",
+        "discovered_at": "2026-08-27"
+    },
+    {
         "name": "Blogs",
         "description": "Cisco open sources toolkit for tracing AI model lineage",
         "category": "Sports",
@@ -119514,6 +119914,16 @@
         "url": "https://cleanuri.com/docs"
     },
     {
+        "name": "Usecos",
+        "description": "Show HN: UseCOS – Free, client-side Canadian tax,mortgage, and legal calculators",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://usecos.app",
+        "discovered_at": "2026-08-27"
+    },
+    {
         "name": "UUID Generator",
         "description": "Generate UUIDs and decode their components",
         "category": "Utilities",
@@ -119631,6 +120041,16 @@
         "cors": "unknown",
         "url": "https://www.backblaze.com/blog/introducing-genblaze-a-python-sdk-for-generative-media-pipelines/",
         "discovered_at": "2026-06-12"
+    },
+    {
+        "name": "Birthdayvideo",
+        "description": "Show HN: BirthdayVideoAI – AI birthday video maker for wishes, invitations",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://birthdayvideo.ai",
+        "discovered_at": "2026-08-27"
     },
     {
         "name": "Classicvideopoker",
