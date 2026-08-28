@@ -5630,6 +5630,16 @@
         "discovered_at": "2026-04-28"
     },
     {
+        "name": "Talos-agent",
+        "description": "Show HN: Talos – An AI agent with a permission kernel between model and shell",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://talos-agent.ch/",
+        "discovered_at": "2026-08-28"
+    },
+    {
         "name": "Tangelo-ltd",
         "description": "Show HN: Stop LLMs from brute forcing (guessing) APIs",
         "category": "AI & Machine Learning",
@@ -6546,6 +6556,16 @@
         "cors": "unknown",
         "url": "https://zero-human-labs.com",
         "discovered_at": "2026-03-17"
+    },
+    {
+        "name": "Ziva",
+        "description": "Show HN: AI Game Playtester",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ziva.sh/full-game-tester",
+        "discovered_at": "2026-08-28"
     },
     {
         "name": "Zuckerbot",
@@ -18299,6 +18319,16 @@
         "cors": "unknown",
         "url": "https://hail.so/",
         "discovered_at": "2026-06-30"
+    },
+    {
+        "name": "Int21",
+        "description": "Pushing GPT-5.6 Luna from 0% to 56% on ARC-AGI-3 Public",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://int21.ai/insights/pushing-gpt-5-6-sol-to-100-on-arc-agi-3-public/",
+        "discovered_at": "2026-08-28"
     },
     {
         "name": "Interactive documentation for your Premium plan",
@@ -62876,6 +62906,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Repobeats",
+        "description": "Show HN: Repobeats – self-hostable GitHub activity cards in Rust",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://repobeats.com/",
+        "discovered_at": "2026-08-28"
+    },
+    {
         "name": "RequestList Bridge",
         "description": "Allows you to filter (thus cleaning up your list) and append new data to those requests before sending to your target task.  Also enables a workaround to provide requestsFromUrl to existing actors...",
         "category": "Development",
@@ -68534,6 +68574,16 @@
         "cors": "unknown",
         "url": "https://apify.com/canadesk/zendesk",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Zerolith",
+        "description": "Show HN: Easily deploy vibecode apps through MCP",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://zerolith.io/",
+        "discovered_at": "2026-08-28"
     },
     {
         "name": "Zetken",
@@ -84009,6 +84059,16 @@
         "discovered_at": "2026-07-20"
     },
     {
+        "name": "Ikandy",
+        "description": "Show HN: Music Visualizer|New MilkDrop engine and various types of reactive art",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ikandy.app/",
+        "discovered_at": "2026-08-28"
+    },
+    {
         "name": "Jarl-game",
         "description": "Procedural Pixel-Art Grass in Rust and WebGPU",
         "category": "Entertainment",
@@ -84055,6 +84115,16 @@
         "cors": "unknown",
         "url": "https://llamalegends.com/",
         "discovered_at": "2026-06-30"
+    },
+    {
+        "name": "M2w",
+        "description": "Show HN: I made a manga critique site with professional Japanese manga editors",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://m2w.ai/en",
+        "discovered_at": "2026-08-28"
     },
     {
         "name": "Manager",
@@ -93533,6 +93603,26 @@
         "discovered_at": "2026-08-22"
     },
     {
+        "name": "App",
+        "description": "Show HN: Public threads that branch when you reply",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.treechat.com/quest/post-0e602844-aa9a-4040-a637-02403bdc8284",
+        "discovered_at": "2026-08-28"
+    },
+    {
+        "name": "Appleinsider",
+        "description": "Don't use a free iPhone that just turns up at your home",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://appleinsider.com/articles/26/08/27/psa-dont-use-a-free-iphone-that-just-turns-up-at-your-home",
+        "discovered_at": "2026-08-28"
+    },
+    {
         "name": "Appnull",
         "description": "Show HN: Null. – Free RSVP speed reader built for ADHD brains",
         "category": "Other",
@@ -94001,6 +94091,16 @@
         "cors": "unknown",
         "url": "https://www.bestmillionstartups.com/best/x-original-content-rewards-2026",
         "discovered_at": "2026-08-10"
+    },
+    {
+        "name": "Bestprice",
+        "description": "Show HN: Public MCP for Greek price comparison (no API key)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.bestprice.gr/mcp",
+        "discovered_at": "2026-08-28"
     },
     {
         "name": "Bestresource-ai",
@@ -94841,6 +94941,16 @@
         "cors": "unknown",
         "url": "https://christophermeiklejohn.com/ai/zabriskie/agents/reliability/testing/2026/06/10/the-test-suite-was-the-incident.html",
         "discovered_at": "2026-06-11"
+    },
+    {
+        "name": "Classroomtimers",
+        "description": "Show HN: Classroom Timer – Free Online Countdown for Teachers",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://classroomtimers.app",
+        "discovered_at": "2026-08-28"
     },
     {
         "name": "Claude",
@@ -97423,6 +97533,16 @@
         "discovered_at": "2026-08-11"
     },
     {
+        "name": "Gmcgoldr",
+        "description": "Implementing Rust's Pin from Scratch, More or Less",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gmcgoldr.github.io/2026/08/27/pin-in-rust.html",
+        "discovered_at": "2026-08-28"
+    },
+    {
         "name": "Golemui",
         "description": "Show HN: GolemUI – Declarative Form Engine",
         "category": "Other",
@@ -98161,6 +98281,16 @@
         "cors": "unknown",
         "url": "https://instantcli.com",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Intelcue",
+        "description": "Show HN: Free tool that turns market research into a personal branding strategy",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.intelcue.ai/tools/personal-branding-strategy-builder",
+        "discovered_at": "2026-08-28"
     },
     {
         "name": "Interconnected",
@@ -101673,6 +101803,16 @@
         "discovered_at": "2026-08-15"
     },
     {
+        "name": "Publicdesktop",
+        "description": "Show HN: Public Desktop – public desktop of the internet",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://publicdesktop.lol",
+        "discovered_at": "2026-08-28"
+    },
+    {
         "name": "Puck",
         "description": "Love It or Lehane It",
         "category": "Other",
@@ -103643,6 +103783,16 @@
         "discovered_at": "2026-06-21"
     },
     {
+        "name": "Sudoreport",
+        "description": "Show HN: SudoReport – best tech aggregator edited by AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sudoreport.com/",
+        "discovered_at": "2026-08-28"
+    },
+    {
         "name": "Sunsetmesasoftware",
         "description": "Show HN: Rewire Text – system-wide text transforms with BYOK and local-models",
         "category": "Other",
@@ -104303,6 +104453,16 @@
         "discovered_at": "2026-04-09"
     },
     {
+        "name": "Topfloor",
+        "description": "Show HN",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://topfloor.company/",
+        "discovered_at": "2026-08-28"
+    },
+    {
         "name": "Topolog",
         "description": "Show HN: Topolog – Plans as typed DAG programs, deadlines computed, not guessed",
         "category": "Other",
@@ -104571,6 +104731,16 @@
         "cors": "unknown",
         "url": "https://turso.tech/blog/what-happens-with-oss-in-the-age-of-ai",
         "discovered_at": "2026-03-23"
+    },
+    {
+        "name": "Twing",
+        "description": "Show HN: Coordination Layer for Coding Agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://twing.dev/",
+        "discovered_at": "2026-08-28"
     },
     {
         "name": "Typedwith",
@@ -116196,6 +116366,16 @@
         "discovered_at": "2026-06-02"
     },
     {
+        "name": "Harden",
+        "description": "Show HN: Beating GPT5.5-xhigh for Coding agent security with SLMs and IRM",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://harden.run/blog/aif-research-and-evidence",
+        "discovered_at": "2026-08-28"
+    },
+    {
         "name": "Have I Been Pwned",
         "description": "Check if email addresses have been in data breaches",
         "category": "Security",
@@ -118998,6 +119178,16 @@
         "cors": "unknown",
         "url": "https://sourcelibrary.org",
         "discovered_at": "2026-06-08"
+    },
+    {
+        "name": "Subsmith",
+        "description": "Show HN: SubSmith – Turn your own videos into language-learning material",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://subsmith.app",
+        "discovered_at": "2026-08-28"
     },
     {
         "name": "Swadhinbiswas",
