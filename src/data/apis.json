@@ -2974,6 +2974,16 @@
         "discovered_at": "2026-06-24"
     },
     {
+        "name": "Itsuki",
+        "description": "Show HN: Itsuki – open-source memory engine for AI agents (API and MCP)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://itsuki.app/",
+        "discovered_at": "2026-08-29"
+    },
+    {
         "name": "Jacobee",
         "description": "Show HN: Jacobi–IDE for Abaqus subroutine with analytical tests and AI diagnosis",
         "category": "AI & Machine Learning",
@@ -4101,6 +4111,16 @@
         "cors": "unknown",
         "url": "https://www.nzz.ch/feuilleton/wir-muessen-uns-verteidigen-warum-susanne-wille-sich-gerade-mit-der-eth-verbuendet-ld.10018097",
         "discovered_at": "2026-08-12"
+    },
+    {
+        "name": "Oactodev",
+        "description": "Some GitHub bounty repos are honeypots that farm free work from AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://oactodev.github.io/ninety-quid/report/",
+        "discovered_at": "2026-08-29"
     },
     {
         "name": "Ohita",
@@ -10269,6 +10289,16 @@
         "discovered_at": "2026-06-11"
     },
     {
+        "name": "Kith",
+        "description": "Show HN: Kith – AI clinical notes for therapists from ambient session audio",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.kith.space",
+        "discovered_at": "2026-08-29"
+    },
+    {
         "name": "Lethe-ai",
         "description": "Show HN: Lethe is a portable identity layer – user consented",
         "category": "Auth & Identity",
@@ -10612,6 +10642,16 @@
         "cors": "unknown",
         "url": "https://www.chaingenius.ai",
         "discovered_at": "2026-07-01"
+    },
+    {
+        "name": "Clipscrub",
+        "description": "Show HN: I built a Mac app that replaces identifiers with stable tokens",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://clipscrub.com/",
+        "discovered_at": "2026-08-29"
     },
     {
         "name": "CoinLayer",
@@ -18129,6 +18169,16 @@
         "cors": "unknown",
         "url": "https://deadsimple.email/",
         "discovered_at": "2026-04-23"
+    },
+    {
+        "name": "Dipstickalerts",
+        "description": "Show HN: Dipstick Alerts – Search recalls and service bulletins for your car",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dipstickalerts.com",
+        "discovered_at": "2026-08-29"
     },
     {
         "name": "Discreetvoice",
@@ -60758,6 +60808,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Nexora-digital-rust",
+        "description": "Show HN: Nexora – Custom Automation and Data Pipeline Showcases",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nexora-digital-rust.vercel.app/",
+        "discovered_at": "2026-08-29"
+    },
+    {
         "name": "Next.co.uk Product Details Scraper",
         "description": "Extract comprehensive product details from Next.co.uk including pricing, inventory, specifications, and metadata. Our advanced scraper captures 30+ data fields for competitive analysis, market...",
         "category": "Development",
@@ -69894,6 +69954,16 @@
         "cors": "unknown",
         "url": "https://apify.com/saswave/approved-food-uk-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Appscreenshots",
+        "description": "Show HN: AppScreenshots – App Store screenshots in minutes, not hours",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://appscreenshots.net",
+        "discovered_at": "2026-08-29"
     },
     {
         "name": "Apt2B Scraper",
@@ -83781,6 +83851,16 @@
         "discovered_at": "2026-07-20"
     },
     {
+        "name": "Ai-rush",
+        "description": "Show HN: The UI AI-Slop game. No one can resist 5 minutes",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ai-rush.lol/",
+        "discovered_at": "2026-08-29"
+    },
+    {
         "name": "Aivideogenerator",
         "description": "Show HN: Turn a Suno song into a music video with beat-synced auto-editing",
         "category": "Entertainment",
@@ -87022,6 +87102,16 @@
         "cors": "unknown",
         "url": "https://www.hydron.sh/",
         "discovered_at": "2026-06-05"
+    },
+    {
+        "name": "Leiolai",
+        "description": "Show HN: Leiolai, AI that pays users for the compute their devices provide",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://leiolai.com/",
+        "discovered_at": "2026-08-29"
     },
     {
         "name": "Linustechtips",
@@ -93183,6 +93273,16 @@
         "discovered_at": "2026-07-23"
     },
     {
+        "name": "Airtight",
+        "description": "Show HN: Airtight – single-file portfolio tracker, zero servers, works offline",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://airtight.sell.app",
+        "discovered_at": "2026-08-29"
+    },
+    {
         "name": "Aisaastemplate",
         "description": "Show HN: Web-based setup tool for Django Cookiecutter",
         "category": "Other",
@@ -93901,6 +94001,16 @@
         "cors": "unknown",
         "url": "https://www.avanderlee.com/xcode/ios-time-zone-testing-physical-iphone/",
         "discovered_at": "2026-07-22"
+    },
+    {
+        "name": "Aweradio",
+        "description": "Show HN: Awe Radio, free 24/7 internet radio stations for anyone",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aweradio.app/",
+        "discovered_at": "2026-08-29"
     },
     {
         "name": "Aws",
@@ -96701,6 +96811,16 @@
         "cors": "unknown",
         "url": "https://fdeploy.com/",
         "discovered_at": "2026-08-26"
+    },
+    {
+        "name": "Featureflags",
+        "description": "Show HN: FeatureFlags.app – Feature Management for .NET",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://featureflags.app/",
+        "discovered_at": "2026-08-29"
     },
     {
         "name": "Fed",
@@ -100103,6 +100223,16 @@
         "discovered_at": "2026-06-16"
     },
     {
+        "name": "Moorcheh",
+        "description": "Own Your Data. Run Your Search. Keep Your Memory",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://moorcheh.ai/blog/moorcheh-on-prem-open-source-own-your-data",
+        "discovered_at": "2026-08-29"
+    },
+    {
         "name": "Morgin",
         "description": "Which Model Uncensoring Method Works Best?",
         "category": "Other",
@@ -101803,6 +101933,16 @@
         "discovered_at": "2026-08-15"
     },
     {
+        "name": "Public",
+        "description": "MyŠkoda Public API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://public.api.connect.skoda-auto.cz/docs",
+        "discovered_at": "2026-08-29"
+    },
+    {
         "name": "Publicdesktop",
         "description": "Show HN: Public Desktop – public desktop of the internet",
         "category": "Other",
@@ -102843,6 +102983,16 @@
         "discovered_at": "2026-07-16"
     },
     {
+        "name": "Scrinly",
+        "description": "Show HN: Scrinly – A screenshot API that returns page regions and visual diffs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://scrinly.com/",
+        "discovered_at": "2026-08-29"
+    },
+    {
         "name": "Sdsentry",
         "description": "Show HN: Free 2-minute OSHA HazCom self-audit, no signup",
         "category": "Other",
@@ -102991,6 +103141,16 @@
         "cors": "unknown",
         "url": "https://www.setsweat.com",
         "discovered_at": "2026-05-08"
+    },
+    {
+        "name": "Sfgate",
+        "description": "OpenAI and Anthropic are ruining San Francisco",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php?link_source=ta_first_comment&taid=6a91be8eb9a1130001896fd8&fbclid=IwY2xjawT_Fs1wZG9mA2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHvfPHyGSByYNR7Cmkzc-oVqd31kuJy3YUIMwJB5LlB84Hi71zSB_6e5NVbld_aem_L8Ysu4gjQinZHOeaZObNKA",
+        "discovered_at": "2026-08-29"
     },
     {
         "name": "Sh",
@@ -103311,6 +103471,16 @@
         "cors": "unknown",
         "url": "https://api.slideroom.com/schema/v2",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Slidexdeck",
+        "description": "Show HN: SlideX – Open-source presentations with MDX",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.slidexdeck.com/en/",
+        "discovered_at": "2026-08-29"
     },
     {
         "name": "Sloev",
@@ -104451,6 +104621,16 @@
         "cors": "unknown",
         "url": "https://tontaube.ai/",
         "discovered_at": "2026-04-09"
+    },
+    {
+        "name": "Toolchestrator",
+        "description": "Show HN: Toolchestrator – make local, AI-built tools usable by your team",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://toolchestrator.com/",
+        "discovered_at": "2026-08-29"
     },
     {
         "name": "Topfloor",
@@ -106061,6 +106241,16 @@
         "cors": "unknown",
         "url": "https://diffusion.alexvd.dev/",
         "discovered_at": "2026-08-14"
+    },
+    {
+        "name": "Doodleai",
+        "description": "Show HN: Doodle AI: open-source photo-to-doodle avatar generator",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://doodleai.art/",
+        "discovered_at": "2026-08-29"
     },
     {
         "name": "Facial Recognition Reverse Image Face Search API",
@@ -115642,6 +115832,16 @@
         "discovered_at": "2026-06-28"
     },
     {
+        "name": "Marktwin",
+        "description": "Show HN: Marktwin – collaborative workspaces on Markdown files you own",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://marktwin.com/",
+        "discovered_at": "2026-08-29"
+    },
+    {
         "name": "Middle-earth-interactive-map",
         "description": "Show HN: An interactive map of Tolkien's Middle-earth",
         "category": "Science",
@@ -119260,6 +119460,16 @@
         "discovered_at": "2026-05-06"
     },
     {
+        "name": "Usesesame",
+        "description": "Show HN: Sesame - a local-first, open-source password manager",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://usesesame.app/",
+        "discovered_at": "2026-08-29"
+    },
+    {
         "name": "Wikimixer",
         "description": "Show HN: WikiMixer – Explore random Wikipedia and Wikivoyage in 50 languages",
         "category": "Text & Language",
@@ -119997,6 +120207,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Pictiur",
+        "description": "Show HN: Pictiur: Image converter, optimizer and resizer, all in one",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pictiur.pages.dev/",
+        "discovered_at": "2026-08-29"
+    },
+    {
         "name": "Plotiq-web",
         "description": "Show HN: CSV ↔ JSON converter and CSV line charts",
         "category": "Utilities",
@@ -120161,6 +120381,16 @@
         "cors": "unknown",
         "url": "https://www.404media.co/this-ai-tool-rips-off-open-source-software-without-violating-copyright/",
         "discovered_at": "2026-04-22"
+    },
+    {
+        "name": "Adriselab",
+        "description": "Show HN: AdRiseLab – I built an AI media buyer for my own Meta ads",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://adriselab.com/blog/what-is-an-ai-performance-marketer",
+        "discovered_at": "2026-08-29"
     },
     {
         "name": "Agenticvbench",
@@ -121224,6 +121454,16 @@
         "cors": "unknown",
         "url": "https://polybridge.ai",
         "discovered_at": "2026-07-29"
+    },
+    {
+        "name": "Porchweather",
+        "description": "Show HN: PorchWeather – a free site that pings you when it's nice outside",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://porchweather.com/",
+        "discovered_at": "2026-08-29"
     },
     {
         "name": "Portal",
