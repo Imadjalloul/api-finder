@@ -450,6 +450,16 @@
         "discovered_at": "2026-08-19"
     },
     {
+        "name": "Aipolcom",
+        "description": "Large language models take the original politicalcompass.org test",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aipolcom.net/",
+        "discovered_at": "2026-08-30"
+    },
+    {
         "name": "Airposture",
         "description": "AirPosture – AirPods as AI posture coach (Open source)",
         "category": "AI & Machine Learning",
@@ -3494,6 +3504,16 @@
         "discovered_at": "2026-07-03"
     },
     {
+        "name": "Makralabs",
+        "description": "Show HN: AI Agents for Osint/Sigint",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.makralabs.org/about",
+        "discovered_at": "2026-08-30"
+    },
+    {
         "name": "Mallopal",
         "description": "Show HN: Mallo – An iOS AI companion that remembers you and checks in daily",
         "category": "AI & Machine Learning",
@@ -4292,6 +4312,16 @@
         "discovered_at": "2026-03-25"
     },
     {
+        "name": "Optimizedbyotto",
+        "description": "The growing divide between AI hype and software engineering reality",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
+        "discovered_at": "2026-08-30"
+    },
+    {
         "name": "Oversikt",
         "description": "Public data and an AI evidence engine for Swedish politics",
         "category": "AI & Machine Learning",
@@ -4740,6 +4770,16 @@
         "cors": "unknown",
         "url": "https://www.quippd.com/writing/2026/04/08/ai-code-is-hollowing-out-open-source-and-maintainers-are-looking-the-other-way.html",
         "discovered_at": "2026-04-11"
+    },
+    {
+        "name": "Quizroom",
+        "description": "Best AI Quiz Generator?",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://quizroom.ai",
+        "discovered_at": "2026-08-30"
     },
     {
         "name": "Quoroom",
@@ -36755,6 +36795,16 @@
         "cors": "unknown",
         "url": "https://apify.com/getdataforme/multilaser-parser-spider",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Music-buddha",
+        "description": "Show HN: Offline music practice apps – no account,no subscription,no analytics",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://music-buddha.com/",
+        "discovered_at": "2026-08-30"
     },
     {
         "name": "My Allhomes Actor",
@@ -82681,6 +82731,16 @@
         "discovered_at": "2026-07-11"
     },
     {
+        "name": "Cidrap",
+        "description": "70% of new drugs approved by FDA in 2024 were based on a single study",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.cidrap.umn.edu/public-health/more-two-thirds-new-drugs-approved-fda-2024-were-based-single-study",
+        "discovered_at": "2026-08-30"
+    },
+    {
         "name": "Ckourse",
         "description": "Show HN: I procrastinated on a course by building a course tracker.",
         "category": "Education",
@@ -84662,6 +84722,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Tv",
+        "description": "Show HN: Live AI video streams that write themselves one shot at a time",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tv.mormon.garden",
+        "discovered_at": "2026-08-30"
+    },
+    {
         "name": "TVMaze",
         "description": "TV show information including schedule and episodes",
         "category": "Entertainment",
@@ -86168,6 +86238,16 @@
         "cors": "unknown",
         "url": "https://www.bloomberglaw.com/api/v1/public/download/X2K9PC2CAT8OPAH7MV2P5QMI0B?public_link=RICKMANvAppleIncDocketNo526cv08218NDCalAug062026CourtDocket",
         "discovered_at": "2026-08-21"
+    },
+    {
+        "name": "Cardwall",
+        "description": "Show HN: Cardwall – free external A2A health check and status badge for agents",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cardwall.ai/",
+        "discovered_at": "2026-08-30"
     },
     {
         "name": "Chicago",
@@ -96443,6 +96523,16 @@
         "discovered_at": "2026-03-21"
     },
     {
+        "name": "Efficientagent",
+        "description": "A decision tree for picking attention",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://efficientagent.substack.com/p/a-decision-tree-for-picking-attention",
+        "discovered_at": "2026-08-30"
+    },
+    {
         "name": "Elecz",
         "description": "Show HN: Elecz – MCP server for real-time electricity prices in 40 countries",
         "category": "Other",
@@ -97071,6 +97161,16 @@
         "cors": "unknown",
         "url": "https://fluxvector.dev",
         "discovered_at": "2026-03-31"
+    },
+    {
+        "name": "Flyxl",
+        "description": "Show HN: DataZen – a local-first client for cross-database workflows",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://flyxl.github.io/datazen/",
+        "discovered_at": "2026-08-30"
     },
     {
         "name": "Focuslive",
@@ -103603,6 +103703,16 @@
         "discovered_at": "2026-06-21"
     },
     {
+        "name": "Spec2test-intelligence",
+        "description": "Spect2test – Playwright Test Generation",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://spec2test-intelligence.streamlit.app/",
+        "discovered_at": "2026-08-30"
+    },
+    {
         "name": "Spectrum",
         "description": "Open-Source Software Is Starting to Help Robots Think",
         "category": "Other",
@@ -106569,6 +106679,16 @@
         "discovered_at": "2026-07-29"
     },
     {
+        "name": "Seiseiai",
+        "description": "Show HN: AI images and videos from text, free, no signup",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://seiseiai.io/",
+        "discovered_at": "2026-08-30"
+    },
+    {
         "name": "Sunex-ai",
         "description": "Show HN: Sunex Optics – MCP server for choosing best lens/CMOS image cameras",
         "category": "Photography",
@@ -106607,6 +106727,16 @@
         "cors": "unknown",
         "url": "https://tool.vxpix.com/",
         "discovered_at": "2026-06-20"
+    },
+    {
+        "name": "Ubimage",
+        "description": "Show HN: Ubimage an iPhone app that draws your geotagged photos on the horizon",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ubimage.app/",
+        "discovered_at": "2026-08-30"
     },
     {
         "name": "Unsplash",
@@ -117681,6 +117811,16 @@
         "cors": "unknown",
         "url": "https://llmsoccerarena.up.railway.app/",
         "discovered_at": "2026-06-15"
+    },
+    {
+        "name": "Lumify",
+        "description": "Show HN: Lumify – sports intelligence API for agents (try without signup)",
+        "category": "Sports",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lumify.ai/docs/ai",
+        "discovered_at": "2026-08-30"
     },
     {
         "name": "Marketplace",
