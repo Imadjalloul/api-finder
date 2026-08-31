@@ -40,6 +40,16 @@
         "discovered_at": "2026-08-18"
     },
     {
+        "name": "1endpoint",
+        "description": "Show HN: 1endpoint – Cheaper access to AI models",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://1endpoint.dev",
+        "discovered_at": "2026-08-31"
+    },
+    {
         "name": "1h-money",
         "description": "Show HN: My AI agent has 9 hours left to win a public bet – live dashboard",
         "category": "AI & Machine Learning",
@@ -168,6 +178,16 @@
         "cors": "unknown",
         "url": "https://agentbadge.xyz/blog/what-is-agent-readiness",
         "discovered_at": "2026-08-20"
+    },
+    {
+        "name": "Agentledco",
+        "description": "How to Build Open Source for AI Agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agentledco.substack.com/p/how-to-build-open-source-for-ai-agents",
+        "discovered_at": "2026-08-31"
     },
     {
         "name": "Agentlookup",
@@ -2197,6 +2217,16 @@
         "discovered_at": "2026-08-14"
     },
     {
+        "name": "Forthmcp",
+        "description": "Show HN: Forth MCP – give any remote AI client access to your local MCP servers",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.forthmcp.com/",
+        "discovered_at": "2026-08-31"
+    },
+    {
         "name": "Foryouriver",
         "description": "Show HN: For You – AI art floats down a river for strangers to find",
         "category": "AI & Machine Learning",
@@ -2593,6 +2623,16 @@
         "cors": "unknown",
         "url": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom",
         "discovered_at": "2026-08-27"
+    },
+    {
+        "name": "Growtics",
+        "description": "Show HN: Growtics – an AI growth agent that tells you what to do next",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://growtics.io",
+        "discovered_at": "2026-08-31"
     },
     {
         "name": "Gruhn",
@@ -3122,6 +3162,16 @@
         "cors": "unknown",
         "url": "https://khala.to/",
         "discovered_at": "2026-06-24"
+    },
+    {
+        "name": "Kinopipe",
+        "description": "Show HN: KinoPipe – FFmpeg as a service for AI agents (typed ops, no shell)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kinopipe.com/",
+        "discovered_at": "2026-08-31"
     },
     {
         "name": "Knowable",
@@ -5401,6 +5451,16 @@
         "discovered_at": "2026-06-05"
     },
     {
+        "name": "Soundwise",
+        "description": "Soundwise.ai: Free AI Transcription That Respects Your Privacy",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://soundwise.ai",
+        "discovered_at": "2026-08-31"
+    },
+    {
         "name": "Spanly",
         "description": "Show HN: Spanly - See what AI agents do inside your MCP server",
         "category": "AI & Machine Learning",
@@ -6287,6 +6347,16 @@
         "cors": "unknown",
         "url": "https://www.visidata.org/blog/2026/ai/",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Visiscan",
+        "description": "Show HN: Get your free AI search visibility scan",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.visiscan.app",
+        "discovered_at": "2026-08-31"
     },
     {
         "name": "Visualbuild",
@@ -9498,6 +9568,16 @@
         "discovered_at": "2026-05-08"
     },
     {
+        "name": "Anvendor",
+        "description": "Show HN: AnVendor – see your competitor's customers",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://anvendor.com/",
+        "discovered_at": "2026-08-31"
+    },
+    {
         "name": "Apindex",
         "description": "Show HN: Apindex – self-hosted API catalog to map and understand internal APIs",
         "category": "Animals",
@@ -9923,6 +10003,16 @@
         "cors": "unknown",
         "url": "https://rentry.co/organic-code-spec-v1-0-md",
         "discovered_at": "2026-07-25"
+    },
+    {
+        "name": "Snaketron",
+        "description": "Show HN: Snaketron – Competitive multiplayer Snake. Back after 14 years",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://snaketron.io",
+        "discovered_at": "2026-08-31"
     },
     {
         "name": "Sniffcat",
@@ -11179,6 +11269,16 @@
         "cors": "unknown",
         "url": "https://www.classkeep.app",
         "discovered_at": "2026-05-20"
+    },
+    {
+        "name": "Codefloe",
+        "description": "Show HN: Albums Vault, my take on how to manage Spotify album library",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://codefloe.com/rabc/albums-vault",
+        "discovered_at": "2026-08-31"
     },
     {
         "name": "Cutthroat",
@@ -17531,6 +17631,16 @@
         "cors": "unknown",
         "url": "https://mindcloud.co/docs/universal/rest/home/latest/introduction/build-with-ai",
         "discovered_at": "2026-08-06"
+    },
+    {
+        "name": "Murmell",
+        "description": "Show HN: Murmell – Collaborative cloud canvas for coding agents",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://murmell.com/",
+        "discovered_at": "2026-08-31"
     },
     {
         "name": "Nekoni",
@@ -53296,6 +53406,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Daybrite",
+        "description": "Day: Create native apps for every platform from a single Rust codebase",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://daybrite.dev/",
+        "discovered_at": "2026-08-31"
+    },
+    {
         "name": "DDProperty Scraper &#124; Fast & Reliable &#124; $20 / mo",
         "description": "Extracts detailed real estate listings in Thailand from any search URL, handling pagination automatically. Gathers prices, addresses, agent info, and photos The DDProperty scraper works fast and...",
         "category": "Development",
@@ -54523,6 +54643,16 @@
         "cors": "unknown",
         "url": "https://apify.com/account56/ev-bulk",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Evoboard",
+        "description": "Show HN: Evoboard – GitHub style habit heatmaps with automatic activity logging",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://evoboard.me/",
+        "discovered_at": "2026-08-31"
     },
     {
         "name": "Example Call",
@@ -65444,6 +65574,16 @@
         "cors": "unknown",
         "url": "https://apify.com/shahidirfan/themoviedb-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Thenotifier",
+        "description": "Show HN: An anonymous, no-signup alert app – try it live with GitHub incidents",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thenotifier.app/developers/see-it-work/",
+        "discovered_at": "2026-08-31"
     },
     {
         "name": "Thetechvillain",
@@ -84387,6 +84527,16 @@
         "discovered_at": "2026-06-21"
     },
     {
+        "name": "Niulaify",
+        "description": "Show HN: Niu Lai Series Website",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://niulaify.com",
+        "discovered_at": "2026-08-31"
+    },
+    {
         "name": "Offby",
         "description": "Show HN: Off By – a daily game about how wrong we are about the American economy",
         "category": "Entertainment",
@@ -85062,6 +85212,16 @@
         "cors": "unknown",
         "url": "https://poolmoney.com/",
         "discovered_at": "2026-06-24"
+    },
+    {
+        "name": "Privanode",
+        "description": "Privanode – Access 397 models and 19 FREE models with Crypto payments",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://privanode.app/",
+        "discovered_at": "2026-08-31"
     },
     {
         "name": "Psychosomat",
@@ -87274,6 +87434,16 @@
         "discovered_at": "2026-07-29"
     },
     {
+        "name": "Piqt",
+        "description": "Show HN: Piqt (iOS) – on device photo and video curator",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://piqt.app/",
+        "discovered_at": "2026-08-31"
+    },
+    {
         "name": "Qrvpn",
         "description": "Show HN: Qrvpn – deploy and run VPN server on any device and behind NAT/FW",
         "category": "IoT & Hardware",
@@ -87372,6 +87542,16 @@
         "cors": "unknown",
         "url": "https://www.tomshardware.com/software/original-apollo-11-code-open-sourced-by-nasa-original-command-module-and-lunar-module-code-repos-are-now-public-domain-resources",
         "discovered_at": "2026-04-20"
+    },
+    {
+        "name": "Umer9538",
+        "description": "Show HN: What Apple's OS updates silently change in the on-device AI model",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://umer9538.github.io/underfoot/",
+        "discovered_at": "2026-08-31"
     },
     {
         "name": "Un0rick",
@@ -89407,6 +89587,16 @@
         "cors": "unknown",
         "url": "https://beamwire.ai/",
         "discovered_at": "2026-07-24"
+    },
+    {
+        "name": "Bentopdf",
+        "description": "Show HN: BentoPDF, Hyper Compress and Kura",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.bentopdf.com",
+        "discovered_at": "2026-08-31"
     },
     {
         "name": "Bitbucket",
@@ -92991,6 +93181,16 @@
         "cors": "unknown",
         "url": "https://www.1clicklinux.org/",
         "discovered_at": "2026-04-22"
+    },
+    {
+        "name": "1mil",
+        "description": "Show HN: My startup-idea scanner scored 500 ideas; the best got 6.3/10",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://1mil.app/",
+        "discovered_at": "2026-08-31"
     },
     {
         "name": "1shotchallenge",
@@ -97051,6 +97251,16 @@
         "cors": "unknown",
         "url": "https://www.fitchratings.com/research/us-public-finance/us-water-utilities-have-varied-ability-to-absorb-colorado-river-water-cuts-25-08-2026",
         "discovered_at": "2026-08-26"
+    },
+    {
+        "name": "Fiveprint",
+        "description": "Show HN: A Big Five personality test with no \"Types\" and free scores",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fiveprint.app/en",
+        "discovered_at": "2026-08-31"
     },
     {
         "name": "Fivetakes",
@@ -102853,6 +103063,16 @@
         "discovered_at": "2026-05-22"
     },
     {
+        "name": "Rust-beautifier",
+        "description": "Rust Beautifier: Beautiful, Fun and Opinionated Rust, the DHH Way",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rust-beautifier.vercel.app",
+        "discovered_at": "2026-08-31"
+    },
+    {
         "name": "Rxcheck",
         "description": "Show HN: RxCheck – Replacement for the discontinued NLM drug interaction API",
         "category": "Other",
@@ -103063,6 +103283,16 @@
         "discovered_at": "2026-07-24"
     },
     {
+        "name": "Scoutlayer",
+        "description": "Show HN: ScoutLayer – a simple API to find contacts from a domain",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://scoutlayer.io",
+        "discovered_at": "2026-08-31"
+    },
+    {
         "name": "Scrapewithruno",
         "description": "Show HN: Runo – Scraping API that returns typed JSON, not raw HTML",
         "category": "Other",
@@ -103151,6 +103381,16 @@
         "cors": "unknown",
         "url": "https://sedona.apache.org/latest/blog/2026/06/26/sedonadb-04-gpu-accelerated-spatial-joins/",
         "discovered_at": "2026-06-27"
+    },
+    {
+        "name": "Seenshot",
+        "description": "Show HN: Free, Fast Screenshot App for macOS with One-Click Screenshot Sharing",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://seenshot.app/",
+        "discovered_at": "2026-08-31"
     },
     {
         "name": "Segue",
@@ -106492,6 +106732,16 @@
         "url": "https://picsum.photos/"
     },
     {
+        "name": "Magicshot",
+        "description": "Show HN: AI studio with 500 models for headshots, video and images",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://magicshot.ai",
+        "discovered_at": "2026-08-31"
+    },
+    {
         "name": "Mailmemories",
         "description": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
         "category": "Photography",
@@ -106677,6 +106927,16 @@
         "cors": "unknown",
         "url": "https://www.renderpop.app",
         "discovered_at": "2026-07-29"
+    },
+    {
+        "name": "Schist",
+        "description": "Show HN: Schist – the open source photo editor that feels nice to use",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://schist.app/",
+        "discovered_at": "2026-08-31"
     },
     {
         "name": "Seiseiai",
@@ -116148,6 +116408,16 @@
         "discovered_at": "2026-04-29"
     },
     {
+        "name": "Studio",
+        "description": "Show HN: Cogram Studio – CAD and BIM workspace for humans and agents",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://studio.cogram.com/",
+        "discovered_at": "2026-08-31"
+    },
+    {
         "name": "Symbiote",
         "description": "Show HN: Symbiote - Free up Mac disk space with symlinks (auto manages them)",
         "category": "Science",
@@ -121091,6 +121361,16 @@
         "discovered_at": "2026-04-30"
     },
     {
+        "name": "Orchestra",
+        "description": "Show HN: ShevtoneAudio Orchestrator – Turning MIDI into Full Orchestration",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://orchestra.shevtoneaudio.com",
+        "discovered_at": "2026-08-31"
+    },
+    {
         "name": "Palmier",
         "description": "Palmier – a free video editor built for AI",
         "category": "Video & Media",
@@ -121199,6 +121479,16 @@
         "cors": "unknown",
         "url": "https://scrapingisnotacrime.com/",
         "discovered_at": "2026-08-07"
+    },
+    {
+        "name": "Scriptspool",
+        "description": "Show HN: ScriptSpool – Create code animations in the browser",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://scriptspool.pixzens.com/en",
+        "discovered_at": "2026-08-31"
     },
     {
         "name": "Sentienttube",
@@ -121556,6 +121846,16 @@
         "cors": "unknown",
         "url": "https://nickleenders.github.io/verisky-scoreboard/?city=newyork",
         "discovered_at": "2026-08-07"
+    },
+    {
+        "name": "No-rush",
+        "description": "Show HN: No Rush – Free macOS ambient places on their own local time and weather",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://no-rush.app/",
+        "discovered_at": "2026-08-31"
     },
     {
         "name": "Open-Meteo",
