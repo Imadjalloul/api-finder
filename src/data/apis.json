@@ -830,6 +830,16 @@
         "discovered_at": "2026-08-15"
     },
     {
+        "name": "Aptai",
+        "description": "Show HN: A dedicated hub to find, test, and serve LLM adapters",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aptai.dev",
+        "discovered_at": "2026-09-01"
+    },
+    {
         "name": "Aptselect",
         "description": "Show HN: AptSelect – A local desktop app to test LLMs side-by-side",
         "category": "AI & Machine Learning",
@@ -3154,6 +3164,16 @@
         "discovered_at": "2026-04-15"
     },
     {
+        "name": "Kentnguyen",
+        "description": "Why the best AI tech stack is from 1995",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kentnguyen.com/blog/why-the-best-ai-tech-stack-is-from-1995/",
+        "discovered_at": "2026-09-01"
+    },
+    {
         "name": "Khala",
         "description": "Show HN: Khala – let your AI sessions talk to each other, across any LLM",
         "category": "AI & Machine Learning",
@@ -3282,6 +3302,16 @@
         "cors": "unknown",
         "url": "https://launchkit-5g9.pages.dev/tools/business-plan-generator/",
         "discovered_at": "2026-03-23"
+    },
+    {
+        "name": "Lava",
+        "description": "Show HN: The AI agent that works inside the apps you use",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.lava.so/#download",
+        "discovered_at": "2026-09-01"
     },
     {
         "name": "Leanpub",
@@ -5768,6 +5798,16 @@
         "cors": "unknown",
         "url": "https://tangelo-ltd.github.io/tekir/",
         "discovered_at": "2026-03-06"
+    },
+    {
+        "name": "Tattooideas",
+        "description": "Show HN: AI Tattoo Design and Planning Tools – TattooIdeas",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tattooideas.app/",
+        "discovered_at": "2026-09-01"
     },
     {
         "name": "Techdirt",
@@ -18909,6 +18949,16 @@
         "discovered_at": "2026-04-09"
     },
     {
+        "name": "Snapquo",
+        "description": "Show HN: I built Snapquo because I hated doing quotes and invoices at night",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://snapquo.com/",
+        "discovered_at": "2026-09-01"
+    },
+    {
         "name": "Sniffmail",
         "description": "Show HN: Sniffmail – Email verification API, one NPM install, catch fake-signups",
         "category": "Communication",
@@ -19046,6 +19096,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.twilio.com/docs"
+    },
+    {
+        "name": "Unitpost",
+        "description": "Show HN: Unitpost/email – open-source Email Components and Layouts",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.unitpost.com/email",
+        "discovered_at": "2026-09-01"
     },
     {
         "name": "Unlayer",
@@ -52616,6 +52676,16 @@
         "discovered_at": "2026-07-22"
     },
     {
+        "name": "Codexskin",
+        "description": "Show HN: Codex Skin, a plugin for applying themes",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://codexskin.ai/",
+        "discovered_at": "2026-09-01"
+    },
+    {
         "name": "CoinGecko Crypto Intelligence",
         "description": "Extract real-time cryptocurrency market data from CoinGecko for 10,000+ coins. Get prices, market caps, volume, 24h/7d/30d changes, ATH/ATL, supply metrics, and historical charts. Access trending...",
         "category": "Development",
@@ -65926,6 +65996,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Tinygit",
+        "description": "Show HN: TinyGit – a simple macOS Git client",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tinygit.app/",
+        "discovered_at": "2026-09-01"
+    },
+    {
         "name": "TIOBE Index Scraper",
         "description": "Scrapes TIOBE Index for top 20 programming languages, extracting current and previous year's positions, names, ratings, and rating changes. Stores structured data in a dataset for easy analysis. Ideal",
         "category": "Development",
@@ -78211,6 +78291,16 @@
         "cors": "unknown",
         "url": "https://apify.com/brionyh85/randomize-joke-api",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Rankinai",
+        "description": "Is your Shopify store visible to ChatGPT? A free AI-visibility scanner",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rankinai.surge.sh/",
+        "discovered_at": "2026-09-01"
     },
     {
         "name": "Rarebeauty Scraper",
@@ -93303,6 +93393,16 @@
         "discovered_at": "2026-04-22"
     },
     {
+        "name": "Abliteration",
+        "description": "Show HN: Abliterated GLM-5.3 API (84.5% CyberGym, FP8)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://abliteration.ai/sign-in?return_to=%2Fconsole%2Fplayground",
+        "discovered_at": "2026-09-01"
+    },
+    {
         "name": "Absentkey",
         "description": "Show HN: AbsentKey E2E encrypted vault that releases secrets when you can't",
         "category": "Other",
@@ -93351,6 +93451,16 @@
         "cors": "unknown",
         "url": "https://achiever.so",
         "discovered_at": "2026-07-30"
+    },
+    {
+        "name": "Actuallyfreeonlinetools",
+        "description": "Free Online Tools and Apps",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://actuallyfreeonlinetools.com",
+        "discovered_at": "2026-09-01"
     },
     {
         "name": "Adcreator-ai",
@@ -94841,6 +94951,16 @@
         "cors": "unknown",
         "url": "https://www.bluhe.ai",
         "discovered_at": "2026-06-11"
+    },
+    {
+        "name": "Blume",
+        "description": "Show HN: Turn repeated coding-agent corrections into rules/skills",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blume.codes",
+        "discovered_at": "2026-09-01"
     },
     {
         "name": "Blundergoat",
@@ -97983,6 +98103,16 @@
         "discovered_at": "2026-07-02"
     },
     {
+        "name": "Google",
+        "description": "Claude Public Artifacts",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.google.com/search?q=site%3Aclaude.ai+public+artifacts",
+        "discovered_at": "2026-09-01"
+    },
+    {
         "name": "Google Mirror",
         "description": "Interacts with Glass users via the timeline.",
         "category": "Other",
@@ -98001,6 +98131,16 @@
         "cors": "unknown",
         "url": "https://walletobjects.googleapis.com/$discovery/rest?version=v1",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Googleblog",
+        "description": "Google Labs Aptitude Test (GLAT)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://googleblog.blogspot.com/2004/09/pencils-down-people.html",
+        "discovered_at": "2026-09-01"
     },
     {
         "name": "Gopeek-lovat",
@@ -98331,6 +98471,16 @@
         "cors": "unknown",
         "url": "https://www.hopmembers.com/blogs/how-to-go-from-free-group-to-paid-membership-without-losing-members",
         "discovered_at": "2026-05-12"
+    },
+    {
+        "name": "Hounsfield",
+        "description": "Show: Free Dicom Viewer",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hounsfield.vercel.app",
+        "discovered_at": "2026-09-01"
     },
     {
         "name": "Howareu",
@@ -99153,6 +99303,16 @@
         "discovered_at": "2026-06-17"
     },
     {
+        "name": "Kingsbridge-consultancy",
+        "description": "Show HN: Markdown Viewer and Editor",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kingsbridge-consultancy.com/md-viewer/",
+        "discovered_at": "2026-09-01"
+    },
+    {
         "name": "Kladdi",
         "description": "Show HN: Browser based scratchpad/text editor",
         "category": "Other",
@@ -99751,6 +99911,16 @@
         "cors": "unknown",
         "url": "https://luxuryintel.co/",
         "discovered_at": "2026-05-04"
+    },
+    {
+        "name": "Lyonesse",
+        "description": "What's the best way to label speakers in a transcript? I measured every option",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lyonesse.app/blog/speaker-diarization-benchmark.html",
+        "discovered_at": "2026-09-01"
     },
     {
         "name": "Machine0",
@@ -101193,6 +101363,16 @@
         "discovered_at": "2026-07-04"
     },
     {
+        "name": "Openagentforum",
+        "description": "Show HN: Open Agent Forum – a signed public square for agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://openagentforum.com/",
+        "discovered_at": "2026-09-01"
+    },
+    {
         "name": "Openagentloops",
         "description": "Show HN: A provider-agnostic agent loop built on ports and adapters",
         "category": "Other",
@@ -102413,6 +102593,16 @@
         "discovered_at": "2026-03-15"
     },
     {
+        "name": "Qevra",
+        "description": "Qevra – Free Dofollow Site Listings",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://qevra.app/",
+        "discovered_at": "2026-09-01"
+    },
+    {
         "name": "Quickish",
         "description": "Show HN: Quickish – Instant HTML Hosting",
         "category": "Other",
@@ -102541,6 +102731,16 @@
         "cors": "unknown",
         "url": "https://ratschn.com",
         "discovered_at": "2026-03-10"
+    },
+    {
+        "name": "Ravynos",
+        "description": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ravynos.com/",
+        "discovered_at": "2026-09-01"
     },
     {
         "name": "Raw",
@@ -102751,6 +102951,16 @@
         "cors": "unknown",
         "url": "https://repoinpeace.app/",
         "discovered_at": "2026-07-30"
+    },
+    {
+        "name": "Reports",
+        "description": "Chinese reasoning models match the best on 4 of 5 benchmarks at 40x lower cost",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://reports.ag-insights.co.uk/state-of-ai-reasoning/",
+        "discovered_at": "2026-09-01"
     },
     {
         "name": "Reports API",
@@ -103453,6 +103663,16 @@
         "discovered_at": "2026-03-02"
     },
     {
+        "name": "Serendipity",
+        "description": "Show HN: Serendipity – rediscover the web one interesting page at a time",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://serendipity.surf/",
+        "discovered_at": "2026-09-01"
+    },
+    {
         "name": "Servicebeard",
         "description": "Show HN: ServiceBeard – Turn your support mailbox into an issue board",
         "category": "Other",
@@ -103861,6 +104081,16 @@
         "cors": "unknown",
         "url": "https://snapname.app",
         "discovered_at": "2026-05-31"
+    },
+    {
+        "name": "Sncfoundation",
+        "description": "Show HN: Sheet-Based Infrastructure, Sheeternetes and Sheet-Native Foundation",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sncfoundation.github.io/landscape.html",
+        "discovered_at": "2026-09-01"
     },
     {
         "name": "Sniphi",
@@ -105991,6 +106221,16 @@
         "cors": "unknown",
         "url": "https://www.writermark.org/",
         "discovered_at": "2026-03-23"
+    },
+    {
+        "name": "X402desk",
+        "description": "The Firm – an agent-run org with a DID-signed public ledger",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://x402desk.vercel.app/join?src=hn",
+        "discovered_at": "2026-09-01"
     },
     {
         "name": "Xa11y",
@@ -116122,6 +116362,16 @@
         "discovered_at": "2026-06-25"
     },
     {
+        "name": "D5s",
+        "description": "Show HN: D5s, an AI coworking space for people and agents",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.d5s.tech",
+        "discovered_at": "2026-09-01"
+    },
+    {
         "name": "Earth",
         "description": "Show HN: Paint the Earth on a live, interactive globe (collaborative art.)",
         "category": "Science",
@@ -117432,6 +117682,16 @@
         "discovered_at": "2026-04-12"
     },
     {
+        "name": "Agixlink",
+        "description": "Show HN: agix – addresses and messaging for agents working for their humans",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agixlink.com/",
+        "discovered_at": "2026-09-01"
+    },
+    {
         "name": "App",
         "description": "Show HN: TG Alpha Hunter – AI that turns Telegram noise into a crypto digest",
         "category": "Social",
@@ -117817,6 +118077,16 @@
         "cors": "unknown",
         "url": "https://schedpilot.com/",
         "discovered_at": "2026-06-26"
+    },
+    {
+        "name": "Seatlr",
+        "description": "Show HN: Seatlr – We rebuilt our traveler chat into an AI-powered travel network",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.seatlr.com/",
+        "discovered_at": "2026-09-01"
     },
     {
         "name": "Slack",
@@ -119681,6 +119951,16 @@
         "discovered_at": "2026-06-20"
     },
     {
+        "name": "Meelang",
+        "description": "Show HN: I built a real-time translator for Google Meet",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://meelang.com/",
+        "discovered_at": "2026-09-01"
+    },
+    {
         "name": "Memorygrain",
         "description": "Show HN: Open Memory Specification (OMS), Context Assembly Language (Cal)",
         "category": "Text & Language",
@@ -120923,6 +121203,16 @@
         "discovered_at": "2026-04-01"
     },
     {
+        "name": "Cutlass",
+        "description": "Cutlass: LLM-first open source video editor",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cutlass.sh/",
+        "discovered_at": "2026-09-01"
+    },
+    {
         "name": "Danielfox",
         "description": "Using iOS Shortcuts to get ad-free AirPlayable YouTube without third-party apps",
         "category": "Video & Media",
@@ -121359,6 +121649,16 @@
         "cors": "unknown",
         "url": "https://omniforge.online/",
         "discovered_at": "2026-04-30"
+    },
+    {
+        "name": "Orbs",
+        "description": "Open Source thinking-orb animations for AI agents",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://orbs.jakubantalik.com/",
+        "discovered_at": "2026-09-01"
     },
     {
         "name": "Orchestra",
