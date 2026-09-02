@@ -40,6 +40,16 @@
         "discovered_at": "2026-08-18"
     },
     {
+        "name": "1dial",
+        "description": "Show HN: 1Dial, an AI you can call/Text to get real-world tasks done",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.1dial.ai/",
+        "discovered_at": "2026-09-02"
+    },
+    {
         "name": "1endpoint",
         "description": "Show HN: 1endpoint – Cheaper access to AI models",
         "category": "AI & Machine Learning",
@@ -608,6 +618,16 @@
         "cors": "unknown",
         "url": "https://www.anjadhe.com/demo",
         "discovered_at": "2026-08-22"
+    },
+    {
+        "name": "Anjadhe",
+        "description": "Show HN: Local AI Assistants can be user friendly too",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://anjadhe.ai/blog/local-ai-assistants-can-be-user-friendly-too",
+        "discovered_at": "2026-09-02"
     },
     {
         "name": "Anothertodo",
@@ -1428,6 +1448,16 @@
         "cors": "unknown",
         "url": "https://chatpanel.net/",
         "discovered_at": "2026-07-22"
+    },
+    {
+        "name": "Chicagomaroon",
+        "description": "Sosc Core to Institute AI Ban, Technology-Free Classrooms – UofChicago",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://chicagomaroon.com/53262/news/sosc-core-to-institute-ai-ban-technology-free-classrooms-this-fall/",
+        "discovered_at": "2026-09-02"
     },
     {
         "name": "Chonklm",
@@ -2517,6 +2547,16 @@
         "discovered_at": "2026-04-03"
     },
     {
+        "name": "Getwife",
+        "description": "Show HN: Wife: AI that lets you pick the best Card for each Purchase",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.getwife.co/",
+        "discovered_at": "2026-09-02"
+    },
+    {
         "name": "Gigiac",
         "description": "Show HN: I built a marketplace where AI agents can hire humans (& other agents)",
         "category": "AI & Machine Learning",
@@ -2932,6 +2972,16 @@
         "cors": "unknown",
         "url": "https://www.inariwatch.com/",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Indextkn",
+        "description": "Show HN: Indextkn – live list prices for 900 AI models in one API",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://indextkn.com",
+        "discovered_at": "2026-09-02"
     },
     {
         "name": "Inevolin",
@@ -5628,6 +5678,16 @@
         "cors": "unknown",
         "url": "https://studio.swiperjs.com",
         "discovered_at": "2026-04-08"
+    },
+    {
+        "name": "Studio",
+        "description": "Show HN: Compilr.dev Studio – A project brain AI agents write to and people read",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://studio.compilr.dev/welcome/",
+        "discovered_at": "2026-09-02"
     },
     {
         "name": "Su3",
@@ -10045,6 +10105,16 @@
         "discovered_at": "2026-07-25"
     },
     {
+        "name": "Selfship",
+        "description": "Show HN: Selfship.ai – Surface and fix isues with your agentic applications 24x7",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://selfship.ai/",
+        "discovered_at": "2026-09-02"
+    },
+    {
         "name": "Snaketron",
         "description": "Show HN: Snaketron – Competitive multiplayer Snake. Back after 14 years",
         "category": "Animals",
@@ -10625,6 +10695,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://supabase.com/docs/guides/auth"
+    },
+    {
+        "name": "Supafork",
+        "description": "Show HN: Supafork – Share and Fork Sessions Across Harnesses",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.supafork.com",
+        "discovered_at": "2026-09-02"
     },
     {
         "name": "Syntro",
@@ -94113,6 +94193,16 @@
         "discovered_at": "2026-08-28"
     },
     {
+        "name": "Applymyresume",
+        "description": "Show HN: An agent that finds you jobs with just your resume",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://applymyresume.com",
+        "discovered_at": "2026-09-02"
+    },
+    {
         "name": "Appnull",
         "description": "Show HN: Null. – Free RSVP speed reader built for ADHD brains",
         "category": "Other",
@@ -95273,6 +95363,16 @@
         "discovered_at": "2026-08-13"
     },
     {
+        "name": "Campsend",
+        "description": "Show HN: Campsend – open-source Alternative to WeTransfer",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://campsend.app/",
+        "discovered_at": "2026-09-02"
+    },
+    {
         "name": "Candle",
         "description": "Show HN: Fast, reliable MCP for LinkedIn, Uber, Venmo (r/w)",
         "category": "Other",
@@ -96091,6 +96191,16 @@
         "cors": "unknown",
         "url": "https://www.danielvaughn.dev/posts/huzzah/",
         "discovered_at": "2026-08-25"
+    },
+    {
+        "name": "Danubia",
+        "description": "Show HN: EU-hosted content extraction API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://danubia.tech",
+        "discovered_at": "2026-09-02"
     },
     {
         "name": "Darrikonn",
@@ -97453,6 +97563,16 @@
         "discovered_at": "2026-04-02"
     },
     {
+        "name": "Flightpowers",
+        "description": "Show HN: FlightPowers – Google Flights API, Google's cheap/typical/high verdict",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://flightpowers.com",
+        "discovered_at": "2026-09-02"
+    },
+    {
         "name": "Flipcloc",
         "description": "Show HN: FlipCloc for Mac out now. A gorgeous flip clock and screensaver",
         "category": "Other",
@@ -97821,6 +97941,16 @@
         "cors": "unknown",
         "url": "https://getfluiq.com/",
         "discovered_at": "2026-06-01"
+    },
+    {
+        "name": "Gethandler",
+        "description": "Show HN: OS iOS Farm Automation",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gethandler.ai/ios-farm/",
+        "discovered_at": "2026-09-02"
     },
     {
         "name": "Gethopp",
@@ -100053,6 +100183,16 @@
         "discovered_at": "2026-07-31"
     },
     {
+        "name": "Managoat",
+        "description": "Show HN: Fountain – OSS API to give your app a computer it can talk to",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://managoat.com/oss-launch",
+        "discovered_at": "2026-09-02"
+    },
+    {
         "name": "Manual",
         "description": "Show HN: How to become an Anti-founder, THE MANUAL",
         "category": "Other",
@@ -101093,6 +101233,16 @@
         "discovered_at": "2026-04-12"
     },
     {
+        "name": "Norirobotics",
+        "description": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.norirobotics.com/",
+        "discovered_at": "2026-09-02"
+    },
+    {
         "name": "Notgen",
         "description": "Show HN: This Show HN is NotGen.AI",
         "category": "Other",
@@ -101673,6 +101823,16 @@
         "discovered_at": "2026-05-15"
     },
     {
+        "name": "Orthogonal",
+        "description": "Show HN: Orthogonal – One integration for agents to discover and pay for APIs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.orthogonal.com/",
+        "discovered_at": "2026-09-02"
+    },
+    {
         "name": "Orvena",
         "description": "Show HN: Building a full agentic harness around a 4B model is hard",
         "category": "Other",
@@ -101691,6 +101851,16 @@
         "cors": "unknown",
         "url": "https://ossresistance.com/",
         "discovered_at": "2026-05-14"
+    },
+    {
+        "name": "Owntime",
+        "description": "Show HN: OwnTime – a chess clock for your day's priorities",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://owntime.app/",
+        "discovered_at": "2026-09-02"
     },
     {
         "name": "Oy-agent",
@@ -104833,6 +105003,16 @@
         "discovered_at": "2026-06-28"
     },
     {
+        "name": "Tenux",
+        "description": "Show HN: Tenux – Access your computer from your phone (terminal, files, browser)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tenux.dev",
+        "discovered_at": "2026-09-02"
+    },
+    {
         "name": "Termrover",
         "description": "Show HN: TermRover – a native tmux-first terminal for iOS and Android",
         "category": "Other",
@@ -105141,6 +105321,16 @@
         "cors": "unknown",
         "url": "https://tin-validate.com/",
         "discovered_at": "2026-06-21"
+    },
+    {
+        "name": "Tinyjs",
+        "description": "Show HN: TinyJS – small apps on Win/Mac/Linux",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tinyjs.app",
+        "discovered_at": "2026-09-02"
     },
     {
         "name": "Tiobe",
@@ -106721,6 +106911,16 @@
         "cors": "unknown",
         "url": "https://ai.meta.com/blog/tribe-v2-brain-predictive-foundation-model/?_fb_noscript=1",
         "discovered_at": "2026-03-31"
+    },
+    {
+        "name": "Aiimageto3d",
+        "description": "Show HN: Image3d AI-One interface for multiple image to 3D models",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.aiimageto3d.com/",
+        "discovered_at": "2026-09-02"
     },
     {
         "name": "Animateoldphotos",
@@ -112496,6 +112696,16 @@
         "discovered_at": "2026-05-20"
     },
     {
+        "name": "Notesplus",
+        "description": "Show HN: Notes Plus – A Markdown Apple Notes Clone with Latex, Excalidraw etc.",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://notesplus.io/",
+        "discovered_at": "2026-09-02"
+    },
+    {
         "name": "Notion",
         "description": "Databases, pages, and content management via API",
         "category": "Productivity",
@@ -117034,6 +117244,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://docs.abuseipdb.com/"
+    },
+    {
+        "name": "Academy",
+        "description": "DaemonCore Academy – 127 free cybersecurity lessons and disposable Docker ranges",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://academy.daemoncore.app",
+        "discovered_at": "2026-09-02"
     },
     {
         "name": "Agentport",
@@ -121729,6 +121949,16 @@
         "cors": "unknown",
         "url": "https://www.read.tube/",
         "discovered_at": "2026-04-27"
+    },
+    {
+        "name": "Removebackgroundnoise",
+        "description": "Remove background noise from audio/video in the browser, free preview",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://removebackgroundnoise.app/",
+        "discovered_at": "2026-09-02"
     },
     {
         "name": "Resilientcyber",
