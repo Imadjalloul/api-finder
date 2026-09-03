@@ -2197,6 +2197,16 @@
         "discovered_at": "2026-07-25"
     },
     {
+        "name": "Fixture",
+        "description": "Show HN: Flawd is mutation testing for the AI era",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fixture.dev/flawd",
+        "discovered_at": "2026-09-03"
+    },
+    {
         "name": "Flint",
         "description": "Flint – local AI runtime for Rust (no internet, no API keys)",
         "category": "AI & Machine Learning",
@@ -3582,6 +3592,16 @@
         "cors": "unknown",
         "url": "https://lobsterlair.xyz",
         "discovered_at": "2026-03-12"
+    },
+    {
+        "name": "Longtermemory",
+        "description": "Show HN: Use AI API and scheduled Active Recall to pass any exam: LongTerMemory",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://longtermemory.com",
+        "discovered_at": "2026-09-03"
     },
     {
         "name": "Longtermresilience",
@@ -5870,6 +5890,16 @@
         "discovered_at": "2026-09-01"
     },
     {
+        "name": "Techambient",
+        "description": "Show HN: OpenHelper AI Chatbot – The Free and Open Source AI Chatbot",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://techambient.github.io/HybridAI/",
+        "discovered_at": "2026-09-03"
+    },
+    {
         "name": "Techdirt",
         "description": "AI Might Be Our Best Shot at Taking Back the Open Web",
         "category": "AI & Machine Learning",
@@ -6028,6 +6058,16 @@
         "cors": "unknown",
         "url": "https://www.thewebsite.app/",
         "discovered_at": "2026-03-06"
+    },
+    {
+        "name": "Theyfell",
+        "description": "Show HN: Every AI agrees with you. This writes your startup's obituary instead",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://theyfell.com/",
+        "discovered_at": "2026-09-03"
     },
     {
         "name": "Thisisrobin",
@@ -18999,6 +19039,16 @@
         "url": "https://docs.sendgrid.com/"
     },
     {
+        "name": "Sensecollect",
+        "description": "Show HN: Local business leads, one API call away",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sensecollect.com",
+        "discovered_at": "2026-09-03"
+    },
+    {
         "name": "Sente",
         "description": "Show HN: Email for Agents with 1 Prompt",
         "category": "Communication",
@@ -30395,6 +30445,16 @@
         "cors": "unknown",
         "url": "https://apify.com/drobnikj/gpt-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Grandschema",
+        "description": "The high cost of free data: Why are cities paying so much for open data portals?",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://grandschema.substack.com/p/the-high-cost-of-free-data",
+        "discovered_at": "2026-09-03"
     },
     {
         "name": "Greatschools Scraper",
@@ -53726,6 +53786,16 @@
         "discovered_at": "2026-08-07"
     },
     {
+        "name": "Developer",
+        "description": "Inspect, test, and debug your website with an AI agent connected to Safari",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://developer.apple.com/documentation/safari-developer-tools/connecting-an-ai-agent-to-safari",
+        "discovered_at": "2026-09-03"
+    },
+    {
         "name": "Developer Intelligence Pro",
         "description": "Advanced developer ecosystem analysis. Tracks technology trends and community insights. Essential for tech companies and developers.",
         "category": "Development",
@@ -65266,6 +65336,16 @@
         "discovered_at": "2026-04-02"
     },
     {
+        "name": "Sw-ml-study",
+        "description": "Show HN: Open source ML programming language playground",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sw-ml-study.github.io/sw-mlpl/",
+        "discovered_at": "2026-09-03"
+    },
+    {
         "name": "Swapter.io Blog Scraper",
         "description": "Swapter.io Blog Scraper (swapter.io) lets you extract blog content in HTML, JSON, and plaintext. Get authors, create/update date, images, read time, RSS, titles, SEO titles, featured images & videos,.",
         "category": "Development",
@@ -67254,6 +67334,16 @@
         "cors": "unknown",
         "url": "https://apify.com/trev0n/vehis-vehicle-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Verity",
+        "description": "Show HN: Verity.md quality gates, memory and cost control for Claude Code",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://verity.md/",
+        "discovered_at": "2026-09-03"
     },
     {
         "name": "Vibesolve",
@@ -82981,6 +83071,26 @@
         "discovered_at": "2026-06-22"
     },
     {
+        "name": "Abc7ny",
+        "description": "No AI until high school:NYC schools announce major classroom technology overhaul",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://abc7ny.com/post/new-york-city-public-schools-banning-ai-use-middle-school-year/19778716/",
+        "discovered_at": "2026-09-03"
+    },
+    {
+        "name": "Abcnews",
+        "description": "New York City Public Schools banning AI use through middle school",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://abcnews.com/Technology/new-york-city-public-schools-banning-ai-middle/story?id=136134872",
+        "discovered_at": "2026-09-03"
+    },
+    {
         "name": "Ailearninggym",
         "description": "Free browser-based tools – no account, no server uploads, all local",
         "category": "Education",
@@ -83239,6 +83349,16 @@
         "cors": "unknown",
         "url": "https://professorgoose.com/",
         "discovered_at": "2026-05-15"
+    },
+    {
+        "name": "Profound",
+        "description": "Show HN: Profound Academy – an agentic course builder for hands-on courses",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://profound.academy",
+        "discovered_at": "2026-09-03"
     },
     {
         "name": "Quiz",
@@ -84925,6 +85045,16 @@
         "discovered_at": "2026-07-22"
     },
     {
+        "name": "Sol",
+        "description": "Show HN: Sol, a fast, powerful music player for macOS, with Subsonic support",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sol.fulltimefeline.com/",
+        "discovered_at": "2026-09-03"
+    },
+    {
         "name": "Sonovault",
         "description": "Show HN: SonoVault Music Metadata API for Builders",
         "category": "Entertainment",
@@ -86480,6 +86610,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://nominatim.org/release-docs/develop/api/"
+    },
+    {
+        "name": "Nyatla",
+        "description": "Show HN: Serverless reverse geocoding for WebMCP, ESP32, and RP2040",
+        "category": "Geocoding",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nyatla.github.io/galuchat/",
+        "discovered_at": "2026-09-03"
     },
     {
         "name": "OpenCage",
@@ -96333,6 +96473,16 @@
         "discovered_at": "2026-05-27"
     },
     {
+        "name": "Defaultmodel",
+        "description": "DefaultModel: Hosting only one model, the best open source model",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://defaultmodel.ai",
+        "discovered_at": "2026-09-03"
+    },
+    {
         "name": "Deliberate",
         "description": "Show HN: Deliberate – log what your agent rejected, not just what it ran",
         "category": "Other",
@@ -97873,6 +98023,16 @@
         "discovered_at": "2026-07-31"
     },
     {
+        "name": "Genexperiences",
+        "description": "Show HN: A daily briefing service-inspired by Huxe rip:(",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://genexperiences.com/nomenclature",
+        "discovered_at": "2026-09-03"
+    },
+    {
         "name": "Geovalida",
         "description": "Show HN: GeoValida – Spatial Intelligence reality check to find the best land",
         "category": "Other",
@@ -97931,6 +98091,16 @@
         "cors": "unknown",
         "url": "https://getcabinfever.com/",
         "discovered_at": "2026-07-06"
+    },
+    {
+        "name": "Getedgy",
+        "description": "Show HN: Edgy – Ambient edge lighting for macOS",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getedgy.app",
+        "discovered_at": "2026-09-03"
     },
     {
         "name": "Getfluiq",
@@ -98441,6 +98611,16 @@
         "cors": "unknown",
         "url": "https://help.delduca.org",
         "discovered_at": "2026-05-28"
+    },
+    {
+        "name": "Helpwanted",
+        "description": "Show HN: Make open-source contributions fun and meaningful",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://helpwanted.dev/",
+        "discovered_at": "2026-09-03"
     },
     {
         "name": "Heronsperch",
@@ -101421,6 +101601,16 @@
         "cors": "unknown",
         "url": "https://octetta.github.io/pulp/doc/",
         "discovered_at": "2026-05-11"
+    },
+    {
+        "name": "Octoloops",
+        "description": "Show HN: OctoLoops – automated marketing for indie devs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://octoloops.com",
+        "discovered_at": "2026-09-03"
     },
     {
         "name": "Ocw",
@@ -104473,6 +104663,16 @@
         "discovered_at": "2026-04-13"
     },
     {
+        "name": "Srest",
+        "description": "Srest – A TUI for the Slurm REST API Built in Go",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://srest.scszero.com/docs.html",
+        "discovered_at": "2026-09-03"
+    },
+    {
         "name": "Stackdome",
         "description": "Show HN: Stackdome – An open source self-hostable Railway alternative on K8s",
         "category": "Other",
@@ -104751,6 +104951,16 @@
         "cors": "unknown",
         "url": "https://supapool.io/",
         "discovered_at": "2026-07-30"
+    },
+    {
+        "name": "Supercov",
+        "description": "Show HN: MC/DC coverage so coding agents could work overnight",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://supercov.com",
+        "discovered_at": "2026-09-03"
     },
     {
         "name": "Supercsv",
@@ -105533,6 +105743,16 @@
         "discovered_at": "2026-08-15"
     },
     {
+        "name": "Trellner",
+        "description": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+        "discovered_at": "2026-09-03"
+    },
+    {
         "name": "Tribuneslaststand",
         "description": "Show HN: Tribune's Last Stand, a browser-based Warhammer 40K vertical slice",
         "category": "Other",
@@ -105901,6 +106121,16 @@
         "cors": "unknown",
         "url": "https://www.vaava.app/",
         "discovered_at": "2026-04-28"
+    },
+    {
+        "name": "Vanitydomain",
+        "description": "Show HN: Vanity Domain Generator",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vanitydomain.net",
+        "discovered_at": "2026-09-03"
     },
     {
         "name": "Vaquill",
@@ -106993,6 +107223,16 @@
         "discovered_at": "2026-07-26"
     },
     {
+        "name": "Cleanmymedia",
+        "description": "Show HN: CleanMyMedia – organize decades of photos, with local face recognition",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cleanmymedia.com",
+        "discovered_at": "2026-09-03"
+    },
+    {
         "name": "Codewindow",
         "description": "Show HN: Codewindow – Picture in picture for terminal agents",
         "category": "Photography",
@@ -107369,6 +107609,16 @@
         "discovered_at": "2026-07-29"
     },
     {
+        "name": "Ringlochid",
+        "description": "Show HN: Free app for offline image search and smart file renaming",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ringlochid.me/imagesage/index.html",
+        "discovered_at": "2026-09-03"
+    },
+    {
         "name": "Schist",
         "description": "Show HN: Schist – the open source photo editor that feels nice to use",
         "category": "Photography",
@@ -107387,6 +107637,16 @@
         "cors": "unknown",
         "url": "https://seiseiai.io/",
         "discovered_at": "2026-08-30"
+    },
+    {
+        "name": "Skywarden",
+        "description": "Show HN: Skywarden – Smart astrophotography planning companion",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://skywarden.app/en",
+        "discovered_at": "2026-09-03"
     },
     {
         "name": "Sunex-ai",
@@ -116809,6 +117069,16 @@
         "discovered_at": "2026-07-04"
     },
     {
+        "name": "Radiobench",
+        "description": "Show HN: Radio Bench cross platform unified amateur radio workspace",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://radiobench.com",
+        "discovered_at": "2026-09-03"
+    },
+    {
         "name": "Replicant",
         "description": "Show HN: Replicant Space – an HTTP API-based game based on the Bobiverse books",
         "category": "Science",
@@ -116847,6 +117117,16 @@
         "cors": "unknown",
         "url": "https://www.scientificamerican.com/article/can-electric-air-taxis-carry-passengers-vertical-aerospaces-vx4-just-cleared-a-key-test/",
         "discovered_at": "2026-04-26"
+    },
+    {
+        "name": "Shzlw",
+        "description": "Show HN: Windrunner – AI-powered project collaboration workspace",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://shzlw.github.io/windrunner/",
+        "discovered_at": "2026-09-03"
     },
     {
         "name": "SpaceX",
