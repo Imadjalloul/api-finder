@@ -420,6 +420,16 @@
         "discovered_at": "2026-08-26"
     },
     {
+        "name": "Aietalks",
+        "description": "Show HN: A searchable, timestamped index of 1,124 AI Engineer talks",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aietalks.com/",
+        "discovered_at": "2026-09-04"
+    },
+    {
         "name": "Aiforactualwork",
         "description": "AI for Actual Work – a free, self-paced AI training program by Remote.com",
         "category": "AI & Machine Learning",
@@ -1646,6 +1656,16 @@
         "cors": "unknown",
         "url": "https://www.conspicuouscognition.com/p/how-ai-will-reshape-public-opinion",
         "discovered_at": "2026-03-08"
+    },
+    {
+        "name": "Context",
+        "description": "Show HN: A Context Registry for AI coding agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://context.apimatic.io/",
+        "discovered_at": "2026-09-04"
     },
     {
         "name": "Copilot",
@@ -5648,6 +5668,16 @@
         "cors": "unknown",
         "url": "https://starrykit.com",
         "discovered_at": "2026-08-06"
+    },
+    {
+        "name": "Stillmade",
+        "description": "Show HN: StillMade – Programmable AI video pipeline; Chat to video (now)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.stillmade.shop",
+        "discovered_at": "2026-09-04"
     },
     {
         "name": "Stoaexchange",
@@ -11212,6 +11242,16 @@
         "discovered_at": "2026-04-02"
     },
     {
+        "name": "Tdqs",
+        "description": "Show HN: MCP Tool Definition Quality Score (TDQS) Spec",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tdqs.dev",
+        "discovered_at": "2026-09-04"
+    },
+    {
         "name": "Tokendiet",
         "description": "Show HN: Free plugin that finds where your code overpays for LLM APIs",
         "category": "Blockchain",
@@ -11370,6 +11410,16 @@
         "cors": "unknown",
         "url": "https://aosabook.org/en/index.html",
         "discovered_at": "2026-07-23"
+    },
+    {
+        "name": "Babyloniantwins",
+        "description": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+        "discovered_at": "2026-09-04"
     },
     {
         "name": "Bedtimebookhelper",
@@ -18958,6 +19008,16 @@
         "cors": "unknown",
         "url": "https://preloop.dev",
         "discovered_at": "2026-08-10"
+    },
+    {
+        "name": "Promptmatics",
+        "description": "Promptmatics – Free telemprompter following your voice",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://promptmatics.vercel.app/",
+        "discovered_at": "2026-09-04"
     },
     {
         "name": "Pushward",
@@ -51107,6 +51167,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Ardent",
+        "description": "Show HN: Ardent, a code-first agent for non-engineering work",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ardent.ai/",
+        "discovered_at": "2026-09-04"
+    },
+    {
         "name": "Argenprop Property Details Scraper",
         "description": "Discover how the ArgeProp.com Property Details Scraper streamlines real estate data extraction from Argentina's leading property platform. Extract comprehensive property information including prices,.",
         "category": "Development",
@@ -69736,6 +69806,16 @@
         "discovered_at": "2026-05-10"
     },
     {
+        "name": "Aidemo",
+        "description": "Show HN: AIDemo.Video – turn website into a product demo video in one click",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.aidemo.video/",
+        "discovered_at": "2026-09-04"
+    },
+    {
         "name": "Airbnb Host Details Scraper",
         "description": "Extracted data includes an Airbnb host’s ID, name, profile picture, languages spoken, hosting experience, number of listings, property URLs, average rating, and total reviews. This helps analyze host.",
         "category": "E-Commerce",
@@ -87085,6 +87165,16 @@
         "url": "https://www.usa.gov/developer"
     },
     {
+        "name": "Vantagehealthapp",
+        "description": "Show HN: Vantage – One prioritized health action per day from Apple Health",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.vantagehealthapp.com/",
+        "discovered_at": "2026-09-04"
+    },
+    {
         "name": "Who",
         "description": "Ebola epidemic in DRC, Uganda public health emergency of international concern",
         "category": "Government & Health",
@@ -90056,6 +90146,16 @@
         "cors": "unknown",
         "url": "https://www.detroitnews.com/story/news/local/detroit-city/2026/08/14/sheffield-makes-free-ddot-transit-for-students-permanent/91306496007/",
         "discovered_at": "2026-08-27"
+    },
+    {
+        "name": "Dialyourshot",
+        "description": "A free web app that tells you what to fix after a bad espresso shot",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dialyourshot.com/",
+        "discovered_at": "2026-09-04"
     },
     {
         "name": "Dreaming",
@@ -95303,6 +95403,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Bridle",
+        "description": "Show HN: Bridle: hand your agent's context to a coworker's agent",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.bridle.network/",
+        "discovered_at": "2026-09-04"
+    },
+    {
         "name": "Browse2api",
         "description": "Show HN: Browse2API – Turn any website into an API",
         "category": "Other",
@@ -96593,6 +96703,16 @@
         "discovered_at": "2026-08-04"
     },
     {
+        "name": "Devbar",
+        "description": "Show HN: Devbar – Point at what to change. Leave a comment. Your agent ships it",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://devbar.sh",
+        "discovered_at": "2026-09-04"
+    },
+    {
         "name": "Devinthakker",
         "description": "I Built a Public RAG App for Chicago Budget Documents",
         "category": "Other",
@@ -96931,6 +97051,16 @@
         "cors": "unknown",
         "url": "https://dragonruby.itch.io/dragonruby-gtk/devlog/1620970/dragonruby-jam-license-free-to-all",
         "discovered_at": "2026-08-09"
+    },
+    {
+        "name": "Drawdb",
+        "description": "Show HN: DrawDB Pro – design database schemas for your team and agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.drawdb.app/",
+        "discovered_at": "2026-09-04"
     },
     {
         "name": "Dreamworkhq",
@@ -101511,6 +101641,16 @@
         "cors": "unknown",
         "url": "https://nymag.com/intelligencer/article/mysterious-case-jetblue-1230-airbus-free-fall.html",
         "discovered_at": "2026-08-04"
+    },
+    {
+        "name": "Nypost",
+        "description": "Burning Man has become a wrinkled sausage fest of aging millennial men",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nypost.com/2026/09/03/us-news/burning-man-has-become-a-wrinkled-sausage-fest-of-aging-millennial-men-data-shows/",
+        "discovered_at": "2026-09-04"
     },
     {
         "name": "O-u",
@@ -107589,6 +107729,16 @@
         "discovered_at": "2026-07-31"
     },
     {
+        "name": "Quat",
+        "description": "Show HN: QuatChat, a 3D imageboard where being there is the write permission",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://quat.chat/",
+        "discovered_at": "2026-09-04"
+    },
+    {
         "name": "Removelogofromphotos",
         "description": "Show HN: Remove logo from any t-shirt",
         "category": "Photography",
@@ -107726,6 +107876,16 @@
         "cors": "unknown",
         "url": "https://veil.simoneamico.com/",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Videm",
+        "description": "Show HN: Videm – An AI image generator with 3 free daily images",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://videm.ai/",
+        "discovered_at": "2026-09-04"
     },
     {
         "name": "✅ WhatsApp Number #️⃣ Validator ✅",
@@ -120164,6 +120324,16 @@
         "cors": "unknown",
         "url": "https://cafedelcadence.github.io",
         "discovered_at": "2026-05-09"
+    },
+    {
+        "name": "Captionandcut",
+        "description": "Show HN: Caption and Cut removes pauses and filler words, burns in captions",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://captionandcut.app/",
+        "discovered_at": "2026-09-04"
     },
     {
         "name": "Car Registration API",
