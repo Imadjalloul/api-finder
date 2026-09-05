@@ -560,6 +560,16 @@
         "discovered_at": "2026-04-25"
     },
     {
+        "name": "Aljazeera",
+        "description": "NYC's AI ban through grade 8 sets stage for rest of US, experts say",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.aljazeera.com/economy/2026/9/3/nycs-ai-ban-through-grade-8-sets-stage-for-rest-of-us-experts-say",
+        "discovered_at": "2026-09-05"
+    },
+    {
         "name": "Almartis",
         "description": "AI Datacenters Were Built for GPUs. What Happens When You Remove the GPUs?",
         "category": "AI & Machine Learning",
@@ -2235,6 +2245,16 @@
         "cors": "unknown",
         "url": "https://flint.brantandco.com",
         "discovered_at": "2026-03-19"
+    },
+    {
+        "name": "Floyi",
+        "description": "Show HN: Floyi, a topic-first content workflow for Google and AI search",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://floyi.com/",
+        "discovered_at": "2026-09-05"
     },
     {
         "name": "Flyskye",
@@ -10669,6 +10689,16 @@
         "discovered_at": "2026-04-24"
     },
     {
+        "name": "Mu",
+        "description": "Show HN: Mu, two-minute visualized lessons on modern AI",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mu.vizuara.ai/",
+        "discovered_at": "2026-09-05"
+    },
+    {
         "name": "Neciudan",
         "description": "What's the best way to do authentication in modern applications",
         "category": "Auth & Identity",
@@ -19018,6 +19048,16 @@
         "cors": "unknown",
         "url": "https://promptmatics.vercel.app/",
         "discovered_at": "2026-09-04"
+    },
+    {
+        "name": "Publicemails",
+        "description": "Will the AI Boom Price the Rest of the Economy Out of Capital?",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://publicemails.com/blog/display/659255/Will-the-AI-Boom-Price-the-Rest-of-the-Economy-Out-of-Capital",
+        "discovered_at": "2026-09-05"
     },
     {
         "name": "Pushward",
@@ -53556,6 +53596,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Daemoncore",
+        "description": "DaemonCore Launches a Slew of Free Pentesting Tools",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.daemoncore.app/",
+        "discovered_at": "2026-09-05"
+    },
+    {
         "name": "Danscend Blog Scraper",
         "description": "Danscend Blog Scraper (danscend.teachable.com) lets you extract blog content in HTML, JSON, and plaintext. Get authors, create/update date, images, read time, RSS, titles, SEO titles, featured images.",
         "category": "Development",
@@ -83511,6 +83561,16 @@
         "discovered_at": "2026-05-15"
     },
     {
+        "name": "Tesoro",
+        "description": "Show HN: Tesoro.help – rogue AI helpdesk for my kid's high school",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tesoro.help/",
+        "discovered_at": "2026-09-05"
+    },
+    {
         "name": "Theregister",
         "description": "Moody humans should let AI handle bad public feedback first, study finds",
         "category": "Education",
@@ -84946,6 +85006,16 @@
         "discovered_at": "2026-08-26"
     },
     {
+        "name": "Petrichor",
+        "description": "Show HN: Petrichor – Native offline music player for macOS",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://petrichor.page/",
+        "discovered_at": "2026-09-05"
+    },
+    {
         "name": "Phaser",
         "description": "Phaser: Create 2D games for the web – free, open source, and AI-ready",
         "category": "Entertainment",
@@ -85309,6 +85379,16 @@
         "cors": "unknown",
         "url": "https://whatpetshouldiget.com/play.html",
         "discovered_at": "2026-07-12"
+    },
+    {
+        "name": "Worldboard",
+        "description": "Show HN: GeoRace – geo puzzles and virtual journeys in one game",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://worldboard.games/georace",
+        "discovered_at": "2026-09-05"
     },
     {
         "name": "20022validator",
@@ -95223,6 +95303,16 @@
         "discovered_at": "2026-08-09"
     },
     {
+        "name": "Blog",
+        "description": "Building a Desktop UI in Rust and GPUI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.sheerluck.dev/posts/your-first-gpui-app-building-a-desktop-ui-in-rust/",
+        "discovered_at": "2026-09-05"
+    },
+    {
         "name": "Blogmaker",
         "description": "Show HN: I built a blogging platform (5 years in, struggling with distribution)",
         "category": "Other",
@@ -101033,6 +101123,26 @@
         "discovered_at": "2026-03-11"
     },
     {
+        "name": "Moadim",
+        "description": "Show HN: Moadim.io – A scheduler for agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://moadim.io/",
+        "discovered_at": "2026-09-05"
+    },
+    {
+        "name": "Mob",
+        "description": "Tracking Public Predictions with AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mob.so/prescience",
+        "discovered_at": "2026-09-05"
+    },
+    {
         "name": "Mobile-squad",
         "description": "Show HN: Personal Trainer – Lift, share plans, and rank with friends",
         "category": "Other",
@@ -101341,6 +101451,16 @@
         "cors": "unknown",
         "url": "https://nano.rs/",
         "discovered_at": "2026-06-04"
+    },
+    {
+        "name": "Nationaldex",
+        "description": "Show HN: NationalDex • minimal open-source Pokédex",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.nationaldex.app",
+        "discovered_at": "2026-09-05"
     },
     {
         "name": "Nativesoft",
@@ -102021,6 +102141,16 @@
         "cors": "unknown",
         "url": "https://opensource.googleblog.com/2026/06/a-new-pkggodev-api-for-go.html",
         "discovered_at": "2026-06-13"
+    },
+    {
+        "name": "Opentrailpaper",
+        "description": "Show HN: Open-Source eInk Bike Computer",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://opentrailpaper.com",
+        "discovered_at": "2026-09-05"
     },
     {
         "name": "Opsrev",
@@ -105133,6 +105263,16 @@
         "discovered_at": "2026-08-20"
     },
     {
+        "name": "Sw-fun",
+        "description": "Show HN: Learn/Practice Sudoku strategies web app",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sw-fun.github.io/sudoku/",
+        "discovered_at": "2026-09-05"
+    },
+    {
         "name": "Swag",
         "description": "Show HN: Swagsocial",
         "category": "Other",
@@ -105641,6 +105781,16 @@
         "cors": "unknown",
         "url": "https://tim.blog/2026/07/17/better-than-free/",
         "discovered_at": "2026-07-19"
+    },
+    {
+        "name": "Timervana",
+        "description": "Show HN: TimerVana a Local-first scheduler for real world routines",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://timervana.net/browse",
+        "discovered_at": "2026-09-05"
     },
     {
         "name": "Timesofindia",
@@ -106373,6 +106523,16 @@
         "discovered_at": "2026-03-28"
     },
     {
+        "name": "Vlmrun",
+        "description": "Show HN: Run open-weight OCR, VLM and vision models behind one API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.vlmrun.com/gateway",
+        "discovered_at": "2026-09-05"
+    },
+    {
         "name": "Voiden",
         "description": "Show HN: Voiden – API Workflows as Markdown Files (Obsidian × Curl)",
         "category": "Other",
@@ -106411,6 +106571,16 @@
         "cors": "unknown",
         "url": "https://vote-demo.dapp32.com/about",
         "discovered_at": "2026-03-02"
+    },
+    {
+        "name": "Votito",
+        "description": "Show HN: Votito helps you decide what to build next with confidence",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.votito.com/",
+        "discovered_at": "2026-09-05"
     },
     {
         "name": "Voxoria",
@@ -112034,6 +112204,16 @@
         "cors": "unknown",
         "url": "https://apify.com/powerai/jobteaser-jobs-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Jogpad",
+        "description": "Show HN: JogPad – Shift Shift note capture app (macOS)",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jogpad.fishball.app/",
+        "discovered_at": "2026-09-05"
     },
     {
         "name": "Jora Jobs Scraper 🎯",
@@ -117995,6 +118175,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Ocam",
+        "description": "Show HN: AI Cybersecurity Awareness Game for Cybersecurity Awareness Month",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ocam.fablesecurity.com/7a573656-3fac-485c-aaa4-a1f56452539f?id=22f5effc-8f44-4d91-b2d2-0151466f8d9a",
+        "discovered_at": "2026-09-05"
+    },
+    {
         "name": "Opensource",
         "description": "Open-source runtime security toolkit for autonomous AI agents covering OWASP Top",
         "category": "Security",
@@ -121813,6 +122003,16 @@
         "discovered_at": "2026-04-09"
     },
     {
+        "name": "Audioreality",
+        "description": "Show HN: Audioreality.ai – email to private daily podcast summary show",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.audioreality.ai",
+        "discovered_at": "2026-09-05"
+    },
+    {
         "name": "Backblaze",
         "description": "Genblaze: Open-Source Python SDK for Multi-Provider Generative Media Pipelines",
         "category": "Video & Media",
@@ -122419,6 +122619,16 @@
         "cors": "unknown",
         "url": "https://www.resilientcyber.io/p/vulnpocalypse-ai-open-source-and",
         "discovered_at": "2026-04-10"
+    },
+    {
+        "name": "Ring",
+        "description": "Show HN: Video Wall Live – View all your Ring cameras at once, on the big screen",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ring.com/pages/appstore/video-wall-live",
+        "discovered_at": "2026-09-05"
     },
     {
         "name": "Runapi",
