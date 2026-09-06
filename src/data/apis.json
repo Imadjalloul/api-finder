@@ -4652,6 +4652,16 @@
         "discovered_at": "2026-06-02"
     },
     {
+        "name": "Phntmcore",
+        "description": "Show HN: Phntm-ONE: I built a local AI desk assistant",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.phntmcore.com/",
+        "discovered_at": "2026-09-06"
+    },
+    {
         "name": "Platinum",
         "description": "Show HN: Check how AI agents see your website (free, 8-point scan)",
         "category": "AI & Machine Learning",
@@ -66356,6 +66366,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Touchmac",
+        "description": "Show HN: Vibe code keeps running, even with the lid closed",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://touchmac.app/en/",
+        "discovered_at": "2026-09-06"
+    },
+    {
         "name": "Tours and Activities",
         "description": "Before using this API, we recommend you read our **[Authorization Guide](https://developers.amadeus.com/self-service/apis-docs/guides/authorization-262)** for more information on how to generate an a",
         "category": "Development",
@@ -71204,6 +71224,16 @@
         "cors": "unknown",
         "url": "https://apify.com/mshopik/blissy-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Blog",
+        "description": "Show HN: Minilith – A zero-dependency CMS stored inside a PNG file",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.minilith.site/#posts/minilith-architecture",
+        "discovered_at": "2026-09-06"
     },
     {
         "name": "Bluefly Scraper",
@@ -89999,6 +90029,16 @@
         "discovered_at": "2026-06-24"
     },
     {
+        "name": "Aibriefs",
+        "description": "Show HN: Real-time AI news aggregator with daily digest",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aibriefs.news",
+        "discovered_at": "2026-09-06"
+    },
+    {
         "name": "Apnews",
         "description": "CERN takes antiprotons for a spin in a test never tried before",
         "category": "News",
@@ -94303,6 +94343,16 @@
         "discovered_at": "2026-08-10"
     },
     {
+        "name": "Anystation",
+        "description": "Show HN: Public message board for limited systems",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://anystation.net/",
+        "discovered_at": "2026-09-06"
+    },
+    {
         "name": "Anything",
         "description": "Show HN: Anything API – Get APIs from Websites Without APIs",
         "category": "Other",
@@ -95841,6 +95891,16 @@
         "cors": "unknown",
         "url": "https://chefkiss.dev/applehax/inferno/",
         "discovered_at": "2026-07-15"
+    },
+    {
+        "name": "Chessnotate",
+        "description": "Show HN: ChessNotate – Fix a broken PGN without branching into a new variation",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://chessnotate.app/",
+        "discovered_at": "2026-09-06"
     },
     {
         "name": "Chestnut",
@@ -100993,6 +101053,16 @@
         "discovered_at": "2026-05-06"
     },
     {
+        "name": "Midjourney-api",
+        "description": "Show HN: Midjourney API with webhooks, polling",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.midjourney-api.com",
+        "discovered_at": "2026-09-06"
+    },
+    {
         "name": "Mightydash",
         "description": "Show HN: MightyDash – A Free, Privacy-Focused iPhone Dashcam App",
         "category": "Other",
@@ -104023,6 +104093,16 @@
         "discovered_at": "2026-04-29"
     },
     {
+        "name": "Saytoucan",
+        "description": "Show HN: Say Toucan – my feedback board 3x'd its price, so I built my own",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://saytoucan.com",
+        "discovered_at": "2026-09-06"
+    },
+    {
         "name": "Sbnyc",
         "description": "Show HN: I built a free app for New Yorkers to save money on groceries",
         "category": "Other",
@@ -106493,6 +106573,16 @@
         "discovered_at": "2026-08-21"
     },
     {
+        "name": "Vibes",
+        "description": "Show HN: Vibes – A Mac app for friends to see who's online and coding",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vibes.opentangle.com/",
+        "discovered_at": "2026-09-06"
+    },
+    {
         "name": "Visisign",
         "description": "Show HN: VisiSign – $0.10 per envelope e-signatures with no monthly fee",
         "category": "Other",
@@ -106981,6 +107071,16 @@
         "cors": "unknown",
         "url": "https://xata.io/blog/open-source-postgres-branching-copy-on-write",
         "discovered_at": "2026-04-16"
+    },
+    {
+        "name": "Xbrlmetrics",
+        "description": "Show HN: I audited my SEC pipeline, found 82.7% of split adjustments were wrong",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://xbrlmetrics.com",
+        "discovered_at": "2026-09-06"
     },
     {
         "name": "Xcancel",
