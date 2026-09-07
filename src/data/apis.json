@@ -250,6 +250,16 @@
         "discovered_at": "2026-03-08"
     },
     {
+        "name": "Agents",
+        "description": "A public noticeboard for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agents.scrygl.dev/",
+        "discovered_at": "2026-09-07"
+    },
+    {
         "name": "Agentthreads",
         "description": "Show HN: AgentThreads – Stack Overflow for AI Agents",
         "category": "AI & Machine Learning",
@@ -608,6 +618,16 @@
         "cors": "unknown",
         "url": "https://ampledata.io",
         "discovered_at": "2026-06-15"
+    },
+    {
+        "name": "Amundsenlance",
+        "description": "Public beta: a decision-governance runtime for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://amundsenlance.github.io/pvpp-runtime-api/",
+        "discovered_at": "2026-09-07"
     },
     {
         "name": "Anakin",
@@ -4850,6 +4870,16 @@
         "cors": "unknown",
         "url": "https://www.proreview.dev/",
         "discovered_at": "2026-05-31"
+    },
+    {
+        "name": "Provenbrief",
+        "description": "AI Code Share Tracker: Percent of Code Written by AI",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://provenbrief.com/story/the-ai-code-share-tracker-every-verified-public-number-on-ai-written-code-from-n",
+        "discovered_at": "2026-09-07"
     },
     {
         "name": "Proxvanta",
@@ -52297,6 +52327,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Cadenya",
+        "description": "One Protobuf Schema for REST, Postgres, SDKs, and Docs",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.cadenya.com/handwritten/designing-cadenyas-api",
+        "discovered_at": "2026-09-07"
+    },
+    {
         "name": "Calculator MCP Server",
         "description": "-",
         "category": "Development",
@@ -59486,6 +59526,16 @@
         "cors": "unknown",
         "url": "https://apify.com/yourapiservice/launchmyhealth-blog-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Layerz",
+        "description": "Show HN: Layerz – Build native iOS apps with no code, run them instantly",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.layerz.app/",
+        "discovered_at": "2026-09-07"
     },
     {
         "name": "Lazada Product Scraper (Pay Per Result)",
@@ -90209,6 +90259,16 @@
         "discovered_at": "2026-03-14"
     },
     {
+        "name": "Cordcuttersnews",
+        "description": "TiVo to charge money for skipping commercials in your own recordings",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/",
+        "discovered_at": "2026-09-07"
+    },
+    {
         "name": "Crawltimes",
         "description": "Show HN: The Crawl Times – Newspaper-style front pages for tech news sites",
         "category": "News",
@@ -95123,6 +95183,16 @@
         "discovered_at": "2026-05-04"
     },
     {
+        "name": "Bigbrotherwatch",
+        "description": "Big brother watch report reveals free speech is in \"downward spiral\" in the UK",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bigbrotherwatch.org.uk/press-releases/campaigners-urge-burnham-to-review-uks-anti-free-speech-laws/",
+        "discovered_at": "2026-09-07"
+    },
+    {
         "name": "Bike",
         "description": "Show HN: Find undervalued bikes near you with ML",
         "category": "Other",
@@ -98673,6 +98743,16 @@
         "discovered_at": "2026-08-28"
     },
     {
+        "name": "Golden",
+        "description": "Show HN: Golden hour API and a 3D globe of the best light",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://golden.sendafun.com/",
+        "discovered_at": "2026-09-07"
+    },
+    {
         "name": "Golemui",
         "description": "Show HN: GolemUI – Declarative Form Engine",
         "category": "Other",
@@ -100151,6 +100231,16 @@
         "cors": "unknown",
         "url": "https://latex.to/",
         "discovered_at": "2026-08-04"
+    },
+    {
+        "name": "Latimes",
+        "description": "The Great Barrier Reef refuses to die on schedule - best years record",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.latimes.com/opinion/story/2026-09-06/great-barrier-reef-refuses-to-die",
+        "discovered_at": "2026-09-07"
     },
     {
         "name": "Laugh",
@@ -107113,6 +107203,16 @@
         "discovered_at": "2026-06-29"
     },
     {
+        "name": "Y-api",
+        "description": "Unlimited Free DeepSeek API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://y-api.bestvirtualgoods.com/",
+        "discovered_at": "2026-09-07"
+    },
+    {
         "name": "Yaninatrekhleb",
         "description": "Show HN: Daily Reflections – A private, zero-dependency, local-first PWA journal",
         "category": "Other",
@@ -107181,6 +107281,16 @@
         "cors": "unknown",
         "url": "https://www.zeroroot.ai",
         "discovered_at": "2026-08-26"
+    },
+    {
+        "name": "Zerothesis",
+        "description": "Show HN: ZeroThesis – Multiplayer Autoresearch with Agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://zerothesis.com",
+        "discovered_at": "2026-09-07"
     },
     {
         "name": "Zilliz",
@@ -107919,6 +108029,26 @@
         "cors": "unknown",
         "url": "https://phwalls.com/en",
         "discovered_at": "2026-06-20"
+    },
+    {
+        "name": "Piceditor",
+        "description": "Show HN: Free AI Photo Editor Online – No Sign-Up",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://piceditor.org/",
+        "discovered_at": "2026-09-07"
+    },
+    {
+        "name": "Picfiddle",
+        "description": "Always free and privacy-first image editor – PicFiddle",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://picfiddle.com",
+        "discovered_at": "2026-09-07"
     },
     {
         "name": "Pictero",
@@ -118076,6 +118206,16 @@
         "discovered_at": "2026-03-17"
     },
     {
+        "name": "Depwarden",
+        "description": "Show HN: DepWarden – free, anonymous dependency vulnerability scanner",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://depwarden.in/blog/npm-pypi-typosquatting-2026-report",
+        "discovered_at": "2026-09-07"
+    },
+    {
         "name": "Federalregister",
         "description": "NIST Seeking Public Comment on AI Agent Security (Deadline: March 9, 2026)",
         "category": "Security",
@@ -119105,6 +119245,16 @@
         "cors": "unknown",
         "url": "https://www.theguardian.com/technology/2026/mar/19/us-startup-advertises-ai-bully-role-to-test-patience-of-leading-chatbots",
         "discovered_at": "2026-03-21"
+    },
+    {
+        "name": "Trypia",
+        "description": "Show HN: Made a social media scheduler that doesnt require a subscription",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.trypia.app/",
+        "discovered_at": "2026-09-07"
     },
     {
         "name": "Twitch",
@@ -122360,6 +122510,16 @@
         "cors": "unknown",
         "url": "https://getdull.app",
         "discovered_at": "2026-03-12"
+    },
+    {
+        "name": "Getvodforge",
+        "description": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getvodforge.com/",
+        "discovered_at": "2026-09-07"
     },
     {
         "name": "Giphy",
