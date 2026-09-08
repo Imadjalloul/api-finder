@@ -68566,6 +68566,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Ycj",
+        "description": "My business partner sent a 5K vibe-coded PR that he didn't even test",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ycj.bearblog.dev/ai-again/",
+        "discovered_at": "2026-09-08"
+    },
+    {
         "name": "Yes or No Random Answer API",
         "description": "Yes or No Random Answer",
         "category": "Development",
@@ -87069,6 +87079,16 @@
         "discovered_at": "2026-04-21"
     },
     {
+        "name": "Healthapi",
+        "description": "Show HN: HealthAPI – hosted REST API over Apple Health",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://healthapi.app",
+        "discovered_at": "2026-09-08"
+    },
+    {
         "name": "HealthCare.gov",
         "description": "U.S. healthcare marketplace articles and glossary",
         "category": "Government & Health",
@@ -90524,6 +90544,16 @@
         "cors": "unknown",
         "url": "https://independent-wire.org/",
         "discovered_at": "2026-06-29"
+    },
+    {
+        "name": "Middleeastainews",
+        "description": "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly",
+        "discovered_at": "2026-09-08"
     },
     {
         "name": "Nanostat",
@@ -95103,6 +95133,16 @@
         "discovered_at": "2026-08-11"
     },
     {
+        "name": "Benoror",
+        "description": "Show HN: Inbundly – Google Inbox-style bundles for Gmail (open-source)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://benoror.bearblog.dev/bringing-google-inboxs-bundles-back-to-gmail/",
+        "discovered_at": "2026-09-08"
+    },
+    {
         "name": "Bestmillionstartups",
         "description": "X Is Changing How Creators Get Paid in 2026",
         "category": "Other",
@@ -96553,6 +96593,16 @@
         "discovered_at": "2026-05-15"
     },
     {
+        "name": "Csvpreview",
+        "description": "Show HN: Browser only CSV editor, data never leaves your machine",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://csvpreview.com",
+        "discovered_at": "2026-09-08"
+    },
+    {
         "name": "Ctaio",
         "description": "Show HN: The best-paid AI/tech job anyone advertises pays $824k, not $100M",
         "category": "Other",
@@ -96651,6 +96701,16 @@
         "cors": "unknown",
         "url": "https://cygnus.run",
         "discovered_at": "2026-07-26"
+    },
+    {
+        "name": "D2lang",
+        "description": "TALA Is Open-Source",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://d2lang.com/blog/tala-is-open-source/",
+        "discovered_at": "2026-09-08"
     },
     {
         "name": "Danielvaughn",
@@ -97891,6 +97951,16 @@
         "cors": "unknown",
         "url": "https://fernway.io",
         "discovered_at": "2026-08-05"
+    },
+    {
+        "name": "Fetchrelay",
+        "description": "Show HN: Web Scraping and Crawling – FetchRelay",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fetchrelay.com",
+        "discovered_at": "2026-09-08"
     },
     {
         "name": "Figranium",
@@ -102253,6 +102323,16 @@
         "discovered_at": "2026-07-24"
     },
     {
+        "name": "Openrelay",
+        "description": "Show HN: Relay – an update after three years on anonymous team check-ins",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.openrelay.app/",
+        "discovered_at": "2026-09-08"
+    },
+    {
         "name": "Openscreenshot",
         "description": "Show HN: OpenScreenShot: open-source full-page screenshot and annotation tool",
         "category": "Other",
@@ -103181,6 +103261,16 @@
         "cors": "unknown",
         "url": "https://ptecorepractice.com",
         "discovered_at": "2026-04-16"
+    },
+    {
+        "name": "Ptree",
+        "description": "Show HN: Interactive Tree of Life",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ptree.org/",
+        "discovered_at": "2026-09-08"
     },
     {
         "name": "Pu",
@@ -104581,6 +104671,16 @@
         "cors": "unknown",
         "url": "https://www.shipsmooth.net/",
         "discovered_at": "2026-06-18"
+    },
+    {
+        "name": "Shnatsel",
+        "description": "Implementing FMA and finding bugs in C and Rust standard libraries",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://shnatsel.github.io/implementing-fma-finding-bugs-in-std/",
+        "discovered_at": "2026-09-08"
     },
     {
         "name": "Shoehorn",
@@ -106643,6 +106743,16 @@
         "discovered_at": "2026-08-27"
     },
     {
+        "name": "Vertumnus",
+        "description": "Show HN: Vertumnus – printable posters of farmers' market produce seasonality",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vertumnus.fyi",
+        "discovered_at": "2026-09-08"
+    },
+    {
         "name": "Vetkuro",
         "description": "Show HN: Vetkuro, telemetry analysis for track-day drivers",
         "category": "Other",
@@ -106761,6 +106871,16 @@
         "cors": "unknown",
         "url": "https://www.votito.com/",
         "discovered_at": "2026-09-05"
+    },
+    {
+        "name": "Vox",
+        "description": "Alzheimer's treatment is advancing rapidly",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.vox.com/the-highlight/501710/alzheimers-disease-dementia-test-treatment-medication-infusion",
+        "discovered_at": "2026-09-08"
     },
     {
         "name": "Voxoria",
@@ -107101,6 +107221,16 @@
         "cors": "unknown",
         "url": "https://worldcup.getbestest.com",
         "discovered_at": "2026-06-18"
+    },
+    {
+        "name": "Worldfixture",
+        "description": "Show HN: Worldfixture – An OSS fake company your software can interact with",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://worldfixture.com/",
+        "discovered_at": "2026-09-08"
     },
     {
         "name": "Wormhole",
@@ -117360,6 +117490,16 @@
         "cors": "unknown",
         "url": "https://astronomy-buddy.com/",
         "discovered_at": "2026-08-21"
+    },
+    {
+        "name": "Astrophyzix",
+        "description": "Astrophyzix Integrates NASA API's to Build Advanced Public Tracker Tool",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.astrophyzix.com/p/live-asteroid-tracker-v9.html",
+        "discovered_at": "2026-09-08"
     },
     {
         "name": "Axiologic",
