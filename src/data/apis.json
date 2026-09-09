@@ -1828,6 +1828,16 @@
         "discovered_at": "2026-04-30"
     },
     {
+        "name": "Davidmello",
+        "description": "AI in Test Automation: Real Limitations vs. User Error",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.davidmello.com/software-testing/test-automation/ai-test-automation-pitfalls-vs-user-error",
+        "discovered_at": "2026-09-09"
+    },
+    {
         "name": "Ddsboston",
         "description": "DDS Vibe Academy – 47 free AI coding masterclasses, built by AI agents",
         "category": "AI & Machine Learning",
@@ -2005,6 +2015,16 @@
         "cors": "unknown",
         "url": "https://docs.dev",
         "discovered_at": "2026-07-14"
+    },
+    {
+        "name": "Docs",
+        "description": "Show HN: Fraise: a memory database for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://docs.getfraise.dev",
+        "discovered_at": "2026-09-09"
     },
     {
         "name": "Domainsearcher",
@@ -4770,6 +4790,16 @@
         "cors": "unknown",
         "url": "https://portail-vaked-dev.pages.dev/showcase",
         "discovered_at": "2026-08-11"
+    },
+    {
+        "name": "Posterlet",
+        "description": "Show HN: Posterlet – Free AI poster maker, unlimited",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://posterlet.com",
+        "discovered_at": "2026-09-09"
     },
     {
         "name": "Prathibhax",
@@ -9848,6 +9878,16 @@
         "discovered_at": "2026-03-05"
     },
     {
+        "name": "Blog",
+        "description": "“Tweet” and the bird logo apparently enter the public domain",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
+        "discovered_at": "2026-09-09"
+    },
+    {
         "name": "Bookdna",
         "description": "My favorite nonfiction animal books that make you go holy shit",
         "category": "Animals",
@@ -11737,6 +11777,16 @@
         "cors": "unknown",
         "url": "https://lelu-ai.com",
         "discovered_at": "2026-05-28"
+    },
+    {
+        "name": "Mactap",
+        "description": "Show HN: MacTap, use knocks on your MacBook as shortcuts",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mactap.vercel.app/",
+        "discovered_at": "2026-09-09"
     },
     {
         "name": "Mattitude8861",
@@ -44757,6 +44807,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Unfetch",
+        "description": "Show HN: A Free AI Plugin for Google Ads, Console and Analytics",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://unfetch.com/plugin",
+        "discovered_at": "2026-09-09"
+    },
+    {
         "name": "Unified Serper.dev ETL Processor",
         "description": "Build clean, geo-targeted lead lists from Serper.dev. The actor scans Google Maps for your cities and keywords, applies quality filters, then enriches each business via Google Search with website,...",
         "category": "Data & Analytics",
@@ -73865,6 +73925,16 @@
         "discovered_at": "2026-07-06"
     },
     {
+        "name": "Getgat",
+        "description": "Show HN: Gat – Version large files with Git, store them anywhere",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getgat.dev",
+        "discovered_at": "2026-09-09"
+    },
+    {
         "name": "GiveSendGo Campaign Ranker",
         "description": "Scrapes GiveSendGo campaigns, extracts funding data, and ranks by percentage raised (lowest first) to identify campaigns needing the most support. Handles Cloudflare, unpublished campaigns, and...",
         "category": "E-Commerce",
@@ -85491,6 +85561,16 @@
         "discovered_at": "2026-05-04"
     },
     {
+        "name": "Aikstockdata",
+        "description": "Show HN: Korean filings with minute-level receipt times, and what happened next",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aikstockdata.com/en/api",
+        "discovered_at": "2026-09-09"
+    },
+    {
         "name": "Alpha Vantage",
         "description": "Stock, forex, and crypto market data with technical indicators",
         "category": "Finance",
@@ -94833,6 +94913,16 @@
         "discovered_at": "2026-08-07"
     },
     {
+        "name": "Asm-editor",
+        "description": "Show HN: A browser IDE for m68000, Z80 assembly (and more), with graphics",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://asm-editor.specy.app/",
+        "discovered_at": "2026-09-09"
+    },
+    {
         "name": "Aspire",
         "description": "MS Aspire – Open-source stack, streamlined",
         "category": "Other",
@@ -97663,6 +97753,16 @@
         "discovered_at": "2026-06-29"
     },
     {
+        "name": "Eqiqs",
+        "description": "We hash API keys at rest – and what it costs in edge-function latency",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.eqiqs.com/blog/hashing-api-keys-edge-function-latency",
+        "discovered_at": "2026-09-09"
+    },
+    {
         "name": "Eran",
         "description": "Show HN: I ran every Claude agent turn through the Batch API",
         "category": "Other",
@@ -98611,6 +98711,16 @@
         "cors": "unknown",
         "url": "https://getreel.dev/vex",
         "discovered_at": "2026-07-14"
+    },
+    {
+        "name": "Getsitetell",
+        "description": "Show HN: SiteTell: finds the areas of your site that read as AI-generic",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.getsitetell.com/",
+        "discovered_at": "2026-09-09"
     },
     {
         "name": "Getskillify",
@@ -99621,6 +99731,16 @@
         "cors": "unknown",
         "url": "https://interconnected.org/home/2026/04/10/open-mist",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Internetapology",
+        "description": "Show HN: Internet Apology – pay to publish a public apology receipt",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://internetapology.com",
+        "discovered_at": "2026-09-09"
     },
     {
         "name": "Intuitivecompute",
@@ -101793,6 +101913,16 @@
         "discovered_at": "2026-05-08"
     },
     {
+        "name": "Nevertwenty",
+        "description": "Show HN: Nevertwenty a novel approach to chord synthesis",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.nevertwenty.com/",
+        "discovered_at": "2026-09-09"
+    },
+    {
         "name": "Next",
         "description": "Best US- and EU-hosted abliterated models with no input/output prompt retention",
         "category": "Other",
@@ -102793,6 +102923,16 @@
         "discovered_at": "2026-06-21"
     },
     {
+        "name": "Pen",
+        "description": "Show HN: Pen – A writing tool where conversation is the editor",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pen.xyz",
+        "discovered_at": "2026-09-09"
+    },
+    {
         "name": "perfectpdf api",
         "description": "The perfectpdf api does one thing, perfectly: it converts html to pdf. The perfectpdf api uses headless Google Chrome to provide a low cost, high quality, simple to use service.",
         "category": "Other",
@@ -103171,6 +103311,16 @@
         "cors": "unknown",
         "url": "https://prod-i.a.dj.com/public/resources/documents/dnaletter.pdf",
         "discovered_at": "2026-06-05"
+    },
+    {
+        "name": "Project-estimator",
+        "description": "Show HN: Project Estimator – a free, no sign-up software cost estimator",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://project-estimator.webround.net/",
+        "discovered_at": "2026-09-09"
     },
     {
         "name": "Promptjuggler",
@@ -104523,6 +104673,16 @@
         "discovered_at": "2026-07-06"
     },
     {
+        "name": "Sendraven",
+        "description": "Show HN: Raven – Encrypted messages hidden inside ordinary text",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sendraven.ink",
+        "discovered_at": "2026-09-09"
+    },
+    {
         "name": "Senior-swe-bench",
         "description": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
         "category": "Other",
@@ -105071,6 +105231,16 @@
         "cors": "unknown",
         "url": "https://www.southbridge.ai/blog/offmute-v2-glm-vs-opus",
         "discovered_at": "2026-06-21"
+    },
+    {
+        "name": "Sparrow2",
+        "description": "Show HN: Sparrow-2 – Noise cancellation isn't designed for conversational AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sparrow2.tavuslabs.org/",
+        "discovered_at": "2026-09-09"
     },
     {
         "name": "Spec2test-intelligence",
@@ -105653,6 +105823,16 @@
         "discovered_at": "2026-07-23"
     },
     {
+        "name": "Taler",
+        "description": "Show HN: Rokz: a browser port of a 1990 ASCII dungeon crawler",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://taler.pl/rokz/",
+        "discovered_at": "2026-09-09"
+    },
+    {
         "name": "Tapfi",
         "description": "Show HN: TapFi – Join any WiFi just by scanning the details with your camera",
         "category": "Other",
@@ -106051,6 +106231,16 @@
         "cors": "unknown",
         "url": "https://tim.blog/2026/07/17/better-than-free/",
         "discovered_at": "2026-07-19"
+    },
+    {
+        "name": "Timelinescan",
+        "description": "Show HN: Free scanning app with ML crops, front/back pairing, and stitching",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://timelinescan.com/frontback-scanner/",
+        "discovered_at": "2026-09-09"
     },
     {
         "name": "Timervana",
@@ -107981,6 +108171,16 @@
         "cors": "unknown",
         "url": "https://free-ai-art-generator.pages.dev",
         "discovered_at": "2026-07-26"
+    },
+    {
+        "name": "Freeaiimage",
+        "description": "Show HN: Free AI image tools, no signup",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://freeaiimage.io",
+        "discovered_at": "2026-09-09"
     },
     {
         "name": "geodesystems.com:443",
@@ -117522,6 +117722,16 @@
         "discovered_at": "2026-04-02"
     },
     {
+        "name": "Blackholes",
+        "description": "Show HN: Blackholes – A macOS workspace for coding agents",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blackholes.dev",
+        "discovered_at": "2026-09-09"
+    },
+    {
         "name": "Breezko",
         "description": "Show HN: I Created an Interactive Resume Space Invader Game",
         "category": "Science",
@@ -119220,6 +119430,16 @@
         "discovered_at": "2026-08-24"
     },
     {
+        "name": "Nexconn",
+        "description": "Show HN: Nexconn – Free cross-platform chat SDK with native push",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.nexconn.ai/free-chat-api",
+        "discovered_at": "2026-09-09"
+    },
+    {
         "name": "Openclawdiscord",
         "description": "Show HN: Meet Alfonso: My OpenClaw Put on Public Discord",
         "category": "Social",
@@ -120856,6 +121076,26 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "4tospeak",
+        "description": "Show HN: Decode, encode, listen, and speak to learn a language",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.4tospeak.com/",
+        "discovered_at": "2026-09-09"
+    },
+    {
+        "name": "Aiclonevoicefree",
+        "description": "MixVoice – Free voice cloning in the browser (646 languages, no sign-up)",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aiclonevoicefree.com/",
+        "discovered_at": "2026-09-09"
+    },
+    {
         "name": "Aligner",
         "description": "Show HN: Word-by-word translation aligner tool",
         "category": "Text & Language",
@@ -121032,6 +121272,16 @@
         "cors": "unknown",
         "url": "https://framework.ai-native-transformation.com",
         "discovered_at": "2026-04-09"
+    },
+    {
+        "name": "Genotype-lang",
+        "description": "Show HN: Genotype: language that compiles to idiomatic TS, Rust and Python",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://genotype-lang.org/",
+        "discovered_at": "2026-09-09"
     },
     {
         "name": "Getbruin",
