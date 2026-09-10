@@ -1648,6 +1648,16 @@
         "url": "https://docs.cohere.com/"
     },
     {
+        "name": "Colliepwa",
+        "description": "Show HN: ColliePWA a mobile interface for AI agents in herdr/tmux/zellij",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://colliepwa.dev/",
+        "discovered_at": "2026-09-10"
+    },
+    {
         "name": "Computerweekly",
         "description": "Flood warning: How citizens' AI agents will swamp public services",
         "category": "AI & Machine Learning",
@@ -6108,6 +6118,16 @@
         "cors": "unknown",
         "url": "https://the-designengineer.com/model-cost-estimator/",
         "discovered_at": "2026-04-17"
+    },
+    {
+        "name": "Theagenticleaderboard",
+        "description": "I rank the open-source AI agents that launched in the last 30 days",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.theagenticleaderboard.com/",
+        "discovered_at": "2026-09-10"
     },
     {
         "name": "Theatlantic",
@@ -11200,6 +11220,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/vtex/openapi-schemas/master/VTEX - Marketplace Protocol.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Maxxwell",
+        "description": "Show HN: Maxxwell – The IDE for Optimal Tokenmaxxing",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://maxxwell.dev/",
+        "discovered_at": "2026-09-10"
     },
     {
         "name": "Modelhub-api",
@@ -18759,6 +18789,16 @@
         "cors": "unknown",
         "url": "https://emailverifier.dev/",
         "discovered_at": "2026-08-15"
+    },
+    {
+        "name": "Eusend",
+        "description": "Show HN: Eusend – the EU-native email API",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://eusend.dev",
+        "discovered_at": "2026-09-10"
     },
     {
         "name": "Extend",
@@ -83441,6 +83481,16 @@
         "discovered_at": "2026-07-11"
     },
     {
+        "name": "Cbc",
+        "description": "Free course covering basics of AI to be available to Canadians by end of year",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.cbc.ca/news/politics/ai-essentials-government-courses-solomon-9.7337417",
+        "discovered_at": "2026-09-10"
+    },
+    {
         "name": "Cidrap",
         "description": "70% of new drugs approved by FDA in 2024 were based on a single study",
         "category": "Education",
@@ -85598,6 +85648,16 @@
         "cors": "unknown",
         "url": "https://developer.mastercard.com/devzone/api/portal/swagger/bill-payment-validator",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Cantonpay",
+        "description": "Show HN: CantonPay – registration-free Stellar payment links",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cantonpay.online",
+        "discovered_at": "2026-09-10"
     },
     {
         "name": "Cloudexplorer",
@@ -88114,6 +88174,16 @@
         "discovered_at": "2026-03-03"
     },
     {
+        "name": "Quantumcomputingfortheconfused",
+        "description": "Show HN: Intro-level book about quantum computing theory/hardware/applications",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://quantumcomputingfortheconfused.com/",
+        "discovered_at": "2026-09-10"
+    },
+    {
         "name": "Sentient-os",
         "description": "Show HN: Sentient OS – On-device intelligence layer for your entire digital life",
         "category": "IoT & Hardware",
@@ -89297,6 +89367,16 @@
         "cors": "unknown",
         "url": "https://uavradar.live/",
         "discovered_at": "2026-07-30"
+    },
+    {
+        "name": "Uprouter",
+        "description": "Show HN: Community curated list of 310 AI providers offering $4.3k free credits",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.uprouter.online/",
+        "discovered_at": "2026-09-10"
     },
     {
         "name": "Usegenosis",
@@ -94721,6 +94801,16 @@
         "cors": "unknown",
         "url": "https://app.treechat.com/quest/post-0e602844-aa9a-4040-a637-02403bdc8284",
         "discovered_at": "2026-08-28"
+    },
+    {
+        "name": "Apple",
+        "description": "AirPods 5",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+        "discovered_at": "2026-09-10"
     },
     {
         "name": "Appleinsider",
@@ -103781,6 +103871,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/bggb7781-collab/lrnnsmdds/refs/heads/main/lrnnsmdds",
         "discovered_at": "2026-04-10"
+    },
+    {
+        "name": "Ray",
+        "description": "Show HN: Rayrun – one MCP gateway for the whole company",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ray.run/",
+        "discovered_at": "2026-09-10"
     },
     {
         "name": "Raybeam",
