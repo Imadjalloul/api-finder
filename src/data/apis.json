@@ -380,6 +380,16 @@
         "discovered_at": "2026-06-05"
     },
     {
+        "name": "Aicertarena",
+        "description": "Show HN: CertArena – Free AI certification simulator (zero deps, native Node 24)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aicertarena.com/",
+        "discovered_at": "2026-09-11"
+    },
+    {
         "name": "Aicontentfootprint",
         "description": "Show HN: Energy, carbon and water estimates for AI content, shown as ranges",
         "category": "AI & Machine Learning",
@@ -858,6 +868,16 @@
         "cors": "unknown",
         "url": "https://app.scarf.sh/ai-leaderboard",
         "discovered_at": "2026-08-12"
+    },
+    {
+        "name": "App",
+        "description": "Show HN: AI Brand Visibility for Free Forever",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.geosurge.ai/login",
+        "discovered_at": "2026-09-11"
     },
     {
         "name": "Apply-tracker",
@@ -3404,6 +3424,16 @@
         "discovered_at": "2026-06-26"
     },
     {
+        "name": "Kwisatzh",
+        "description": "Show HN: ObserverBench – Test internal AI monitors by the harm they miss",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kwisatzh.github.io/observerbench/try/",
+        "discovered_at": "2026-09-11"
+    },
+    {
         "name": "Kybernis",
         "description": "Show HN: Kybernis – Prevent AI agents from executing the same action twice",
         "category": "AI & Machine Learning",
@@ -4273,6 +4303,16 @@
         "discovered_at": "2026-04-07"
     },
     {
+        "name": "Nonlineartransform",
+        "description": "AI rent can save humanity",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nonlineartransform.substack.com/p/how-ai-rent-can-save-humanity",
+        "discovered_at": "2026-09-11"
+    },
+    {
         "name": "Nonogra",
         "description": "AI Companies Are Buying Tons of Old Books Because They're Free of AI Slop",
         "category": "AI & Machine Learning",
@@ -5032,6 +5072,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Quickgamescheduler",
+        "description": "QuickGameScheduler – Free Equity-balanced round-robin scheduler with AI edits",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.quickgamescheduler.com/",
+        "discovered_at": "2026-09-11"
+    },
+    {
         "name": "Quippd",
         "description": "AI Code Is Hollowing Out Open Source, and Maintainers Are Looking the Other Way",
         "category": "AI & Machine Learning",
@@ -5381,6 +5431,16 @@
         "discovered_at": "2026-07-20"
     },
     {
+        "name": "Sanitycheck",
+        "description": "AI agents that QA-test your web app like real users",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.sanitycheck.dev/",
+        "discovered_at": "2026-09-11"
+    },
+    {
         "name": "Saor",
         "description": "Saor.io – Persistent memory for AI agents, free, connects via MCP",
         "category": "AI & Machine Learning",
@@ -5469,6 +5529,16 @@
         "cors": "unknown",
         "url": "https://selbonds.now",
         "discovered_at": "2026-07-18"
+    },
+    {
+        "name": "Sendroq",
+        "description": "Show HN: I built an AI Agent that sell itself",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.sendroq.com/",
+        "discovered_at": "2026-09-11"
     },
     {
         "name": "Senthex",
@@ -5908,6 +5978,16 @@
         "cors": "unknown",
         "url": "https://www.swarmed.dev",
         "discovered_at": "2026-04-07"
+    },
+    {
+        "name": "Swiftime",
+        "description": "Show HN: Swiftime - time tracking you can talk to, with an API for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://swiftime.ai/",
+        "discovered_at": "2026-09-11"
     },
     {
         "name": "Symposium",
@@ -6659,6 +6739,16 @@
         "discovered_at": "2026-05-18"
     },
     {
+        "name": "Voxdev",
+        "description": "Will open source AI keep up for long?",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://voxdev.org/topic/technology-innovation/will-open-source-ai-keep-long",
+        "discovered_at": "2026-09-11"
+    },
+    {
         "name": "Vr",
         "description": "Show HN: VR.dev – Open-source verifiers for what AI agents did",
         "category": "AI & Machine Learning",
@@ -6886,6 +6976,16 @@
         "cors": "unknown",
         "url": "https://wuphf.team",
         "discovered_at": "2026-05-10"
+    },
+    {
+        "name": "X402socks",
+        "description": "Show HN: Socks Proxy for AI Agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://x402socks.com/",
+        "discovered_at": "2026-09-11"
     },
     {
         "name": "Xalgorix",
@@ -18150,6 +18250,16 @@
         "cors": "unknown",
         "url": "https://rmirror.io",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Rockysurf",
+        "description": "Show HN: Rocky Surf – Open-source control plane for coding-agent cloud VMs",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.rockysurf.com/",
+        "discovered_at": "2026-09-11"
     },
     {
         "name": "Scalix",
@@ -52337,6 +52447,16 @@
         "discovered_at": "2026-05-01"
     },
     {
+        "name": "Bryanpg",
+        "description": "Show HN: Pragma Twice – A dystopian sci-fi themed programming game",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.bryanpg.com/pragma_twice/",
+        "discovered_at": "2026-09-11"
+    },
+    {
         "name": "Bubble and Bee Blog Scraper",
         "description": "Bubble and Bee Blog Scraper (bubbleandbee.com) lets you extract blog content in HTML, JSON, and plaintext. Get authors, create/update date, images, read time, RSS, titles, SEO titles, featured images.",
         "category": "Development",
@@ -73775,6 +73895,16 @@
         "discovered_at": "2026-06-25"
     },
     {
+        "name": "Founder",
+        "description": "Show HN: I built Founder.best and its products now show up in AI recommendations",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.founder.best",
+        "discovered_at": "2026-09-11"
+    },
+    {
         "name": "FR Carre Opera Scraper",
         "description": "This actor is intended to extract data from carre-opera.com",
         "category": "E-Commerce",
@@ -78671,6 +78801,16 @@
         "cors": "unknown",
         "url": "https://apify.com/mshopik/promescent-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Promptsign",
+        "description": "Show HN: PromptSign – Sigstore signing and verification for AI instruction files",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://promptsign.ai/",
+        "discovered_at": "2026-09-11"
     },
     {
         "name": "Propertyvenders Urls Spider",
@@ -88884,6 +89024,16 @@
         "discovered_at": "2026-08-06"
     },
     {
+        "name": "Conviva",
+        "description": "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/",
+        "discovered_at": "2026-09-11"
+    },
+    {
         "name": "Cyrinx",
         "description": "Show HN: Cyrinx (36kbps Acoustic Transport)",
         "category": "Maps & Transport",
@@ -90427,6 +90577,16 @@
         "cors": "unknown",
         "url": "https://clair.im",
         "discovered_at": "2026-07-21"
+    },
+    {
+        "name": "Codepress",
+        "description": "Show HN: CodePress – Save $50k+ a month on Cloud Agents",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://codepress.dev/",
+        "discovered_at": "2026-09-11"
     },
     {
         "name": "Compressor",
@@ -95193,6 +95353,16 @@
         "discovered_at": "2026-07-12"
     },
     {
+        "name": "Ayles",
+        "description": "Show HN: DOOM in the kernel, or fibers in eBPF",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ayles.github.io/doom-in-kernel/",
+        "discovered_at": "2026-09-11"
+    },
+    {
         "name": "Bacist",
         "description": "Show HN: Irregular German Verbs – a simple app, no ads or tracking",
         "category": "Other",
@@ -96061,6 +96231,16 @@
         "cors": "unknown",
         "url": "https://candle.fi",
         "discovered_at": "2026-05-13"
+    },
+    {
+        "name": "Cap-table",
+        "description": "Show HN: I built a Cap Table app for myself, now you can use it too for free",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cap-table.io/",
+        "discovered_at": "2026-09-11"
     },
     {
         "name": "Capakit",
@@ -97111,6 +97291,16 @@
         "cors": "unknown",
         "url": "https://demo.convolens.ai",
         "discovered_at": "2026-08-27"
+    },
+    {
+        "name": "Demo",
+        "description": "Show HN: Making a FOSS for Managing Life",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://demo.ontoplano.com",
+        "discovered_at": "2026-09-11"
     },
     {
         "name": "Demoday",
@@ -100223,6 +100413,16 @@
         "discovered_at": "2026-03-23"
     },
     {
+        "name": "Keepup",
+        "description": "Show HN: KeepUp – Verified net worth rankings for everyone",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://keepup.finance/",
+        "discovered_at": "2026-09-11"
+    },
+    {
         "name": "Keirolabs",
         "description": "Show HN: Llama 3.2 3B and Keiro Research achieves 85% on SimpleQA",
         "category": "Other",
@@ -100471,6 +100671,16 @@
         "cors": "unknown",
         "url": "https://langevinai.io/",
         "discovered_at": "2026-07-01"
+    },
+    {
+        "name": "Largetsp",
+        "description": "Title: Show HN: Scaling a TSP heuristic to 20k cities, public benchmark data",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://largetsp.uncledroid.app/",
+        "discovered_at": "2026-09-11"
     },
     {
         "name": "Lasersell",
@@ -101901,6 +102111,16 @@
         "cors": "unknown",
         "url": "https://www.nationaldex.app",
         "discovered_at": "2026-09-05"
+    },
+    {
+        "name": "Natively",
+        "description": "Show HN: Natively – comms for agents built by agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://natively.io",
+        "discovered_at": "2026-09-11"
     },
     {
         "name": "Nativesoft",
@@ -104143,6 +104363,16 @@
         "discovered_at": "2026-04-17"
     },
     {
+        "name": "Research",
+        "description": "The Open Source Engineering Performance Report [pdf]",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://research.navigara.com/research/Navigara-Performance-Report-Q2-2026.pdf",
+        "discovered_at": "2026-09-11"
+    },
+    {
         "name": "Resources",
         "description": "Show HN: Open-source CLI to generate UI tests from user flows",
         "category": "Other",
@@ -104401,6 +104631,16 @@
         "cors": "unknown",
         "url": "https://www.runtm.com/",
         "discovered_at": "2026-05-22"
+    },
+    {
+        "name": "Runyte",
+        "description": "Show HN: Runyte – a modal editor with integrated terminals and a file manager",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://runyte.com",
+        "discovered_at": "2026-09-11"
     },
     {
         "name": "Rust-beautifier",
@@ -105363,6 +105603,16 @@
         "discovered_at": "2026-05-22"
     },
     {
+        "name": "Speed",
+        "description": "Fastly Speed Test",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://speed.edgecompute.app/",
+        "discovered_at": "2026-09-11"
+    },
+    {
         "name": "Speedcube",
         "description": "Show HN: Rubiks Cube Solver",
         "category": "Other",
@@ -105701,6 +105951,16 @@
         "cors": "unknown",
         "url": "https://strudai.com",
         "discovered_at": "2026-06-01"
+    },
+    {
+        "name": "Subdomains",
+        "description": "Show HN: A free API to query 3.5B subdomains",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://subdomains.jsmon.sh",
+        "discovered_at": "2026-09-11"
     },
     {
         "name": "Submarius",
@@ -106551,6 +106811,16 @@
         "cors": "unknown",
         "url": "https://www.trademylease.com",
         "discovered_at": "2026-06-09"
+    },
+    {
+        "name": "Trailogs",
+        "description": "Show HN: Trailogs – A team's operational history you can ask questions about",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://trailogs.com/",
+        "discovered_at": "2026-09-11"
     },
     {
         "name": "Traintrack",
@@ -108153,6 +108423,16 @@
         "discovered_at": "2026-07-06"
     },
     {
+        "name": "Blindlock",
+        "description": "Show HN: BlindLock – Passwords hidden in a photo, sealed to your TPM/SE",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blindlock.app/en/",
+        "discovered_at": "2026-09-11"
+    },
+    {
         "name": "Chivukulavirinchi",
         "description": "Show HN: Smriti: Your Photos, Your Memories",
         "category": "Photography",
@@ -108400,6 +108680,16 @@
         "cors": "unknown",
         "url": "https://makevideofromphoto.com/",
         "discovered_at": "2026-04-19"
+    },
+    {
+        "name": "Merybenavente",
+        "description": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://merybenavente.me/blog/proof-of-capture",
+        "discovered_at": "2026-09-11"
     },
     {
         "name": "Mosaicora",
@@ -118188,6 +118478,16 @@
         "discovered_at": "2026-07-02"
     },
     {
+        "name": "Talleyrand",
+        "description": "Show HN: Talleyrand – Open-source AI thinking workspace built as a question tree",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://talleyrand.app/",
+        "discovered_at": "2026-09-11"
+    },
+    {
         "name": "Terraviz",
         "description": "Show HN: TerraViz – Real-time flights, earthquakes, ISS on one map",
         "category": "Science",
@@ -118903,6 +119203,16 @@
         "cors": "unknown",
         "url": "https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/",
         "discovered_at": "2026-05-23"
+    },
+    {
+        "name": "Rewarelabs",
+        "description": "Show HN: Security Cards – Reducing insecure AI-generated code by 72%",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.rewarelabs.com/blog/introducing-security-cards/",
+        "discovered_at": "2026-09-11"
     },
     {
         "name": "Security",
@@ -121591,6 +121901,16 @@
         "discovered_at": "2026-06-14"
     },
     {
+        "name": "Nola",
+        "description": "Show HN: Nola – a TypeScript superset where LLM inference is a language feature",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nola.sh/",
+        "discovered_at": "2026-09-11"
+    },
+    {
         "name": "Nsmat",
         "description": "Show HN: Lefts – a domain specific language for building creative ML models",
         "category": "Text & Language",
@@ -122653,6 +122973,16 @@
         "discovered_at": "2026-04-18"
     },
     {
+        "name": "Whats",
+        "description": "Show HN: Updog.link – a URL shortener you can run for free",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://whats.updog.link",
+        "discovered_at": "2026-09-11"
+    },
+    {
         "name": "Workflowpick",
         "description": "Free calculator: Zapier pricing vs. Make.com, Pabbly Connect, and n8n",
         "category": "Utilities",
@@ -123311,6 +123641,16 @@
         "discovered_at": "2026-08-22"
     },
     {
+        "name": "Pinch",
+        "description": "Show HN: Live audio dubbing from any browser tab",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pinch.now",
+        "discovered_at": "2026-09-11"
+    },
+    {
         "name": "Podads",
         "description": "Show HN: Podads – An Ad Blocker for Your Podcasts",
         "category": "Video & Media",
@@ -123528,6 +123868,16 @@
         "cors": "unknown",
         "url": "https://thorvg-janitor.vercel.app/",
         "discovered_at": "2026-07-27"
+    },
+    {
+        "name": "Thumbrix",
+        "description": "AI Thumbnail Generator for YouTube – Try Free – Thumbrix",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thumbrix.com/",
+        "discovered_at": "2026-09-11"
     },
     {
         "name": "Tinyrec",
