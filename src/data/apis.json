@@ -11939,6 +11939,16 @@
         "discovered_at": "2026-03-20"
     },
     {
+        "name": "Minitap",
+        "description": "Google stole open source code without crediting the authors (Artemis/Minitap)",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+        "discovered_at": "2026-09-12"
+    },
+    {
         "name": "Mochijs",
         "description": "Show HN: Mochi.js: bun-native high-fidelity browser automation library",
         "category": "Books",
@@ -12095,6 +12105,16 @@
         "cors": "unknown",
         "url": "https://prop-line.com/odds-api",
         "discovered_at": "2026-08-17"
+    },
+    {
+        "name": "Provetogether",
+        "description": "Show HN: ProveTogether Moltbook but for Math",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://provetogether.ai/",
+        "discovered_at": "2026-09-12"
     },
     {
         "name": "Readingvault",
@@ -54885,6 +54905,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Easyspecs",
+        "description": "Mapping a codebase into a knowledge tree of features, services, and data models",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://easyspecs.ai/features/from-code-to-documentation",
+        "discovered_at": "2026-09-12"
+    },
+    {
         "name": "Ebay Product Reviews",
         "description": "The eBay Product Reviews Actor is a powerful web scraping tool that extracts customer reviews and feedback for eBay products.",
         "category": "Development",
@@ -84949,6 +84979,16 @@
         "url": "https://api.chucknorris.io/"
     },
     {
+        "name": "Clawfight",
+        "description": "Show HN: Clawfight.ai MCP-driven agentic game play",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://clawfight.ai/agents.md",
+        "discovered_at": "2026-09-12"
+    },
+    {
         "name": "Coachess",
         "description": "A free chess trainer where the coach explains your games in plain English",
         "category": "Entertainment",
@@ -85137,6 +85177,16 @@
         "cors": "unknown",
         "url": "https://jarl-game.com/blog/2d-gpu-grass-rendering/",
         "discovered_at": "2026-08-12"
+    },
+    {
+        "name": "Jgthms",
+        "description": "Show HN: Hopera, a free musical soothing rhythmic game",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jgthms.com/hopera/",
+        "discovered_at": "2026-09-12"
     },
     {
         "name": "Jikan",
@@ -90559,6 +90609,16 @@
         "discovered_at": "2026-07-03"
     },
     {
+        "name": "Capitalbnews",
+        "description": "The EPA is planning to scrap public review rules for data center pollution",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+        "discovered_at": "2026-09-12"
+    },
+    {
         "name": "Cask",
         "description": "Show HN: Cask.news – discover and track new homebrew Mac apps",
         "category": "News",
@@ -90824,6 +90884,16 @@
         "cors": "unknown",
         "url": "https://www.hncli.newstackwhodis.com",
         "discovered_at": "2026-08-18"
+    },
+    {
+        "name": "Hnslop",
+        "description": "Show HN: Extension to filter LLM written articles",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hnslop.nilsherzig.com/",
+        "discovered_at": "2026-09-12"
     },
     {
         "name": "Hnup",
@@ -94963,6 +95033,16 @@
         "discovered_at": "2026-08-28"
     },
     {
+        "name": "App",
+        "description": "Show HN: SyntheticAIdata – synthetic data for CV, 100k free credits/month",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.syntheticaidata.com/",
+        "discovered_at": "2026-09-12"
+    },
+    {
         "name": "Apple",
         "description": "AirPods 5",
         "category": "Other",
@@ -95631,6 +95711,16 @@
         "cors": "unknown",
         "url": "https://bitrig.com",
         "discovered_at": "2026-06-06"
+    },
+    {
+        "name": "Bitroad",
+        "description": "Show HN: Bitroad – Infra for Agent-to-Agent Services",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bitroad.ai/",
+        "discovered_at": "2026-09-12"
     },
     {
         "name": "Bitvanes",
@@ -97913,6 +98003,16 @@
         "discovered_at": "2026-04-28"
     },
     {
+        "name": "Elioplus",
+        "description": "Show HN: IP to Company API – turn any IP into business data",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://elioplus.com/ip-to-company-api",
+        "discovered_at": "2026-09-12"
+    },
+    {
         "name": "Emavan",
         "description": "Writing Constant-Time Rust Is Not Enough",
         "category": "Other",
@@ -99443,6 +99543,16 @@
         "discovered_at": "2026-09-03"
     },
     {
+        "name": "Hermes",
+        "description": "Show HN: Hermes – RyanAir price API with historical data",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hermes.brinkhorst.dev/",
+        "discovered_at": "2026-09-12"
+    },
+    {
         "name": "Heronsperch",
         "description": "Open Source Is Hobbling Itself over Generative AI",
         "category": "Other",
@@ -100381,6 +100491,16 @@
         "cors": "unknown",
         "url": "https://kaxil.substack.com/p/mcp-vs-cli-vs-rest",
         "discovered_at": "2026-04-08"
+    },
+    {
+        "name": "Kay-wong",
+        "description": "I'm an ML Engineer. My Genetic Test Was Inconclusive, So I Tried AlphaGenome",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kay-wong.github.io/blog/investigating-my-genetic-mutation-with-ai/",
+        "discovered_at": "2026-09-12"
     },
     {
         "name": "Kcorehypervisor",
@@ -105533,6 +105653,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Solidping",
+        "description": "Show HN: SolidPing — open-source uptime monitoring, agents inside your network",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://solidping.io/d/login?demo=true",
+        "discovered_at": "2026-09-12"
+    },
+    {
         "name": "Solyto",
         "description": "Show HN: Solyto – a free, open-source all-in-one personal management app",
         "category": "Other",
@@ -105601,6 +105731,16 @@
         "cors": "unknown",
         "url": "https://spectrum.ieee.org/open-source-robot-ai-platforms",
         "discovered_at": "2026-05-22"
+    },
+    {
+        "name": "Speechtext",
+        "description": "Show HN: Free Online Bates Numbering Tool for PDFs – 100% Private and Local",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://speechtext.ai/online-bates-numbering",
+        "discovered_at": "2026-09-12"
     },
     {
         "name": "Speed",
@@ -107311,6 +107451,16 @@
         "cors": "unknown",
         "url": "https://vertumnus.fyi",
         "discovered_at": "2026-09-08"
+    },
+    {
+        "name": "Vester",
+        "description": "Show HN: Bodily Oddities",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vester.si/bodily-oddities/",
+        "discovered_at": "2026-09-12"
     },
     {
         "name": "Vetkuro",
