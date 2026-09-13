@@ -3984,6 +3984,16 @@
         "discovered_at": "2026-06-20"
     },
     {
+        "name": "Misalignment",
+        "description": "Show HN: An independent directory of AI misalignment reports",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://misalignment.xyz/",
+        "discovered_at": "2026-09-13"
+    },
+    {
         "name": "Mistral AI",
         "description": "Powerful open-weight LLMs via API",
         "category": "AI & Machine Learning",
@@ -4161,6 +4171,16 @@
         "cors": "unknown",
         "url": "https://needhuman.ai",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Neowin",
+        "description": "Google allegedly stole open-source code for mobile AI tool",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.neowin.net/news/google-steals-open-source-code-for-mobile-ai-tool/",
+        "discovered_at": "2026-09-13"
     },
     {
         "name": "Nesbitt",
@@ -5709,6 +5729,16 @@
         "cors": "unknown",
         "url": "https://socket.dev/blog/ai-has-taken-over-open-source",
         "discovered_at": "2026-05-25"
+    },
+    {
+        "name": "Socratix-nine",
+        "description": "Show HN: Socratix – an AI tutor for proving mastery, not memorizing",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://socratix-nine.vercel.app",
+        "discovered_at": "2026-09-13"
     },
     {
         "name": "Socworkflows",
@@ -19158,6 +19188,16 @@
         "cors": "unknown",
         "url": "https://mailto.bot",
         "discovered_at": "2026-04-21"
+    },
+    {
+        "name": "Mailvaultapp",
+        "description": "Show HN: Email Client with Backups",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mailvaultapp.com/",
+        "discovered_at": "2026-09-13"
     },
     {
         "name": "Mainly",
@@ -85436,6 +85476,16 @@
         "discovered_at": "2026-05-31"
     },
     {
+        "name": "Picobble",
+        "description": "Show HN: Picobble – my daily word puzzle game",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://picobble.com/",
+        "discovered_at": "2026-09-13"
+    },
+    {
         "name": "Pip",
         "description": "Show HN: River Rescue – Game mechanic for 3yo",
         "category": "Entertainment",
@@ -94573,6 +94623,16 @@
         "discovered_at": "2026-04-22"
     },
     {
+        "name": "Aiminority",
+        "description": "Asking the most uncomfortable question in AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.aiminority.dev/the-ai-danger-public-temperature-check",
+        "discovered_at": "2026-09-13"
+    },
+    {
         "name": "Airbus",
         "description": "Full Scale Foldable Wing Extensions",
         "category": "Other",
@@ -96321,6 +96381,16 @@
         "cors": "unknown",
         "url": "https://candle.fi",
         "discovered_at": "2026-05-13"
+    },
+    {
+        "name": "Canonry",
+        "description": "We made Canonry open source",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://canonry.ai/blog/canonry-5-mit-open-source-aeo-geo",
+        "discovered_at": "2026-09-13"
     },
     {
         "name": "Cap-table",
@@ -99401,6 +99471,16 @@
         "cors": "unknown",
         "url": "https://gridpath.dev/",
         "discovered_at": "2026-05-28"
+    },
+    {
+        "name": "Grooved",
+        "description": "Free app to calibrate your turntable by simply playing a song",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://grooved.okat.best/",
+        "discovered_at": "2026-09-13"
     },
     {
         "name": "Guestlist",
@@ -105453,6 +105533,16 @@
         "discovered_at": "2026-03-10"
     },
     {
+        "name": "Sitedropper",
+        "description": "Show HN: Agentic Deployment and Hosting",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sitedropper.com/",
+        "discovered_at": "2026-09-13"
+    },
+    {
         "name": "Sixb",
         "description": "Show HN: Sixb – the operating layer for enterprise AI",
         "category": "Other",
@@ -105883,6 +105973,16 @@
         "discovered_at": "2026-08-14"
     },
     {
+        "name": "Stackray",
+        "description": "Show HN: Stackray – Detect any website's tech stack",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stackray.app",
+        "discovered_at": "2026-09-13"
+    },
+    {
         "name": "Stackscope",
         "description": "Show HN: StackScope – I crawled over 40k indie launches to see what they ship",
         "category": "Other",
@@ -106301,6 +106401,16 @@
         "cors": "unknown",
         "url": "https://tablething.com/",
         "discovered_at": "2026-06-18"
+    },
+    {
+        "name": "Tachyonmcp",
+        "description": "Show HN: Java MCP Runtime for virtual threads",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tachyonmcp.dev",
+        "discovered_at": "2026-09-13"
     },
     {
         "name": "Tack",
@@ -108101,6 +108211,16 @@
         "cors": "unknown",
         "url": "https://yeshivsher.com/apps/eye-reset/",
         "discovered_at": "2026-07-31"
+    },
+    {
+        "name": "Yoggimix",
+        "description": "Using Elm and Rust for one 3D web app",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://yoggimix.bearblog.dev/elm-rust-and-webgl-in-one-app/",
+        "discovered_at": "2026-09-13"
     },
     {
         "name": "Zerofs",
@@ -118312,6 +118432,16 @@
         "discovered_at": "2026-07-07"
     },
     {
+        "name": "Earthtopixels",
+        "description": "Show HN: EarthToPixels – Turning real cities into explorable pixel art",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.earthtopixels.com",
+        "discovered_at": "2026-09-13"
+    },
+    {
         "name": "Eebench",
         "description": "Show HN: EEBench – AI agents design real circuits, graded by physics simulation",
         "category": "Science",
@@ -121077,6 +121207,16 @@
         "cors": "unknown",
         "url": "https://www.http-response.com/",
         "discovered_at": "2026-08-23"
+    },
+    {
+        "name": "Iduo",
+        "description": "Show HN: Duo Studio – Open-source iPhone Duo mockup maker",
+        "category": "Testing",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://iduo.clothpath.com/",
+        "discovered_at": "2026-09-13"
     },
     {
         "name": "Infinitymock",
