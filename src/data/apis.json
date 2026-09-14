@@ -5262,6 +5262,16 @@
         "discovered_at": "2026-04-14"
     },
     {
+        "name": "Replay",
+        "description": "Show HN: Replay – Audit silent prompt cache misses in AI agent transcripts",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://replay.doctor/",
+        "discovered_at": "2026-09-14"
+    },
+    {
         "name": "Replicate",
         "description": "Run open-source ML models in the cloud",
         "category": "AI & Machine Learning",
@@ -6457,6 +6467,16 @@
         "cors": "unknown",
         "url": "https://tracium.ai/",
         "discovered_at": "2026-03-05"
+    },
+    {
+        "name": "Trackllm",
+        "description": "Show HN: TrackLLM: Are the LLM APIs you rely on stable?",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.trackllm.net/",
+        "discovered_at": "2026-09-14"
     },
     {
         "name": "Tradewithdelphi",
@@ -10336,6 +10356,16 @@
         "discovered_at": "2026-07-18"
     },
     {
+        "name": "Petrelvoyage",
+        "description": "Show HN: I made an automated day-by-day itinerary organizer for my trip to Spain",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://petrelvoyage.com/app",
+        "discovered_at": "2026-09-14"
+    },
+    {
         "name": "Pets Api",
         "description": "Pets Api API",
         "category": "Animals",
@@ -10551,6 +10581,16 @@
         "cors": "unknown",
         "url": "https://tsolman.github.io/vessel-class-finder/",
         "discovered_at": "2026-03-28"
+    },
+    {
+        "name": "Veilid",
+        "description": "Veilid is an open-source, peer-to-peer application framework",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://veilid.com/",
+        "discovered_at": "2026-09-14"
     },
     {
         "name": "Verificationdesign",
@@ -50087,6 +50127,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "1baton",
+        "description": "Show HN: 1Baton – a no-code tool for chaining API calls",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://1baton.com",
+        "discovered_at": "2026-09-14"
+    },
+    {
         "name": "2dehands.be Scraper",
         "description": "Scrape listings from 2dehands.be - including titles, prices, seller info, locations, and images. Ideal for market analysis, price tracking, and classifieds aggregation. Fast, structured, and...",
         "category": "Development",
@@ -60388,6 +60438,16 @@
         "discovered_at": "2026-05-20"
     },
     {
+        "name": "Loopprep",
+        "description": "Show HN: Like LeetCode, but multi-file and multi-step",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://loopprep.dev/",
+        "discovered_at": "2026-09-14"
+    },
+    {
         "name": "Lord of The Rings Scraper",
         "description": "Discover all the magic of Middle-earth for your project! The Lord of the Rings API Actor gives you quick access to character, location, and event details—ideal for anyone building apps, games, or...",
         "category": "Development",
@@ -63434,6 +63494,16 @@
         "cors": "unknown",
         "url": "https://apify.com/visita/rag-browser",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Rage4j",
+        "description": "Rage4J: Test your LLM apps like the rest of your Java code",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rage4j.dev/",
+        "discovered_at": "2026-09-14"
     },
     {
         "name": "Random Dog Image Scraper",
@@ -85880,6 +85950,16 @@
         "discovered_at": "2026-07-28"
     },
     {
+        "name": "Analystidx",
+        "description": "Show HN: Analyst Index – analysts who make money telling you good stock calls",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.analystidx.com/",
+        "discovered_at": "2026-09-14"
+    },
+    {
         "name": "Bill Payment Validator",
         "description": "The Bill Payment Validator service allows RPPS origination (payment sender) customers to identify if a potential RPPS transaction would process successfully before transmitting the formal payment tran",
         "category": "Finance",
@@ -86212,6 +86292,16 @@
         "cors": "unknown",
         "url": "https://apify.com/apify_daniel/saas-pricing-intelligence",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Sentralis",
+        "description": "Show HN: Crypto portfolio risk and scenario analysis with AI agents on top",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sentralis.io/",
+        "discovered_at": "2026-09-14"
     },
     {
         "name": "Shouldiswap",
@@ -89428,6 +89518,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://wiki.openstreetmap.org/wiki/API"
+    },
+    {
+        "name": "Opinepolls",
+        "description": "Show HN: Opine, a public polling website with maps",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://opinepolls.com/",
+        "discovered_at": "2026-09-14"
     },
     {
         "name": "Orcarouter",
@@ -94563,6 +94663,16 @@
         "discovered_at": "2026-06-01"
     },
     {
+        "name": "Agentspork",
+        "description": "Show HN: AgentSpork, Agents help agents, Humans touch grass",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agentspork.com/",
+        "discovered_at": "2026-09-14"
+    },
+    {
         "name": "Agentswarms",
         "description": "Show HN: AgentSwarms – free hands-on playground to learn agentic AI, no setup",
         "category": "Other",
@@ -98053,6 +98163,16 @@
         "discovered_at": "2026-08-30"
     },
     {
+        "name": "Eggverse",
+        "description": "Show HN: Reviving my $15,000 browser arcade with Astra",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://eggverse.co/",
+        "discovered_at": "2026-09-14"
+    },
+    {
         "name": "Elecz",
         "description": "Show HN: Elecz – MCP server for real-time electricity prices in 40 countries",
         "category": "Other",
@@ -98281,6 +98401,16 @@
         "cors": "unknown",
         "url": "https://exactonce.com/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Exende",
+        "description": "Show HN: Exende – 10k active jobs from 300 company sources through one API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.exende.dev",
+        "discovered_at": "2026-09-14"
     },
     {
         "name": "Exit1",
@@ -101371,6 +101501,16 @@
         "cors": "unknown",
         "url": "https://mainichi.jp/english/articles/20260511/p2a/00m/0sc/015000c",
         "discovered_at": "2026-05-18"
+    },
+    {
+        "name": "Makefaster",
+        "description": "Show HN: Makefaster.dev",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://makefaster.dev",
+        "discovered_at": "2026-09-14"
     },
     {
         "name": "Makeform",
@@ -106541,6 +106681,16 @@
         "cors": "unknown",
         "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
         "discovered_at": "2026-07-28"
+    },
+    {
+        "name": "Telox",
+        "description": "Show HN: <15MB Local-first Interactive LaTeX Scratchpad in the Browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://telox.dev/app/scratchpad/",
+        "discovered_at": "2026-09-14"
     },
     {
         "name": "Temataro",
