@@ -110,6 +110,16 @@
         "discovered_at": "2026-06-03"
     },
     {
+        "name": "Acm",
+        "description": "AI Is Reshaping Open Source Software and Straining the Systems That Sustain It",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.acm.org/media-center/2026/september/techbrief-ai-effects-open-source",
+        "discovered_at": "2026-09-16"
+    },
+    {
         "name": "Adlrocha",
         "description": "How to Test AI Agents When They Never Give the Same Answer Twice",
         "category": "AI & Machine Learning",
@@ -1368,6 +1378,16 @@
         "cors": "unknown",
         "url": "https://www.bulaev.net/p/i-had-11-ai-subagents-test-every",
         "discovered_at": "2026-07-23"
+    },
+    {
+        "name": "Bulkgrid",
+        "description": "Show HN: Bulkgrid – Search websites and GitHub repositories from your AI agent",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bulkgrid.com",
+        "discovered_at": "2026-09-16"
     },
     {
         "name": "Businessinsider",
@@ -4163,6 +4183,16 @@
         "discovered_at": "2026-08-25"
     },
     {
+        "name": "Mymarkdown",
+        "description": "Show HN: MyMarkdown – Make AI Markdown easier to read",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mymarkdown.site",
+        "discovered_at": "2026-09-16"
+    },
+    {
         "name": "Nature",
         "description": "Human scientists trounce the best AI agents on complex tasks",
         "category": "AI & Machine Learning",
@@ -6018,6 +6048,16 @@
         "cors": "unknown",
         "url": "https://su3.io/posts/willow",
         "discovered_at": "2026-05-14"
+    },
+    {
+        "name": "Subrungear",
+        "description": "Show HN: SubRunGear – Fitness Gear AI Operating System",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.subrungear.com/",
+        "discovered_at": "2026-09-16"
     },
     {
         "name": "Suhasbhairav",
@@ -17907,6 +17947,16 @@
         "discovered_at": "2026-03-09"
     },
     {
+        "name": "Amika",
+        "description": "Show HN: Amika – Multiplayer cloud workstations for coding agents and humans",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.amika.dev/",
+        "discovered_at": "2026-09-16"
+    },
+    {
         "name": "Apps",
         "description": "Show HN: Mockingjay – Video recorder that encrypts and uploads as you record",
         "category": "Cloud & Storage",
@@ -19029,6 +19079,16 @@
         "cors": "unknown",
         "url": "https://discreetvoice.com",
         "discovered_at": "2026-05-12"
+    },
+    {
+        "name": "Dmcn",
+        "description": "Show HN: Email where an address is a keypair, with an SMTP bridge",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dmcn.dev/",
+        "discovered_at": "2026-09-16"
     },
     {
         "name": "Dnsmint",
@@ -61428,6 +61488,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Mmt",
+        "description": "Show HN: Multimeter – Git-native REST client and API tests in VS Code",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mmt.dev/",
+        "discovered_at": "2026-09-16"
+    },
+    {
         "name": "Mobile Phone Specs",
         "description": "Access our comprehensive mobile phone specifications database via our fast API, featuring over 10,000 models with details like dimensions, display, processor, and camera. Each model includes technical",
         "category": "Development",
@@ -66254,6 +66324,16 @@
         "cors": "unknown",
         "url": "https://apify.com/radeance/tesco-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Teslawrap",
+        "description": "Show HN: I built a digital wrap tool for Tesla owners",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://teslawrap.studio",
+        "discovered_at": "2026-09-16"
     },
     {
         "name": "Test Timeout",
@@ -91514,6 +91594,16 @@
         "discovered_at": "2026-05-20"
     },
     {
+        "name": "Scoopkit",
+        "description": "Show HN: Scoopkit – An AI news API that returns events, not articles",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://scoopkit.dev/",
+        "discovered_at": "2026-09-16"
+    },
+    {
         "name": "Scrunch",
         "description": "Show HN: I crunched the day's tech news into a 3-minute read",
         "category": "News",
@@ -95403,6 +95493,16 @@
         "discovered_at": "2026-09-12"
     },
     {
+        "name": "App",
+        "description": "Show HN: A writing coach that's not allowed to write your sentences",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.oghmere.com/try/HACKERNEWS2026",
+        "discovered_at": "2026-09-16"
+    },
+    {
         "name": "Apple",
         "description": "AirPods 5",
         "category": "Other",
@@ -98481,6 +98581,16 @@
         "cors": "unknown",
         "url": "https://engagemii.com/aeo",
         "discovered_at": "2026-05-06"
+    },
+    {
+        "name": "Engine",
+        "description": "Show HN: The Brand API, a taste tool for agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://engine.tastelabs.com/",
+        "discovered_at": "2026-09-16"
     },
     {
         "name": "Engram",
@@ -105013,6 +105123,16 @@
         "discovered_at": "2026-05-06"
     },
     {
+        "name": "Restarted",
+        "description": "Show HN: Restarted – a 2026 remake of the classic 2015 startup generator",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://restarted.io/",
+        "discovered_at": "2026-09-16"
+    },
+    {
         "name": "Restofworld",
         "description": "Can open-source beat OpenAI?",
         "category": "Other",
@@ -108461,6 +108581,16 @@
         "cors": "unknown",
         "url": "https://withcapsule.dev/",
         "discovered_at": "2026-07-07"
+    },
+    {
+        "name": "Withcapsule",
+        "description": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://withcapsule.app/",
+        "discovered_at": "2026-09-16"
     },
     {
         "name": "Wocal",
