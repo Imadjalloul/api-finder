@@ -530,6 +530,16 @@
         "discovered_at": "2026-08-30"
     },
     {
+        "name": "Airbnb",
+        "description": "Accelerating Large-Scale Test Migration with LLMs",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://airbnb.tech/infrastructure/accelerating-large-scale-test-migration-with-llms/",
+        "discovered_at": "2026-09-17"
+    },
+    {
         "name": "Airposture",
         "description": "AirPosture – AirPods as AI posture coach (Open source)",
         "category": "AI & Machine Learning",
@@ -548,6 +558,16 @@
         "cors": "unknown",
         "url": "https://aistorygenerator.work",
         "discovered_at": "2026-06-30"
+    },
+    {
+        "name": "Aisubtools",
+        "description": "Show HN: AI Subtools – 40 free online tools, no sign-up, 100% client-side",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aisubtools.xyz/",
+        "discovered_at": "2026-09-17"
     },
     {
         "name": "Aitoolsinsiderhq",
@@ -1430,6 +1450,16 @@
         "discovered_at": "2026-06-26"
     },
     {
+        "name": "Cahlik",
+        "description": "OpenAI's Hugging Face Hack Is the Best AI Safety Opportunity So Far",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cahlik.net/blog/openais-hugging-face-hack-is-the-best-ai-safety-opportunity-so-far/",
+        "discovered_at": "2026-09-17"
+    },
+    {
         "name": "Californiawaterblog",
         "description": "AI uses less water than the public thinks",
         "category": "AI & Machine Learning",
@@ -1706,6 +1736,16 @@
         "cors": "unknown",
         "url": "https://colliepwa.dev/",
         "discovered_at": "2026-09-10"
+    },
+    {
+        "name": "Computearena",
+        "description": "Show HN: Compute:Arena – Community submitted local AI benchmarks",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://computearena.ai",
+        "discovered_at": "2026-09-17"
     },
     {
         "name": "Computerweekly",
@@ -2285,6 +2325,16 @@
         "cors": "unknown",
         "url": "https://factagora.com/",
         "discovered_at": "2026-03-18"
+    },
+    {
+        "name": "Fastrecall",
+        "description": "Show HN: FastRecall, ultra-cheap memory across AI models",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fastrecall.ai/",
+        "discovered_at": "2026-09-17"
     },
     {
         "name": "Feps-europe",
@@ -3212,6 +3262,16 @@
         "cors": "unknown",
         "url": "https://interviewpracticeai.com",
         "discovered_at": "2026-07-20"
+    },
+    {
+        "name": "Inwom",
+        "description": "Show HN: Stopping AI agent swarms from hacking our systems",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.inwom.com/",
+        "discovered_at": "2026-09-17"
     },
     {
         "name": "Isitartstudio",
@@ -5691,6 +5751,16 @@
         "discovered_at": "2026-07-24"
     },
     {
+        "name": "Sharefreeform",
+        "description": "Show HN: Freeform – One click shareable AI generated apps",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sharefreeform.com",
+        "discovered_at": "2026-09-17"
+    },
+    {
         "name": "Shikigami",
         "description": "Show HN: Shikigami, run AI coding agents in parallel, each in a Git worktree",
         "category": "AI & Machine Learning",
@@ -6647,6 +6717,26 @@
         "cors": "unknown",
         "url": "https://trytet.com",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Twigg",
+        "description": "Show HN: A Stateful LLM API that works across providers",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://twigg.ai",
+        "discovered_at": "2026-09-17"
+    },
+    {
+        "name": "Typesafe",
+        "description": "The first (public) System One Model; Jev gives AI the properties of code",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://typesafe.ai/",
+        "discovered_at": "2026-09-17"
     },
     {
         "name": "Unbubble",
@@ -18273,6 +18363,16 @@
         "discovered_at": "2026-04-20"
     },
     {
+        "name": "Invoicecraft",
+        "description": "Free invoice generator, 100% client-side – no signup, no server storage",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.InvoiceCraft.com",
+        "discovered_at": "2026-09-17"
+    },
+    {
         "name": "Kampfinsel",
         "description": "Show HN: I rebuilt a 2000s browser strategy game on Cloudflare's edge",
         "category": "Cloud & Storage",
@@ -19321,6 +19421,16 @@
         "discovered_at": "2026-03-22"
     },
     {
+        "name": "Kaflow-search",
+        "description": "Show HN: Kaflow Search – A desktop tool for locally indexed Kafka message search",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kaflow-search.whsoul-tools.com/",
+        "discovered_at": "2026-09-17"
+    },
+    {
         "name": "Keepscreenon",
         "description": "I made a free web app that prevents your screen from turning off automatically",
         "category": "Communication",
@@ -19797,6 +19907,16 @@
         "cors": "unknown",
         "url": "https://api.hubspot.com/api-catalog-public/v1/apis/communication-preferences/v3",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Tabmail",
+        "description": "Show HN: TabMail. Open-source AI email for Thunderbird and iPhone",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tabmail.ai/",
+        "discovered_at": "2026-09-17"
     },
     {
         "name": "Tempo-checker",
@@ -56995,6 +57115,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Gamedeveloper",
+        "description": "Devolver says indie publishing is not 'compatible' with public trading",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.gamedeveloper.com/business/devolver-wants-to-delist-because-indie-publishing-is-not-compatible-with-public-trading",
+        "discovered_at": "2026-09-17"
+    },
+    {
         "name": "Gap Product Details Scraper",
         "description": "Powerful Gap.com Product Details Scraper that extracts comprehensive fashion product data including variants, pricing, stock levels, and metadata. Perfect for competitive analysis, market research,...",
         "category": "Development",
@@ -84161,6 +84291,16 @@
         "discovered_at": "2026-05-14"
     },
     {
+        "name": "Marginstudy",
+        "description": "Show HN: I built a Mac app to make technical PDF textbooks easier to study",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://marginstudy.app/",
+        "discovered_at": "2026-09-17"
+    },
+    {
         "name": "Mediquest-en",
         "description": "MediQuest: Free quiz matching med students to their ideal specialty",
         "category": "Education",
@@ -86414,6 +86554,16 @@
         "discovered_at": "2026-05-27"
     },
     {
+        "name": "Nano-empire-mcp-1064490927432",
+        "description": "Nano Empire – Open-source MCP gateway with x402 micropayments and A2A routing",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nano-empire-mcp-1064490927432.us-central1.run.app",
+        "discovered_at": "2026-09-17"
+    },
+    {
         "name": "Notaryos",
         "description": "Show HN: NotaryOS – Cryptographic proof of what your AI agent chose not to do",
         "category": "Finance",
@@ -88025,6 +88175,16 @@
         "cors": "unknown",
         "url": "https://stridee.fit/developer",
         "discovered_at": "2026-08-02"
+    },
+    {
+        "name": "Thefai",
+        "description": "The Frontier Act Is Congress' Best AI Regulation Bill Yet",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.thefai.org/posts/the-frontier-act-is-congress-s-best-ai-bill-yet",
+        "discovered_at": "2026-09-17"
     },
     {
         "name": "Thelancet",
@@ -91324,6 +91484,16 @@
         "cors": "unknown",
         "url": "https://hooked.news/",
         "discovered_at": "2026-05-06"
+    },
+    {
+        "name": "Humpday",
+        "description": "Pull the best espresso shot with derivative-free optimization",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://humpday.microprediction.org/applications/espresso.html",
+        "discovered_at": "2026-09-17"
     },
     {
         "name": "Ichingportal",
@@ -95033,6 +95203,16 @@
         "discovered_at": "2026-07-23"
     },
     {
+        "name": "Airma",
+        "description": "Show HN: Airmash – HTML5 Massively Multiplayer Missile Warfare",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://airma.sh/",
+        "discovered_at": "2026-09-17"
+    },
+    {
         "name": "Airtight",
         "description": "Show HN: Airtight – single-file portfolio tracker, zero servers, works offline",
         "category": "Other",
@@ -95963,6 +96143,16 @@
         "discovered_at": "2026-03-21"
     },
     {
+        "name": "Barndoor",
+        "description": "Barndoor acquires Diaphora, creators of open-source workflow runtime Frags",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://barndoor.ai/barndoor-acquires-diaphora/",
+        "discovered_at": "2026-09-17"
+    },
+    {
         "name": "Barstool",
         "description": "Show HN: Barstool, a Prettier macOS Menubar",
         "category": "Other",
@@ -96393,6 +96583,16 @@
         "discovered_at": "2026-09-05"
     },
     {
+        "name": "Blog",
+        "description": "Show HN: A Coding Agent from Scratch",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.softwarewrighter.com/2026/09/16/ai-tools-coding-agent-in-mlpl/",
+        "discovered_at": "2026-09-17"
+    },
+    {
         "name": "Blogmaker",
         "description": "Show HN: I built a blogging platform (5 years in, struggling with distribution)",
         "category": "Other",
@@ -96441,6 +96641,16 @@
         "cors": "unknown",
         "url": "https://bluedoor.sh/apis/job-postings",
         "discovered_at": "2026-06-08"
+    },
+    {
+        "name": "Bluee",
+        "description": "Show HN: Blue – open-source governance for coding agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bluee.sh/",
+        "discovered_at": "2026-09-17"
     },
     {
         "name": "Bluhe",
@@ -97001,6 +97211,16 @@
         "cors": "unknown",
         "url": "https://christophermeiklejohn.com/ai/zabriskie/agents/reliability/testing/2026/06/10/the-test-suite-was-the-incident.html",
         "discovered_at": "2026-06-11"
+    },
+    {
+        "name": "Clarena",
+        "description": "Show HN: Ear Training Exercise",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://clarena.app/app/try",
+        "discovered_at": "2026-09-17"
     },
     {
         "name": "Classroomtimers",
@@ -97823,6 +98043,16 @@
         "discovered_at": "2026-09-03"
     },
     {
+        "name": "Deiko",
+        "description": "Show HN: Deiko – point at your screen, talk, and hand the brief to your agent",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://deiko.app/",
+        "discovered_at": "2026-09-17"
+    },
+    {
         "name": "Deliberate",
         "description": "Show HN: Deliberate – log what your agent rejected, not just what it ran",
         "category": "Other",
@@ -98561,6 +98791,16 @@
         "cors": "unknown",
         "url": "https://en.landingfymax.com.br/artificial-intelligence/llama-4-meta-open-source-sovereignty-2026",
         "discovered_at": "2026-04-26"
+    },
+    {
+        "name": "Enclave",
+        "description": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
+        "discovered_at": "2026-09-17"
     },
     {
         "name": "Encse",
@@ -103673,6 +103913,16 @@
         "discovered_at": "2026-05-15"
     },
     {
+        "name": "Orthant",
+        "description": "Show HN: Orthant, an open-source macOS window manager where you draw the region",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://orthant.app/",
+        "discovered_at": "2026-09-17"
+    },
+    {
         "name": "Orthogonal",
         "description": "Show HN: Orthogonal – One integration for agents to discover and pay for APIs",
         "category": "Other",
@@ -104131,6 +104381,16 @@
         "cors": "unknown",
         "url": "https://pizzalegacy.nl/",
         "discovered_at": "2026-04-12"
+    },
+    {
+        "name": "Pkg",
+        "description": "Show HN: Pkgbot – Fast Linux package search engine",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pkg.bot",
+        "discovered_at": "2026-09-17"
     },
     {
         "name": "Plastron",
@@ -105361,6 +105621,16 @@
         "cors": "unknown",
         "url": "https://www.rtrvr.ai/blog/vibe-hacking-rover-gemini-flash-lite",
         "discovered_at": "2026-03-21"
+    },
+    {
+        "name": "Runboli",
+        "description": "Show HN: Halo 3's Guardian, playable in the browser, as my personal website",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://runboli.com",
+        "discovered_at": "2026-09-17"
     },
     {
         "name": "Runcaptain",
@@ -108121,6 +108391,16 @@
         "cors": "unknown",
         "url": "https://veerhost.com/website-speed-test/",
         "discovered_at": "2026-03-24"
+    },
+    {
+        "name": "Vending-machine-lab",
+        "description": "Show HN: Vending Machine Lab – Build business, leave for 2 wks, see what breaks",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vending-machine-lab.pages.dev/",
+        "discovered_at": "2026-09-17"
     },
     {
         "name": "Vertexapp",
@@ -117843,6 +118123,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Unsnag",
+        "description": "Show HN: unSnag – Display tasks you can do and graph task dependencies",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://unsnag.app",
+        "discovered_at": "2026-09-17"
+    },
+    {
         "name": "Unsplash Image Scraper",
         "description": "Fetch high-quality images from Unsplash based on your search query. Get detailed image information including URLs, descriptions, photographer details, and tags. Perfect for content creators and...",
         "category": "Productivity",
@@ -122821,6 +123111,16 @@
         "discovered_at": "2026-08-08"
     },
     {
+        "name": "Opendocbot",
+        "description": "Show HN: OpenDocBot – bring your own model to Word, Excel and PowerPoint",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://opendocbot.com/",
+        "discovered_at": "2026-09-17"
+    },
+    {
         "name": "Purgomalum",
         "description": "Free profanity filter for user-generated content",
         "category": "Text & Language",
@@ -123538,6 +123838,16 @@
         "discovered_at": "2026-07-03"
     },
     {
+        "name": "Docx-editor",
+        "description": "Show HN: Docx-to-Markdown – layout-aware Word to Markdown converter",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.docx-editor.dev/solutions/word-to-markdown",
+        "discovered_at": "2026-09-17"
+    },
+    {
         "name": "Engye",
         "description": "Show HN: Engye – transfer files between any two devices by scanning a QR code",
         "category": "Utilities",
@@ -124011,6 +124321,16 @@
         "cors": "unknown",
         "url": "https://www.classicvideopoker.com/classicvideopokerv2/",
         "discovered_at": "2026-03-22"
+    },
+    {
+        "name": "Clippety",
+        "description": "Show HN: Clippety – Private video clipping in the browser",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://clippety.com/",
+        "discovered_at": "2026-09-17"
     },
     {
         "name": "Cloakshare",
@@ -125144,6 +125464,16 @@
         "cors": "unknown",
         "url": "https://radi8.dev/blog/uplink/",
         "discovered_at": "2026-08-21"
+    },
+    {
+        "name": "Seasonmap",
+        "description": "Show HN: SeasonMap – when to travel where? visualized with climate data",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://seasonmap.app",
+        "discovered_at": "2026-09-17"
     },
     {
         "name": "Strataweather",
