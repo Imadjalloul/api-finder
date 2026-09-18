@@ -570,6 +570,16 @@
         "discovered_at": "2026-09-17"
     },
     {
+        "name": "Aitexttospeech",
+        "description": "Free Unlimited AI Text to Speech – No Sign Up",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.aitexttospeech.net/",
+        "discovered_at": "2026-09-18"
+    },
+    {
         "name": "Aitoolsinsiderhq",
         "description": "Show HN: An autonomous AI agent running one project for two months in public",
         "category": "AI & Machine Learning",
@@ -4842,6 +4852,16 @@
         "discovered_at": "2026-05-28"
     },
     {
+        "name": "Pentesty",
+        "description": "OpenAI Safety Guardrails: What to Test Before Trusting an AI Agent",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.pentesty.co/blog/openai-safety-guardrails-ai-agent-security",
+        "discovered_at": "2026-09-18"
+    },
+    {
         "name": "Perbhat",
         "description": "Show HN: An AI Color Grader – Pico",
         "category": "AI & Machine Learning",
@@ -4920,6 +4940,16 @@
         "cors": "unknown",
         "url": "https://play.google.com/store/apps/details?id=com.carrifit.app&hl=en_US",
         "discovered_at": "2026-04-07"
+    },
+    {
+        "name": "Play",
+        "description": "Lakera – Test your AI hacking skills",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://play.lakera.ai/agent-breaker",
+        "discovered_at": "2026-09-18"
     },
     {
         "name": "Playground",
@@ -11543,6 +11573,16 @@
         "discovered_at": "2026-06-22"
     },
     {
+        "name": "Easiest",
+        "description": "Show HN: Vim-like, hyper-efficient, LLM power tool - 20-80k tokens not 350k+",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://easiest.ai/",
+        "discovered_at": "2026-09-18"
+    },
+    {
         "name": "Etherscan",
         "description": "Ethereum blockchain explorer and analytics",
         "category": "Blockchain",
@@ -11830,6 +11870,16 @@
         "cors": "unknown",
         "url": "https://tokenmonopoly.com",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Tokenstead",
+        "description": "Multiple providers offer free mystery model, Union Alpha",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tokenstead.ai/models/union-alpha",
+        "discovered_at": "2026-09-18"
     },
     {
         "name": "Tokenwatch-ten",
@@ -52937,6 +52987,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Builtbyvibe",
+        "description": "BuiltByVibe – Directory of vibe-coded apps with a free MCP server",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://builtbyvibe.dev/",
+        "discovered_at": "2026-09-18"
+    },
+    {
         "name": "Bulk Image Downloader",
         "description": "The Bulk Image Downloader is a powerful Apify actor that extracts and downloads images from web pages or processes direct image URLs in bulk. Whether you need to download a single image or thousands..",
         "category": "Development",
@@ -54833,6 +54893,16 @@
         "cors": "unknown",
         "url": "https://apify.com/hanamira/dictionary-thesaurus",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Diewithme",
+        "description": "Show HN: Die With Me – Claude and Codex rate limits as AIM away messages",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://diewithme.co/join",
+        "discovered_at": "2026-09-18"
     },
     {
         "name": "Digikala Product Spider",
@@ -59787,6 +59857,16 @@
         "cors": "unknown",
         "url": "https://apify.com/yourapiservice/jiffystorage-blog-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Jinx",
+        "description": "Show HN: Jinx – a link shortener you host free on GitHub Pages",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jinx.fyi",
+        "discovered_at": "2026-09-18"
     },
     {
         "name": "Jobrack Blog Scraper",
@@ -65354,6 +65434,16 @@
         "cors": "unknown",
         "url": "https://apify.com/upscale_audio/sitepulse",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Skillcrossroads",
+        "description": "Show HN: Linting 216 public Claude Code skills – 69% won't reliably trigger",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://skillcrossroads.com",
+        "discovered_at": "2026-09-18"
     },
     {
         "name": "Skroutz Price Alert",
@@ -84301,6 +84391,16 @@
         "discovered_at": "2026-09-17"
     },
     {
+        "name": "Marginstudy",
+        "description": "Show HN: A Mac native app that helps you reason through math/CS pdf textbooks",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://marginstudy.lemonsqueezy.com/checkout",
+        "discovered_at": "2026-09-18"
+    },
+    {
         "name": "Mediquest-en",
         "description": "MediQuest: Free quiz matching med students to their ideal specialty",
         "category": "Education",
@@ -85617,6 +85717,16 @@
         "cors": "unknown",
         "url": "https://gameswithtony.com/gorillas/",
         "discovered_at": "2026-07-17"
+    },
+    {
+        "name": "Gamingonlinux",
+        "description": "Lepton from Valve to run Android games on Linux is now open source",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.gamingonlinux.com/2026/09/lepton-from-valve-to-run-android-games-on-linux-is-now-open-source/",
+        "discovered_at": "2026-09-18"
     },
     {
         "name": "Gascraft",
@@ -99663,6 +99773,16 @@
         "discovered_at": "2026-03-16"
     },
     {
+        "name": "Gaurav-singh",
+        "description": "Show HN: Ink Signal, editor themes with fewer colours",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gaurav-singh.info/ink-signal/",
+        "discovered_at": "2026-09-18"
+    },
+    {
         "name": "Gemini-speedrun",
         "description": "Show HN: API Key Speedrun- A parody where generating an API key is the challenge",
         "category": "Other",
@@ -101193,6 +101313,16 @@
         "discovered_at": "2026-08-16"
     },
     {
+        "name": "Juandecos",
+        "description": "Show HN: Navier-Stokes Visualized as 1kB i386 demos",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://juandecos.github.io/TurboZip/vortex.html",
+        "discovered_at": "2026-09-18"
+    },
+    {
         "name": "Juanpabloaj",
         "description": "Show HN: A lightweight way to make agents talk without paying for API usage",
         "category": "Other",
@@ -102401,6 +102531,16 @@
         "cors": "unknown",
         "url": "https://mcpfinder.dev/",
         "discovered_at": "2026-04-22"
+    },
+    {
+        "name": "Mcpjam",
+        "description": "Show HN: MCPJam - the first testing & evaluations platform for MCP servers",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.mcpjam.com",
+        "discovered_at": "2026-09-18"
     },
     {
         "name": "Mcpx",
@@ -105943,6 +106083,16 @@
         "discovered_at": "2026-08-29"
     },
     {
+        "name": "Scry",
+        "description": "Show HN: Scry, programmable internet search w/ congestion pricing",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://scry.io/",
+        "discovered_at": "2026-09-18"
+    },
+    {
         "name": "Sdsentry",
         "description": "Show HN: Free 2-minute OSHA HazCom self-audit, no signup",
         "category": "Other",
@@ -107333,6 +107483,16 @@
         "discovered_at": "2026-04-01"
     },
     {
+        "name": "Techpolicy",
+        "description": "What Policymakers and the Public Need to Know About the Cult of AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.techpolicy.press/what-policymakers-and-the-public-need-to-know-about-the-cult-of-ai/",
+        "discovered_at": "2026-09-18"
+    },
+    {
         "name": "TechPort",
         "description": "TechPort RESTful API",
         "category": "Other",
@@ -107591,6 +107751,16 @@
         "cors": "unknown",
         "url": "https://www.theverge.com/tech/899602/best-phone-android-ios-app-store",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Thingstohave",
+        "description": "Show HN: Things To Have – free, privacy caring, mighty wishlist app",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thingstohave.app/",
+        "discovered_at": "2026-09-18"
     },
     {
         "name": "Thisispaper",
@@ -109651,6 +109821,16 @@
         "cors": "unknown",
         "url": "https://doodleai.art/",
         "discovered_at": "2026-08-29"
+    },
+    {
+        "name": "Facefork",
+        "description": "Show HN: Facefork – A tree interface to AI edit photos for fun",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://facefork.com/",
+        "discovered_at": "2026-09-18"
     },
     {
         "name": "Facial Recognition Reverse Image Face Search API",
