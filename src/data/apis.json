@@ -7129,6 +7129,16 @@
         "discovered_at": "2026-04-20"
     },
     {
+        "name": "Website-auditor",
+        "description": "Show HN: Website Auditor –> Test your brand's AI visibility, get growth plan",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://website-auditor.io/",
+        "discovered_at": "2026-09-20"
+    },
+    {
         "name": "Websites2know",
         "description": "My Hands-On Guide to the Best AI HR Software in 2026",
         "category": "AI & Machine Learning",
@@ -11720,6 +11730,16 @@
         "cors": "unknown",
         "url": "https://www.okta.com/blog/threat-intelligence/free_tokens_for_sale/",
         "discovered_at": "2026-08-12"
+    },
+    {
+        "name": "Onpanda",
+        "description": "Show HN: OnPanda – Steer LLMs and agents at the token level",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://onpanda.diyer22.com/",
+        "discovered_at": "2026-09-20"
     },
     {
         "name": "Oxlo",
@@ -20047,6 +20067,16 @@
         "cors": "unknown",
         "url": "https://traceapp.info",
         "discovered_at": "2026-06-15"
+    },
+    {
+        "name": "Tree-learn",
+        "description": "Show HN: Learn divergently/chaotically with tree-learn",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tree-learn.srijanshukla18.workers.dev",
+        "discovered_at": "2026-09-20"
     },
     {
         "name": "Tryspillit",
@@ -86324,6 +86354,16 @@
         "discovered_at": "2026-06-05"
     },
     {
+        "name": "Stardrift",
+        "description": "Show HN: Stardrift – A 3D galaxy of all music, to explore and learn",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stardrift.gerlach.dev/",
+        "discovered_at": "2026-09-20"
+    },
+    {
         "name": "Stiuvou",
         "description": "Show HN: I made an ad-free game collection for my grandparents",
         "category": "Entertainment",
@@ -87843,6 +87883,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://countrylayer.com/"
+    },
+    {
+        "name": "Flyovercountry",
+        "description": "Show HN: Flyover Country – guide to the window seat with AR",
+        "category": "Geocoding",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://flyovercountry.app/",
+        "discovered_at": "2026-09-20"
     },
     {
         "name": "Freeipapi",
@@ -95443,6 +95493,16 @@
         "discovered_at": "2026-05-06"
     },
     {
+        "name": "Aiworthusing",
+        "description": "Show HN: Text-me: a personal agent that learns your pace",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aiworthusing.com/agent-index/text-me",
+        "discovered_at": "2026-09-20"
+    },
+    {
         "name": "Ajh",
         "description": "Show HN: EU Leadership – Live API data site comparing Europe to the world",
         "category": "Other",
@@ -95721,6 +95781,16 @@
         "cors": "unknown",
         "url": "https://api.luoluocoder.com/",
         "discovered_at": "2026-08-21"
+    },
+    {
+        "name": "Api",
+        "description": "Free scanner for exposed Supabase data in AI-built apps (Lovable, Bolt, Base44)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://api.trustboost.dev/free-scan",
+        "discovered_at": "2026-09-20"
     },
     {
         "name": "API",
@@ -98813,6 +98883,16 @@
         "discovered_at": "2026-07-14"
     },
     {
+        "name": "Dxomark",
+        "description": "Apple iPhone 18 Pro Camera test",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
+        "discovered_at": "2026-09-20"
+    },
+    {
         "name": "Dystroy",
         "description": "Show HN: A FPV Lego car, controlled in Rust",
         "category": "Other",
@@ -99753,6 +99833,16 @@
         "discovered_at": "2026-06-16"
     },
     {
+        "name": "Frederickparsons",
+        "description": "Testing Jev as a validation gate for drug-discovery agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://frederickparsons.substack.com/p/can-a-fast-ai-gate-catch-chemistry",
+        "discovered_at": "2026-09-20"
+    },
+    {
         "name": "Free",
         "description": "Show HN: Free.ai",
         "category": "Other",
@@ -100351,6 +100441,16 @@
         "cors": "unknown",
         "url": "https://gopeek-lovat.vercel.app/blog-chrome-best-browser-2026.html",
         "discovered_at": "2026-06-15"
+    },
+    {
+        "name": "Gpu",
+        "description": "Show HN: Will Jev pull the lever in the trolley problem?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gpu.studio/trolley",
+        "discovered_at": "2026-09-20"
     },
     {
         "name": "Greip API",
@@ -106543,6 +106643,16 @@
         "discovered_at": "2026-03-03"
     },
     {
+        "name": "Sigabrt",
+        "description": "Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sigabrt.dev",
+        "discovered_at": "2026-09-20"
+    },
+    {
         "name": "Signal-memo",
         "description": "Substrate vs. Broker: Two Emerging Strategies for Enterprise AI",
         "category": "Other",
@@ -107363,6 +107473,16 @@
         "discovered_at": "2026-05-15"
     },
     {
+        "name": "Superii",
+        "description": "Show HN",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://superii.site/",
+        "discovered_at": "2026-09-20"
+    },
+    {
         "name": "Superinstance",
         "description": "Eisenstein– exact hexagonal arithmetic for Rust (zero drift after 10k rotations)",
         "category": "Other",
@@ -107761,6 +107881,16 @@
         "cors": "unknown",
         "url": "https://theapplied.substack.com/p/from-product-led-to-agent-led-growth",
         "discovered_at": "2026-06-27"
+    },
+    {
+        "name": "Theautopian",
+        "description": "Jaguar XJ220 Jail Broken",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.theautopian.com/this-ancient-computer-program-is-the-key-to-keeping-jaguar-xj220-supercars-alive-but-one-man-is-jailbreaking-it-for-free/",
+        "discovered_at": "2026-09-20"
     },
     {
         "name": "Thecompany",
@@ -109003,6 +109133,16 @@
         "discovered_at": "2026-08-06"
     },
     {
+        "name": "Webtoolslist",
+        "description": "Show HN: Web Tools List – browser tools grouped by the job, not the format",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://webtoolslist.com",
+        "discovered_at": "2026-09-20"
+    },
+    {
         "name": "Weco",
         "description": "Show HN: Is autoresearch better than classic hyperparameter tuning?",
         "category": "Other",
@@ -110170,6 +110310,16 @@
         "cors": "unknown",
         "url": "https://nobolee88.github.io/three-doors/",
         "discovered_at": "2026-03-02"
+    },
+    {
+        "name": "Peelaway",
+        "description": "Show HN: Peelaway – Turn photos into illustrations, prints, and miniature scenes",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://peelaway.io/",
+        "discovered_at": "2026-09-20"
     },
     {
         "name": "Pexels",
@@ -124178,6 +124328,16 @@
         "discovered_at": "2026-05-22"
     },
     {
+        "name": "Forexfin",
+        "description": "Show HN: Forexfin – Trading calculators, alerts and a journal in one place",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://forexfin.tech/",
+        "discovered_at": "2026-09-20"
+    },
+    {
         "name": "Fx",
         "description": "Show HN: HotFX Pseudorandom – value noise in a CSS variable via custom element",
         "category": "Utilities",
@@ -124969,6 +125129,16 @@
         "cors": "unknown",
         "url": "https://www.krisdigital.com/en/blog/2026/03/28/macos-audio-visualizer-rust/",
         "discovered_at": "2026-04-02"
+    },
+    {
+        "name": "Kuvu",
+        "description": "Show HN: We've built an AI UGC video creator,free for one month",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kuvu.ai/marketing/ai-ugc",
+        "discovered_at": "2026-09-20"
     },
     {
         "name": "Langwatch",
