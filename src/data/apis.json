@@ -5491,6 +5491,16 @@
         "discovered_at": "2026-04-17"
     },
     {
+        "name": "Retinaface",
+        "description": "RetinaFace: Open-source precise AI face detection and analysis",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://retinaface.com/",
+        "discovered_at": "2026-09-21"
+    },
+    {
         "name": "Reuters",
         "description": "China AI labs face growing open-source dilemma",
         "category": "AI & Machine Learning",
@@ -6508,6 +6518,16 @@
         "cors": "unknown",
         "url": "https://theincidentchallenge.com/",
         "discovered_at": "2026-05-25"
+    },
+    {
+        "name": "Theintercept",
+        "description": "Flock Partnered with Nonprofit That Uses AI to Rally Public Support",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://theintercept.com/2026/09/17/flock-cameras-ai-astroturf-support/",
+        "discovered_at": "2026-09-21"
     },
     {
         "name": "Thenewassociationwebmasters",
@@ -19179,6 +19199,16 @@
         "cors": "unknown",
         "url": "https://www.buildyourownclaudetag.dev/",
         "discovered_at": "2026-07-03"
+    },
+    {
+        "name": "Callfirst",
+        "description": "Show HN: CallFirst – blocks socials until you've made a call to someone",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://callfirst.app/",
+        "discovered_at": "2026-09-21"
     },
     {
         "name": "Ccmarvin",
@@ -54776,6 +54806,16 @@
         "discovered_at": "2026-07-28"
     },
     {
+        "name": "Developerpoetry",
+        "description": "Show HN: A poetry site for developers – solve a code puzzle to post",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://developerpoetry.com/",
+        "discovered_at": "2026-09-21"
+    },
+    {
         "name": "Developers",
         "description": "Cloudflare removes top open coding models from free tier",
         "category": "Development",
@@ -88337,6 +88377,16 @@
         "discovered_at": "2026-07-20"
     },
     {
+        "name": "Pollresults",
+        "description": "Show HN: Pollresults.org – free US election opinion poll API",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pollresults.org",
+        "discovered_at": "2026-09-21"
+    },
+    {
         "name": "Radiologybusiness",
         "description": "CEO of largest public hospital says he's ready to replace radiologists with AI",
         "category": "Government & Health",
@@ -89152,6 +89202,16 @@
         "cors": "unknown",
         "url": "https://quantumcomputingfortheconfused.com/",
         "discovered_at": "2026-09-10"
+    },
+    {
+        "name": "Raymate",
+        "description": "RayMate – free macOS AI launcher, Spotlight-like, with on-device dictation",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://raymate.app/",
+        "discovered_at": "2026-09-21"
     },
     {
         "name": "Sentient-os",
@@ -91984,6 +92044,16 @@
         "discovered_at": "2026-06-27"
     },
     {
+        "name": "Pressaudit",
+        "description": "Show HN: Using Qwen to track under-covered news",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pressaudit.org/f/findings/underreported-in-the-us",
+        "discovered_at": "2026-09-21"
+    },
+    {
         "name": "Samnews",
         "description": "Sam's News – Free AI News Aggregator",
         "category": "News",
@@ -92052,6 +92122,16 @@
         "cors": "unknown",
         "url": "https://squeezes.vercel.app",
         "discovered_at": "2026-07-04"
+    },
+    {
+        "name": "Statnews",
+        "description": "New startup to test psychedelic-like drug against Parkinson's symptom",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.statnews.com/2026/09/17/biotech-news-ariadne-testing-psychedelic-like-drug-parkinsons-apathy/",
+        "discovered_at": "2026-09-21"
     },
     {
         "name": "The Guardian",
@@ -95651,6 +95731,16 @@
         "cors": "unknown",
         "url": "https://ancestree.marindedic.com/",
         "discovered_at": "2026-08-27"
+    },
+    {
+        "name": "Anchorpoint",
+        "description": "Show HN: A GUI for non programmers for Epic's version control system Lore",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.anchorpoint.app/lore",
+        "discovered_at": "2026-09-21"
     },
     {
         "name": "Andonlabs",
@@ -100963,6 +101053,16 @@
         "discovered_at": "2026-06-30"
     },
     {
+        "name": "Iconsdb",
+        "description": "I embedded 200k+ open source icons in the browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://iconsdb.app",
+        "discovered_at": "2026-09-21"
+    },
+    {
         "name": "Ideakache",
         "description": "Show HN: IdeaKache – Ideas Worth Holding Onto",
         "category": "Other",
@@ -104883,6 +104983,16 @@
         "discovered_at": "2026-06-26"
     },
     {
+        "name": "Preuve",
+        "description": "Show HN: Preuve AI, stress-test your startup idea before you build",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://preuve.ai",
+        "discovered_at": "2026-09-21"
+    },
+    {
         "name": "Preview",
         "description": "Show HN: Preview.thedrive.ai – instant thumbnails for any document URL",
         "category": "Other",
@@ -106391,6 +106501,16 @@
         "cors": "unknown",
         "url": "https://selbstbild.eu",
         "discovered_at": "2026-07-06"
+    },
+    {
+        "name": "Selltostate",
+        "description": "Show HN: Search API for 3M govt contracts in 63 countries",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.selltostate.com/",
+        "discovered_at": "2026-09-21"
     },
     {
         "name": "Sendraven",
@@ -107963,6 +108083,16 @@
         "discovered_at": "2026-03-05"
     },
     {
+        "name": "Thetrueengineer",
+        "description": "Why TypeScript picked Go over Rust for its new compiler",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.thetrueengineer.com/p/typescript-team-chose-go-over-rust",
+        "discovered_at": "2026-09-21"
+    },
+    {
         "name": "Thevccorner",
         "description": "5% of venture capitalists have generated roughly 90% of the industry's profits",
         "category": "Other",
@@ -109251,6 +109381,16 @@
         "cors": "unknown",
         "url": "https://win-update-tracker.vercel.app/",
         "discovered_at": "2026-05-20"
+    },
+    {
+        "name": "Wired",
+        "description": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+        "discovered_at": "2026-09-21"
     },
     {
         "name": "Wirespan",
