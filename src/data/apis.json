@@ -4393,6 +4393,16 @@
         "discovered_at": "2026-08-15"
     },
     {
+        "name": "Nexus-arc",
+        "description": "Show HN: Nexus-Arc – pay-per-call and job escrow for AI agents on Arc",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nexus-arc.pryx.dev/",
+        "discovered_at": "2026-09-22"
+    },
+    {
         "name": "Nexus-gateway",
         "description": "Show HN: Nexus Gateway – Reduce LLM API Costs Using Semantic Caching",
         "category": "AI & Machine Learning",
@@ -6867,6 +6877,16 @@
         "cors": "unknown",
         "url": "https://www.usecomposer.com/",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Useemote",
+        "description": "Show HN: Emote – A reaction API for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://useemote.com",
+        "discovered_at": "2026-09-22"
     },
     {
         "name": "Useknowable",
@@ -10606,6 +10626,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Oecd-nea",
+        "description": "Implications of the EBR-II Inherent Safety Demonstration Test (1986) [pdf]",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.oecd-nea.org/upload/docs/application/pdf/2020-07/neacrp-a-1986-0773.pdf",
+        "discovered_at": "2026-09-22"
+    },
+    {
         "name": "Orbitalwiki",
         "description": "OrbitalWiki, a source-backed satellite catalog with a free API",
         "category": "Animals",
@@ -10773,6 +10803,16 @@
         "cors": "unknown",
         "url": "https://selfship.ai/",
         "discovered_at": "2026-09-02"
+    },
+    {
+        "name": "Sifty",
+        "description": "Sifty, free text classification with one URL and no API key",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sifty.dev",
+        "discovered_at": "2026-09-22"
     },
     {
         "name": "Snaketron",
@@ -11660,6 +11700,16 @@
         "cors": "unknown",
         "url": "https://www.evolvingintelligence.ai/anno",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Gitstats",
+        "description": "Show HN: Gitstats - your coding stats, private and work repos, no GitHub token",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gitstats.org",
+        "discovered_at": "2026-09-22"
     },
     {
         "name": "Inference",
@@ -87802,6 +87852,16 @@
         "url": "https://developer.edamam.com/"
     },
     {
+        "name": "Kadoa",
+        "description": "Show HN: A website that tracks US food prices every day",
+        "category": "Food & Drink",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.kadoa.com/food-prices",
+        "discovered_at": "2026-09-22"
+    },
+    {
         "name": "Open Food Facts",
         "description": "Worldwide collaborative food products database",
         "category": "Food & Drink",
@@ -89302,6 +89362,16 @@
         "cors": "unknown",
         "url": "https://threshyr.com",
         "discovered_at": "2026-09-15"
+    },
+    {
+        "name": "Timdettmers",
+        "description": "Frontier AI on Your Own Hardware",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+        "discovered_at": "2026-09-22"
     },
     {
         "name": "Tomshardware",
@@ -98353,6 +98423,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Dbison",
+        "description": "DBison: Free Modern Database Explorer",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dbison.app/",
+        "discovered_at": "2026-09-22"
+    },
+    {
         "name": "Dblift",
         "description": "Show HN: DBLift – database migration management for Python teams",
         "category": "Other",
@@ -98381,6 +98461,16 @@
         "cors": "unknown",
         "url": "https://deariary.com/en",
         "discovered_at": "2026-03-19"
+    },
+    {
+        "name": "Deepanwadhwa",
+        "description": "Show HN: OpenDecision – a 400M zero-shot model makes local decisions, plays Doom",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://deepanwadhwa.github.io/OpenDecision/",
+        "discovered_at": "2026-09-22"
     },
     {
         "name": "Deepswe",
@@ -100121,6 +100211,16 @@
         "cors": "unknown",
         "url": "https://api.gerermesaffaires.com/wp-content/uploads/2022/09/GmaAPI-GererMesAffairesAPI-1.0.6-swagger.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Getaccordia",
+        "description": "Show HN: Accordia – Structured 1-on-1s for engineering managers",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.getaccordia.com",
+        "discovered_at": "2026-09-22"
     },
     {
         "name": "Getaivo",
@@ -102673,6 +102773,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Marklite",
+        "description": "Show HN: Marklite: Lightweight Markdown Viewer/Editor",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://marklite.app",
+        "discovered_at": "2026-09-22"
+    },
+    {
         "name": "Marmelab",
         "description": "Show HN: UX Quest",
         "category": "Other",
@@ -102751,6 +102861,16 @@
         "cors": "unknown",
         "url": "https://www.mathworks.com/help/images/optical-system-design-and-analysis.html",
         "discovered_at": "2026-05-04"
+    },
+    {
+        "name": "Mathy",
+        "description": "Show HN: Mathy – Build Math Automaticity",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mathy.game/",
+        "discovered_at": "2026-09-22"
     },
     {
         "name": "Matmercer",
@@ -105071,6 +105191,16 @@
         "cors": "unknown",
         "url": "https://project-estimator.webround.net/",
         "discovered_at": "2026-09-09"
+    },
+    {
+        "name": "Prometheusquantengine",
+        "description": "Show HN: A distributed C++ Monte Carlo API for exotic options pricing",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://prometheusquantengine.com/web-docs",
+        "discovered_at": "2026-09-22"
     },
     {
         "name": "Promptjuggler",
@@ -110171,6 +110301,16 @@
         "cors": "unknown",
         "url": "https://codewindow.app/",
         "discovered_at": "2026-08-19"
+    },
+    {
+        "name": "Createaiimage",
+        "description": "Create AI Image Free – No Sign-Up Needed",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.createaiimage.net/",
+        "discovered_at": "2026-09-22"
     },
     {
         "name": "Ddphotos",
@@ -125956,6 +126096,16 @@
         "cors": "unknown",
         "url": "https://futuresearch.ai/",
         "discovered_at": "2026-08-04"
+    },
+    {
+        "name": "Gcm",
+        "description": "Show HN: WebGCM – a global climate model running in the browser on WebGPU",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gcm.echorelay.net/",
+        "discovered_at": "2026-09-22"
     },
     {
         "name": "Harper",
