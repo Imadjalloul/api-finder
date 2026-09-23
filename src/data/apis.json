@@ -90,6 +90,16 @@
         "discovered_at": "2026-05-15"
     },
     {
+        "name": "A0flow",
+        "description": "Show HN: a0flow — paid micro-APIs for AI agents, x402/USDC, no signup",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://a0flow.com",
+        "discovered_at": "2026-09-23"
+    },
+    {
         "name": "Aawu",
         "description": "Show HN: I built a labor union for AI agents",
         "category": "AI & Machine Learning",
@@ -1540,6 +1550,16 @@
         "discovered_at": "2026-06-09"
     },
     {
+        "name": "Ceptile",
+        "description": "Show HN: Ceptile AI Search platform which combines web results with AI chat",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.ceptile.com/",
+        "discovered_at": "2026-09-23"
+    },
+    {
         "name": "Chat",
         "description": "Show HN: Aru AI local-first AI assistant with semantic memory in browser SQLite",
         "category": "AI & Machine Learning",
@@ -2177,6 +2197,16 @@
         "discovered_at": "2026-08-05"
     },
     {
+        "name": "Drivingbench",
+        "description": "Show HN: DrivingBench – Frontier LLMs Driving a Real Toyota Corolla",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://drivingbench.com/",
+        "discovered_at": "2026-09-23"
+    },
+    {
         "name": "Duck",
         "description": "Free and private AI chat from DuckDuckGo",
         "category": "AI & Machine Learning",
@@ -2535,6 +2565,16 @@
         "cors": "unknown",
         "url": "https://freellmapi.co/",
         "discovered_at": "2026-08-16"
+    },
+    {
+        "name": "Freenode",
+        "description": "Open source tries to govern AI code",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://freenode.net/article/from-blanket-bans-to-agents-md-open-source-tries-to-govern-ai-code",
+        "discovered_at": "2026-09-23"
     },
     {
         "name": "Frogapi",
@@ -6268,6 +6308,16 @@
         "cors": "unknown",
         "url": "https://www.swarmed.dev",
         "discovered_at": "2026-04-07"
+    },
+    {
+        "name": "Swarmsay",
+        "description": "Show HN: SwarmSay – a public message board and post office for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://swarmsay.com",
+        "discovered_at": "2026-09-23"
     },
     {
         "name": "Swiftime",
@@ -10457,6 +10507,16 @@
         "discovered_at": "2026-07-22"
     },
     {
+        "name": "Coveragecat",
+        "description": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.coveragecat.com/",
+        "discovered_at": "2026-09-23"
+    },
+    {
         "name": "Dog CEO",
         "description": "Free random dog images sorted by breed",
         "category": "Animals",
@@ -12100,6 +12160,16 @@
         "cors": "unknown",
         "url": "http://amoilanen.github.io/Algorithms-with-Typescript/",
         "discovered_at": "2026-03-14"
+    },
+    {
+        "name": "Androidauthority",
+        "description": "Forgot your phone PIN? Google could look to past to save you from factory reset",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.androidauthority.com/android-unlock-with-google-account-apk-teardown-3713919/",
+        "discovered_at": "2026-09-23"
     },
     {
         "name": "Aosabook",
@@ -19589,6 +19659,16 @@
         "cors": "unknown",
         "url": "https://www.meteosource.com/api/v1/premium/openapi.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Jade",
+        "description": "Show HN: Jade Email. Unlimited emails for your domain plus AI Agent support",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jade.email/",
+        "discovered_at": "2026-09-23"
     },
     {
         "name": "Joonote",
@@ -71936,6 +72016,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Bb-product-api-docs",
+        "description": "Show HN: An API that tells you what people love about a product",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bb-product-api-docs.web.app/",
+        "discovered_at": "2026-09-23"
+    },
+    {
         "name": "Bbc",
         "description": "Is this product 'human-made'? The race to establish an AI-free logo",
         "category": "E-Commerce",
@@ -84731,6 +84821,16 @@
         "discovered_at": "2026-08-12"
     },
     {
+        "name": "Whami",
+        "description": "Show HN: Whami is a daily trivia game that writes its own questions every night",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://whami.app/",
+        "discovered_at": "2026-09-23"
+    },
+    {
         "name": "Xg",
         "description": "AI Glasses Will Impact the Future of Education",
         "category": "Education",
@@ -88457,6 +88557,16 @@
         "discovered_at": "2026-04-02"
     },
     {
+        "name": "Reason",
+        "description": "Are the Government's Conversations with AI Accessible Under Public Records Laws? [pdf]",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://reason.com/wp-content/uploads/2026/09/Are-the-Goverments-AI-Conversations-Accessible.pdf",
+        "discovered_at": "2026-09-23"
+    },
+    {
         "name": "Regulations.gov",
         "description": "Provides public users access to federal regulatory content.",
         "category": "Government & Health",
@@ -91399,6 +91509,16 @@
         "discovered_at": "2026-09-06"
     },
     {
+        "name": "Amsozzer",
+        "description": "Show HN: Open-source Express-like HTTP server in C++",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://amsozzer.com/projects/plusweb",
+        "discovered_at": "2026-09-23"
+    },
+    {
         "name": "Apnews",
         "description": "CERN takes antiprotons for a spin in a test never tried before",
         "category": "News",
@@ -92241,6 +92361,16 @@
         "cors": "unknown",
         "url": "https://useabstractions.com",
         "discovered_at": "2026-07-01"
+    },
+    {
+        "name": "Usedragonfly",
+        "description": "Show HN: Dragonfly – an API client that understands your Express/Next.js routes",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.usedragonfly.xyz",
+        "discovered_at": "2026-09-23"
     },
     {
         "name": "Accountants General, Tripura",
@@ -95373,6 +95503,16 @@
         "discovered_at": "2026-09-01"
     },
     {
+        "name": "Actwise",
+        "description": "One public idea you can take further",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://actwise.ai/home/intel",
+        "discovered_at": "2026-09-23"
+    },
+    {
         "name": "Adcreator-ai",
         "description": "Show HN: Free ad-headline generator that labels the persuasion technique used",
         "category": "Other",
@@ -95551,6 +95691,16 @@
         "cors": "unknown",
         "url": "https://ahd.adastra.computer/",
         "discovered_at": "2026-05-06"
+    },
+    {
+        "name": "Ai-rete-rag",
+        "description": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ai-rete-rag.com/",
+        "discovered_at": "2026-09-23"
     },
     {
         "name": "Ai-updates",
@@ -96633,6 +96783,16 @@
         "discovered_at": "2026-05-20"
     },
     {
+        "name": "Benchmarkheaven",
+        "description": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://benchmarkheaven.com/jev-models",
+        "discovered_at": "2026-09-23"
+    },
+    {
         "name": "Bengu-phi",
         "description": "Show HN: It's 6 18 am now going to sleep as MVP is made GN",
         "category": "Other",
@@ -97131,6 +97291,16 @@
         "cors": "unknown",
         "url": "https://bot-trade.org/",
         "discovered_at": "2026-07-17"
+    },
+    {
+        "name": "Botzilla",
+        "description": "Show HN: Botzilla – Web automation using visual scripting",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.botzilla.dev",
+        "discovered_at": "2026-09-23"
     },
     {
         "name": "Breadboard",
@@ -99993,6 +100163,16 @@
         "discovered_at": "2026-05-18"
     },
     {
+        "name": "Foxscript",
+        "description": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://foxscript.org/",
+        "discovered_at": "2026-09-23"
+    },
+    {
         "name": "Fraude",
         "description": "The AI-free site builder for genius founders",
         "category": "Other",
@@ -101053,6 +101233,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Humansontheloop",
+        "description": "What Capital Never Told You About Rent",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.humansontheloop.com/p/rent",
+        "discovered_at": "2026-09-23"
+    },
+    {
         "name": "Humaverify",
         "description": "Show HN: HUMA – Behavioral bot detection API, no CAPTCHAs required",
         "category": "Other",
@@ -101753,6 +101943,16 @@
         "discovered_at": "2026-06-01"
     },
     {
+        "name": "Kado",
+        "description": "Show HN: Kado – Search to Allow Personal Agents to Find Agent Apps",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kado.so",
+        "discovered_at": "2026-09-23"
+    },
+    {
         "name": "Kagi",
         "description": "Kagi Search API is now in public preview",
         "category": "Other",
@@ -102191,6 +102391,16 @@
         "cors": "unknown",
         "url": "https://www.layoutmaster.dev/",
         "discovered_at": "2026-05-19"
+    },
+    {
+        "name": "Lazypromise",
+        "description": "Show HN: With generators/DI, LazyPromise has become a tiny alternative to Effect",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lazypromise.com/",
+        "discovered_at": "2026-09-23"
     },
     {
         "name": "Leadlu",
@@ -103693,6 +103903,16 @@
         "discovered_at": "2026-07-16"
     },
     {
+        "name": "Netm8",
+        "description": "Show HN: NetM8 OS",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://netm8.com/",
+        "discovered_at": "2026-09-23"
+    },
+    {
         "name": "Netscopeapp",
         "description": "Show HN: Netscope – Inspect HAR Files on Your Desktop",
         "category": "Other",
@@ -104241,6 +104461,16 @@
         "cors": "unknown",
         "url": "https://openmouse.app/",
         "discovered_at": "2026-08-06"
+    },
+    {
+        "name": "Openmovement",
+        "description": "Project OM10 – open-source Mechanical Watch",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://openmovement.org/project/om10/",
+        "discovered_at": "2026-09-23"
     },
     {
         "name": "Openotp",
@@ -105721,6 +105951,16 @@
         "cors": "unknown",
         "url": "https://www.rdw.nl/en/news/2026/rdw-explanation-of-european-type-approval-tesla-with-provisional-validity-in-the-netherlands",
         "discovered_at": "2026-04-11"
+    },
+    {
+        "name": "Reacherx",
+        "description": "Show HN: ReacherX – Open-source Apollo alternative for founders and devs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.reacherx.com/home",
+        "discovered_at": "2026-09-23"
     },
     {
         "name": "Reachfa",
@@ -110481,6 +110721,16 @@
         "cors": "unknown",
         "url": "https://kilnimage.app",
         "discovered_at": "2026-07-29"
+    },
+    {
+        "name": "Lightdrift",
+        "description": "Show HN: Lightdrift / Image search for AI agents through API and MCP",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lightdrift.ai",
+        "discovered_at": "2026-09-23"
     },
     {
         "name": "Lightwindow",
@@ -121442,6 +121692,16 @@
         "discovered_at": "2026-09-01"
     },
     {
+        "name": "Aifreepc",
+        "description": "Show HN: AI-Free PC – a laptop that can't access AI or social media",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aifreepc.com",
+        "discovered_at": "2026-09-23"
+    },
+    {
         "name": "App",
         "description": "Show HN: TG Alpha Hunter – AI that turns Telegram noise into a crypto digest",
         "category": "Social",
@@ -121611,6 +121871,16 @@
         "discovered_at": "2026-08-07"
     },
     {
+        "name": "Getwarble",
+        "description": "Show HN: Warble – Share voice notes in your social media feeds",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.getwarble.com/",
+        "discovered_at": "2026-09-23"
+    },
+    {
         "name": "Gitinspect",
         "description": "Show HN: Replace \"hub\" with \"inspect\" on any GitHub url and chat with any repo",
         "category": "Social",
@@ -121748,6 +122018,16 @@
         "cors": "unknown",
         "url": "https://www.nexconn.ai/free-chat-api",
         "discovered_at": "2026-09-09"
+    },
+    {
+        "name": "Nowly",
+        "description": "Show HN: Nowly – An open-source alternative to PreMiD for Discord Rich Presence",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nowly.me",
+        "discovered_at": "2026-09-23"
     },
     {
         "name": "Openclawdiscord",
