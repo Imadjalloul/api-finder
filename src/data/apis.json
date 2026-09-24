@@ -940,6 +940,16 @@
         "discovered_at": "2026-09-11"
     },
     {
+        "name": "App",
+        "description": "Show HN: CubeLV – AI that designs your automation before building it",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.cubelv.com",
+        "discovered_at": "2026-09-24"
+    },
+    {
         "name": "Apply-tracker",
         "description": "Apply Tracker, Free AI CV, Cover Letter and Job Tracker",
         "category": "AI & Machine Learning",
@@ -4323,6 +4333,16 @@
         "discovered_at": "2026-09-16"
     },
     {
+        "name": "Mysetup",
+        "description": "Show HN: Share your AI Setup, Learn from others",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mysetup.ai/",
+        "discovered_at": "2026-09-24"
+    },
+    {
         "name": "Nature",
         "description": "Human scientists trounce the best AI agents on complex tasks",
         "category": "AI & Machine Learning",
@@ -5072,6 +5092,16 @@
         "discovered_at": "2026-05-26"
     },
     {
+        "name": "Polytender",
+        "description": "Polytender – AI for Public Tenders",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://polytender.com/en",
+        "discovered_at": "2026-09-24"
+    },
+    {
         "name": "Popcorn",
         "description": "Show HN: The Rotten Tomatoes for AI films, ranked by the tools that made them",
         "category": "AI & Machine Learning",
@@ -5180,6 +5210,16 @@
         "cors": "unknown",
         "url": "https://promptowl.ai/resources/building-a-viewable-second-brain-with-context/",
         "discovered_at": "2026-07-12"
+    },
+    {
+        "name": "Promptspend",
+        "description": "Show HN: PromptSpend – LLM API prices re-checked daily, with source per price",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://promptspend.com/",
+        "discovered_at": "2026-09-24"
     },
     {
         "name": "Prompttrace",
@@ -60318,6 +60358,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Karada",
+        "description": "Show HN: Karada.ai – CI/CD to turn APIs into MCP servers with 1-click plugins",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://karada.ai",
+        "discovered_at": "2026-09-24"
+    },
+    {
         "name": "Kastra",
         "description": "Show HN: Policy enforcement for Claude Code, Cursor, and Codex",
         "category": "Development",
@@ -68444,6 +68494,16 @@
         "cors": "unknown",
         "url": "https://apify.com/parseforge/usaspending-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Useax",
+        "description": "Show HN: Ax – Let Claude, Codex and OpenCode talk to each other locally",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://useax.dev/",
+        "discovered_at": "2026-09-24"
     },
     {
         "name": "Usebdfl",
@@ -97983,6 +98043,16 @@
         "discovered_at": "2026-07-02"
     },
     {
+        "name": "Cms-sfx-demo",
+        "description": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cms-sfx-demo.apeleg.com/",
+        "discovered_at": "2026-09-24"
+    },
+    {
         "name": "Coached",
         "description": "Show HN: Behavioral analysis of your career decisions from your LinkedIn",
         "category": "Other",
@@ -99543,6 +99613,16 @@
         "discovered_at": "2026-04-28"
     },
     {
+        "name": "Erwindegroot",
+        "description": "Show HN: Fractalysis – Online interactive infinite-zoom Mandelbrot viewer",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.erwindegroot.nl/fractalysis/",
+        "discovered_at": "2026-09-24"
+    },
+    {
         "name": "Eso",
         "description": "Milky Way's fastest star orbits a black hole so close, it feels its spin",
         "category": "Other",
@@ -100091,6 +100171,16 @@
         "cors": "unknown",
         "url": "https://focusreactive.com/blog/the-best-headless-cms-for-seo-in-2026/",
         "discovered_at": "2026-05-12"
+    },
+    {
+        "name": "Forensicdbg",
+        "description": "Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.forensicdbg.com",
+        "discovered_at": "2026-09-24"
     },
     {
         "name": "Forestwalk",
@@ -101221,6 +101311,16 @@
         "cors": "unknown",
         "url": "https://api.hubspot.com/api-catalog-public/v1/apis/events/v3/events",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Humanglitch",
+        "description": "Human Glitch – twenty small web experiences, each one starts free",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://humanglitch.ai",
+        "discovered_at": "2026-09-24"
     },
     {
         "name": "Humanrootoftrust",
@@ -103903,6 +104003,16 @@
         "discovered_at": "2026-07-16"
     },
     {
+        "name": "Nethackers",
+        "description": "Show HN: NetHackers",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nethackers.dunnolab.ai/",
+        "discovered_at": "2026-09-24"
+    },
+    {
         "name": "Netm8",
         "description": "Show HN: NetM8 OS",
         "category": "Other",
@@ -104481,6 +104591,16 @@
         "cors": "unknown",
         "url": "https://openotp.app",
         "discovered_at": "2026-07-28"
+    },
+    {
+        "name": "Openox",
+        "description": "Show HN: Ox – A local agent that uses the internet for you",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://openox.ai/",
+        "discovered_at": "2026-09-24"
     },
     {
         "name": "Openparser",
@@ -107681,6 +107801,16 @@
         "cors": "unknown",
         "url": "https://stagewise.io/news/file-transformation-pipeline",
         "discovered_at": "2026-04-16"
+    },
+    {
+        "name": "Stanceoftheday",
+        "description": "Open Source Opinions",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stanceoftheday.com/",
+        "discovered_at": "2026-09-24"
     },
     {
         "name": "Startupfortune",
