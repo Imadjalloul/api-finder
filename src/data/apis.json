@@ -1170,6 +1170,16 @@
         "discovered_at": "2026-08-20"
     },
     {
+        "name": "Beigebook",
+        "description": "AI labs' job-loss plans won't say what the public gets",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://beigebook.xyz/posts/preparedness-theater/",
+        "discovered_at": "2026-09-25"
+    },
+    {
         "name": "Benchmark-yourself",
         "description": "Test yourself against local open-source LLMs benchmark questions",
         "category": "AI & Machine Learning",
@@ -2367,6 +2377,16 @@
         "discovered_at": "2026-08-11"
     },
     {
+        "name": "Explyt",
+        "description": "Explyt 5.20 – background task panel for AI agent runs in JetBrains IDEs",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://explyt.ai/docs/explyt-test/whats-new-explyt",
+        "discovered_at": "2026-09-25"
+    },
+    {
         "name": "Fabraix",
         "description": "Show HN: Nyx – multi-turn, adaptive, offensive testing harness for AI agents",
         "category": "AI & Machine Learning",
@@ -2455,6 +2475,16 @@
         "cors": "unknown",
         "url": "https://fixture.dev/flawd",
         "discovered_at": "2026-09-03"
+    },
+    {
+        "name": "Flaviocopes",
+        "description": "Which AI model is best for coding? A hands-on comparison",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://flaviocopes.com/ai-coding-models/",
+        "discovered_at": "2026-09-25"
     },
     {
         "name": "Flint",
@@ -3692,6 +3722,16 @@
         "cors": "unknown",
         "url": "https://www.ledgi.app/",
         "discovered_at": "2026-03-07"
+    },
+    {
+        "name": "Leibniz-lsb",
+        "description": "AI as a Tool in Taste Research: decoding the taste of bitterness",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.leibniz-lsb.de/en/press-public-relations/pm-20260922-press-release-ai-as-a-tool-in-taste-research",
+        "discovered_at": "2026-09-25"
     },
     {
         "name": "Lemmy",
@@ -5581,6 +5621,16 @@
         "discovered_at": "2026-04-17"
     },
     {
+        "name": "Reteach",
+        "description": "Show HN: Reteach – AI tutor that feels human",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.reteach.study/",
+        "discovered_at": "2026-09-25"
+    },
+    {
         "name": "Retinaface",
         "description": "RetinaFace: Open-source precise AI face detection and analysis",
         "category": "AI & Machine Learning",
@@ -5699,6 +5749,16 @@
         "cors": "unknown",
         "url": "https://runcabinet.com",
         "discovered_at": "2026-04-06"
+    },
+    {
+        "name": "Runcanary",
+        "description": "Show HN: Canary (YC) – Independent verification for AI code",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.runcanary.ai/",
+        "discovered_at": "2026-09-25"
     },
     {
         "name": "Runtimewire",
@@ -5999,6 +6059,16 @@
         "cors": "unknown",
         "url": "https://www.sipp.sh",
         "discovered_at": "2026-06-25"
+    },
+    {
+        "name": "Sitemcp",
+        "description": "Show HN: Site MCP – Let any AI agent read your website, free, no install",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sitemcp.dev",
+        "discovered_at": "2026-09-25"
     },
     {
         "name": "Sites",
@@ -6710,6 +6780,16 @@
         "discovered_at": "2026-08-01"
     },
     {
+        "name": "Thought-is-free",
+        "description": "Show HN: A novel about an AI that starts asking questions, a chapter a day",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thought-is-free.com/read/ch01/?from=hn",
+        "discovered_at": "2026-09-25"
+    },
+    {
         "name": "Thoughts",
         "description": "Show HN: Familiar – Open-source local AI agent for macOS(and iOS)",
         "category": "AI & Machine Learning",
@@ -6849,6 +6929,16 @@
         "discovered_at": "2026-09-15"
     },
     {
+        "name": "Trify3d",
+        "description": "Show HN: Trify3D – Compare AI 3D engines on one input and keep the best mesh",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://trify3d.com",
+        "discovered_at": "2026-09-25"
+    },
+    {
         "name": "Triyambakam-apex-corp",
         "description": "Show HN: AI that audits your codebase in 60 seconds",
         "category": "AI & Machine Learning",
@@ -6877,6 +6967,16 @@
         "cors": "unknown",
         "url": "https://trypaolo.com",
         "discovered_at": "2026-03-04"
+    },
+    {
+        "name": "Trypotluck",
+        "description": "Show HN: Potluck – Run local AI across the computers you own",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://trypotluck.ai/",
+        "discovered_at": "2026-09-25"
     },
     {
         "name": "Tryrival",
@@ -6917,6 +7017,16 @@
         "cors": "unknown",
         "url": "https://typesafe.ai/",
         "discovered_at": "2026-09-17"
+    },
+    {
+        "name": "Typetab",
+        "description": "Running local LLMs on your Mac: what fits, what's free, and what's overkill",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://typetab.app/blog/local-llms-on-your-mac",
+        "discovered_at": "2026-09-25"
     },
     {
         "name": "Unbubble",
@@ -10644,6 +10754,16 @@
         "cors": "unknown",
         "url": "https://www.khanacademy.org/test-prep/mcat/chemical-processes/amino-acids-peptides-proteins-5d/v/classification-amino-acids",
         "discovered_at": "2026-05-12"
+    },
+    {
+        "name": "Koi",
+        "description": "Show HN: Koi.rest – watch some fish and regain your balance",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://koi.rest",
+        "discovered_at": "2026-09-25"
     },
     {
         "name": "Labs",
@@ -19329,6 +19449,16 @@
         "cors": "unknown",
         "url": "https://app.voicetta.com",
         "discovered_at": "2026-06-18"
+    },
+    {
+        "name": "App2api",
+        "description": "Show HN: App2Api – App actions into API calls for LLMs",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app2api.com/",
+        "discovered_at": "2026-09-25"
     },
     {
         "name": "Apparent",
@@ -54426,6 +54556,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Critic",
+        "description": "Show HN: Critic – Review code with the agent that wrote it",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.critic.run/",
+        "discovered_at": "2026-09-25"
+    },
+    {
         "name": "Crossref Scraper",
         "description": "Transform how you access scholarly data with our Crossref scraper. This intelligent automation tool gathers titles, authors, abstracts, and citations in seconds, giving researchers, librarians, and...",
         "category": "Development",
@@ -64204,6 +64344,16 @@
         "cors": "unknown",
         "url": "https://raccreative.github.io/rac-delta-docs/",
         "discovered_at": "2026-04-08"
+    },
+    {
+        "name": "Radix-os",
+        "description": "Show HN: Radix – Visual UI for agentic programming",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://radix-os.com",
+        "discovered_at": "2026-09-25"
     },
     {
         "name": "RAG Browser",
@@ -85811,6 +85961,16 @@
         "discovered_at": "2026-04-22"
     },
     {
+        "name": "Archive-movie-browser",
+        "description": "Orphanedfilms: Open-Source Movie Browser for the Internet Archive",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://archive-movie-browser.vercel.app/",
+        "discovered_at": "2026-09-25"
+    },
+    {
         "name": "Arnaud-carre",
         "description": "Playing Atari music on Amiga for free",
         "category": "Entertainment",
@@ -86808,6 +86968,16 @@
         "cors": "unknown",
         "url": "https://www.analystidx.com/",
         "discovered_at": "2026-09-14"
+    },
+    {
+        "name": "App",
+        "description": "Show HN: I built a seriously detailed free financial planner",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.finzot.com/plan/6VXFMte2tRMp81sRKhYgXM/results/net-worth",
+        "discovered_at": "2026-09-25"
     },
     {
         "name": "Bill Payment Validator",
@@ -90528,6 +90698,16 @@
         "cors": "unknown",
         "url": "https://reticleops.com/",
         "discovered_at": "2026-06-17"
+    },
+    {
+        "name": "Routebase",
+        "description": "Three Years Later: What Happened to 1,927 Public API Specs",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://routebase.dev/blog/public-api-specs-three-years-later/",
+        "discovered_at": "2026-09-25"
     },
     {
         "name": "Routerfuel",
@@ -97043,6 +97223,16 @@
         "discovered_at": "2026-06-24"
     },
     {
+        "name": "Blackbear",
+        "description": "Show HN: Blackbear.app – Thoughtful, Private Collaboration",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blackbear.app/",
+        "discovered_at": "2026-09-25"
+    },
+    {
         "name": "Blackdesk",
         "description": "Blackdesk – open-source market research terminal (Go, TUI, local AI)",
         "category": "Other",
@@ -99303,6 +99493,16 @@
         "discovered_at": "2026-07-14"
     },
     {
+        "name": "Dunara-studio",
+        "description": "Show HN: Dunara",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dunara-studio.com/",
+        "discovered_at": "2026-09-25"
+    },
+    {
         "name": "Dxomark",
         "description": "Apple iPhone 18 Pro Camera test",
         "category": "Other",
@@ -99661,6 +99861,16 @@
         "cors": "unknown",
         "url": "https://essentialsforsafari.app/",
         "discovered_at": "2026-05-08"
+    },
+    {
+        "name": "Etf-copilot",
+        "description": "Show HN: Are My ETFs Overvalued? Daily ETF insights and comparisons tool",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://etf-copilot.com/",
+        "discovered_at": "2026-09-25"
     },
     {
         "name": "Eventclock",
@@ -100623,6 +100833,16 @@
         "discovered_at": "2026-07-14"
     },
     {
+        "name": "Getscalar",
+        "description": "Show HN: Scalar.dev – Python/SQLite server-rendered starter app, no build step",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getscalar.dev/",
+        "discovered_at": "2026-09-25"
+    },
+    {
         "name": "Getsitetell",
         "description": "Show HN: SiteTell: finds the areas of your site that read as AI-generic",
         "category": "Other",
@@ -100911,6 +101131,16 @@
         "cors": "unknown",
         "url": "https://gpu.studio/trolley",
         "discovered_at": "2026-09-20"
+    },
+    {
+        "name": "Gpufind",
+        "description": "Show HN: Check if it is cheaper to rent rather than buying a GPU",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.gpufind.cloud/rent-vs-buy",
+        "discovered_at": "2026-09-25"
     },
     {
         "name": "Greip API",
@@ -101271,6 +101501,16 @@
         "cors": "unknown",
         "url": "https://www.hopmembers.com/blogs/how-to-go-from-free-group-to-paid-membership-without-losing-members",
         "discovered_at": "2026-05-12"
+    },
+    {
+        "name": "Hormuzsignal",
+        "description": "Show HN: Hormuz Signal – Iran war escalation risk from real data",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.HormuzSignal.com",
+        "discovered_at": "2026-09-25"
     },
     {
         "name": "Hounsfield",
@@ -101661,6 +101901,16 @@
         "cors": "unknown",
         "url": "https://inkspan.dev",
         "discovered_at": "2026-07-30"
+    },
+    {
+        "name": "Insidehighered",
+        "description": "Quanta's Thomas Lin Trusts the Public Can Handle Complex Ideas",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.insidehighered.com/opinion/columns/public-scholar/2026/09/08/quantas-thomas-lin-trusts-public-can-handle-complex-ideas",
+        "discovered_at": "2026-09-25"
     },
     {
         "name": "Insidertrack",
@@ -110081,6 +110331,16 @@
         "cors": "unknown",
         "url": "https://xenon-app.com/",
         "discovered_at": "2026-08-14"
+    },
+    {
+        "name": "Xhtml",
+        "description": "Show HN: XHTML – Expert HTML",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://xhtml.es/",
+        "discovered_at": "2026-09-25"
     },
     {
         "name": "Xsdr",
@@ -125265,6 +125525,16 @@
         "discovered_at": "2026-06-18"
     },
     {
+        "name": "Rizzfit",
+        "description": "Show HN: RizzFit – Free fitness calculators that cite their formulas, no signup",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rizzfit.orbitly.ca/calculators/",
+        "discovered_at": "2026-09-25"
+    },
+    {
         "name": "Templateson",
         "description": "Show HN: Image Generation API with QR code tracking and MCP support",
         "category": "Utilities",
@@ -125710,6 +125980,16 @@
         "cors": "unknown",
         "url": "https://getvodforge.com/",
         "discovered_at": "2026-09-07"
+    },
+    {
+        "name": "Gifdecider",
+        "description": "Show HN: I Built a GIF Decider with Jev",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gifdecider.com/",
+        "discovered_at": "2026-09-25"
     },
     {
         "name": "Giphy",
