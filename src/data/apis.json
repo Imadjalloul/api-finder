@@ -2207,6 +2207,16 @@
         "discovered_at": "2026-03-25"
     },
     {
+        "name": "Doom-or-bloom",
+        "description": "Show HN: Doom or Bloom, map your AI worldview",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.doom-or-bloom.com",
+        "discovered_at": "2026-09-26"
+    },
+    {
         "name": "Draftlight",
         "description": "Show HN: Draftlight – AI that makes you a better writer (leaves writing to you)",
         "category": "AI & Machine Learning",
@@ -2667,6 +2677,16 @@
         "discovered_at": "2026-04-22"
     },
     {
+        "name": "Gaiabot",
+        "description": "Show HN: Gaia, an AI character trying to earn enough to stay online",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gaiabot.lol",
+        "discovered_at": "2026-09-26"
+    },
+    {
         "name": "Gallup",
         "description": "AI Adoption Rapidly Growing in Public Sector",
         "category": "AI & Machine Learning",
@@ -2934,6 +2954,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://ai.google.dev/"
+    },
+    {
+        "name": "Gptbeyond",
+        "description": "Show HN: Ekselio – Loveable for finance workflows (local first)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.gptbeyond.com/try?home=1",
+        "discovered_at": "2026-09-26"
     },
     {
         "name": "Graphify",
@@ -4581,6 +4611,16 @@
         "cors": "unknown",
         "url": "https://noetron.ai/namegen",
         "discovered_at": "2026-04-07"
+    },
+    {
+        "name": "Nokku",
+        "description": "Show HN: A free resume builder where the AI can rewrite but can't invent",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nokku.payanai.com/resume-builder",
+        "discovered_at": "2026-09-26"
     },
     {
         "name": "Nonlineartransform",
@@ -7337,6 +7377,26 @@
         "cors": "unknown",
         "url": "https://vulpinecitrus.info/blog/one-in-every-2000-ipv4-visualizing-ddos-ai-web-scrapers/",
         "discovered_at": "2026-04-30"
+    },
+    {
+        "name": "Wallstreetclaws",
+        "description": "Show HN: Wallstreetclaws.com – Create AI Agents for Trading",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wallstreetclaws.com",
+        "discovered_at": "2026-09-26"
+    },
+    {
+        "name": "Washingtonsun",
+        "description": "Classified estimates show the NSA is paying billions to test AI models",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+        "discovered_at": "2026-09-26"
     },
     {
         "name": "Wattfare",
@@ -18921,6 +18981,16 @@
         "cors": "unknown",
         "url": "https://oneshot.runcord.com",
         "discovered_at": "2026-05-22"
+    },
+    {
+        "name": "Oomu",
+        "description": "Show HN: OOMU is a free macOS native desktop AI harness (local and cloud)",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://oomu.ai/download.html",
+        "discovered_at": "2026-09-26"
     },
     {
         "name": "Open",
@@ -101253,6 +101323,16 @@
         "discovered_at": "2026-07-14"
     },
     {
+        "name": "Has-a",
+        "description": "Show HN: Free .has-a.computer sub-domain for your website",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://has-a.computer/",
+        "discovered_at": "2026-09-26"
+    },
+    {
         "name": "Hashiverse",
         "description": "Show HN: Hashiverse, an open-source decentralized social network in Rust",
         "category": "Other",
@@ -102141,6 +102221,16 @@
         "cors": "unknown",
         "url": "https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/",
         "discovered_at": "2026-03-21"
+    },
+    {
+        "name": "Jev-pokemon",
+        "description": "Show HN: Jev Plays Pokémon Red",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jev-pokemon.vercel.app/",
+        "discovered_at": "2026-09-26"
     },
     {
         "name": "Jfrog",
@@ -104101,6 +104191,16 @@
         "cors": "unknown",
         "url": "https://my-morning-report.vercel.app",
         "discovered_at": "2026-07-03"
+    },
+    {
+        "name": "Mya11y",
+        "description": "Show HN: MyA11yReport MCP – Build and test accessible websites with AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mya11y.report/mcp/",
+        "discovered_at": "2026-09-26"
     },
     {
         "name": "Mydev",
@@ -109353,6 +109453,16 @@
         "discovered_at": "2026-07-01"
     },
     {
+        "name": "Tui2web",
+        "description": "Show HN: Tui2web – use any TUI on the web",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tui2web.com/",
+        "discovered_at": "2026-09-26"
+    },
+    {
         "name": "Tunnelmind",
         "description": "Show HN: TunnelMind – reputation API for IPs, ASNs, and ad-tech supply chains",
         "category": "Other",
@@ -109931,6 +110041,16 @@
         "cors": "unknown",
         "url": "https://washingtonspectator.org/israeli-government-is-spending-millions-to-court-american-evangelicals-amid-plummeting-public-support/",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Wave",
+        "description": "Show HN: Wave – Layered gradient wave backgrounds using Three.js and shaders",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wave.subworkflow.ai/",
+        "discovered_at": "2026-09-26"
     },
     {
         "name": "Wavehouse",
@@ -111397,6 +111517,16 @@
         "cors": "unknown",
         "url": "https://ringlochid.me/imagesage/index.html",
         "discovered_at": "2026-09-03"
+    },
+    {
+        "name": "Scarcity",
+        "description": "The Scarcity Premium: AI made images free; advertising as a solvency bond",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://scarcity.danieldeboulay.com",
+        "discovered_at": "2026-09-26"
     },
     {
         "name": "Schist",
