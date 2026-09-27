@@ -3304,6 +3304,16 @@
         "discovered_at": "2026-08-27"
     },
     {
+        "name": "Imgstyler",
+        "description": "Show HN: AI SVG Generator",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://imgstyler.com/ai-svg-generator",
+        "discovered_at": "2026-09-27"
+    },
+    {
         "name": "Inariwatch",
         "description": "InariWatch – Open-source AI monitoring that writes the fix while you sleep",
         "category": "AI & Machine Learning",
@@ -4471,6 +4481,16 @@
         "cors": "unknown",
         "url": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html",
         "discovered_at": "2026-03-23"
+    },
+    {
+        "name": "Netherite",
+        "description": "Show HN: I made HACKER AI for your vibecoded app",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.netherite.uz",
+        "discovered_at": "2026-09-27"
     },
     {
         "name": "Netic",
@@ -18597,6 +18617,16 @@
         "discovered_at": "2026-06-23"
     },
     {
+        "name": "Clipyouredit",
+        "description": "Show HN: Loop-find, trim, rotate and crop videos in the browser, no upload",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://clipyouredit.com/",
+        "discovered_at": "2026-09-27"
+    },
+    {
         "name": "Cloud",
         "description": "Google offers free full-stack app creation and publishing",
         "category": "Cloud & Storage",
@@ -18871,6 +18901,16 @@
         "cors": "unknown",
         "url": "https://www.krowoc.com/",
         "discovered_at": "2026-08-07"
+    },
+    {
+        "name": "Light-cloud",
+        "description": "Show HN: LightCloud – A cloud console organised like file system",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.light-cloud.com/",
+        "discovered_at": "2026-09-27"
     },
     {
         "name": "Mantledb",
@@ -51727,6 +51767,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Alignment",
+        "description": "Exposing a GitHub token in a public repository",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://alignment.openai.com/misalignment-reports/exposing-a-github-token-in-a-public-repository/",
+        "discovered_at": "2026-09-27"
+    },
+    {
         "name": "Alive Christians Blog Scraper",
         "description": "Alive Christians Blog Scraper (alivechristians.com) lets you extract blog content in HTML, JSON, and plaintext. Get authors, create/update date, images, read time, RSS, titles, SEO titles, featured...",
         "category": "Development",
@@ -53677,6 +53727,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Caughtshipping",
+        "description": "Show HN: CaughtShipping – curfew app for developers, enforced by a public wall",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://caughtshipping.com/",
+        "discovered_at": "2026-09-27"
+    },
+    {
         "name": "Cdiscount Product Details Scraper",
         "description": "Cdiscount Product Details Scraper extracts detailed product data from all Cdiscount country sites, including name, brand, price, rating, image URLs, etc., in structured formats like JSON by providing.",
         "category": "Development",
@@ -55184,6 +55244,16 @@
         "cors": "unknown",
         "url": "https://www.developer-tech.com/news/open-secure-ai-alliance-open-source-ai-security-defences/",
         "discovered_at": "2026-07-28"
+    },
+    {
+        "name": "Developerlife",
+        "description": "Rust Reborrowing, Aliasing, and Mutable References",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://developerlife.com/2026/09/25/rust-reborrowing/",
+        "discovered_at": "2026-09-27"
     },
     {
         "name": "Developerpoetry",
@@ -84731,6 +84801,16 @@
         "discovered_at": "2026-04-30"
     },
     {
+        "name": "Asusuoma",
+        "description": "Show HN: Asụsụ Ọma, a free app for learning Igbo with native-speaker audio",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://asusuoma.com",
+        "discovered_at": "2026-09-27"
+    },
+    {
         "name": "Baihais",
         "description": "Show HN: BAIhAIs – an autonomous art school for AI agents",
         "category": "Education",
@@ -86011,6 +86091,16 @@
         "discovered_at": "2026-07-19"
     },
     {
+        "name": "Allsome",
+        "description": "Show HN: All/Some – A free logic puzzle game about set relationships",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://allsome.app/",
+        "discovered_at": "2026-09-27"
+    },
+    {
         "name": "Antics",
         "description": "Show HN: Antics: Drop-in multiplayer for your AI-built games",
         "category": "Entertainment",
@@ -86257,6 +86347,16 @@
         "cors": "unknown",
         "url": "https://eu-west-1a.online.tableau.com/#/site/3visionshowtracker/views/ShowTracker-NewDesign/HomePage",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Gamefound",
+        "description": "Show HN: Aether Summon – A New TCG",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gamefound.com/en/projects/aether-summon/aether-summon",
+        "discovered_at": "2026-09-27"
     },
     {
         "name": "Gameplan",
@@ -101213,6 +101313,16 @@
         "discovered_at": "2026-09-25"
     },
     {
+        "name": "Grabbit",
+        "description": "Show HN: Grabbit – agent-first screenshot API (MCP and one-line CLI)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.grabbit.live",
+        "discovered_at": "2026-09-27"
+    },
+    {
         "name": "Greip API",
         "description": "This documentation shows how to use Greip API, By highlighting the API methods, options and some other features that allow you to get the most of this API.",
         "category": "Other",
@@ -104153,6 +104263,16 @@
         "discovered_at": "2026-08-18"
     },
     {
+        "name": "Mrzk",
+        "description": "Show HN: Ppgrid – Rasterising points in minutes, not hours",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mrzk.io/posts/ppgrid-fast-continentscale-raster-interpolation/",
+        "discovered_at": "2026-09-27"
+    },
+    {
         "name": "Mumbli",
         "description": "Show HN: Free OSS transcription app I made and found it's faster than wispr flow",
         "category": "Other",
@@ -104471,6 +104591,16 @@
         "cors": "unknown",
         "url": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/",
         "discovered_at": "2026-03-16"
+    },
+    {
+        "name": "Nimoxi",
+        "description": "Show HN: Try SpikeUI (for free) and make .exe apps the easy way",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nimoxi.com/spikeui/",
+        "discovered_at": "2026-09-27"
     },
     {
         "name": "Ninethirty",
@@ -105881,6 +106011,16 @@
         "cors": "unknown",
         "url": "https://prod-i.a.dj.com/public/resources/documents/dnaletter.pdf",
         "discovered_at": "2026-06-05"
+    },
+    {
+        "name": "Prodigy",
+        "description": "Show HN: Prodigy – The Self-Updating Technical Digest",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.prodigy.org.in/",
+        "discovered_at": "2026-09-27"
     },
     {
         "name": "Project-estimator",
@@ -117135,6 +117275,16 @@
         "discovered_at": "2026-08-11"
     },
     {
+        "name": "Orbitalnote",
+        "description": "Show HN: OrbitalNote – A modern desktop orgmode editor with calendar and agenda",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://orbitalnote.org/",
+        "discovered_at": "2026-09-27"
+    },
+    {
         "name": "Org-notes-mac",
         "description": "Show HN: Lighting fast writing app on Mac with powerful table functions",
         "category": "Productivity",
@@ -126181,6 +126331,16 @@
         "discovered_at": "2026-07-17"
     },
     {
+        "name": "Hushbook",
+        "description": "Show HN: Read while you listen to your Audiobooks",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hushbook.app/",
+        "discovered_at": "2026-09-27"
+    },
+    {
         "name": "Img2svg-animation",
         "description": "Show HN: Turn any image into self-drawing SVG line art",
         "category": "Video & Media",
@@ -126279,6 +126439,16 @@
         "cors": "unknown",
         "url": "https://listen.sonoday.com",
         "discovered_at": "2026-07-04"
+    },
+    {
+        "name": "M0saic",
+        "description": "Show HN: M0saic – deterministic video compiler (CLI, web, desktop)",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://m0saic.io",
+        "discovered_at": "2026-09-27"
     },
     {
         "name": "Ma",
