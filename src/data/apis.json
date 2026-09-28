@@ -2507,6 +2507,16 @@
         "discovered_at": "2026-03-19"
     },
     {
+        "name": "Flowlight",
+        "description": "Flowlight – open-source network visibility for AI agents on macOS",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://flowlight.xinbetween.com/",
+        "discovered_at": "2026-09-28"
+    },
+    {
         "name": "Floyi",
         "description": "Show HN: Floyi, a topic-first content workflow for Google and AI search",
         "category": "AI & Machine Learning",
@@ -3113,6 +3123,16 @@
         "cors": "unknown",
         "url": "https://heyhalo.app/",
         "discovered_at": "2026-07-03"
+    },
+    {
+        "name": "Heysquint",
+        "description": "Show HN: Squint – Drag a box on your screen and ask AI about it",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://heysquint.com/",
+        "discovered_at": "2026-09-28"
     },
     {
         "name": "Himalaian",
@@ -4960,6 +4980,16 @@
         "cors": "unknown",
         "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
         "discovered_at": "2026-08-30"
+    },
+    {
+        "name": "Orglet",
+        "description": "Show HN: Orglet, an open source desktop app for your own team of cute AI workers",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://orglet.codepawl.com/",
+        "discovered_at": "2026-09-28"
     },
     {
         "name": "Oversikt",
@@ -7596,6 +7626,16 @@
         "cors": "unknown",
         "url": "https://workclarity.co",
         "discovered_at": "2026-05-18"
+    },
+    {
+        "name": "Workcontext",
+        "description": "Show HN: WorkContext – Open-Source AI Context Layer for Dev Teams",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.workcontext.me/",
+        "discovered_at": "2026-09-28"
     },
     {
         "name": "Workdir",
@@ -11678,6 +11718,16 @@
         "discovered_at": "2026-03-23"
     },
     {
+        "name": "Scissor",
+        "description": "Show HN: Free alternative to graphics design giants",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://scissor.studio/",
+        "discovered_at": "2026-09-28"
+    },
+    {
         "name": "Session Manager API",
         "description": "This documentation goes in detail how to interact with Session Manager's API. For a more top-level approach, check the [design documentation](https://help.vtex.com/tutorial/using-session-manager-to-tr",
         "category": "Auth & Identity",
@@ -12915,6 +12965,16 @@
         "cors": "unknown",
         "url": "https://provetogether.ai/",
         "discovered_at": "2026-09-12"
+    },
+    {
+        "name": "Rare-books",
+        "description": "Show HN: A bookshelf of rare company documents and out-of-print tech books",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rare-books.vercel.app",
+        "discovered_at": "2026-09-28"
     },
     {
         "name": "Readingvault",
@@ -43207,6 +43267,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Syntec-research",
+        "description": "Show HN: Cafca – a synthetic face dataset with 1.75M images",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://syntec-research.github.io/Cafca/cafca_dataset.html",
+        "discovered_at": "2026-09-28"
+    },
+    {
         "name": "Tagvenue Scraper",
         "description": "Scrape venue and room details from Tagvenue.com—including location, capacity, amenities, pricing, reviews, and accessibility. Supports direct URLs or search queries with rich filters. Ideal for event.",
         "category": "Data & Analytics",
@@ -53725,6 +53795,16 @@
         "cors": "unknown",
         "url": "https://apify.com/ecomscrape/carvana-vehicle-search-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Caspian",
+        "description": "Show HN: Caspian – Desktop app to build and launch small vibe-coded projects",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://caspian.md",
+        "discovered_at": "2026-09-28"
     },
     {
         "name": "Caughtshipping",
@@ -97353,6 +97433,16 @@
         "discovered_at": "2026-06-05"
     },
     {
+        "name": "Bioengineer",
+        "description": "Stratos: Open-source software speeds airship design from hull to fabric",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bioengineer.org/stratos-open-source-software-speeds-airship-design-from-hull-to-fabric/",
+        "discovered_at": "2026-09-28"
+    },
+    {
         "name": "Birka",
         "description": "I built a defense procurement marketplace – free for vendors",
         "category": "Other",
@@ -98501,6 +98591,16 @@
         "cors": "unknown",
         "url": "https://comma.ai/shop/chestnut",
         "discovered_at": "2026-08-14"
+    },
+    {
+        "name": "Composables",
+        "description": "Show HN: I made a tool that turns Jetpack Compose Previews to embeddable scripts",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://composables.com/",
+        "discovered_at": "2026-09-28"
     },
     {
         "name": "Composer-sepia",
@@ -100741,6 +100841,16 @@
         "cors": "unknown",
         "url": "https://fui-rs-demo.effindom.dev/",
         "discovered_at": "2026-08-12"
+    },
+    {
+        "name": "Fusor",
+        "description": "Show HN: Fusor – Like Vue, but the logic is Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fusor.build",
+        "discovered_at": "2026-09-28"
     },
     {
         "name": "Galaxybrain",
@@ -103511,6 +103621,16 @@
         "cors": "unknown",
         "url": "https://markbin.net",
         "discovered_at": "2026-04-06"
+    },
+    {
+        "name": "Markdown",
+        "description": "Show HN: Building a Markdown editor for Mac, iOS and web",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.markdown.beauty/",
+        "discovered_at": "2026-09-28"
     },
     {
         "name": "Markeron",
@@ -106611,6 +106731,16 @@
         "cors": "unknown",
         "url": "https://reassign.app",
         "discovered_at": "2026-05-28"
+    },
+    {
+        "name": "Rebyte",
+        "description": "Show HN: An OpenAI-compatible, model-agnostic agent API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rebyte.ai/docs/agents-api/overview",
+        "discovered_at": "2026-09-28"
     },
     {
         "name": "Reco",
@@ -121119,6 +121249,16 @@
         "cors": "unknown",
         "url": "https://networkedthought.substack.com/p/petrarca-an-intelligent-companion",
         "discovered_at": "2026-04-08"
+    },
+    {
+        "name": "Note",
+        "description": "Show HN: ParkourNote – A research workspace, built solo in a month with Claude",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://note.parkourlabs.io/",
+        "discovered_at": "2026-09-28"
     },
     {
         "name": "Ntrs",
