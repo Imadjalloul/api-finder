@@ -1110,6 +1110,16 @@
         "discovered_at": "2026-03-18"
     },
     {
+        "name": "Asticouisland",
+        "description": "Testing in the Open Air: a shared test range for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.asticouisland.com/governance/essays/testing-in-the-open-air",
+        "discovered_at": "2026-09-29"
+    },
+    {
         "name": "Athletedata",
         "description": "Show HN: AthleteData – AI coach for endurance athletes that messages you first",
         "category": "AI & Machine Learning",
@@ -2465,6 +2475,16 @@
         "cors": "unknown",
         "url": "https://find-best-job.com/en/blog/agent-job-search-real-numbers",
         "discovered_at": "2026-07-25"
+    },
+    {
+        "name": "First-breath-website",
+        "description": "First Breath – an open-source inner life for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://first-breath-website.vercel.app/",
+        "discovered_at": "2026-09-29"
     },
     {
         "name": "Firstlastword",
@@ -6041,6 +6061,16 @@
         "discovered_at": "2026-04-08"
     },
     {
+        "name": "Seodraft",
+        "description": "Free AI slop checker: find the signs of AI writing",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://seodraft.app/tools/ai-slop",
+        "discovered_at": "2026-09-29"
+    },
+    {
         "name": "Serendb",
         "description": "We Created a Free Password Manager for AI Agents",
         "category": "AI & Machine Learning",
@@ -7387,6 +7417,16 @@
         "cors": "unknown",
         "url": "https://www.visualbuild.me",
         "discovered_at": "2026-06-26"
+    },
+    {
+        "name": "Vm-price-board",
+        "description": "Show HN: What a VM for your AI agent costs across 13 sandbox providers",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vm-price-board.sf.tools/",
+        "discovered_at": "2026-09-29"
     },
     {
         "name": "Vostride",
@@ -13095,6 +13135,16 @@
         "cors": "unknown",
         "url": "https://teardownhq.io",
         "discovered_at": "2026-06-08"
+    },
+    {
+        "name": "Themusebook",
+        "description": "Show HN: Musebook – A Social Network for Muses",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://themusebook.co/",
+        "discovered_at": "2026-09-29"
     },
     {
         "name": "Torrentfreak",
@@ -20230,6 +20280,16 @@
         "discovered_at": "2026-07-04"
     },
     {
+        "name": "Openllmrank",
+        "description": "I asked across LLMs what is the best email provider: Resend is cited most",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://openllmrank.io/blog/transactional-email-apis",
+        "discovered_at": "2026-09-29"
+    },
+    {
         "name": "Ostt",
         "description": "Open source voice-to-text for Linux. And macOS",
         "category": "Communication",
@@ -20656,6 +20716,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/nexmo/api-specification/master/definitions/voice.yml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Voicecursor",
+        "description": "Show HN: Real-time Voice Agent works across apps on Mac",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://voicecursor.ai/action-mode",
+        "discovered_at": "2026-09-29"
     },
     {
         "name": "Voklit",
@@ -53327,6 +53397,16 @@
         "discovered_at": "2026-08-19"
     },
     {
+        "name": "Blog",
+        "description": "Forge: The open source pipeline for generating SDKs, CLIs, docs, and more",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.cloudflare.com/forge-open-source-generation-pipeline/",
+        "discovered_at": "2026-09-29"
+    },
+    {
         "name": "Blog / Dated Content Crawler",
         "description": "Crawl an entire blog / knowledge base or filter to just the new content. Supporting relevant AI queries by filtering pages by date",
         "category": "Development",
@@ -85001,6 +85081,16 @@
         "discovered_at": "2026-08-10"
     },
     {
+        "name": "Gotrivia",
+        "description": "Show HN: GoTrivia – Free multiplayer browser party games, no signups or ads",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gotrivia.org/",
+        "discovered_at": "2026-09-29"
+    },
+    {
         "name": "Gupea",
         "description": "Negotiating AI in Open Source Software Communities: A Case Study of LLVM Project",
         "category": "Education",
@@ -97313,6 +97403,16 @@
         "discovered_at": "2026-09-15"
     },
     {
+        "name": "Best-of-british-design",
+        "description": "Best of British Design",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://best-of-british-design.vercel.app/",
+        "discovered_at": "2026-09-29"
+    },
+    {
         "name": "Bestmillionstartups",
         "description": "X Is Changing How Creators Get Paid in 2026",
         "category": "Other",
@@ -98693,6 +98793,16 @@
         "discovered_at": "2026-08-19"
     },
     {
+        "name": "Contextiq",
+        "description": "Show HN: X402 Inspector (Find misconfigurations in your x402 API)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://contextiq.trango-compute.com",
+        "discovered_at": "2026-09-29"
+    },
+    {
         "name": "Contrapunk",
         "description": "Show HN: Contrapunk – Real-time counterpoint harmony from guitar input",
         "category": "Other",
@@ -99173,6 +99283,16 @@
         "discovered_at": "2026-09-22"
     },
     {
+        "name": "Deepdeck",
+        "description": "What should we open source in the age of AI?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://deepdeck.getmegaportal.com/blog/open-source-in-ai-era",
+        "discovered_at": "2026-09-29"
+    },
+    {
         "name": "Deepswe",
         "description": "DeepSWE: A contamination-free benchmark for long-horizon coding agents",
         "category": "Other",
@@ -99611,6 +99731,16 @@
         "cors": "unknown",
         "url": "https://api.hubspot.com/api-catalog-public/v1/apis/cms/v3/domains",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Domushorizon",
+        "description": "Open-source Python simulation benchmarking rainbow gravity against NGC 3198",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://domushorizon.vercel.app/teoria-del-todo.html",
+        "discovered_at": "2026-09-29"
     },
     {
         "name": "Doodlemate",
@@ -102603,6 +102733,16 @@
         "discovered_at": "2026-06-01"
     },
     {
+        "name": "K-dense",
+        "description": "LabMCP: Open-source connectors for AI-controlled lab instruments",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.k-dense.ai/blog/introducing-labmcp",
+        "discovered_at": "2026-09-29"
+    },
+    {
         "name": "Kado",
         "description": "Show HN: Kado – Search to Allow Personal Agents to Find Agent Apps",
         "category": "Other",
@@ -105103,6 +105243,16 @@
         "discovered_at": "2026-03-17"
     },
     {
+        "name": "Openappa",
+        "description": "Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.openappa.com/",
+        "discovered_at": "2026-09-29"
+    },
+    {
         "name": "Openbenchmarks",
         "description": "Show HN: OpenBenchmarks – Helping agents discover and pick the right SaaS APIs",
         "category": "Other",
@@ -106153,6 +106303,16 @@
         "discovered_at": "2026-09-09"
     },
     {
+        "name": "Projecthub",
+        "description": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
+        "discovered_at": "2026-09-29"
+    },
+    {
         "name": "Prometheusquantengine",
         "description": "Show HN: A distributed C++ Monte Carlo API for exotic options pricing",
         "category": "Other",
@@ -106831,6 +106991,16 @@
         "cors": "unknown",
         "url": "https://www.remotejobs.place",
         "discovered_at": "2026-05-21"
+    },
+    {
+        "name": "Rename",
+        "description": "Show HN: Rename.Tools – Open-source bulk file renaming in the browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rename.tools/en",
+        "discovered_at": "2026-09-29"
     },
     {
         "name": "Renderfy",
@@ -110081,6 +110251,16 @@
         "cors": "unknown",
         "url": "https://vertumnus.fyi",
         "discovered_at": "2026-09-08"
+    },
+    {
+        "name": "Vespper",
+        "description": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.vespper.com/blog/launching-vespper-docx-mcp",
+        "discovered_at": "2026-09-29"
     },
     {
         "name": "Vester",
@@ -121172,6 +121352,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Knownote",
+        "description": "Show HN: KnowNote-A local desktop workspace for questioning your own sources",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://knownote.pages.dev/",
+        "discovered_at": "2026-09-29"
+    },
+    {
         "name": "Lifesprites",
         "description": "Show HN: Meteor shower, planet alignment, eclipse kit",
         "category": "Science",
@@ -126461,6 +126651,16 @@
         "discovered_at": "2026-04-07"
     },
     {
+        "name": "Hn",
+        "description": "Show HN: HN.watch – Videos of all Hacker News posts",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hn.watch/",
+        "discovered_at": "2026-09-29"
+    },
+    {
         "name": "Howdousound",
         "description": "Show HN: Real-Time Microphone Quality Scoring Using Web Audio API",
         "category": "Video & Media",
@@ -127216,6 +127416,16 @@
         "cors": "unknown",
         "url": "https://www.forecast-planner.com/",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Forecasterror",
+        "description": "Show HN: Error in official Swiss weather forecasts, recorded since September '25",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://forecasterror.xlit.app/",
+        "discovered_at": "2026-09-29"
     },
     {
         "name": "Futuresearch",
