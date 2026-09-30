@@ -2617,6 +2617,16 @@
         "discovered_at": "2026-03-28"
     },
     {
+        "name": "Foundinghires",
+        "description": "Show HN: Mapping AI research, from 496k indexed papers",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://foundinghires.tech/atlas.html",
+        "discovered_at": "2026-09-30"
+    },
+    {
         "name": "Freeaipromptgen",
         "description": "Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool",
         "category": "AI & Machine Learning",
@@ -3402,6 +3412,16 @@
         "cors": "unknown",
         "url": "https://www.informity.ai/",
         "discovered_at": "2026-05-08"
+    },
+    {
+        "name": "Inspect",
+        "description": "Inspect: An open-source framework for large language model evaluations",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://inspect.aisi.org.uk/",
+        "discovered_at": "2026-09-30"
     },
     {
         "name": "Interconnects",
@@ -5630,6 +5650,16 @@
         "cors": "unknown",
         "url": "https://rauno.ai",
         "discovered_at": "2026-05-15"
+    },
+    {
+        "name": "Recalld",
+        "description": "Show HN: Recalld – A memory layer for AI agents that returns only relevant facts",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://recalld.ai/",
+        "discovered_at": "2026-09-30"
     },
     {
         "name": "Recif-platform",
@@ -86341,6 +86371,16 @@
         "discovered_at": "2026-04-12"
     },
     {
+        "name": "Blog",
+        "description": "From one prompt to a playable game with a public URL",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.boxlite.ai/from-one-prompt-to-a-playable-game-on-boxlite-cloud",
+        "discovered_at": "2026-09-30"
+    },
+    {
         "name": "Bored API",
         "description": "Suggestions for random activities when bored",
         "category": "Entertainment",
@@ -88491,6 +88531,16 @@
         "cors": "unknown",
         "url": "https://butterwell.io",
         "discovered_at": "2026-03-22"
+    },
+    {
+        "name": "Chow",
+        "description": "Show HN: Chow, a FOSS food diary",
+        "category": "Food & Drink",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://chow.fit/",
+        "discovered_at": "2026-09-30"
     },
     {
         "name": "Clearpour",
@@ -92824,6 +92874,16 @@
         "discovered_at": "2026-09-21"
     },
     {
+        "name": "Rsscal",
+        "description": "Show HN: Social news aggregator, RSS feed tracker, and publishing platform",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rsscal.com/",
+        "discovered_at": "2026-09-30"
+    },
+    {
         "name": "Samnews",
         "description": "Sam's News – Free AI News Aggregator",
         "category": "News",
@@ -96593,6 +96653,16 @@
         "discovered_at": "2026-08-10"
     },
     {
+        "name": "Anxietychecklist",
+        "description": "Show HN: Anxiety Checklist – 3 years of itterate with no success yet",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://anxietychecklist.com/",
+        "discovered_at": "2026-09-30"
+    },
+    {
         "name": "Anystation",
         "description": "Show HN: Public message board for limited systems",
         "category": "Other",
@@ -97913,6 +97983,16 @@
         "discovered_at": "2026-09-23"
     },
     {
+        "name": "Box2d",
+        "description": "Speeding up the separating axis test using inscribed spheres",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://box2d.org/posts/2026/09/inscribed-spheres/",
+        "discovered_at": "2026-09-30"
+    },
+    {
         "name": "Breadboard",
         "description": "Show HN: Breadboard – Figma for Breadboard Hackers",
         "category": "Other",
@@ -98181,6 +98261,16 @@
         "cors": "unknown",
         "url": "https://calendly.com/qualityfolio2026/30min",
         "discovered_at": "2026-05-21"
+    },
+    {
+        "name": "Calready",
+        "description": "Show HN: 5 Early users to get 90% off for life to test calories counter app",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.calready.app",
+        "discovered_at": "2026-09-30"
     },
     {
         "name": "Camelai",
@@ -99513,6 +99603,16 @@
         "discovered_at": "2026-08-19"
     },
     {
+        "name": "Dice",
+        "description": "Show HN: Phyics-Based Dice Roller",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dice.jswidler.com/",
+        "discovered_at": "2026-09-30"
+    },
+    {
         "name": "Didon",
         "description": "Do you know your founder-personality type? (research-bassed)",
         "category": "Other",
@@ -100281,6 +100381,16 @@
         "cors": "unknown",
         "url": "https://eventclock.org",
         "discovered_at": "2026-06-12"
+    },
+    {
+        "name": "Eventsend",
+        "description": "Show HN: EventSend – Event tracking and routing for solo founders and SaaS teams",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://eventsend.io/",
+        "discovered_at": "2026-09-30"
     },
     {
         "name": "Exactonce",
@@ -107121,6 +107231,16 @@
         "cors": "unknown",
         "url": "https://restarted.io/",
         "discovered_at": "2026-09-16"
+    },
+    {
+        "name": "Resterm",
+        "description": "Show HN: Resterm - A terminal-based REST, GraphQL and gRPC client",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://resterm.app/",
+        "discovered_at": "2026-09-30"
     },
     {
         "name": "Restofworld",
@@ -116536,6 +116656,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Ledge",
+        "description": "Show HN: Ledge.sh – Runnable Markdown Notes",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ledge.sh",
+        "discovered_at": "2026-09-30"
+    },
+    {
         "name": "LemmeBuyIt",
         "description": "Your ultimate destination for savvy online shopping! Sifting for deals on the internet has never been easier. Our platform brings together an expansive collection of over 3,500 product catalogs from..",
         "category": "Productivity",
@@ -121577,6 +121707,16 @@
         "cors": "unknown",
         "url": "https://shzlw.github.io/windrunner/",
         "discovered_at": "2026-09-03"
+    },
+    {
+        "name": "Spacenews",
+        "description": "Astroforge will fly a spacecraft autonomously using AI next year",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://spacenews.com/astroforge-to-test-full-spacecraft-autonomy-using-ai/",
+        "discovered_at": "2026-09-30"
     },
     {
         "name": "SpaceX",
