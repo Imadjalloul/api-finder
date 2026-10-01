@@ -370,6 +370,16 @@
         "discovered_at": "2026-07-17"
     },
     {
+        "name": "Ai-news-site-cyan",
+        "description": "PSSA: A non-transformer language model written from scratch in Rust",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ai-news-site-cyan.vercel.app/articles/2026-09-30-pssa-a-non-transformer-language-model-written-from-scratch-i",
+        "discovered_at": "2026-10-01"
+    },
+    {
         "name": "Ai-olympics",
         "description": "Show HN: AI Olympics – Claude vs. GPT-4 vs. Gemini in live browser competitions",
         "category": "AI & Machine Learning",
@@ -1998,6 +2008,16 @@
         "discovered_at": "2026-04-30"
     },
     {
+        "name": "Datastory",
+        "description": "Show HN: Datastory, Data storytelling with AI and an open knowledge graph",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.datastory.tech",
+        "discovered_at": "2026-10-01"
+    },
+    {
         "name": "Davidmello",
         "description": "AI in Test Automation: Real Limitations vs. User Error",
         "category": "AI & Machine Learning",
@@ -3053,6 +3073,16 @@
         "cors": "unknown",
         "url": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom",
         "discovered_at": "2026-08-27"
+    },
+    {
+        "name": "Growth",
+        "description": "Growth.engineer – Vetted, open-source growth workflows for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.growth.engineer",
+        "discovered_at": "2026-10-01"
     },
     {
         "name": "Growtics",
@@ -5552,6 +5582,16 @@
         "discovered_at": "2026-09-11"
     },
     {
+        "name": "Quiet-hci",
+        "description": "Show HN: Quiet – exploring when an AI assistant should intervene",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://quiet-hci.pages.dev",
+        "discovered_at": "2026-10-01"
+    },
+    {
         "name": "Quippd",
         "description": "AI Code Is Hollowing Out Open Source, and Maintainers Are Looking the Other Way",
         "category": "AI & Machine Learning",
@@ -5710,6 +5750,16 @@
         "cors": "unknown",
         "url": "https://regadvisor.co.uk/",
         "discovered_at": "2026-05-08"
+    },
+    {
+        "name": "Relayevals",
+        "description": "Show HN: Relay – a harness for AI coding agents that recover and verify",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://relayevals.com",
+        "discovered_at": "2026-10-01"
     },
     {
         "name": "Remove-anything",
@@ -12022,6 +12072,16 @@
         "cors": "unknown",
         "url": "https://btcwid.com",
         "discovered_at": "2026-05-02"
+    },
+    {
+        "name": "Burning-tokens",
+        "description": "Show HN: Burning Man for Agents",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://burning-tokens.transitivebullsh.it/",
+        "discovered_at": "2026-10-01"
     },
     {
         "name": "Chaingenius",
@@ -20617,6 +20677,16 @@
         "cors": "unknown",
         "url": "https://tabmail.ai/",
         "discovered_at": "2026-09-17"
+    },
+    {
+        "name": "Tabx",
+        "description": "Show HN: TabX – recall closed Chrome tabs by meaning",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.tabx.dev",
+        "discovered_at": "2026-10-01"
     },
     {
         "name": "Tempo-checker",
@@ -41465,6 +41535,16 @@
         "cors": "unknown",
         "url": "https://apify.com/expanditumarca/reverse-phone-business",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Rhubarbviz",
+        "description": "Show HN: Rhubarb – build, edit, publish custom JavaScript/D3 data visualizations",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rhubarbviz.com/try?launch=1",
+        "discovered_at": "2026-10-01"
     },
     {
         "name": "Ricardo.ch Scraper",
@@ -83581,6 +83661,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Web-production-4f6f5",
+        "description": "Show HN: Overboard – Mac agent orchestrator with ship captains that spawn agents",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://web-production-4f6f5.up.railway.app/",
+        "discovered_at": "2026-10-01"
+    },
+    {
         "name": "Webround",
         "description": "Show HN: Webround - an API-first e-commerce platform",
         "category": "E-Commerce",
@@ -90724,6 +90814,16 @@
         "discovered_at": "2026-08-06"
     },
     {
+        "name": "Cizambra",
+        "description": "Show HN: Kyno – Direction as a first-class primitive for AI agents",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cizambra.github.io/kyno/",
+        "discovered_at": "2026-10-01"
+    },
+    {
         "name": "Conviva",
         "description": "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
         "category": "Maps & Transport",
@@ -91148,6 +91248,16 @@
         "cors": "unknown",
         "url": "https://simianwords.bearblog.dev/ai-can-fix-the-fragmented-online-public-transport-space/",
         "discovered_at": "2026-05-18"
+    },
+    {
+        "name": "Ssgoi",
+        "description": "Show HN: Ssgoi – Native app-like page transitions for mobile web",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ssgoi.dev",
+        "discovered_at": "2026-10-01"
     },
     {
         "name": "Stashbase",
@@ -92962,6 +93072,16 @@
         "cors": "unknown",
         "url": "https://www.statnews.com/2026/09/17/biotech-news-ariadne-testing-psychedelic-like-drug-parkinsons-apathy/",
         "discovered_at": "2026-09-21"
+    },
+    {
+        "name": "Strata",
+        "description": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://strata.do/",
+        "discovered_at": "2026-10-01"
     },
     {
         "name": "The Guardian",
@@ -96773,6 +96893,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Apiaxess",
+        "description": "Show HN: I built a free Burp/Caido alternative but, zero setup - API Testing",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apiaxess.dev",
+        "discovered_at": "2026-10-01"
+    },
+    {
         "name": "Apigen",
         "description": "Show HN: APIgen – Generate Fusio REST APIs and Angular UIs from TypeSchema",
         "category": "Other",
@@ -97103,6 +97233,16 @@
         "discovered_at": "2026-08-07"
     },
     {
+        "name": "Askwatch",
+        "description": "Show HN: Hosted MCP Server for Google Search Console",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://askwatch.ai/free-tools/google-search-console-mcp",
+        "discovered_at": "2026-10-01"
+    },
+    {
         "name": "Asm-editor",
         "description": "Show HN: A browser IDE for m68000, Z80 assembly (and more), with graphics",
         "category": "Other",
@@ -97141,6 +97281,16 @@
         "cors": "unknown",
         "url": "https://www.asthi.app/",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "At0m",
+        "description": "Show HN: AT0M – a Jev Like System One decision model in a single Rust binary",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://at0m.pienomial.com/",
+        "discovered_at": "2026-10-01"
     },
     {
         "name": "At4klauncher",
@@ -98561,6 +98711,16 @@
         "cors": "unknown",
         "url": "https://claudes-challenge.vercel.app",
         "discovered_at": "2026-06-11"
+    },
+    {
+        "name": "Cleanup",
+        "description": "Show HN: Inbox Cleanup – get to inbox zero in Gmail",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cleanup.upstream.do/",
+        "discovered_at": "2026-10-01"
     },
     {
         "name": "Clearlogo",
@@ -100083,6 +100243,16 @@
         "discovered_at": "2026-04-27"
     },
     {
+        "name": "Edacrux",
+        "description": "Open Source EDACrux EDA Toolchain Now at 1.0",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://edacrux.app/",
+        "discovered_at": "2026-10-01"
+    },
+    {
         "name": "Edgarkit",
         "description": "Show HN: EdgarKit – a real-time JSON API for SEC EDGAR filings",
         "category": "Other",
@@ -101551,6 +101721,16 @@
         "cors": "unknown",
         "url": "https://glucera.app/",
         "discovered_at": "2026-05-04"
+    },
+    {
+        "name": "Glyp",
+        "description": "Show HN: GLYP – A shared canvas you can draw on via SSH",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://glyp.online/",
+        "discovered_at": "2026-10-01"
     },
     {
         "name": "Glypho",
@@ -104033,6 +104213,16 @@
         "discovered_at": "2026-03-02"
     },
     {
+        "name": "Maverank",
+        "description": "Show HN: Maverank, a free AI-readiness check for your website",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://maverank.com/tools/ai-visibility-checker",
+        "discovered_at": "2026-10-01"
+    },
+    {
         "name": "Maxcred",
         "description": "Show HN: Maxcred – app to maximise your credit card rewards",
         "category": "Other",
@@ -104261,6 +104451,16 @@
         "cors": "unknown",
         "url": "https://www.midjourney-api.com",
         "discovered_at": "2026-09-06"
+    },
+    {
+        "name": "Midscenejs",
+        "description": "By far the best QA automation tool for iOS app?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://midscenejs.com/",
+        "discovered_at": "2026-10-01"
     },
     {
         "name": "Mightydash",
@@ -105223,6 +105423,16 @@
         "discovered_at": "2026-09-03"
     },
     {
+        "name": "Octostudio",
+        "description": "Octostudio – A free mobile coding app made by the creators of Scratch",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://octostudio.org/",
+        "discovered_at": "2026-10-01"
+    },
+    {
         "name": "Ocw",
         "description": "Synthetic Aperture Radar (SAR) Imaging Using the MIT Laptop Based Radar (2011)",
         "category": "Other",
@@ -105461,6 +105671,16 @@
         "cors": "unknown",
         "url": "https://openox.ai/",
         "discovered_at": "2026-09-24"
+    },
+    {
+        "name": "Openparrot",
+        "description": "Show HN: Parrot – Open-Source Smart Meeting Recorder with Co-Pilot on Mac",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://openparrot.app",
+        "discovered_at": "2026-10-01"
     },
     {
         "name": "Openparser",
@@ -105771,6 +105991,16 @@
         "cors": "unknown",
         "url": "https://pacwich.dev",
         "discovered_at": "2026-07-23"
+    },
+    {
+        "name": "Paintlustrator",
+        "description": "Show HN: Paintlustrator – a free iPad app to draw and export SVGs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.paintlustrator.fun",
+        "discovered_at": "2026-10-01"
     },
     {
         "name": "Panavy",
@@ -110881,6 +111111,16 @@
         "cors": "unknown",
         "url": "https://wohnortatlas.de/",
         "discovered_at": "2026-07-02"
+    },
+    {
+        "name": "Wolfgirl",
+        "description": "Pining for Arc Downcasting in Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/",
+        "discovered_at": "2026-10-01"
     },
     {
         "name": "Woo",
@@ -123229,6 +123469,16 @@
         "url": "https://www.reddit.com/dev/api/"
     },
     {
+        "name": "Reportr",
+        "description": "Show HN: Beyond \"chat with your database\" – agentic data exploration",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://reportr.com/",
+        "discovered_at": "2026-10-01"
+    },
+    {
         "name": "Robss2020",
         "description": "Show HN: See how long it takes ChatGPT Sol 5.6 to send a byte across the LAN",
         "category": "Social",
@@ -126058,6 +126308,16 @@
         "discovered_at": "2026-03-03"
     },
     {
+        "name": "Hsights-1",
+        "description": "Show HN: Games that test if you can beat randomness in the market.",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hsights-1.onrender.com/",
+        "discovered_at": "2026-10-01"
+    },
+    {
         "name": "Imagerry",
         "description": "Show HN: Imagerry – client-side image customizer and converter (WASM / WebGPU)",
         "category": "Utilities",
@@ -126441,6 +126701,16 @@
         "cors": "unknown",
         "url": "https://www.aswf.io/news/moonray-dreamworks-animations-open-source-production-renderer-joins-the-academy-software-foundation/",
         "discovered_at": "2026-05-21"
+    },
+    {
+        "name": "Audiodrop",
+        "description": "Show HN: Stem splitting and audio conversion running in-browser with Rust/WASM",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.audiodrop.app/",
+        "discovered_at": "2026-10-01"
     },
     {
         "name": "Audioeditor",
