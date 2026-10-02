@@ -1540,6 +1540,16 @@
         "discovered_at": "2026-05-02"
     },
     {
+        "name": "Call4",
+        "description": "Show HN: Call4me, an AI agent that handles phone calls for you",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://call4.me/",
+        "discovered_at": "2026-10-02"
+    },
+    {
         "name": "Calyxa",
         "description": "Show HN: Calyxa – Browser Native AI tutor solving the \"cheating\" problem",
         "category": "AI & Machine Learning",
@@ -2045,6 +2055,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.deepl.com/docs-api"
+    },
+    {
+        "name": "Deepsense",
+        "description": "Show HN: A practical AI Evaluation pattern",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://deepsense.ai/blog/the-top-scoring-model-is-not-always-the-best-production-choice-how-to-evaluate-ai-systems-beyond-public-benchmarks/",
+        "discovered_at": "2026-10-02"
     },
     {
         "name": "Deftwriting",
@@ -20119,6 +20139,16 @@
         "cors": "unknown",
         "url": "https://hail.so/",
         "discovered_at": "2026-06-30"
+    },
+    {
+        "name": "Helohq",
+        "description": "Show HN: Helo – An email API from former Postmark folks",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.helohq.com",
+        "discovered_at": "2026-10-02"
     },
     {
         "name": "Int21",
@@ -65316,6 +65346,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Rhun",
+        "description": "Show HN: Rhun, an open-source code editor written in assembly",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rhun.app/",
+        "discovered_at": "2026-10-02"
+    },
+    {
         "name": "Ricardo Product Details Scraper",
         "description": "Unlock comprehensive product data from Switzerland's leading online marketplace ricardo.ch. This powerful scraper extracts detailed product information including prices, seller details, delivery...",
         "category": "Development",
@@ -86917,6 +86957,16 @@
         "discovered_at": "2026-04-06"
     },
     {
+        "name": "Neurodual",
+        "description": "Show HN: NeuroDual – Brain-training games with five guided paths",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://neurodual.com/app",
+        "discovered_at": "2026-10-02"
+    },
+    {
         "name": "Neuviemeporte",
         "description": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
         "category": "Entertainment",
@@ -87163,6 +87213,16 @@
         "cors": "unknown",
         "url": "https://scoragora.com/",
         "discovered_at": "2026-06-09"
+    },
+    {
+        "name": "Shootsolo",
+        "description": "Show HN: Shootsolo – a free camera app for filming yourself without a crew",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://shootsolo.com/",
+        "discovered_at": "2026-10-02"
     },
     {
         "name": "Showcount",
@@ -92217,6 +92277,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/RumbleDiscovery/rumble-api/main/rumble-api.yml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "A-century-compressed",
+        "description": "Show HN: A look at the last 100 years of innovation",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://a-century-compressed.vercel.app/",
+        "discovered_at": "2026-10-02"
     },
     {
         "name": "Agentready",
@@ -100483,6 +100553,16 @@
         "discovered_at": "2026-04-28"
     },
     {
+        "name": "Eric-frost",
+        "description": "Show HN: Solarite – web components with no compilation and minimal DOM updates",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://eric-frost.github.io/solarite/",
+        "discovered_at": "2026-10-02"
+    },
+    {
         "name": "Erwindegroot",
         "description": "Show HN: Fractalysis – Online interactive infinite-zoom Mandelbrot viewer",
         "category": "Other",
@@ -101253,6 +101333,16 @@
         "discovered_at": "2026-08-12"
     },
     {
+        "name": "Fumble",
+        "description": "Show HN: Fumble – keybr, but it learns from everything you type (macOS)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fumble.alexmcconnell.ie",
+        "discovered_at": "2026-10-02"
+    },
+    {
         "name": "Fusor",
         "description": "Show HN: Fusor – Like Vue, but the logic is Rust",
         "category": "Other",
@@ -101881,6 +101971,16 @@
         "cors": "unknown",
         "url": "https://gridpath.dev/",
         "discovered_at": "2026-05-28"
+    },
+    {
+        "name": "Grist",
+        "description": "Show HN: Grist, open source coding harness",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://grist.lol/",
+        "discovered_at": "2026-10-02"
     },
     {
         "name": "Grooved",
@@ -102621,6 +102721,16 @@
         "cors": "unknown",
         "url": "https://inkspan.dev",
         "discovered_at": "2026-07-30"
+    },
+    {
+        "name": "Innerloop",
+        "description": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://innerloop.works/breadcrumb",
+        "discovered_at": "2026-10-02"
     },
     {
         "name": "Insidehighered",
@@ -103661,6 +103771,16 @@
         "cors": "unknown",
         "url": "https://lmaomoba.com",
         "discovered_at": "2026-06-03"
+    },
+    {
+        "name": "Local",
+        "description": "Show HN: Run Google DataProc cluster on your local",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://local.cloud/blog/run-dataproc-locally-docker/",
+        "discovered_at": "2026-10-02"
     },
     {
         "name": "Lockwood",
@@ -108053,6 +108173,16 @@
         "discovered_at": "2026-08-05"
     },
     {
+        "name": "Search",
+        "description": "Show HN: Web search engine built from the CommonCrawl corpus",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://search.xorsoft.dev/",
+        "discovered_at": "2026-10-02"
+    },
+    {
         "name": "Searchcue",
         "description": "Show HN: SearchCue",
         "category": "Other",
@@ -110581,6 +110711,16 @@
         "cors": "unknown",
         "url": "https://vending-machine-lab.pages.dev/",
         "discovered_at": "2026-09-17"
+    },
+    {
+        "name": "Vercel",
+        "description": "Free hosted API for Laya, the open-weight decision model",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vercel.com/ai-gateway/models/laya",
+        "discovered_at": "2026-10-02"
     },
     {
         "name": "Vertexapp",
@@ -122645,6 +122785,16 @@
         "discovered_at": "2026-06-16"
     },
     {
+        "name": "Lawfare",
+        "description": "Lawfare: Free, calm replies to threatening letters and debt demands",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lawfare.app/",
+        "discovered_at": "2026-10-02"
+    },
+    {
         "name": "Leaderboard",
         "description": "Show HN: AI Security Leaderboard – comparing cyber and CBRN safeguards",
         "category": "Security",
@@ -123209,6 +123359,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://discord.com/developers/docs/intro"
+    },
+    {
+        "name": "Dotbotdirectory",
+        "description": "Show HN: I built a directory to set up ChatGPT's always-on agents in one paste",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dotbotdirectory.com",
+        "discovered_at": "2026-10-02"
     },
     {
         "name": "Earde",
