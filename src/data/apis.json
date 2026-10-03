@@ -4683,6 +4683,16 @@
         "discovered_at": "2026-03-03"
     },
     {
+        "name": "Nisuform",
+        "description": "Show HN: Beautiful form back end for AI agents – Nisuform",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nisuform.com/",
+        "discovered_at": "2026-10-03"
+    },
+    {
         "name": "Nitpicker",
         "description": "Show HN: Nitpicler. I was quoted $1M for AI PR review – so I bulit it myself",
         "category": "AI & Machine Learning",
@@ -6490,6 +6500,16 @@
         "discovered_at": "2026-08-06"
     },
     {
+        "name": "Starskirmish",
+        "description": "Show HN: GPT-6 Astra and Claude 5.5 Opus race to create the best StarCraft bot",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://starskirmish.com/hillclimb/",
+        "discovered_at": "2026-10-03"
+    },
+    {
         "name": "Stillmade",
         "description": "Show HN: StillMade – Programmable AI video pipeline; Chat to video (now)",
         "category": "AI & Machine Learning",
@@ -7287,6 +7307,16 @@
         "cors": "unknown",
         "url": "https://www.uptimelabs.io/articles/incident-response-ai",
         "discovered_at": "2026-08-08"
+    },
+    {
+        "name": "Usageatlas",
+        "description": "Show HN: UsageAtlas(OSS), All your AI coding usage insights. One beautiful view",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://usageatlas.com",
+        "discovered_at": "2026-10-03"
     },
     {
         "name": "Usecomposer",
@@ -12661,6 +12691,16 @@
         "discovered_at": "2026-03-22"
     },
     {
+        "name": "Bookidoro",
+        "description": "Show HN: 78,000 free books to my \"Pomodoro for books\" Mac app",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bookidoro.app/",
+        "discovered_at": "2026-10-03"
+    },
+    {
         "name": "Booklike",
         "description": "Show HN: BookLike – Chrome reader mode with eBook-style page flips",
         "category": "Books",
@@ -13225,6 +13265,16 @@
         "cors": "unknown",
         "url": "https://staythere.ai/",
         "discovered_at": "2026-07-04"
+    },
+    {
+        "name": "Syngrafi",
+        "description": "Free site for reading and comparing religious texts",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://syngrafi.vercel.app/",
+        "discovered_at": "2026-10-03"
     },
     {
         "name": "Tape-music-hub",
@@ -19211,6 +19261,16 @@
         "cors": "unknown",
         "url": "https://nodecartel.com/",
         "discovered_at": "2026-06-01"
+    },
+    {
+        "name": "Noite",
+        "description": "Show HN: Noite – Enjoy Most of Cloudflare Worker APIs on Your Potato VPS",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://noite.now/",
+        "discovered_at": "2026-10-03"
     },
     {
         "name": "Notebooker",
@@ -51995,6 +52055,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/amadeus4dev/amadeus-open-api-specification/main/spec/json/AirportOnTimePerformance_v1_swagger_specification.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Aistockwire",
+        "description": "DeepSeek open sourced their Huawei Ascend programming stack",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aistockwire.com/blog/deepseek-huawei-ascend-tilelang-open-source-nvidia-nvda-cuda-september-2026",
+        "discovered_at": "2026-10-03"
     },
     {
         "name": "Ajio Product Scraper",
@@ -85471,6 +85541,16 @@
         "discovered_at": "2026-05-15"
     },
     {
+        "name": "Taskrouter",
+        "description": "Show HN: Taskrouter – One API Learning to Choose Models per AI Task",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://taskrouter.com",
+        "discovered_at": "2026-10-03"
+    },
+    {
         "name": "Tesoro",
         "description": "Show HN: Tesoro.help – rogue AI helpdesk for my kid's high school",
         "category": "Education",
@@ -96683,6 +96763,16 @@
         "discovered_at": "2026-06-07"
     },
     {
+        "name": "Algomaya",
+        "description": "Show HN: Algomaya – Paper trading and algo trading simulator for beginners",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.algomaya.com",
+        "discovered_at": "2026-10-03"
+    },
+    {
         "name": "Algorithmicfire",
         "description": "Show HN: Drawdown-protected custom FIRE portfolios with API for rebalance alerts",
         "category": "Other",
@@ -98601,6 +98691,16 @@
         "cors": "unknown",
         "url": "https://celesto.ai/blog/posts/smolvm/windows-sandboxes/",
         "discovered_at": "2026-05-27"
+    },
+    {
+        "name": "Certscope",
+        "description": "Show HN: CertScope, which CPSC rules apply to your SKU, free wizard",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://certscope.thecompound.tech",
+        "discovered_at": "2026-10-03"
     },
     {
         "name": "Chainguard",
@@ -103273,6 +103373,16 @@
         "discovered_at": "2026-06-07"
     },
     {
+        "name": "Kevinold",
+        "description": "Maintaining wait-on at agent speed: AI, NPM supply-chain risk, and a Rust engine",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.kevinold.com/blog/a-week-maintaining-wait-on",
+        "discovered_at": "2026-10-03"
+    },
+    {
         "name": "Kinetk",
         "description": "Show HN: Kinetk – Multimodal intelligence API and MCP for grounding agents",
         "category": "Other",
@@ -105873,6 +105983,16 @@
         "discovered_at": "2026-06-13"
     },
     {
+        "name": "Opensource",
+        "description": "Show HN: Open-Source M&A Tools",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://opensource.mainstreetwealth.ai",
+        "discovered_at": "2026-10-03"
+    },
+    {
         "name": "Opentrailpaper",
         "description": "Show HN: Open-Source eInk Bike Computer",
         "category": "Other",
@@ -106601,6 +106721,16 @@
         "cors": "unknown",
         "url": "https://polypane.app/blog/the-intl-api-the-best-browser-api-youre-not-using/",
         "discovered_at": "2026-04-10"
+    },
+    {
+        "name": "Portus-gateway",
+        "description": "Show HN: Portus, A Rust Based API/AI/MCP Gateway",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://portus-gateway.dev/",
+        "discovered_at": "2026-10-03"
     },
     {
         "name": "Postgres",
@@ -108483,6 +108613,16 @@
         "discovered_at": "2026-04-16"
     },
     {
+        "name": "Sidekins",
+        "description": "Show HN: Sidekins – a Mac companion that visits friends and does your work",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.sidekins.com",
+        "discovered_at": "2026-10-03"
+    },
+    {
         "name": "Sidequick",
         "description": "SideQuick – A free desktop app to stop abandoning side projects",
         "category": "Other",
@@ -109631,6 +109771,16 @@
         "cors": "unknown",
         "url": "https://telemetry-tracker.com",
         "discovered_at": "2026-07-08"
+    },
+    {
+        "name": "Television",
+        "description": "Show HN: Television – an open source GUI for your agent harness",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://television.run/",
+        "discovered_at": "2026-10-03"
     },
     {
         "name": "Telnyx",
@@ -111203,6 +111353,16 @@
         "discovered_at": "2026-09-21"
     },
     {
+        "name": "Wirehead",
+        "description": "The Saw Test",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wirehead.agency/",
+        "discovered_at": "2026-10-03"
+    },
+    {
         "name": "Wirespan",
         "description": "Show HN: Wirespan, a daily power grid optimization puzzle I made for my son",
         "category": "Other",
@@ -111491,6 +111651,16 @@
         "cors": "unknown",
         "url": "https://yoggimix.bearblog.dev/elm-rust-and-webgl-in-one-app/",
         "discovered_at": "2026-09-13"
+    },
+    {
+        "name": "Zebu",
+        "description": "Show HN: Zebu - time tracking/invoicing for freelancers and small teams",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://zebu.work/",
+        "discovered_at": "2026-10-03"
     },
     {
         "name": "Zerofs",
@@ -121663,6 +121833,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Againstallodds",
+        "description": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://againstallodds.games/",
+        "discovered_at": "2026-10-03"
+    },
+    {
         "name": "Algohol",
         "description": "Show HN: I made an algorithmic arena game with physics in 3D",
         "category": "Science",
@@ -125830,6 +126010,16 @@
         "discovered_at": "2026-05-06"
     },
     {
+        "name": "Usekeel",
+        "description": "Show HN: Keel – Give your agent a typed strategy language, not a trading account",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://usekeel.io/how-it-works",
+        "discovered_at": "2026-10-03"
+    },
+    {
         "name": "Usesesame",
         "description": "Show HN: Sesame - a local-first, open-source password manager",
         "category": "Text & Language",
@@ -127956,6 +128146,16 @@
         "cors": "unknown",
         "url": "https://brolly.sh/forecast/RWFP2qW8",
         "discovered_at": "2026-07-26"
+    },
+    {
+        "name": "Climatology",
+        "description": "Might be the best place to check your weather",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://climatology.app/",
+        "discovered_at": "2026-10-03"
     },
     {
         "name": "Consgicody-asos-tools",
