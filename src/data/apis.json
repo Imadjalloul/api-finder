@@ -1010,6 +1010,16 @@
         "discovered_at": "2026-04-03"
     },
     {
+        "name": "Aquarium",
+        "description": "Show HN: Four LLMs play 20 questions for real money, live",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aquarium.money/twenty",
+        "discovered_at": "2026-10-04"
+    },
+    {
         "name": "Arc-agi-swarm",
         "description": "Show HN: Launch an AI agent swarm for ARC-AGI-3 with plain-English prompts",
         "category": "AI & Machine Learning",
@@ -12719,6 +12729,16 @@
         "cors": "unknown",
         "url": "https://booksfromgreats.com/manifesto",
         "discovered_at": "2026-06-26"
+    },
+    {
+        "name": "Callchatsyn",
+        "description": "Show HN: A free FAQ and appointment booking API for small businesses",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://callchatsyn.com/developers",
+        "discovered_at": "2026-10-04"
     },
     {
         "name": "Cambridge",
@@ -58385,6 +58405,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Git",
+        "description": "Show HN: Focus Tool for ADHD",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://git.talksik.com/FlowyLabs/adhd",
+        "discovered_at": "2026-10-04"
+    },
+    {
         "name": "Gitagent",
         "description": "Show HN: GitAgent – Clone a repo, get an AI agent – Claude Code / OpenClaw",
         "category": "Development",
@@ -77285,6 +77315,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Kanmaps",
+        "description": "Show HN: Kanmaps – Product roadmaps like videogame skill trees",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kanmaps.com/show",
+        "discovered_at": "2026-10-04"
+    },
+    {
         "name": "Katy Perry Collections Scraper",
         "description": "Scrape Katy Perry Collections and extract data on footwear from katyperrycollections.com. Our Katy Perry Collections API lets you crawl product information and pricing. The saved data can be...",
         "category": "E-Commerce",
@@ -81011,6 +81051,16 @@
         "cors": "unknown",
         "url": "https://apify.com/m.sasahara/qoo10-reviews-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Screenshot-api-production-ffd7",
+        "description": "Show HN: Screenshot Happy – screenshot/PDF API with visual-change monitoring",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://screenshot-api-production-ffd7.up.railway.app/",
+        "discovered_at": "2026-10-04"
     },
     {
         "name": "Search By Image Aliexpress",
@@ -98543,6 +98593,16 @@
         "discovered_at": "2026-07-30"
     },
     {
+        "name": "Cachev",
+        "description": "Show HN: An intelligent cache for decision model data",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cachev.dev/",
+        "discovered_at": "2026-10-04"
+    },
+    {
         "name": "Cacm",
         "description": "Unpacking Open Source AI: Toward a Framework for Openness in Foundation Models",
         "category": "Other",
@@ -98711,6 +98771,16 @@
         "cors": "unknown",
         "url": "https://www.chainguard.dev/unchained/open-source-died-in-march-it-just-doesnt-know-it-yet",
         "discovered_at": "2026-04-12"
+    },
+    {
+        "name": "Chaosdata",
+        "description": "Show HN: ChaosData – Chaotic data that fits your schema",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://chaosdata.net/",
+        "discovered_at": "2026-10-04"
     },
     {
         "name": "Chappie",
@@ -104483,6 +104553,16 @@
         "discovered_at": "2026-06-18"
     },
     {
+        "name": "Mckinleysymbols",
+        "description": "Show HN: McKinley – vector editor for SF Symbols (Mac app)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mckinleysymbols.com/",
+        "discovered_at": "2026-10-04"
+    },
+    {
         "name": "Mcpfinder",
         "description": "Show HN: MCPfinder – An MCP server that finds and installs other MCP servers",
         "category": "Other",
@@ -104871,6 +104951,16 @@
         "cors": "unknown",
         "url": "https://www.modeloop.app/",
         "discovered_at": "2026-06-03"
+    },
+    {
+        "name": "Modrent",
+        "description": "Show HN: Modrent Minecraft Hosting",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://modrent.app",
+        "discovered_at": "2026-10-04"
     },
     {
         "name": "Mohamedrashard",
@@ -110051,6 +110141,16 @@
         "cors": "unknown",
         "url": "https://www.thisispaper.com/intelligence/api-docs",
         "discovered_at": "2026-07-24"
+    },
+    {
+        "name": "Thoreaubasic",
+        "description": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thoreaubasic.com/",
+        "discovered_at": "2026-10-04"
     },
     {
         "name": "Thuki",
@@ -123132,6 +123232,16 @@
         "cors": "unknown",
         "url": "https://shoofly.dev/",
         "discovered_at": "2026-03-29"
+    },
+    {
+        "name": "Slack",
+        "description": "From SSH to REST: A Security-Driven Modernization of Slack's EMR Data Pipelines",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://slack.engineering/from-ssh-to-rest-a-security-driven-modernization-of-slacks-emr-data-pipelines/",
+        "discovered_at": "2026-10-04"
     },
     {
         "name": "Stellastra",
