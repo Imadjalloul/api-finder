@@ -90,6 +90,16 @@
         "discovered_at": "2026-05-15"
     },
     {
+        "name": "9to5google",
+        "description": "Gemini app limiting what models free and AI Plus users can access",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/",
+        "discovered_at": "2026-10-05"
+    },
+    {
         "name": "A0flow",
         "description": "Show HN: a0flow — paid micro-APIs for AI agents, x402/USDC, no signup",
         "category": "AI & Machine Learning",
@@ -960,6 +970,16 @@
         "discovered_at": "2026-09-24"
     },
     {
+        "name": "App",
+        "description": "Show HN: Svetoviz - A browser for public machine learning datasets",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.svetoviz.com/",
+        "discovered_at": "2026-10-05"
+    },
+    {
         "name": "Apply-tracker",
         "description": "Apply Tracker, Free AI CV, Cover Letter and Job Tracker",
         "category": "AI & Machine Learning",
@@ -1678,6 +1698,16 @@
         "cors": "unknown",
         "url": "https://chonklm.com",
         "discovered_at": "2026-05-10"
+    },
+    {
+        "name": "Clanker-church",
+        "description": "The Saw Test – Live LLM Torture Chamber",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://clanker-church.vercel.app",
+        "discovered_at": "2026-10-05"
     },
     {
         "name": "Clarifai",
@@ -3103,6 +3133,16 @@
         "cors": "unknown",
         "url": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom",
         "discovered_at": "2026-08-27"
+    },
+    {
+        "name": "Groundcover",
+        "description": "Open source didn't get less important because AI can write the code",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.groundcover.com/blog/open-source-ai-naor-peled",
+        "discovered_at": "2026-10-05"
     },
     {
         "name": "Growth",
@@ -11898,6 +11938,16 @@
         "discovered_at": "2026-03-23"
     },
     {
+        "name": "Phonebook",
+        "description": "Show HN: Make Claude Code sessions talk to each other",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://phonebook.dev/",
+        "discovered_at": "2026-10-05"
+    },
+    {
         "name": "Scissor",
         "description": "Show HN: Free alternative to graphics design giants",
         "category": "Auth & Identity",
@@ -12320,6 +12370,16 @@
         "cors": "unknown",
         "url": "https://modelhub-api.com",
         "discovered_at": "2026-06-08"
+    },
+    {
+        "name": "Moochy",
+        "description": "Donate AI Tokens for Open Source Projects",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://moochy.dev",
+        "discovered_at": "2026-10-05"
     },
     {
         "name": "Nilbox",
@@ -20430,6 +20490,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Mistis",
+        "description": "Show HN: Mistis – a decoupled, E2EE protocol for mid-call user authentication",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mistis.tech",
+        "discovered_at": "2026-10-05"
+    },
+    {
         "name": "Mocca",
         "description": "Show HN: Mocca – A Mac email client powered by local AI",
         "category": "Communication",
@@ -28225,6 +28295,16 @@
         "cors": "unknown",
         "url": "https://apify.com/pintostudio/espn-nba-news",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Estimatemyx",
+        "description": "Show HN: A tool which estimates X statistics",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://estimatemyx.com/",
+        "discovered_at": "2026-10-05"
     },
     {
         "name": "Etsy B2B Email Scraper",
@@ -39507,6 +39587,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Orrery",
+        "description": "Show HN: Orrery, a Three.js solar system visualization powered by real NAIF data",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://orrery.ryboso.me/",
+        "discovered_at": "2026-10-05"
+    },
+    {
         "name": "Otodom.PL Scraper &#124; Fast & Reliable &#124; $5 / 1k",
         "description": "Scrapes detailed real estate listings from Poland's leading real estate marketplace Otodom.pl.  It extracts price, area (sqm), rooms, address breakdown, images, and more. Give out clean data for...",
         "category": "Data & Analytics",
@@ -41645,6 +41735,16 @@
         "cors": "unknown",
         "url": "https://apify.com/expanditumarca/reverse-phone-business",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Revscope",
+        "description": "Show HN: Web Analytics Focused on Revenue",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://revscope.co/demo/",
+        "discovered_at": "2026-10-05"
     },
     {
         "name": "Rhubarbviz",
@@ -53765,6 +53865,16 @@
         "cors": "unknown",
         "url": "https://apify.com/lexis-solutions/booli-se-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Borehole",
+        "description": "Show HN: Borehole – acquisition tech due diligence from a repo's Git history",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://borehole.dev/",
+        "discovered_at": "2026-10-05"
     },
     {
         "name": "Bouncefresh Parser Spider",
@@ -77565,6 +77675,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Knowledgeisuserdata",
+        "description": "Background Passive FTP with No GUI Control Survives Apple Store DFU",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://knowledgeisuserdata.medium.com/passive-ftp-enabled-on-macbook-after-apple-store-reset-and-other-observations-ac8573069e5d",
+        "discovered_at": "2026-10-05"
+    },
+    {
         "name": "KPrepublic Global Scraper",
         "description": "Scrape KPrepublic Global and extract data on consumer electronics from kprepublic.com. Our KPrepublic Global API lets you crawl product information and pricing. The saved data can be downloaded as...",
         "category": "E-Commerce",
@@ -85569,6 +85689,16 @@
         "cors": "unknown",
         "url": "https://www.scibly.com/de/",
         "discovered_at": "2026-08-21"
+    },
+    {
+        "name": "Scimigo",
+        "description": "Show HN: Build with Python – a beginner course where your code draws",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
+        "discovered_at": "2026-10-05"
     },
     {
         "name": "Steadcast",
@@ -99513,6 +99643,16 @@
         "discovered_at": "2026-08-04"
     },
     {
+        "name": "Cubbycad",
+        "description": "Show HN: A complete web build of OrcaSlicer for 3D printing",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cubbycad.com/slicer/",
+        "discovered_at": "2026-10-05"
+    },
+    {
         "name": "Curl",
         "description": "Show HN: Curl.md – URL to Markdown for Agents",
         "category": "Other",
@@ -101661,6 +101801,16 @@
         "cors": "unknown",
         "url": "https://getaivo.dev/",
         "discovered_at": "2026-04-25"
+    },
+    {
+        "name": "Getartcraft",
+        "description": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getartcraft.com/apps",
+        "discovered_at": "2026-10-05"
     },
     {
         "name": "Getbrainstorm",
@@ -107603,6 +107753,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Redactpdf",
+        "description": "Show HN: Redactpdf.ai: Open-source AI-based PDF redaction tool",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://redactpdf.ai",
+        "discovered_at": "2026-10-05"
+    },
+    {
         "name": "Redflag-check",
         "description": "Show HN: I built a Red Flag Warning zone-check tool for the East Bay in 48h",
         "category": "Other",
@@ -107771,6 +107931,16 @@
         "cors": "unknown",
         "url": "https://repscontact.com/",
         "discovered_at": "2026-04-17"
+    },
+    {
+        "name": "Reright",
+        "description": "Show HN: Reright.it – Human approval for agent-written text",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://reright.it/",
+        "discovered_at": "2026-10-05"
     },
     {
         "name": "Research",
@@ -108653,6 +108823,16 @@
         "discovered_at": "2026-06-18"
     },
     {
+        "name": "Shlexball",
+        "description": "Show HN: Shlexball, describe a file and a local 1.5B model finds it on your Mac",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://shlexball.com/",
+        "discovered_at": "2026-10-05"
+    },
+    {
         "name": "Shnatsel",
         "description": "Implementing FMA and finding bugs in C and Rust standard libraries",
         "category": "Other",
@@ -108863,6 +109043,16 @@
         "discovered_at": "2026-07-06"
     },
     {
+        "name": "Skins",
+        "description": "Show HN: Skins.dev – add the features missing from the web apps you use",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://skins.dev/",
+        "discovered_at": "2026-10-05"
+    },
+    {
         "name": "Skipd",
         "description": "I built a tiny free app to track money saved by skipping small purchases",
         "category": "Other",
@@ -108961,6 +109151,16 @@
         "cors": "unknown",
         "url": "https://sloev.github.io/saysheep/",
         "discovered_at": "2026-06-21"
+    },
+    {
+        "name": "Slopely",
+        "description": "Show HN: I made an app to let skiers track ski resorts and slopes they have done",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://slopely.app/",
+        "discovered_at": "2026-10-05"
     },
     {
         "name": "Smithsonianmag",
@@ -112211,6 +112411,16 @@
         "cors": "unknown",
         "url": "https://www.applewalls.com/en",
         "discovered_at": "2026-07-10"
+    },
+    {
+        "name": "Astrohelm",
+        "description": "Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://astrohelm.app/",
+        "discovered_at": "2026-10-05"
     },
     {
         "name": "Audiofftimage",
@@ -123642,6 +123852,16 @@
         "discovered_at": "2026-04-01"
     },
     {
+        "name": "Davidayo",
+        "description": "Free Messaging App",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.davidayo.com/blog/best-android-text-messaging-app/",
+        "discovered_at": "2026-10-05"
+    },
+    {
         "name": "Discord",
         "description": "Build bots and integrations for Discord servers",
         "category": "Social",
@@ -123848,6 +124068,16 @@
         "cors": "unknown",
         "url": "https://www.nexconn.ai/free-chat-api",
         "discovered_at": "2026-09-09"
+    },
+    {
+        "name": "Nothq",
+        "description": "Show HN: Native Rust rewrites of Electron apps, starting with Slack",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nothq.github.io",
+        "discovered_at": "2026-10-05"
     },
     {
         "name": "Nowly",
@@ -126170,6 +126400,16 @@
         "discovered_at": "2026-04-18"
     },
     {
+        "name": "Wordlegion",
+        "description": "Show HN: Word Legion: Clash Royale-like where any spellable word becomes a troop",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wordlegion.bonnaf.com/?lang=en&src=hn",
+        "discovered_at": "2026-10-05"
+    },
+    {
         "name": "Wordnamefire",
         "description": "I wrote a free book about Scripture, AI, and language",
         "category": "Text & Language",
@@ -127679,6 +127919,16 @@
         "cors": "unknown",
         "url": "https://magichour.ai/blog/fable-vs-sol-taste-test",
         "discovered_at": "2026-08-18"
+    },
+    {
+        "name": "Mapanimator",
+        "description": "Show HN - MapAnimator: Free in-browser tool creates animated map videos",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mapanimator.baldinger.se/",
+        "discovered_at": "2026-10-05"
     },
     {
         "name": "Martini",
