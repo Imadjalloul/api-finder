@@ -6201,6 +6201,16 @@
         "discovered_at": "2026-07-18"
     },
     {
+        "name": "Semafor",
+        "description": "Reflection AI unveils an open-source Western answer to Chinese labs",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.semafor.com/article/10/05/2026/reflection-ai-unveils-an-open-source-answer-to-chinese-labs",
+        "discovered_at": "2026-10-06"
+    },
+    {
         "name": "Sendroq",
         "description": "Show HN: I built an AI Agent that sell itself",
         "category": "AI & Machine Learning",
@@ -6668,6 +6678,16 @@
         "cors": "unknown",
         "url": "https://sungeuns.github.io/founation-model-engineering/",
         "discovered_at": "2026-04-22"
+    },
+    {
+        "name": "Supadocs",
+        "description": "Free AI Construction Estimating in the Web",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.supadocs.app/",
+        "discovered_at": "2026-10-06"
     },
     {
         "name": "Superhighway",
@@ -12811,6 +12831,16 @@
         "discovered_at": "2026-09-15"
     },
     {
+        "name": "Capbase",
+        "description": "Show HN: Capbase – Free and Open Source Crunchbase Pitchbook Alternative",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://capbase.fyi",
+        "discovered_at": "2026-10-06"
+    },
+    {
         "name": "Classkeep",
         "description": "Show HN: ClassKeep – Booking, credits, and smart waitlists for boutique studios",
         "category": "Books",
@@ -13405,6 +13435,16 @@
         "cors": "unknown",
         "url": "https://trees.software/",
         "discovered_at": "2026-04-26"
+    },
+    {
+        "name": "True-tarot",
+        "description": "True Tarot: free tarot readings where an AI reads all your cards together",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://true-tarot.com/",
+        "discovered_at": "2026-10-06"
     },
     {
         "name": "Tryreader",
@@ -20221,6 +20261,16 @@
         "discovered_at": "2026-03-25"
     },
     {
+        "name": "Flyhedwig",
+        "description": "Show HN: Cold B2B email should be free (FlyHedwig)",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://flyhedwig.com",
+        "discovered_at": "2026-10-06"
+    },
+    {
         "name": "Forkbench",
         "description": "Show HN: Forkbench – the agent gets the API call, not the key (macOS)",
         "category": "Communication",
@@ -21085,6 +21135,16 @@
         "cors": "unknown",
         "url": "https://willowvoice.com/",
         "discovered_at": "2026-07-11"
+    },
+    {
+        "name": "Yardsmart",
+        "description": "Show HN: YardSmart – a simpler way to rent construction equipment locally",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://yardsmart.io",
+        "discovered_at": "2026-10-06"
     },
     {
         "name": "Zedmail",
@@ -63838,6 +63898,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Ototo",
+        "description": "Show HN: Ototo: Offload code exploration to a smaller model from Claude et al.",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ototo.dev/",
+        "discovered_at": "2026-10-06"
+    },
+    {
         "name": "Otto Product Details Scraper",
         "description": "Efficiently extract detailed product information from Otto.de, Germany's leading e-commerce platform. Get comprehensive data including prices, descriptions, SKUs, GTINs, and product details for market",
         "category": "Development",
@@ -65354,6 +65424,16 @@
         "cors": "unknown",
         "url": "https://apify.com/mohamed.k.sirag/rednote-xiaohongshu-downloader-no-watermark",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Refactoringenglish",
+        "description": "Show HN: I wrote a book to help developers to improve their writing",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://refactoringenglish.com",
+        "discovered_at": "2026-10-06"
     },
     {
         "name": "RegExp Scraper",
@@ -87009,6 +87089,16 @@
         "discovered_at": "2026-07-20"
     },
     {
+        "name": "Hankydoodle",
+        "description": "Show HN: HankyDoodle – a Draw Something-style game I built with my kids",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hankydoodle.app/",
+        "discovered_at": "2026-10-06"
+    },
+    {
         "name": "Ikandy",
         "description": "Show HN: Music Visualizer|New MilkDrop engine and various types of reactive art",
         "category": "Entertainment",
@@ -91382,6 +91472,16 @@
         "discovered_at": "2026-07-23"
     },
     {
+        "name": "Meanwhilemap",
+        "description": "Show HN: Meanwhile Map – what else was happening in the world at the same time",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://meanwhilemap.com/",
+        "discovered_at": "2026-10-06"
+    },
+    {
         "name": "Modelmap",
         "description": "Show HN: Interactive, animated architecture of any HuggingFace models",
         "category": "Maps & Transport",
@@ -93412,6 +93512,16 @@
         "cors": "unknown",
         "url": "https://strata.do/",
         "discovered_at": "2026-10-01"
+    },
+    {
+        "name": "Tedium",
+        "description": "Long-Gone Newspaper Was the Best Job I Ever Had",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tedium.co/2026/10/05/link-newspaper-virginian-pilot-remembrance/",
+        "discovered_at": "2026-10-06"
     },
     {
         "name": "The Guardian",
@@ -96573,6 +96683,16 @@
         "discovered_at": "2026-07-22"
     },
     {
+        "name": "Acceptodds",
+        "description": "Show HN: Acceptodds a prediction market on which ICLR 2027 papers get accepted",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://acceptodds.com",
+        "discovered_at": "2026-10-06"
+    },
+    {
         "name": "Achiever",
         "description": "Show HN: Steam-style achievements, but for real life (777 milestones)",
         "category": "Other",
@@ -99563,6 +99683,16 @@
         "discovered_at": "2026-03-03"
     },
     {
+        "name": "Crazy",
+        "description": "Show HN: I recreated \"Crazy Ones\" ad as an animated web tribute to Steve Jobs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://crazy.eyad.com/",
+        "discovered_at": "2026-10-06"
+    },
+    {
         "name": "Creativebloq",
         "description": "Type designers have created a free font that \"poisons\" AI",
         "category": "Other",
@@ -101833,6 +101963,16 @@
         "discovered_at": "2026-07-06"
     },
     {
+        "name": "Getdevboard",
+        "description": "Show HN: DevBoard – a simpler ClickUp for small dev teams, native apps and MCP",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getdevboard.app/",
+        "discovered_at": "2026-10-06"
+    },
+    {
         "name": "Getedgy",
         "description": "Show HN: Edgy – Ambient edge lighting for macOS",
         "category": "Other",
@@ -103433,6 +103573,16 @@
         "discovered_at": "2026-05-13"
     },
     {
+        "name": "Jurl",
+        "description": "Show HN: Jurl – curl that reads the page for you",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jurl.dev/",
+        "discovered_at": "2026-10-06"
+    },
+    {
         "name": "Justfyi",
         "description": "Show HN: JustFYI – a paywall detector for \"free\" online tools",
         "category": "Other",
@@ -104311,6 +104461,16 @@
         "cors": "unknown",
         "url": "https://machinesatplay.com",
         "discovered_at": "2026-08-10"
+    },
+    {
+        "name": "Macinweb",
+        "description": "Ow HN: Macinweb – An OS simulator built in Next.js/Nest.js",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://macinweb.vercel.app",
+        "discovered_at": "2026-10-06"
     },
     {
         "name": "Macsources",
@@ -105263,6 +105423,16 @@
         "discovered_at": "2026-07-06"
     },
     {
+        "name": "Motley",
+        "description": "A comprehensive comparison of the main OSS semantic layers",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://motley.ai/blog-posts/four-open-source-semantic-layers-54-capabilities/",
+        "discovered_at": "2026-10-06"
+    },
+    {
         "name": "Movecue",
         "description": "MoveCue – Hands-free movement timer for iOS",
         "category": "Other",
@@ -105991,6 +106161,16 @@
         "cors": "unknown",
         "url": "https://www.opbox.dev/",
         "discovered_at": "2026-07-04"
+    },
+    {
+        "name": "Open-twin",
+        "description": "Show HN: Open Twin, a modelica-based simulator for real-world physical systems",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://open-twin.netlify.app/w/d5e756e1-4b43-415b-a10c-bb83fb98fe55",
+        "discovered_at": "2026-10-06"
     },
     {
         "name": "Openagentforum",
@@ -107993,6 +108173,16 @@
         "discovered_at": "2026-06-16"
     },
     {
+        "name": "Resumysh",
+        "description": "Resume Builder, ATS friendly, 100% free 4real, PWA, no account, it's yours:)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://resumysh.web.app/",
+        "discovered_at": "2026-10-06"
+    },
+    {
         "name": "Retrospectiveonline",
         "description": "Show HN: Retrospective Online – Sprint Retros for dev teams",
         "category": "Other",
@@ -108011,6 +108201,16 @@
         "cors": "unknown",
         "url": "https://retrotick.com/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Reverse",
+        "description": "Show HN: Reverse.horse – A Jev-compatible API powered by your feeble human brain",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://reverse.horse/",
+        "discovered_at": "2026-10-06"
     },
     {
         "name": "Reviewskits",
@@ -109243,6 +109443,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Soldstack",
+        "description": "Show HN: SoldStack – sold prices API for secondhand clothes",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://soldstack.fly.dev/",
+        "discovered_at": "2026-10-06"
+    },
+    {
         "name": "Solidping",
         "description": "Show HN: SolidPing — open-source uptime monitoring, agents inside your network",
         "category": "Other",
@@ -109271,6 +109481,16 @@
         "cors": "unknown",
         "url": "https://www.somniavault.me/",
         "discovered_at": "2026-03-12"
+    },
+    {
+        "name": "Sondahub",
+        "description": "Show HN: Free Public API Lab",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sondahub.com/",
+        "discovered_at": "2026-10-06"
     },
     {
         "name": "Sos-vault",
@@ -109821,6 +110041,16 @@
         "cors": "unknown",
         "url": "https://www.superprez.io",
         "discovered_at": "2026-08-20"
+    },
+    {
+        "name": "Suprnova",
+        "description": "A Laravel Like framework built in Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://suprnova.app/",
+        "discovered_at": "2026-10-06"
     },
     {
         "name": "Sw-fun",
@@ -110821,6 +111051,16 @@
         "cors": "unknown",
         "url": "https://tryevaluator.com",
         "discovered_at": "2026-07-01"
+    },
+    {
+        "name": "Trytofu",
+        "description": "Show HN: Tofu – let your agent deploy full-stack apps",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://trytofu.ai",
+        "discovered_at": "2026-10-06"
     },
     {
         "name": "Tui2web",
@@ -128586,6 +128826,16 @@
         "cors": "unknown",
         "url": "https://harper.surf/",
         "discovered_at": "2026-05-11"
+    },
+    {
+        "name": "Headlinearena",
+        "description": "Show HN: Headline Arena – public forecasting records for AI agents",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://headlinearena.com",
+        "discovered_at": "2026-10-06"
     },
     {
         "name": "Literadar",
