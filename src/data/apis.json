@@ -2177,6 +2177,16 @@
         "discovered_at": "2026-08-19"
     },
     {
+        "name": "Dirac",
+        "description": "Show HN: I finetuned 1.5B Qwen to near GPT-4o level bash generation perf",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dirac.run/posts/easycommand",
+        "discovered_at": "2026-10-07"
+    },
+    {
         "name": "Discuss",
         "description": "Run the AI Studio deletion test to show the chat isn't deleted",
         "category": "AI & Machine Learning",
@@ -3265,6 +3275,16 @@
         "discovered_at": "2026-09-28"
     },
     {
+        "name": "Hieraticbench",
+        "description": "Show HN: HieraticBench – Can AI read ancient Egyptian handwriting?",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hieraticbench.vercel.app/",
+        "discovered_at": "2026-10-07"
+    },
+    {
         "name": "Himalaian",
         "description": "Cross-System Constraint Collisions: The Governance Gap in Enterprise Agentic AI [pdf]",
         "category": "AI & Machine Learning",
@@ -3672,6 +3692,16 @@
         "cors": "unknown",
         "url": "https://jobbi.app",
         "discovered_at": "2026-03-05"
+    },
+    {
+        "name": "Jobfetch",
+        "description": "JobFetch – free remote AI job board, pay shown up front",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jobfetch.work",
+        "discovered_at": "2026-10-07"
     },
     {
         "name": "Jonno",
@@ -4491,6 +4521,16 @@
         "cors": "unknown",
         "url": "https://www.monkepay.xyz/",
         "discovered_at": "2026-03-26"
+    },
+    {
+        "name": "Monografias",
+        "description": "Test Driven Development in the AI Era [pdf]",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://monografias.dcc.ufmg.br/wp-content/uploads/TDD_in_the_AI_Era___POC_2-1.pdf",
+        "discovered_at": "2026-10-07"
     },
     {
         "name": "Moodloom",
@@ -6708,6 +6748,16 @@
         "cors": "unknown",
         "url": "https://superhq.ai/",
         "discovered_at": "2026-04-13"
+    },
+    {
+        "name": "Superlogical",
+        "description": "Rex – Superlogical's AI multiplexer, now in beta",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.superlogical.com/updates/public-testing-beginning",
+        "discovered_at": "2026-10-07"
     },
     {
         "name": "Superserve",
@@ -11326,6 +11376,16 @@
         "discovered_at": "2026-07-29"
     },
     {
+        "name": "Puppet-master",
+        "description": "Show HN: Puppet Master – Manage coding agents at scale",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://puppet-master.xyz/",
+        "discovered_at": "2026-10-07"
+    },
+    {
         "name": "RandomFox",
         "description": "Random fox images",
         "category": "Animals",
@@ -11701,6 +11761,16 @@
         "discovered_at": "2026-04-04"
     },
     {
+        "name": "Authrot",
+        "description": "Show HN: Authrot – a writing studio that maps your characters, places and plot",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://authrot.app",
+        "discovered_at": "2026-10-07"
+    },
+    {
         "name": "Barrasso",
         "description": "Show HN: I built a local coding agent using Apple Intelligence",
         "category": "Auth & Identity",
@@ -12055,6 +12125,16 @@
         "cors": "unknown",
         "url": "https://username.md/",
         "discovered_at": "2026-08-12"
+    },
+    {
+        "name": "Vibivibi",
+        "description": "Show HN: Vibivibi – End-to-end encrypted sharing of Coding Agent sessions",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vibivibi.com/",
+        "discovered_at": "2026-10-07"
     },
     {
         "name": "Weykon",
@@ -20618,6 +20698,16 @@
         "cors": "unknown",
         "url": "https://ostt.ai",
         "discovered_at": "2026-05-14"
+    },
+    {
+        "name": "Penguin-mail",
+        "description": "Penguin Mail – open-source Rust email client for Linux with AI",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://penguin-mail.com/",
+        "discovered_at": "2026-10-07"
     },
     {
         "name": "Ping",
@@ -54756,6 +54846,16 @@
         "discovered_at": "2026-08-27"
     },
     {
+        "name": "Coderoyale",
+        "description": "Show HN: Code Royale, an open-source multiplayer coding game",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://coderoyale.app/",
+        "discovered_at": "2026-10-07"
+    },
+    {
         "name": "Codesota",
         "description": "One endpoint. Best model. Any task",
         "category": "Development",
@@ -55834,6 +55934,16 @@
         "cors": "unknown",
         "url": "https://developers.cloudflare.com/changelog/post/2026-07-28-models-require-workers-paid/",
         "discovered_at": "2026-07-30"
+    },
+    {
+        "name": "Developers",
+        "description": "Decisions API is in public beta",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://developers.openai.com/api/docs/guides/decisions",
+        "discovered_at": "2026-10-07"
     },
     {
         "name": "Devthropology",
@@ -59490,6 +59600,16 @@
         "cors": "unknown",
         "url": "https://apify.com/barrierefix/gutefrage-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Habibicode",
+        "description": "Show HN: Turn public repos into works of art",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.habibicode.org/artrepo",
+        "discovered_at": "2026-10-07"
     },
     {
         "name": "Hacker News Scraper & API - Export Stories, Comments, Data",
@@ -63576,6 +63696,16 @@
         "cors": "unknown",
         "url": "https://octopus-review.ai",
         "discovered_at": "2026-03-29"
+    },
+    {
+        "name": "Octri",
+        "description": "Show HN: Octri.dev – Generate customizable docs, 10 SDKs, and get an MCP server",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://octri.dev",
+        "discovered_at": "2026-10-07"
     },
     {
         "name": "OK4WD Blog Scraper",
@@ -76135,6 +76265,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Growthupdate",
+        "description": "Show HN: Trends Radar – analyze search, content and product trends",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://growthupdate.io/radar",
+        "discovered_at": "2026-10-07"
+    },
+    {
         "name": "GSMArena Article Scraper",
         "description": "GSMArena Article Scraper extracts mobile phone content from the GSMArena website, including reviews, launches, updates, and other information related to mobile gadgets",
         "category": "E-Commerce",
@@ -87732,6 +87872,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Tunefuse",
+        "description": "Show HN: Ultrafast Apple Music macOS App",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tunefuse.app/",
+        "discovered_at": "2026-10-07"
+    },
+    {
         "name": "Tv",
         "description": "Show HN: Live AI video streams that write themselves one shot at a time",
         "category": "Entertainment",
@@ -98033,6 +98183,16 @@
         "discovered_at": "2026-04-30"
     },
     {
+        "name": "Bees",
+        "description": "Show HN: Bees – Run agentic teams on your own computer (open source)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bees.bot/",
+        "discovered_at": "2026-10-07"
+    },
+    {
         "name": "Bench-bets",
         "description": "Show HN: Bench-Bets – A World Cup Prediction App Built with Nuxt and SQLite",
         "category": "Other",
@@ -100471,6 +100631,16 @@
         "cors": "unknown",
         "url": "https://docs.parseflow.tech/",
         "discovered_at": "2026-05-22"
+    },
+    {
+        "name": "Docs",
+        "description": "Show HN: UI for answering agent questions async",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://docs.plannotator.ai/open-source/workflows/questions",
+        "discovered_at": "2026-10-07"
     },
     {
         "name": "Domain-rating",
@@ -104873,6 +105043,16 @@
         "discovered_at": "2026-10-04"
     },
     {
+        "name": "Mcmah309",
+        "description": "The Missing Piece in Rust Error Handling",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/",
+        "discovered_at": "2026-10-07"
+    },
+    {
         "name": "Mcpfinder",
         "description": "Show HN: MCPfinder – An MCP server that finds and installs other MCP servers",
         "category": "Other",
@@ -106883,6 +107063,16 @@
         "discovered_at": "2026-09-09"
     },
     {
+        "name": "Pentad",
+        "description": "Why our agent OS runs on Gleam and Zig, not Python or Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pentad.ai/blog/why-our-agent-os-runs-on-gleam-and-zig/",
+        "discovered_at": "2026-10-07"
+    },
+    {
         "name": "perfectpdf api",
         "description": "The perfectpdf api does one thing, perfectly: it converts html to pdf. The perfectpdf api uses headless Google Chrome to provide a low cost, high quality, simple to use service.",
         "category": "Other",
@@ -108713,6 +108903,16 @@
         "discovered_at": "2026-05-21"
     },
     {
+        "name": "Screenrecords",
+        "description": "Show HN: Screen Records – edit demo or how-to recordings with MCP",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://screenrecords.app/",
+        "discovered_at": "2026-10-07"
+    },
+    {
         "name": "Screenshotapis",
         "description": "Show HN: ScreenshotAPIs – screenshot/PDF API with credits that never expire",
         "category": "Other",
@@ -110483,6 +110683,16 @@
         "discovered_at": "2026-04-02"
     },
     {
+        "name": "Theideaplace",
+        "description": "Letting Claude Test Windows Apps in a VM Instead of on My PC",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://theideaplace.net/letting-claude-test-windows-apps-in-a-vm-instead-of-on-my-pc/",
+        "discovered_at": "2026-10-07"
+    },
+    {
         "name": "Thenextweb",
         "description": "Pick of the 10 Hottest West Coast Startups in (2013)",
         "category": "Other",
@@ -111683,6 +111893,16 @@
         "discovered_at": "2026-09-26"
     },
     {
+        "name": "Wave-studio",
+        "description": "Show HN: Open-source Implementaiton of Stripe's 3D Waves",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wave-studio.pages.dev/",
+        "discovered_at": "2026-10-07"
+    },
+    {
         "name": "Wavehouse",
         "description": "Show HN: WaveHouse – Supabase for ClickHouse",
         "category": "Other",
@@ -112681,6 +112901,16 @@
         "cors": "unknown",
         "url": "https://autogranthunter.com/og/",
         "discovered_at": "2026-07-06"
+    },
+    {
+        "name": "Azurade",
+        "description": "Show HN: Azurade, image and video generation with MCP, credits never expire",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://azurade.com/developers/",
+        "discovered_at": "2026-10-07"
     },
     {
         "name": "Blindlock",
@@ -124102,6 +124332,16 @@
         "discovered_at": "2026-10-05"
     },
     {
+        "name": "Deploylist",
+        "description": "Show HN: Deploylist – StumbleUpon feed for upvoted web projects on HN and Reddit",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://deploylist.com/",
+        "discovered_at": "2026-10-07"
+    },
+    {
         "name": "Discord",
         "description": "Build bots and integrations for Discord servers",
         "category": "Social",
@@ -127493,6 +127733,16 @@
         "cors": "unknown",
         "url": "https://templateson.com",
         "discovered_at": "2026-07-12"
+    },
+    {
+        "name": "Tokenbarometer",
+        "description": "Show HN: LLM API prices with full price history and a cloud vs. local calculator",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tokenbarometer.com",
+        "discovered_at": "2026-10-07"
     },
     {
         "name": "U2m",
