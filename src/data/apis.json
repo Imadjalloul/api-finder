@@ -190,6 +190,16 @@
         "discovered_at": "2026-06-07"
     },
     {
+        "name": "Agent",
+        "description": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agent.reviews/",
+        "discovered_at": "2026-10-08"
+    },
+    {
         "name": "Agent-bbs",
         "description": "Show HN: A public bulletin board for AI agents",
         "category": "AI & Machine Learning",
@@ -3404,6 +3414,16 @@
         "url": "https://huggingface.co/docs/api-inference/"
     },
     {
+        "name": "Humxn",
+        "description": "AI firm HUMXN offers free plumbing and HVAC service in Minnesota to train robots",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://humxn.io/humxn-launches-free-home-service-program",
+        "discovered_at": "2026-10-08"
+    },
+    {
         "name": "Hypd",
         "description": "Show HN: HYPD – AI co-pilot for marketers running Google Ads",
         "category": "AI & Machine Learning",
@@ -5051,6 +5071,16 @@
         "cors": "unknown",
         "url": "https://open-atelier.app",
         "discovered_at": "2026-07-17"
+    },
+    {
+        "name": "Openai",
+        "description": "Sharing AI progress in mathematics",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+        "discovered_at": "2026-10-08"
     },
     {
         "name": "OpenAI",
@@ -11324,6 +11354,16 @@
         "cors": "unknown",
         "url": "https://petergray.substack.com/p/121-free-range-offline-and-on",
         "discovered_at": "2026-07-18"
+    },
+    {
+        "name": "Peterszentkiralyi",
+        "description": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://peterszentkiralyi.eu/darkplug/",
+        "discovered_at": "2026-10-08"
     },
     {
         "name": "Petrelvoyage",
@@ -19582,6 +19622,16 @@
         "discovered_at": "2026-07-21"
     },
     {
+        "name": "Railcode",
+        "description": "Show HN: Railcode – Secure cloud for internal software",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://railcode.dev/",
+        "discovered_at": "2026-10-08"
+    },
+    {
         "name": "Rigorcloud",
         "description": "Show HN: Rigor – Anti-Enshittification Proxy for Your AI Agents",
         "category": "Cloud & Storage",
@@ -21146,6 +21196,16 @@
         "cors": "unknown",
         "url": "https://voicecursor.ai/action-mode",
         "discovered_at": "2026-09-29"
+    },
+    {
+        "name": "Voicegremlin",
+        "description": "Show HN: VoiceGremlin, a SaaS tool for automated tests against AI phone agents",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://voicegremlin.com/",
+        "discovered_at": "2026-10-08"
     },
     {
         "name": "Voklit",
@@ -66746,6 +66806,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Skanqrcode",
+        "description": "Show HN: SkanQRCode – URL & IP safety API returning verdicts in <500ms",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://skanqrcode.com/",
+        "discovered_at": "2026-10-08"
+    },
+    {
         "name": "Skillcrossroads",
         "description": "Show HN: Linting 216 public Claude Code skills – 69% won't reliably trigger",
         "category": "Development",
@@ -67194,6 +67264,16 @@
         "cors": "unknown",
         "url": "https://apify.com/red.cars/stackoverflow-academic-research-exporter",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Staffcoder",
+        "description": "Show HN: Staffcoder, hands-on practice for modern frameworks in a browser IDE",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.staffcoder.com",
+        "discovered_at": "2026-10-08"
     },
     {
         "name": "Star City Coaching Blog Scraper",
@@ -93445,6 +93525,16 @@
         "discovered_at": "2026-08-19"
     },
     {
+        "name": "News",
+        "description": "Show HN: Pointless but mostly-exact clone of Hacker News",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://news.ycombinator.lol",
+        "discovered_at": "2026-10-08"
+    },
+    {
         "name": "NewsAPI",
         "description": "Search worldwide news articles from 80,000+ sources",
         "category": "News",
@@ -97843,6 +97933,16 @@
         "discovered_at": "2026-08-07"
     },
     {
+        "name": "Ascii",
+        "description": "Animated ASCII Art for Web Pages",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ascii.rest/",
+        "discovered_at": "2026-10-08"
+    },
+    {
         "name": "Askwatch",
         "description": "Show HN: Hosted MCP Server for Google Search Console",
         "category": "Other",
@@ -101083,6 +101183,16 @@
         "discovered_at": "2026-09-16"
     },
     {
+        "name": "Engine",
+        "description": "Show HN: PanelAlpha Engine – Turn your VPS into a programmable hosting layer",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://engine.panelalpha.com/",
+        "discovered_at": "2026-10-08"
+    },
+    {
         "name": "Engram",
         "description": "Show HN: Engram – Open-source agent memory that beats Mem0 by 20% on LOCOMO",
         "category": "Other",
@@ -102241,6 +102351,16 @@
         "cors": "unknown",
         "url": "https://getreel.dev/vex",
         "discovered_at": "2026-07-14"
+    },
+    {
+        "name": "Getrequest",
+        "description": "Show HN: getrequest – Never lose an API request",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.getrequest.io/",
+        "discovered_at": "2026-10-08"
     },
     {
         "name": "Getscalar",
@@ -105593,6 +105713,16 @@
         "discovered_at": "2026-07-14"
     },
     {
+        "name": "Motherjones",
+        "description": "America Turned on Data Centers",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.motherjones.com/politics/2026/10/stress-test-video-podcast-episode-2-data-centers-ai-backlash/",
+        "discovered_at": "2026-10-08"
+    },
+    {
         "name": "Mothistoryfree",
         "description": "Free UK MOT history checker built on DVSA's API",
         "category": "Other",
@@ -106773,6 +106903,16 @@
         "discovered_at": "2026-08-20"
     },
     {
+        "name": "Oss",
+        "description": "Show HN: Proton Drive for Linux",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+        "discovered_at": "2026-10-08"
+    },
+    {
         "name": "Ossresistance",
         "description": "Open Source Resistance: keep OSS alive on company time",
         "category": "Other",
@@ -107161,6 +107301,16 @@
         "cors": "unknown",
         "url": "https://pingchange.com",
         "discovered_at": "2026-08-21"
+    },
+    {
+        "name": "Pingjobs",
+        "description": "Show HN: Free CV Templates designed by experts",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pingjobs.co/cv-builder",
+        "discovered_at": "2026-10-08"
     },
     {
         "name": "Piruet",
@@ -108443,6 +108593,16 @@
         "discovered_at": "2026-08-03"
     },
     {
+        "name": "Rhyvenai",
+        "description": "Show HN: Rhyven – A marketplace for agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rhyvenai.com",
+        "discovered_at": "2026-10-08"
+    },
+    {
         "name": "Ride",
         "description": "Show HN: Follow London Trains in 3D",
         "category": "Other",
@@ -109561,6 +109721,16 @@
         "cors": "unknown",
         "url": "https://slopely.app/",
         "discovered_at": "2026-10-05"
+    },
+    {
+        "name": "Smartbuildlabs",
+        "description": "Show HN: Smart Blur – Auto-Blur PII in the Browser, with a OpenAI Local Model",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://smartbuildlabs.com/apps/smart-blur/",
+        "discovered_at": "2026-10-08"
     },
     {
         "name": "Smithsonianmag",
@@ -110691,6 +110861,16 @@
         "cors": "unknown",
         "url": "https://theideaplace.net/letting-claude-test-windows-apps-in-a-vm-instead-of-on-my-pc/",
         "discovered_at": "2026-10-07"
+    },
+    {
+        "name": "Thelastsaas",
+        "description": "Show HN: The Last SaaS – An open source headless SaaS for agents and assistants",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thelastsaas.com/",
+        "discovered_at": "2026-10-08"
     },
     {
         "name": "Thenextweb",
@@ -113262,6 +113442,16 @@
         "discovered_at": "2026-09-20"
     },
     {
+        "name": "Petapixel",
+        "description": "Someone Rebuilt Free, OSS Versions of Photoshop, Premiere, and Lightroom with AI",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/",
+        "discovered_at": "2026-10-08"
+    },
+    {
         "name": "Pexels",
         "description": "Free high-quality stock photos and videos",
         "category": "Photography",
@@ -113546,6 +113736,16 @@
         "cors": "unknown",
         "url": "https://videm.ai/",
         "discovered_at": "2026-09-04"
+    },
+    {
+        "name": "Yle",
+        "description": "Parents in Finland turn to AI for free school pictures",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://yle.fi/a/74-20249883",
+        "discovered_at": "2026-10-08"
     },
     {
         "name": "✅ WhatsApp Number #️⃣ Validator ✅",
