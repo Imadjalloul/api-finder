@@ -1799,6 +1799,16 @@
         "discovered_at": "2026-09-15"
     },
     {
+        "name": "Cliphou",
+        "description": "Show HN: LLM Motion Graphics Benchmark",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cliphou.se/benchmark/",
+        "discovered_at": "2026-10-09"
+    },
+    {
         "name": "Clixad",
         "description": "Show HN: Clixad – Free AI coding agent in the terminal, funded by an offerwall",
         "category": "AI & Machine Learning",
@@ -12951,6 +12961,16 @@
         "discovered_at": "2026-09-15"
     },
     {
+        "name": "Candlefeed",
+        "description": "Show HN: Binance futures order book history from 3 nodes, with a public gap log",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://candlefeed.ai/data/order-book/",
+        "discovered_at": "2026-10-09"
+    },
+    {
         "name": "Capbase",
         "description": "Show HN: Capbase – Free and Open Source Crunchbase Pitchbook Alternative",
         "category": "Books",
@@ -20758,6 +20778,16 @@
         "cors": "unknown",
         "url": "https://penguin-mail.com/",
         "discovered_at": "2026-10-07"
+    },
+    {
+        "name": "Pigeonfs",
+        "description": "Show HN: Pigeon – email API for the mail your app sends",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pigeonfs.com/",
+        "discovered_at": "2026-10-09"
     },
     {
         "name": "Ping",
@@ -62068,6 +62098,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Liteclient",
+        "description": "Show HN: LiteClient – Free, open-source API client for VS Code",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://liteclient.com/",
+        "discovered_at": "2026-10-09"
+    },
+    {
         "name": "Llm Response Evaluator",
         "description": "Evaluate LLM outputs with comprehensive quality metrics and A/B testing capabilities. Free alternative to Confident AI ($99/mo).",
         "category": "Development",
@@ -67836,6 +67876,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Techspot",
+        "description": "Developer uses AI to build free Adobe clones after frustration with cancellation",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.techspot.com/news/114136-software-over-developer-uses-ai-build-free-adobe.html",
+        "discovered_at": "2026-10-09"
+    },
+    {
         "name": "Telegram Channel Post Scraper",
         "description": "Get messages, views, media, hidden links and post metadata from any public Telegram channel — fast and easy.",
         "category": "Development",
@@ -69754,6 +69804,16 @@
         "cors": "unknown",
         "url": "https://www.vibesolve.ai/",
         "discovered_at": "2026-06-26"
+    },
+    {
+        "name": "Victorribeiro",
+        "description": "Show HN: I used Claude Code to address the HN comments on my 2019 game",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://victorribeiro.com/aimAndShoot/",
+        "discovered_at": "2026-10-09"
     },
     {
         "name": "Video Download Link Crawler(fast and cheap)",
@@ -91633,6 +91693,16 @@
         "discovered_at": "2026-05-02"
     },
     {
+        "name": "Imapkit",
+        "description": "Show HN: ImapKit, a in memory IMAP server to test mail client apps",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://imapkit.com/",
+        "discovered_at": "2026-10-09"
+    },
+    {
         "name": "Imbue-ai",
         "description": "Show HN: GrandPerspective-style treemaps for the web and disk usage visualizer",
         "category": "Maps & Transport",
@@ -91681,6 +91751,16 @@
         "cors": "unknown",
         "url": "https://www.lastshelf.ai/",
         "discovered_at": "2026-07-10"
+    },
+    {
+        "name": "Manveerc",
+        "description": "Stop Looking for the Best Way to Retrieve Context for AI Agents. Build a Router",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://manveerc.substack.com/p/context-retrieval-ai-agent",
+        "discovered_at": "2026-10-09"
     },
     {
         "name": "Mapbox",
@@ -92907,6 +92987,16 @@
         "cors": "unknown",
         "url": "https://aibriefs.news",
         "discovered_at": "2026-09-06"
+    },
+    {
+        "name": "Allthingsbanana",
+        "description": "Show HN: All Things Banana – banana news, prices, and a daily Wikipedia game",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://allthingsbanana.com/",
+        "discovered_at": "2026-10-09"
     },
     {
         "name": "Amsozzer",
@@ -96913,6 +97003,16 @@
         "discovered_at": "2026-05-28"
     },
     {
+        "name": "Abyss",
+        "description": "Show HN: Abyss – ACP Agent Isolation with Middleware Support",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://abyss.scurry.io",
+        "discovered_at": "2026-10-09"
+    },
+    {
         "name": "Acc",
         "description": "Air Force conducts live-fire test for Collaborative Combat Aircraft program",
         "category": "Other",
@@ -97603,6 +97703,16 @@
         "discovered_at": "2026-10-01"
     },
     {
+        "name": "Apiflowstudio",
+        "description": "Show HN:APIFlow Studio – Open-source, offline-first Postman alternative",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apiflowstudio.onrender.com/",
+        "discovered_at": "2026-10-09"
+    },
+    {
         "name": "Apigen",
         "description": "Show HN: APIgen – Generate Fusio REST APIs and Angular UIs from TypeSchema",
         "category": "Other",
@@ -98011,6 +98121,16 @@
         "cors": "unknown",
         "url": "https://at4klauncher.com",
         "discovered_at": "2026-05-29"
+    },
+    {
+        "name": "Ateliti99",
+        "description": "Apple AirPods run an acoustic self-test. I recorded it",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ateliti99.substack.com/p/reverse-engineering-airpods-self",
+        "discovered_at": "2026-10-09"
     },
     {
         "name": "Atlasblock",
@@ -99843,6 +99963,16 @@
         "discovered_at": "2026-07-09"
     },
     {
+        "name": "Corporate",
+        "description": "Visa Releases Its AI-Powered Cyber Defense System to Open Source",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://corporate.visa.com/en/sites/visa-perspectives/security-trust/visa-cybersecurity-mythos-project-glasswing.html",
+        "discovered_at": "2026-10-09"
+    },
+    {
         "name": "Cortee",
         "description": "Show HN: For people who don't like writing docs but have to",
         "category": "Other",
@@ -100203,6 +100333,16 @@
         "discovered_at": "2026-06-23"
     },
     {
+        "name": "Datapuddle",
+        "description": "Show HN: Datapuddle – native macOS DuckDB client",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://datapuddle.app/",
+        "discovered_at": "2026-10-09"
+    },
+    {
         "name": "Dataverse001",
         "description": "Show HN: Data that explains itself to Coding Agents (Bonus: free, BYOA Lovable)",
         "category": "Other",
@@ -100441,6 +100581,16 @@
         "cors": "unknown",
         "url": "https://descriptinc.github.io/dependicus/",
         "discovered_at": "2026-04-16"
+    },
+    {
+        "name": "Design",
+        "description": "Show HN: Launching NS UI easy to use components,AI slop should be a term of past",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://design.helpmarq.com",
+        "discovered_at": "2026-10-09"
     },
     {
         "name": "Desktalk",
@@ -104923,6 +105073,16 @@
         "discovered_at": "2026-05-14"
     },
     {
+        "name": "Marble",
+        "description": "Show HN: MarbleMD – Free collaborative alternative to Typora",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://marble.md",
+        "discovered_at": "2026-10-09"
+    },
+    {
         "name": "Marinecharts",
         "description": "Show HN: Free browser-based vector tile inspector – paste any MVT/PBF URL",
         "category": "Other",
@@ -107441,6 +107601,16 @@
         "cors": "unknown",
         "url": "https://pneuma.computer",
         "discovered_at": "2026-03-29"
+    },
+    {
+        "name": "Pocketty",
+        "description": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pocketty.app/",
+        "discovered_at": "2026-10-09"
     },
     {
         "name": "Pockli",
@@ -110243,6 +110413,16 @@
         "discovered_at": "2026-06-20"
     },
     {
+        "name": "Strandsagents",
+        "description": "Strands Box: Open-Source Agent Sandbox from AWS",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://strandsagents.com/blog/strands-box-the-big-picture/",
+        "discovered_at": "2026-10-09"
+    },
+    {
         "name": "Strata",
         "description": "Show HN: Strata, real-time Markdown editor you can mount as a filesystem",
         "category": "Other",
@@ -111651,6 +111831,16 @@
         "cors": "unknown",
         "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
         "discovered_at": "2026-07-02"
+    },
+    {
+        "name": "Uselayer",
+        "description": "Show HN: Layer – One API for Polymarket and Kalshi",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://uselayer.sh",
+        "discovered_at": "2026-10-09"
     },
     {
         "name": "Usemojo",
@@ -113183,6 +113373,16 @@
         "discovered_at": "2026-08-29"
     },
     {
+        "name": "Etchv",
+        "description": "Show HN: Etchv – API for invisible watermarks in images, PDFs and videos",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://etchv.com",
+        "discovered_at": "2026-10-09"
+    },
+    {
         "name": "Facefork",
         "description": "Show HN: Facefork – A tree interface to AI edit photos for fun",
         "category": "Photography",
@@ -113430,6 +113630,16 @@
         "cors": "unknown",
         "url": "https://nobolee88.github.io/three-doors/",
         "discovered_at": "2026-03-02"
+    },
+    {
+        "name": "Oldroll",
+        "description": "Show HN: OldRoll, a free vintage photo editor for the browser",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.oldroll.io/",
+        "discovered_at": "2026-10-09"
     },
     {
         "name": "Peelaway",
@@ -123179,6 +123389,16 @@
         "url": "https://pubchem.ncbi.nlm.nih.gov/docs/pug-rest"
     },
     {
+        "name": "Quakeimpact",
+        "description": "Show HN: What a major earthquake does to Vancouver",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://quakeimpact.ca/",
+        "discovered_at": "2026-10-09"
+    },
+    {
         "name": "Quoin",
         "description": "A chatbot told us SpaceX never went public, 20 days after their IPO",
         "category": "Science",
@@ -126663,6 +126883,16 @@
         "url": "https://cloud.google.com/translate/docs"
     },
     {
+        "name": "Guesswick",
+        "description": "Show HN: Wick, a daily word game where you guess by meaning, not spelling",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://guesswick.com/",
+        "discovered_at": "2026-10-09"
+    },
+    {
         "name": "Hale-lang",
         "description": "Show HN: Hale – A Concurrent Systems Language",
         "category": "Text & Language",
@@ -128869,6 +129099,16 @@
         "cors": "unknown",
         "url": "https://scrapingisnotacrime.com/",
         "discovered_at": "2026-08-07"
+    },
+    {
+        "name": "Screenci",
+        "description": "Show HN: ScreenCI – Tutorial videos as E2E tests, written by your coding agent",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://screenci.com/",
+        "discovered_at": "2026-10-09"
     },
     {
         "name": "Scriptspool",
