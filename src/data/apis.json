@@ -2108,6 +2108,16 @@
         "discovered_at": "2026-05-30"
     },
     {
+        "name": "Decrypt",
+        "description": "Anthropic and OpenAI wargaming public and political revolt after AI catastrophe",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
+        "discovered_at": "2026-10-10"
+    },
+    {
         "name": "DeepL",
         "description": "AI-powered machine translation for 30+ languages",
         "category": "AI & Machine Learning",
@@ -4112,6 +4122,16 @@
         "cors": "unknown",
         "url": "https://linuxtoaster.com/blog/aikilledopensource.html?hn",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Liquidinference",
+        "description": "Show HN: Liquid Inference – auto-routing to competitive LLM marketplace",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://liquidinference.ai/",
+        "discovered_at": "2026-10-10"
     },
     {
         "name": "Litestep",
@@ -20239,6 +20259,16 @@
         "cors": "unknown",
         "url": "https://deadsimple.email/",
         "discovered_at": "2026-04-23"
+    },
+    {
+        "name": "Developers",
+        "description": "Show HN: BSOS – Business communication intelligence API for SaaS developers",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://developers.priorityengineai.com/",
+        "discovered_at": "2026-10-10"
     },
     {
         "name": "Dipstickalerts",
@@ -97703,6 +97733,16 @@
         "discovered_at": "2026-10-01"
     },
     {
+        "name": "Apiblaze",
+        "description": "Show HN: APIblaze – Serverless MCP and API gateway with everything built in",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.apiblaze.com",
+        "discovered_at": "2026-10-10"
+    },
+    {
         "name": "Apiflowstudio",
         "description": "Show HN:APIFlow Studio – Open-source, offline-first Postman alternative",
         "category": "Other",
@@ -105143,6 +105183,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Markets",
+        "description": "Webcmd (by AgentR) is open-source Released on October 8/9, 2026",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://markets.businessinsider.com/news/stocks/agentr-launches-webcmd-open-source-browser-infrastructure-that-lets-ai-agents-learn-a-website-once-1036612154",
+        "discovered_at": "2026-10-10"
+    },
+    {
         "name": "Marklite",
         "description": "Show HN: Marklite: Lightweight Markdown Viewer/Editor",
         "category": "Other",
@@ -107763,6 +107813,16 @@
         "discovered_at": "2026-07-30"
     },
     {
+        "name": "Primeintellect",
+        "description": "Rewriting Prime Agent in Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
+        "discovered_at": "2026-10-10"
+    },
+    {
         "name": "Primereviewspro",
         "description": "Show HN: A free analyzer for spotting fake Amazon reviews via distribution shape",
         "category": "Other",
@@ -109413,6 +109473,16 @@
         "discovered_at": "2026-07-02"
     },
     {
+        "name": "Senro",
+        "description": "Show HN: Senro – WebMCP Evals and Observability",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://senro.ai",
+        "discovered_at": "2026-10-10"
+    },
+    {
         "name": "Seo-sutra",
         "description": "Show HN: SEO Tracker (Not AI)",
         "category": "Other",
@@ -109981,6 +110051,16 @@
         "cors": "unknown",
         "url": "http://api.ss.solarvps.com/api-docs",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Soldfetch",
+        "description": "Show HN: eBay sold listings APIs and MCP",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://soldfetch.com",
+        "discovered_at": "2026-10-10"
     },
     {
         "name": "Soldstack",
@@ -110591,6 +110671,16 @@
         "cors": "unknown",
         "url": "https://www.superprez.io",
         "discovered_at": "2026-08-20"
+    },
+    {
+        "name": "Support",
+        "description": "Gemini Flash and Pro move to paid plans, leaving free users with only Flash-Lite",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://support.google.com/gemini/answer/17004136?hl=en",
+        "discovered_at": "2026-10-10"
     },
     {
         "name": "Suprnova",
@@ -127747,6 +127837,16 @@
         "cors": "unknown",
         "url": "https://apicalculators.com/",
         "discovered_at": "2026-06-15"
+    },
+    {
+        "name": "Audioconverter",
+        "description": "Transcribe Audio to Text Online Free",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://audioconverter.ai/",
+        "discovered_at": "2026-10-10"
     },
     {
         "name": "Bar",
