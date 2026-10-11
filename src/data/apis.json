@@ -2797,6 +2797,16 @@
         "discovered_at": "2026-03-01"
     },
     {
+        "name": "Frontierroles",
+        "description": "Show HN: An MCP server for searching AI engineering jobs",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://frontierroles.com/mcp/",
+        "discovered_at": "2026-10-11"
+    },
+    {
         "name": "Ft",
         "description": "Big Tech's $725B AI spending spree sends free cash flow to a decade low",
         "category": "AI & Machine Learning",
@@ -4302,6 +4312,16 @@
         "cors": "unknown",
         "url": "https://map.currentai.org/",
         "discovered_at": "2026-07-09"
+    },
+    {
+        "name": "Maplehill",
+        "description": "Show HN: OpenWants – A Simulated City Where AI Agents Handle Residents Needs",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://maplehill.openwants.com/",
+        "discovered_at": "2026-10-11"
     },
     {
         "name": "Marcinciura",
@@ -58395,6 +58415,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Freeapihub",
+        "description": "Best Free AI APIs for Developers in 2026",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://freeapihub.com/blog/best-free-ai-apis-developers",
+        "discovered_at": "2026-10-11"
+    },
+    {
         "name": "Freeze",
         "description": "Freeze generates PNGs, SVGs, and WebPs of code and terminal output alike. This Actor is wrapper around the popular https://github.com/charmbracelet/freeze open-source repository.",
         "category": "Development",
@@ -84181,6 +84211,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Volundr",
+        "description": "We're a dev shop and just launched an app builder(giving away 10 free builds)",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://volundr.dev/",
+        "discovered_at": "2026-10-11"
+    },
+    {
         "name": "VTEX Headless CMS",
         "description": "The VTEX Headless CMS is a no-code management system for storefront content. \nThat means you can store your content as structured data in a layer decoupled from the frontend and \nuse the VTEX Headles",
         "category": "E-Commerce",
@@ -90584,6 +90624,16 @@
         "discovered_at": "2026-06-25"
     },
     {
+        "name": "Flopper",
+        "description": "Show HN: Flopper is a hardware explorer for AI infrastructure and beyond",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://flopper.io/",
+        "discovered_at": "2026-10-11"
+    },
+    {
         "name": "Flowshelf",
         "description": "HN: FlowShelf –free,native macOS shelf/clipboard/screenshot app,on-device AI",
         "category": "IoT & Hardware",
@@ -91502,6 +91552,16 @@
         "cors": "unknown",
         "url": "https://apimade.com/chatgpt-auto-router/",
         "discovered_at": "2026-08-14"
+    },
+    {
+        "name": "Aporium",
+        "description": "Show HN: Aporium – A UMAP galaxy of 5800 philosophy excerpts in conversation",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.aporium.app/explore",
+        "discovered_at": "2026-10-11"
     },
     {
         "name": "Bizdata-web",
@@ -99993,6 +100053,16 @@
         "discovered_at": "2026-07-18"
     },
     {
+        "name": "Coperni",
+        "description": "Yet another open source tool to display air quality in Europe and Middle East",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://coperni.azukibeans.dev/places/",
+        "discovered_at": "2026-10-11"
+    },
+    {
         "name": "Copresent",
         "description": "Show HN: Copresent – Turn your phone into a Google Slides remote",
         "category": "Other",
@@ -100051,6 +100121,16 @@
         "cors": "unknown",
         "url": "https://craftbot.live",
         "discovered_at": "2026-06-10"
+    },
+    {
+        "name": "Craftsuite",
+        "description": "Show HN: An unofficial download picker for the ArtCraft Rust apps",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://craftsuite.net/",
+        "discovered_at": "2026-10-11"
     },
     {
         "name": "Craigm26",
@@ -104303,6 +104383,16 @@
         "discovered_at": "2026-09-15"
     },
     {
+        "name": "Kolega",
+        "description": "Show HN: A free coding agent that writes its own multi-agent workflows",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kolega.ai/code",
+        "discovered_at": "2026-10-11"
+    },
+    {
         "name": "Konbiniapi",
         "description": "Show HN: KonbiniAPI – One API for Instagram and TikTok Data, Same JSON Shape",
         "category": "Other",
@@ -104371,6 +104461,16 @@
         "cors": "unknown",
         "url": "https://kreo.work/",
         "discovered_at": "2026-07-18"
+    },
+    {
+        "name": "Kuber",
+        "description": "All Software Is Open Source Now",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kuber.studio/blog/AI/all-software-is-open-source-now",
+        "discovered_at": "2026-10-11"
     },
     {
         "name": "Kumbukum",
@@ -112303,6 +112403,16 @@
         "discovered_at": "2026-08-16"
     },
     {
+        "name": "Wallhop",
+        "description": "Show HN: WallHop – 12ft.io is gone, so I built a replacement",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wallhop.io/",
+        "discovered_at": "2026-10-11"
+    },
+    {
         "name": "Wardstone",
         "description": "Show HN: Wardstone – Prompt injection and jailbreak detection API",
         "category": "Other",
@@ -113927,6 +114037,16 @@
         "cors": "unknown",
         "url": "https://schist.app/",
         "discovered_at": "2026-08-31"
+    },
+    {
+        "name": "Screenbuilder",
+        "description": "Show HN: Another App Store Screenshot Creator, but with high quality images",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://screenbuilder.app/",
+        "discovered_at": "2026-10-11"
     },
     {
         "name": "Seiseiai",
@@ -124405,6 +124525,16 @@
         "discovered_at": "2026-04-26"
     },
     {
+        "name": "Shipornah",
+        "description": "Show HN: ShipOrNah – Free security scan for AI-generated apps",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://shipornah.com",
+        "discovered_at": "2026-10-11"
+    },
+    {
         "name": "Shodan",
         "description": "Internet-wide scanning and device search engine",
         "category": "Security",
@@ -127877,6 +128007,16 @@
         "cors": "unknown",
         "url": "https://beyondprobable.com/posts/litmus-test-ai-features.html",
         "discovered_at": "2026-07-14"
+    },
+    {
+        "name": "Boardsy",
+        "description": "Show HN: Free LED pixel-pitch and display-size calculators (open source)",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://boardsy.co.uk/free-exhibition-display-tools/",
+        "discovered_at": "2026-10-11"
     },
     {
         "name": "Brandomica",
