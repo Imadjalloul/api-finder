@@ -590,6 +590,16 @@
         "discovered_at": "2026-09-17"
     },
     {
+        "name": "Airlock",
+        "description": "Show HN: I built Airlock, to sandbox your AI agent and know what it's doing",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://airlock.sorrel.systems",
+        "discovered_at": "2026-10-12"
+    },
+    {
         "name": "Airposture",
         "description": "AirPosture – AirPods as AI posture coach (Open source)",
         "category": "AI & Machine Learning",
@@ -4883,6 +4893,16 @@
         "discovered_at": "2026-04-20"
     },
     {
+        "name": "Noai",
+        "description": "Show HN: I made an AI free version of my directory of open-source alternatives",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://noai.openaltfinder.com/",
+        "discovered_at": "2026-10-12"
+    },
+    {
         "name": "Nodea",
         "description": "Show HN: Nodea, an open-source AI canvas for working through complex projects",
         "category": "AI & Machine Learning",
@@ -5250,6 +5270,16 @@
         "cors": "unknown",
         "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
         "discovered_at": "2026-08-30"
+    },
+    {
+        "name": "Organ",
+        "description": "Show HN: Organ – Autonomous AI executives that build and operate businesses",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://organ.app/start",
+        "discovered_at": "2026-10-12"
     },
     {
         "name": "Orglet",
@@ -6351,6 +6381,16 @@
         "discovered_at": "2026-04-08"
     },
     {
+        "name": "Seodata",
+        "description": "Show HN: Seodata.dev (1.1) Free search data for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.seodata.dev/",
+        "discovered_at": "2026-10-12"
+    },
+    {
         "name": "Seodraft",
         "description": "Free AI slop checker: find the signs of AI writing",
         "category": "AI & Machine Learning",
@@ -6890,6 +6930,16 @@
         "discovered_at": "2026-05-07"
     },
     {
+        "name": "Synonymizer",
+        "description": "Show HN: Synonymizer – an experiment in non AI text adjustment",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://synonymizer.fyi/",
+        "discovered_at": "2026-10-12"
+    },
+    {
         "name": "Sysdesai",
         "description": "Show HN: I built an AI senior architect – vibe coding meets system design",
         "category": "AI & Machine Learning",
@@ -7168,6 +7218,16 @@
         "cors": "unknown",
         "url": "https://www.thesean.ai/blog/introducing-ship",
         "discovered_at": "2026-07-22"
+    },
+    {
+        "name": "Thetechboom",
+        "description": "Best Free AI Tools 2026: 7 Worth Using and Their Real Limits",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thetechboom.com/2026/09/05/best-free-ai-tools-2026/",
+        "discovered_at": "2026-10-12"
     },
     {
         "name": "Thewebsite",
@@ -7887,6 +7947,16 @@
         "cors": "unknown",
         "url": "https://wexio.io/blog/best-chatbot-small-business",
         "discovered_at": "2026-06-05"
+    },
+    {
+        "name": "Whatmodel",
+        "description": "Show HN: An open source AI leaderboard of the best models your machine can run",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://whatmodel.sh",
+        "discovered_at": "2026-10-12"
     },
     {
         "name": "Which-llm-model",
@@ -20808,6 +20878,16 @@
         "cors": "unknown",
         "url": "https://openllmrank.io/blog/transactional-email-apis",
         "discovered_at": "2026-09-29"
+    },
+    {
+        "name": "Orisift",
+        "description": "Show HN: Orisift, an API that screens signup phone, email, IP and domain",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://orisift.com",
+        "discovered_at": "2026-10-12"
     },
     {
         "name": "Ostt",
@@ -99143,6 +99223,16 @@
         "discovered_at": "2026-06-12"
     },
     {
+        "name": "Brian-armstrong",
+        "description": "Show HN: Yagi DSP Modulation SIM",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://brian-armstrong.github.io/yagi/lab.html",
+        "discovered_at": "2026-10-12"
+    },
+    {
         "name": "bridgedb webservices",
         "description": "bridgedb webservices API",
         "category": "Other",
@@ -99621,6 +99711,16 @@
         "cors": "unknown",
         "url": "https://christophermeiklejohn.com/ai/zabriskie/agents/reliability/testing/2026/06/10/the-test-suite-was-the-incident.html",
         "discovered_at": "2026-06-11"
+    },
+    {
+        "name": "Circleit",
+        "description": "Show HN: CircleIt – Circle something on a web page, your coding agent fixes it",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://circleit.ai",
+        "discovered_at": "2026-10-12"
     },
     {
         "name": "Clarena",
@@ -101763,6 +101863,16 @@
         "discovered_at": "2026-06-30"
     },
     {
+        "name": "Fancanon",
+        "description": "Show HN: Fancanon – A modern fanfiction platform built with SvelteKit",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fancanon.com/",
+        "discovered_at": "2026-10-12"
+    },
+    {
         "name": "Fastbusinessapi",
         "description": "Best Clearbit Alternatives for Company Data Enrichment",
         "category": "Other",
@@ -102583,6 +102693,16 @@
         "discovered_at": "2026-05-29"
     },
     {
+        "name": "Getkayet",
+        "description": "Kayet – a minimalistic Markdown and text editor for macOS (Rust, Tauri)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getkayet.app/",
+        "discovered_at": "2026-10-12"
+    },
+    {
         "name": "Getmaxim",
         "description": "Top Open Source MCP Gateways in 2026",
         "category": "Other",
@@ -102591,6 +102711,16 @@
         "cors": "unknown",
         "url": "https://www.getmaxim.ai/articles/top-5-open-source-mcp-gateways-in-2026/",
         "discovered_at": "2026-08-21"
+    },
+    {
+        "name": "Getmoodi",
+        "description": "Show HN: Moodi – A tiny 3D character for your app's loading states",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.getmoodi.dev",
+        "discovered_at": "2026-10-12"
     },
     {
         "name": "Getpeek",
@@ -103791,6 +103921,16 @@
         "cors": "unknown",
         "url": "https://instantcli.com",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Instantsite",
+        "description": "How do you test AI-generated UIs without a visual baseline?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://instantsite.app",
+        "discovered_at": "2026-10-12"
     },
     {
         "name": "Intelcue",
@@ -109293,6 +109433,16 @@
         "discovered_at": "2026-07-26"
     },
     {
+        "name": "Scaledthought",
+        "description": "Show HN: An OpenAI-compatible API that coding agents sign up for themselves",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://scaledthought.com/go/org-hn",
+        "discovered_at": "2026-10-12"
+    },
+    {
         "name": "Scaleninja",
         "description": "Show HN: Noject – menubar app to stop drive ejections on macOS",
         "category": "Other",
@@ -109901,6 +110051,16 @@
         "cors": "unknown",
         "url": "https://simpluna.app/en",
         "discovered_at": "2026-08-06"
+    },
+    {
+        "name": "Sincethebigbang",
+        "description": "Show HN: Since the Big Bang – 13.8B years on one timeline",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sincethebigbang.com",
+        "discovered_at": "2026-10-12"
     },
     {
         "name": "Sinkhole",
@@ -111491,6 +111651,16 @@
         "cors": "unknown",
         "url": "https://www.tiobe.com/tiobe-index/",
         "discovered_at": "2026-04-16"
+    },
+    {
+        "name": "Titan-ai",
+        "description": "Show HN: I'm a 14-year-old building my first startup, Titan",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://titan-ai.co/",
+        "discovered_at": "2026-10-12"
     },
     {
         "name": "Tlaplus-process-studio",
@@ -129550,6 +129720,16 @@
         "discovered_at": "2026-03-02"
     },
     {
+        "name": "Videotranscriber",
+        "description": "Free YouTube Transcript Generator",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://videotranscriber.ai/youtube-transcript-generator",
+        "discovered_at": "2026-10-12"
+    },
+    {
         "name": "Vimeo",
         "description": "Video hosting, streaming, and player customization",
         "category": "Video & Media",
@@ -129567,6 +129747,16 @@
         "cors": "unknown",
         "url": "https://vimeo.com/1170956860",
         "discovered_at": "2026-03-09"
+    },
+    {
+        "name": "Vocafy",
+        "description": "Show HN: Vocafy – Listen to Vocaloid songs by producer, from the original videos",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vocafy.kkweb.io/en",
+        "discovered_at": "2026-10-12"
     },
     {
         "name": "Vynix",
@@ -129805,6 +129995,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://open-meteo.com/"
+    },
+    {
+        "name": "Openstocks",
+        "description": "OpenStocks, a public earnings forecasting benchmark for AI agents",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://openstocks.com/",
+        "discovered_at": "2026-10-12"
     },
     {
         "name": "OpenWeatherMap",
