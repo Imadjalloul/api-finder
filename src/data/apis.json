@@ -1530,6 +1530,16 @@
         "discovered_at": "2026-09-16"
     },
     {
+        "name": "Buoy",
+        "description": "'free' AI tool is costing you money",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://buoy.gg/blog/no-tools-vs-argent-vs-buoy",
+        "discovered_at": "2026-10-13"
+    },
+    {
         "name": "Businessinsider",
         "description": "Anthropic latest AI model too powerful for public release and broke containment",
         "category": "AI & Machine Learning",
@@ -1936,6 +1946,16 @@
         "cors": "unknown",
         "url": "https://console.seltz.ai/login",
         "discovered_at": "2026-04-21"
+    },
+    {
+        "name": "Console",
+        "description": "Show HN: Reflex – A GGUF-native Rust/CUDA engine for scale-to-zero LLM routing",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://console.runpod.io/hub/listing/lateos-ai/reflex",
+        "discovered_at": "2026-10-13"
     },
     {
         "name": "Conspicuouscognition",
@@ -3694,6 +3714,16 @@
         "discovered_at": "2026-08-29"
     },
     {
+        "name": "Jackdamon",
+        "description": "Show HN: Lacuna – open-source inline AI writing suggestions for your Mac",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jackdamon.org/blog/lacuna/",
+        "discovered_at": "2026-10-13"
+    },
+    {
         "name": "Jacobee",
         "description": "Show HN: Jacobi–IDE for Abaqus subroutine with analytical tests and AI diagnosis",
         "category": "AI & Machine Learning",
@@ -4452,6 +4482,16 @@
         "cors": "unknown",
         "url": "https://memoars.com/",
         "discovered_at": "2026-08-07"
+    },
+    {
+        "name": "Memorysync",
+        "description": "Show HN: MemorySync – Memory for AI Agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://memorysync.io/try",
+        "discovered_at": "2026-10-13"
     },
     {
         "name": "Mentisphere",
@@ -5672,6 +5712,16 @@
         "discovered_at": "2026-08-21"
     },
     {
+        "name": "Proofsource",
+        "description": "Show HN: Proofsource. Find where AI leaves you out. And Fix it",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://proofsource.co/",
+        "discovered_at": "2026-10-13"
+    },
+    {
         "name": "Proreview",
         "description": "Show HN: AI command review drill for engineers and vibe coders",
         "category": "AI & Machine Learning",
@@ -6619,6 +6669,16 @@
         "cors": "unknown",
         "url": "https://solo.digger.lol",
         "discovered_at": "2026-06-05"
+    },
+    {
+        "name": "Solveaicrimes",
+        "description": "Show HN: AI Crimes, a game where you spot the bug an AI wrote",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://solveaicrimes.com",
+        "discovered_at": "2026-10-13"
     },
     {
         "name": "Soundwise",
@@ -20559,6 +20619,16 @@
         "cors": "unknown",
         "url": "https://www.freecustom.email/en",
         "discovered_at": "2026-03-14"
+    },
+    {
+        "name": "Fusebox",
+        "description": "Show HN: Fusebox – get emailed before an OpenAI API bill runs away",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fusebox.sifatsrk.workers.dev/",
+        "discovered_at": "2026-10-13"
     },
     {
         "name": "Getsun",
@@ -56166,6 +56236,16 @@
         "discovered_at": "2026-10-07"
     },
     {
+        "name": "Developers",
+        "description": "ML Drift: Google's open-source on-device GPU inference engine",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
+        "discovered_at": "2026-10-13"
+    },
+    {
         "name": "Devthropology",
         "description": "Show HN: Devthropology – Better Insights for GitHub Repos",
         "category": "Development",
@@ -58853,6 +58933,16 @@
         "cors": "unknown",
         "url": "https://getcomper.ai/blog/open-source-announcement",
         "discovered_at": "2026-04-18"
+    },
+    {
+        "name": "Getret",
+        "description": "Show HN: Ret – An inbox and canvas for your Codex and Claude Code agents",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getret.app/",
+        "discovered_at": "2026-10-13"
     },
     {
         "name": "Getspeq",
@@ -87281,6 +87371,16 @@
         "discovered_at": "2026-09-30"
     },
     {
+        "name": "Bloody-disgusting",
+        "description": "'Remnants' – Ti West Directed First Immersive Horror Movie for Apple Vision Pro",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bloody-disgusting.com/the-further/3971489/remants-ti-west-directed-the-first-immersive-horror-movie-for-the-apple-vision-pro/",
+        "discovered_at": "2026-10-13"
+    },
+    {
         "name": "Bored API",
         "description": "Suggestions for random activities when bored",
         "category": "Entertainment",
@@ -89510,6 +89610,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://developer.edamam.com/"
+    },
+    {
+        "name": "Groglog",
+        "description": "Show HN: GrogLog, a Free Drink Tracker",
+        "category": "Food & Drink",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://groglog.io",
+        "discovered_at": "2026-10-13"
     },
     {
         "name": "Kadoa",
@@ -92110,6 +92220,16 @@
         "discovered_at": "2026-08-05"
     },
     {
+        "name": "Rustgis",
+        "description": "RustGIS – GIS in pure Rust for mapping, analyzing and sharing geospatial data",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rustgis.app/",
+        "discovered_at": "2026-10-13"
+    },
+    {
         "name": "Searchrouter-demo",
         "description": "Show HN: Any Search, One API",
         "category": "Maps & Transport",
@@ -93574,6 +93694,16 @@
         "cors": "unknown",
         "url": "https://hackobar.com/",
         "discovered_at": "2026-05-26"
+    },
+    {
+        "name": "Hitest",
+        "description": "I used an AI QA agent to test Hacker News",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hitest.ai/blog/demo-hacker-news",
+        "discovered_at": "2026-10-13"
     },
     {
         "name": "Hn-ai-newsletter",
@@ -104813,6 +104943,16 @@
         "discovered_at": "2026-06-26"
     },
     {
+        "name": "Learnbchs",
+        "description": "BCHS is an open source software stack for web apps. BSD, C, httpd, SQLite",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://learnbchs.org/",
+        "discovered_at": "2026-10-13"
+    },
+    {
         "name": "Letsclarify",
         "description": "Show HN: LetsClarify – A dead-simple API for Human-in-the-loop AI\"",
         "category": "Other",
@@ -109153,6 +109293,16 @@
         "discovered_at": "2026-07-09"
     },
     {
+        "name": "Robogym",
+        "description": "Show HN: RoboGym – open-source (Apache-2.0) Dual arm SO101 playground",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.robogym.dev/envs/so101-dual-arm",
+        "discovered_at": "2026-10-13"
+    },
+    {
         "name": "Rondb",
         "description": "Reaching 100M key lookups per second with REST API and Python clients",
         "category": "Other",
@@ -110091,6 +110241,16 @@
         "cors": "unknown",
         "url": "https://sixb.ai/news/sixb-framework-launch",
         "discovered_at": "2026-08-05"
+    },
+    {
+        "name": "Sk500",
+        "description": "Fixing Yum Indexing on Sonatype Nexus and the Non-Open-Source Upgrade",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sk500.online/tech/fixing-yum-indexing-on-sonatype-nexus-and-the-non-opensource-upgrade/",
+        "discovered_at": "2026-10-13"
     },
     {
         "name": "Skillswitch",
@@ -112693,6 +112853,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Web",
+        "description": "RustGIS – Cross-Platform GIS in Rust with an ArcGIS Pro-Style Ribbon UI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://web.rustgis.app/",
+        "discovered_at": "2026-10-13"
+    },
+    {
         "name": "Web-doc-scanner",
         "description": "Web-Doc-Scanner: Best Web Document Scanner",
         "category": "Other",
@@ -113071,6 +113241,16 @@
         "cors": "unknown",
         "url": "https://xhtml.es/",
         "discovered_at": "2026-09-25"
+    },
+    {
+        "name": "Xn--teilifssen-04a4l",
+        "description": "Show HN: Teilifís Seán – A Jellyfin Plugin for Channel Surfing",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://xn--teilifssen-04a4l.ie/",
+        "discovered_at": "2026-10-13"
     },
     {
         "name": "Xsdr",
@@ -125022,6 +125202,16 @@
         "discovered_at": "2026-06-11"
     },
     {
+        "name": "Askbaab",
+        "description": "Show HN: I ran the same founder dilemma through ChatGPT, Claude, and BAAB AI",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://askbaab.com/blog/same-prompt-test-chatgpt-claude-baab-ai",
+        "discovered_at": "2026-10-13"
+    },
+    {
         "name": "Beacon-notify",
         "description": "Show HN: Beacon – Slack app for structured team announcements with subscriptions",
         "category": "Social",
@@ -129279,6 +129469,16 @@
         "cors": "unknown",
         "url": "https://www.masterselects.com",
         "discovered_at": "2026-07-16"
+    },
+    {
+        "name": "Mastershot",
+        "description": "Show HN: Mastershot – a free web-based video editor (WASM AI)",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mastershot.app/video-editor/",
+        "discovered_at": "2026-10-13"
     },
     {
         "name": "Media API",
