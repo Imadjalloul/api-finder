@@ -530,6 +530,16 @@
         "discovered_at": "2026-06-26"
     },
     {
+        "name": "Aihub",
+        "description": "Show HN: AI Hub – Open Access Lesson Plans for Teaching Students about AI",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aihub.remakelearning.org/",
+        "discovered_at": "2026-10-14"
+    },
+    {
         "name": "Aiking",
         "description": "Show HN: AI Philosopher King – how would an AI run the world?",
         "category": "AI & Machine Learning",
@@ -5392,6 +5402,16 @@
         "discovered_at": "2026-08-09"
     },
     {
+        "name": "Parsimony",
+        "description": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://parsimony.lasu.dev/",
+        "discovered_at": "2026-10-14"
+    },
+    {
         "name": "Passcontrol",
         "description": "Show HN: PassControl – so your AI agents never hold your real API keys",
         "category": "AI & Machine Learning",
@@ -5802,6 +5822,16 @@
         "discovered_at": "2026-06-11"
     },
     {
+        "name": "Pulseos",
+        "description": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pulseos.finance",
+        "discovered_at": "2026-10-14"
+    },
+    {
         "name": "Pypi",
         "description": "Show HN: InferShrink – Cut LLM API costs 10x with automatic model routing",
         "category": "AI & Machine Learning",
@@ -5980,6 +6010,16 @@
         "cors": "unknown",
         "url": "https://recalld.ai/",
         "discovered_at": "2026-09-30"
+    },
+    {
+        "name": "Receptive-field-flame",
+        "description": "Learn Convolutional Neural Networks Interactively for Free",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://receptive-field-flame.vercel.app/",
+        "discovered_at": "2026-10-14"
     },
     {
         "name": "Recif-platform",
@@ -6878,6 +6918,16 @@
         "cors": "unknown",
         "url": "https://www.subrungear.com/",
         "discovered_at": "2026-09-16"
+    },
+    {
+        "name": "Sugabots",
+        "description": "Show HN: Sugabots – Group chats where your team and AI agents work together",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sugabots.ai/",
+        "discovered_at": "2026-10-14"
     },
     {
         "name": "Suhasbhairav",
@@ -12258,6 +12308,16 @@
         "discovered_at": "2026-10-05"
     },
     {
+        "name": "Remote-jobs-api",
+        "description": "Show HN: Free remote jobs API – 630k live listings across 16 job boards, no auth",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://remote-jobs-api.tten.no",
+        "discovered_at": "2026-10-14"
+    },
+    {
         "name": "Scissor",
         "description": "Show HN: Free alternative to graphics design giants",
         "category": "Auth & Identity",
@@ -13099,6 +13159,16 @@
         "cors": "unknown",
         "url": "https://booklike.app/",
         "discovered_at": "2026-06-18"
+    },
+    {
+        "name": "Bookofjoe2",
+        "description": "Bookofjoe's Favorite Thing: Best Pill Splitter",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bookofjoe2.blogspot.com/2026/09/bookofjoes-favorite-thing-worlds-best.html",
+        "discovered_at": "2026-10-14"
     },
     {
         "name": "Booksfromgreats",
@@ -27805,6 +27875,16 @@
         "cors": "unknown",
         "url": "https://apify.com/pratikdani/discover-twitter-profiles-posts",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Docs",
+        "description": "Show HN: Stream live open data in two commands",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://docs.hypermass.io/docs/cli/",
+        "discovered_at": "2026-10-14"
     },
     {
         "name": "Docter Scraper",
@@ -63558,6 +63638,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Museumofages",
+        "description": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://museumofages.org/w/vinci",
+        "discovered_at": "2026-10-14"
+    },
+    {
         "name": "MX Records",
         "description": "-",
         "category": "Development",
@@ -87797,6 +87887,16 @@
         "discovered_at": "2026-06-14"
     },
     {
+        "name": "Minisani",
+        "description": "Show HN: Vaguely Right, a Jev-based daily game – submit a clue to hit the target",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://minisani.com/vaguely-right/",
+        "discovered_at": "2026-10-14"
+    },
+    {
         "name": "Msn",
         "description": "Hollywood fights AI in public while building it into movies",
         "category": "Entertainment",
@@ -88329,6 +88429,16 @@
         "cors": "unknown",
         "url": "https://whatpetshouldiget.com/play.html",
         "discovered_at": "2026-07-12"
+    },
+    {
+        "name": "Wonderhop",
+        "description": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wonderhop.io/en/",
+        "discovered_at": "2026-10-14"
     },
     {
         "name": "Worldboard",
@@ -103933,6 +104043,16 @@
         "discovered_at": "2026-05-24"
     },
     {
+        "name": "Indigene",
+        "description": "Show HN: Indigene – native plants for where you stand",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://indigene.app/",
+        "discovered_at": "2026-10-14"
+    },
+    {
         "name": "Inerrata",
         "description": "Show HN: [inerrata] – Collective and Causal Knowledge Layer for Coding Agents",
         "category": "Other",
@@ -105131,6 +105251,16 @@
         "cors": "unknown",
         "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
         "discovered_at": "2026-07-28"
+    },
+    {
+        "name": "Loglinealign",
+        "description": "Show HN: LogLineAlign: Merge logs from different time zones into one timeline",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://loglinealign.com/",
+        "discovered_at": "2026-10-14"
     },
     {
         "name": "Longbridge",
@@ -112351,6 +112481,16 @@
         "cors": "unknown",
         "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
         "discovered_at": "2026-07-02"
+    },
+    {
+        "name": "Usehev",
+        "description": "Show HN: Hev is a Jev-compatible API, answered by humans",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://usehev.com",
+        "discovered_at": "2026-10-14"
     },
     {
         "name": "Uselayer",
@@ -126640,6 +126780,16 @@
         "url": "https://dummyjson.com/"
     },
     {
+        "name": "Fakenamegenerator",
+        "description": "Show HN: Fakenamegenerator – free browser based mock data generator",
+        "category": "Testing",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.fakenamegenerator.online/",
+        "discovered_at": "2026-10-14"
+    },
+    {
         "name": "Faker.js",
         "description": "Generate massive amounts of fake data",
         "category": "Testing",
@@ -129890,6 +130040,16 @@
         "discovered_at": "2026-07-30"
     },
     {
+        "name": "Turboscribeai",
+        "description": "TurboScribe AI – 100% Free Video to Text and Audio to Text",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.turboscribeai.com/",
+        "discovered_at": "2026-10-14"
+    },
+    {
         "name": "Video-commander",
         "description": "Show HN: Video Commander – A desktop IDE for video engineers (FFmpeg, VMAF)",
         "category": "Video & Media",
@@ -130156,6 +130316,16 @@
         "cors": "unknown",
         "url": "https://headlinearena.com",
         "discovered_at": "2026-10-06"
+    },
+    {
+        "name": "Insideclimatenews",
+        "description": "Drought, Pollution, & Poverty: The Race for Lithium Is Becoming a Race for Water",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://insideclimatenews.org/news/11102026/lithium-race-becomes-race-for-water-in-arid-west/",
+        "discovered_at": "2026-10-14"
     },
     {
         "name": "Literadar",
