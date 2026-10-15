@@ -1640,6 +1640,16 @@
         "discovered_at": "2026-07-20"
     },
     {
+        "name": "Capsem",
+        "description": "Capsem – a Rust hypervisor sandboxing AI agents in air-gapped Linux VMs",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://capsem.org/",
+        "discovered_at": "2026-10-15"
+    },
+    {
         "name": "Caravo",
         "description": "Show HN: Service marketplace for AI agents, 300 APIs and data sources",
         "category": "AI & Machine Learning",
@@ -2207,6 +2217,16 @@
         "discovered_at": "2026-06-26"
     },
     {
+        "name": "Devanshranjan",
+        "description": "I got $300K in startup credits for my AI company at 18: the playbook",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://devanshranjan.medium.com/im-18-and-got-300k-in-free-startup-credits-for-my-ai-company-here-s-the-exact-playbook-0603a44abcea",
+        "discovered_at": "2026-10-15"
+    },
+    {
         "name": "Dhrive",
         "description": "Show HN: Dhrive – Prompt to a native iOS app, built locally with your own AI CLI",
         "category": "AI & Machine Learning",
@@ -2575,6 +2595,16 @@
         "cors": "unknown",
         "url": "https://fabraix.com",
         "discovered_at": "2026-04-20"
+    },
+    {
+        "name": "Face-rating",
+        "description": "AI Face Rating – Discover Your Face Rating Free",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://face-rating.app/",
+        "discovered_at": "2026-10-15"
     },
     {
         "name": "Factagora",
@@ -3922,6 +3952,16 @@
         "cors": "unknown",
         "url": "https://www.kodama.run/",
         "discovered_at": "2026-04-10"
+    },
+    {
+        "name": "Korben",
+        "description": "REA – I tested AI agent reverse engineering",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://korben.info/en/rea-ai-agent-reverse-engineering-test.html",
+        "discovered_at": "2026-10-15"
     },
     {
         "name": "Kota",
@@ -5642,6 +5682,16 @@
         "discovered_at": "2026-07-15"
     },
     {
+        "name": "Precisionnumerics",
+        "description": "Show HN: Boole-1.7B, a 1-bit LLM that outperforms Bonsai-1.7B",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://precisionnumerics.ai/blog/boole-1p7b",
+        "discovered_at": "2026-10-15"
+    },
+    {
         "name": "Prevail",
         "description": "Prevail – open-source AI \"life OS\" (not for your job)",
         "category": "AI & Machine Learning",
@@ -7358,6 +7408,16 @@
         "cors": "unknown",
         "url": "https://theyfell.com/",
         "discovered_at": "2026-09-03"
+    },
+    {
+        "name": "Thezvi",
+        "description": "Arguments About AI Consciousness Remain Highly Motivated and Overconfident",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thezvi.wordpress.com/2026/10/13/arguments-about-ai-consciousness-remain-highly-motivated-and-at-best-overconfident/",
+        "discovered_at": "2026-10-15"
     },
     {
         "name": "Thisisrobin",
@@ -11564,6 +11624,16 @@
         "cors": "unknown",
         "url": "https://peninsulaforeveryone.org/blog/atherton-spent-145k-to-delay-caltrain-electrification-the-rest-of-us-paid-400-million-and-waited-3-extra-years/",
         "discovered_at": "2026-06-01"
+    },
+    {
+        "name": "Petal",
+        "description": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://petal.live/",
+        "discovered_at": "2026-10-15"
     },
     {
         "name": "Petercsauer",
@@ -20419,6 +20489,16 @@
         "cors": "unknown",
         "url": "https://clarity.rocktangle.com/",
         "discovered_at": "2026-03-25"
+    },
+    {
+        "name": "Clova",
+        "description": "Show HN: I wrote an email app that accepts only one sender per inbox",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://clova.email/",
+        "discovered_at": "2026-10-15"
     },
     {
         "name": "Clwnt",
@@ -59313,6 +59393,16 @@
         "discovered_at": "2026-03-31"
     },
     {
+        "name": "Gitvolt",
+        "description": "Show HN: GitVolt, open source fast Git GUI (Tauri/CEF)",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gitvolt.com/",
+        "discovered_at": "2026-10-15"
+    },
+    {
         "name": "Global",
         "description": "-",
         "category": "Development",
@@ -69994,6 +70084,16 @@
         "cors": "unknown",
         "url": "https://usegitbar.app/",
         "discovered_at": "2026-05-06"
+    },
+    {
+        "name": "Usemerlin",
+        "description": "Show HN: Merlin, Run Your Claude Code and Codex from Slack, Linear and GitHub",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://usemerlin.ai",
+        "discovered_at": "2026-10-15"
     },
     {
         "name": "User Info Generator API",
@@ -81423,6 +81523,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Realdesignbenchmark",
+        "description": "Show HN: Real Design Benchmark – can you tell AI designs from real products?",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.realdesignbenchmark.com",
+        "discovered_at": "2026-10-15"
+    },
+    {
         "name": "RealEstate.co.nz Listings Scraper",
         "description": "Scrape property listings from RealEstate.co.nz by providing a search URL, with automatic pagination and comprehensive property information extraction.",
         "category": "E-Commerce",
@@ -87649,6 +87759,16 @@
         "discovered_at": "2026-03-25"
     },
     {
+        "name": "Film",
+        "description": "Show HN: I'll Call You Later, an interactive 3D browser short film",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://film.jashtechno.com",
+        "discovered_at": "2026-10-15"
+    },
+    {
         "name": "Gamefound",
         "description": "Show HN: Aether Summon – A New TCG",
         "category": "Entertainment",
@@ -88185,6 +88305,16 @@
         "discovered_at": "2026-05-02"
     },
     {
+        "name": "Ronangaillard",
+        "description": "Show HN: Factory DS, A Factorio-Like Game for the Nintendo DS",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ronangaillard.github.io/posts/factory-ds-a-factory-game-for-the-nintendo-ds/",
+        "discovered_at": "2026-10-15"
+    },
+    {
         "name": "Scoragora",
         "description": "Show HN: I revived Scoragora, a World Cup prediction game",
         "category": "Entertainment",
@@ -88350,6 +88480,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.themoviedb.org/documentation/api"
+    },
+    {
+        "name": "Towerpanic",
+        "description": "Show HN: TowerPanic – a family party game on a small FastAPI realtime engine",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://towerpanic.com/",
+        "discovered_at": "2026-10-15"
     },
     {
         "name": "Trakt API",
@@ -89921,6 +90061,16 @@
         "cors": "unknown",
         "url": "https://developer.mastercard.com/devzone/api/portal/swagger/locations",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Mediaguesser",
+        "description": "Show HN: Daily image location guessing agains AI",
+        "category": "Geocoding",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mediaguesser.com/human-vs-ai",
+        "discovered_at": "2026-10-15"
     },
     {
         "name": "Nominatim",
@@ -93517,6 +93667,16 @@
         "cors": "unknown",
         "url": "https://blog.karljtaylor.com/blog/2026-02-28-xai-search-api-suppression/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Bookpress",
+        "description": "Show HN: A faster WordPress core written in C/C++ (Live Demo)",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bookpress.io/",
+        "discovered_at": "2026-10-15"
     },
     {
         "name": "Boomerang-news",
@@ -99143,6 +99303,16 @@
         "discovered_at": "2026-06-15"
     },
     {
+        "name": "Blobz",
+        "description": "Show HN: Blobz: generate playful, deterministic SVG avatars from any string",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blobz.lirena.in",
+        "discovered_at": "2026-10-15"
+    },
+    {
         "name": "Blockatlas",
         "description": "Show HN: How many people live within an hour walk of you?",
         "category": "Other",
@@ -99261,6 +99431,16 @@
         "cors": "unknown",
         "url": "https://blog.softwarewrighter.com/2026/09/16/ai-tools-coding-agent-in-mlpl/",
         "discovered_at": "2026-09-17"
+    },
+    {
+        "name": "Blog",
+        "description": "Wanted to download an ISO, ended up writing a kernel exploit",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+        "discovered_at": "2026-10-15"
     },
     {
         "name": "Blogmaker",
@@ -100411,6 +100591,16 @@
         "cors": "unknown",
         "url": "https://www.copresent.app/",
         "discovered_at": "2026-07-09"
+    },
+    {
+        "name": "Copytap",
+        "description": "Show HN: I think Apple should have built this a long time ago",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://copytap.netlify.app/",
+        "discovered_at": "2026-10-15"
     },
     {
         "name": "Corporate",
@@ -102263,6 +102453,16 @@
         "discovered_at": "2026-07-18"
     },
     {
+        "name": "Finance",
+        "description": "Show HN: Collaborative money tracker, E2E encryption, MCP",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://finance.rivaire.pro/demo",
+        "discovered_at": "2026-10-15"
+    },
+    {
         "name": "Findborg",
         "description": "Show HN:Findborg – ad-free find engine with community, AI, and real web results",
         "category": "Other",
@@ -102553,6 +102753,16 @@
         "discovered_at": "2026-04-29"
     },
     {
+        "name": "Foundinthemachine",
+        "description": "I'm Not a Robot: The Internet's Human Test",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://foundinthemachine.com/episodes/8-i-m-not-a-robot-the-internet-s-human-test/",
+        "discovered_at": "2026-10-15"
+    },
+    {
         "name": "Foura",
         "description": "Post-quantum TLS rolled out last January and broke most open-source scrapers",
         "category": "Other",
@@ -102771,6 +102981,16 @@
         "cors": "unknown",
         "url": "https://www.generateppt.com/",
         "discovered_at": "2026-07-31"
+    },
+    {
+        "name": "Genevarender",
+        "description": "Show HN: Geneva, a Rust FFmpeg CLI alternative with HTML/CSS graphics",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://genevarender.com",
+        "discovered_at": "2026-10-15"
     },
     {
         "name": "Genexperiences",
@@ -103011,6 +103231,16 @@
         "cors": "unknown",
         "url": "https://getscalar.dev/",
         "discovered_at": "2026-09-25"
+    },
+    {
+        "name": "Getsill",
+        "description": "Sill – free/open source app to stream any window from you Mac onto iPhone/iPad",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getsill.app/",
+        "discovered_at": "2026-10-15"
     },
     {
         "name": "Getsitetell",
@@ -103301,6 +103531,16 @@
         "cors": "unknown",
         "url": "https://gopeek-lovat.vercel.app/blog-chrome-best-browser-2026.html",
         "discovered_at": "2026-06-15"
+    },
+    {
+        "name": "Gopuzzlego",
+        "description": "A free jigsaw puzzle generator (SVG/PDF/STL, Voronoi pieces, no account)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gopuzzlego.com/generator",
+        "discovered_at": "2026-10-15"
     },
     {
         "name": "Gpu",
@@ -107333,6 +107573,16 @@
         "discovered_at": "2026-09-23"
     },
     {
+        "name": "Openmrp",
+        "description": "Show HN: Open-source DFM checks for manufacturing and MCP",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://openmrp.ai/dfm",
+        "discovered_at": "2026-10-15"
+    },
+    {
         "name": "Openotp",
         "description": "Show HN: My First OSS as a Teen",
         "category": "Other",
@@ -109533,6 +109783,16 @@
         "discovered_at": "2026-03-14"
     },
     {
+        "name": "Runinfra",
+        "description": "Is this the best inference for agents?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://runinfra.ai",
+        "discovered_at": "2026-10-15"
+    },
+    {
         "name": "Runlocal",
         "description": "Show HN: Runlocal – Open-source localhost tunnel, no signup, no tracking",
         "category": "Other",
@@ -110703,6 +110963,16 @@
         "discovered_at": "2026-08-30"
     },
     {
+        "name": "Spectrallabs",
+        "description": "A Turing Test for Physical Engineering",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.spectrallabs.ai/research/cswp-turing-test",
+        "discovered_at": "2026-10-15"
+    },
+    {
         "name": "Spectrum",
         "description": "Open-Source Software Is Starting to Help Robots Think",
         "category": "Other",
@@ -110851,6 +111121,16 @@
         "cors": "unknown",
         "url": "https://srest.scszero.com/docs.html",
         "discovered_at": "2026-09-03"
+    },
+    {
+        "name": "Sshah03",
+        "description": "Show HN: CueLight – open-source <2mb/0.5M param always listening turn detector",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sshah03.github.io/CueLight/",
+        "discovered_at": "2026-10-15"
     },
     {
         "name": "Stackdome",
@@ -111031,6 +111311,16 @@
         "cors": "unknown",
         "url": "https://stillwind.ai",
         "discovered_at": "2026-06-13"
+    },
+    {
+        "name": "Stof",
+        "description": "Show HN: Run AI-generated logic safely inside your app",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stof.dev/",
+        "discovered_at": "2026-10-15"
     },
     {
         "name": "Story-lab",
@@ -112333,6 +112623,16 @@
         "discovered_at": "2026-03-23"
     },
     {
+        "name": "Tweet-analyzer",
+        "description": "Show HN: Tweet Analyzer – Analyze your tweet draft based on X's ranking signals",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tweet-analyzer.com",
+        "discovered_at": "2026-10-15"
+    },
+    {
         "name": "Twing",
         "description": "Show HN: Coordination Layer for Coding Agents",
         "category": "Other",
@@ -112393,6 +112693,16 @@
         "discovered_at": "2026-06-19"
     },
     {
+        "name": "Uji",
+        "description": "Show HN: Ito – Build Terminal UIs in Lua",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://uji.sh/ito/",
+        "discovered_at": "2026-10-15"
+    },
+    {
         "name": "Unfudged",
         "description": "Show HN: Unfucked - version all changes (by any tool) - local-first/source avail",
         "category": "Other",
@@ -112401,6 +112711,16 @@
         "cors": "unknown",
         "url": "https://www.unfudged.io/",
         "discovered_at": "2026-03-01"
+    },
+    {
+        "name": "Uprightproject",
+        "description": "Show HN: Eevo – Consequential Decision Model",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.uprightproject.com/eevo/",
+        "discovered_at": "2026-10-15"
     },
     {
         "name": "Ups",
@@ -113981,6 +114301,16 @@
         "cors": "unknown",
         "url": "https://blindlock.app/en/",
         "discovered_at": "2026-09-11"
+    },
+    {
+        "name": "Checkobot",
+        "description": "Show HN: Checkobot – Detect Deepfakes and AI Images",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://checkobot.ai",
+        "discovered_at": "2026-10-15"
     },
     {
         "name": "Chivukulavirinchi",
