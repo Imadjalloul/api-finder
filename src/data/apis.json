@@ -3305,6 +3305,16 @@
         "discovered_at": "2026-03-05"
     },
     {
+        "name": "Guessthellm",
+        "description": "Show HN: Guess the LLM – read an answer and guess which model wrote it",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://guessthellm.com/",
+        "discovered_at": "2026-10-16"
+    },
+    {
         "name": "Hahooh",
         "description": "Show HN: Hahooh – Give AI agents the power to build their own MCP tools",
         "category": "AI & Machine Learning",
@@ -20889,6 +20899,16 @@
         "cors": "unknown",
         "url": "https://keepscreenon.vercel.app",
         "discovered_at": "2026-08-01"
+    },
+    {
+        "name": "Kitaphone",
+        "description": "Show HN: Kitaphone – Call mobile phones and landlines directly from the browser",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kitaphone.com",
+        "discovered_at": "2026-10-16"
     },
     {
         "name": "Knock",
@@ -56336,6 +56356,16 @@
         "discovered_at": "2026-09-03"
     },
     {
+        "name": "Developer",
+        "description": "Nvidia Run:AI Is Now Open Source as Part of Nvidia DSX AI Factory Platform",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/",
+        "discovered_at": "2026-10-16"
+    },
+    {
         "name": "Developer Intelligence Pro",
         "description": "Advanced developer ecosystem analysis. Tracks technology trends and community insights. Essential for tech companies and developers.",
         "category": "Development",
@@ -59381,6 +59411,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://docs.gitlab.com/ee/api/"
+    },
+    {
+        "name": "Gitsu",
+        "description": "Show HN: Gitsu.app – A Linear-alternative built on GitHub Projects",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gitsu.app/",
+        "discovered_at": "2026-10-16"
     },
     {
         "name": "Gitvelocity",
@@ -67424,6 +67464,16 @@
         "cors": "unknown",
         "url": "https://apify.com/prodmarkllc/snipcss-actor",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Snitch",
+        "description": "Show HN: Just gave Claude Code the website and ad budget to see what it would do",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://snitch.alphaventure.com/gate.php",
+        "discovered_at": "2026-10-16"
     },
     {
         "name": "Snowflake Uploader",
@@ -100343,6 +100393,16 @@
         "discovered_at": "2026-09-24"
     },
     {
+        "name": "Co2",
+        "description": "We open source our CO₂ emissions – and so should you",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://co2.berget.ai/",
+        "discovered_at": "2026-10-16"
+    },
+    {
         "name": "Coached",
         "description": "Show HN: Behavioral analysis of your career decisions from your LinkedIn",
         "category": "Other",
@@ -103803,6 +103863,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Hexnoth",
+        "description": "Show HN: Wesnoth wouldn't run on my phone -- I rebuilt the combat in the browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hexnoth.com/",
+        "discovered_at": "2026-10-16"
+    },
+    {
         "name": "Hextrap",
         "description": "Show HN: Hextrap – Package Firewall with OPA Policies and MCP Support",
         "category": "Other",
@@ -104731,6 +104801,16 @@
         "cors": "unknown",
         "url": "https://jovethra.xyz/playground",
         "discovered_at": "2026-08-16"
+    },
+    {
+        "name": "Jsonexlab",
+        "description": "Show HN: I built 7 B2B APIs and 5 MCP servers for compliance and trade",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jsonexlab.com",
+        "discovered_at": "2026-10-16"
     },
     {
         "name": "Juandecos",
@@ -106273,6 +106353,16 @@
         "discovered_at": "2026-03-31"
     },
     {
+        "name": "Meritcapit",
+        "description": "VC performance index from public records: 50 firms, 29k companies, API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://meritcapit.al",
+        "discovered_at": "2026-10-16"
+    },
+    {
         "name": "Message Center API",
         "description": "Message Center API API",
         "category": "Other",
@@ -106633,6 +106723,16 @@
         "discovered_at": "2026-08-29"
     },
     {
+        "name": "Mordiem",
+        "description": "Show HN: Mordiem – OpenAI-compatible API with multi-network failover",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mordiem.com",
+        "discovered_at": "2026-10-16"
+    },
+    {
         "name": "Morgin",
         "description": "Which Model Uncensoring Method Works Best?",
         "category": "Other",
@@ -106771,6 +106871,16 @@
         "cors": "unknown",
         "url": "https://munderdiffl.in/",
         "discovered_at": "2026-06-07"
+    },
+    {
+        "name": "Muse",
+        "description": "Mosquito Joe FDD teardown: 66% fee load, 380% termination spike",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://muse.ai/s/mosquito-joe-fdd-teardown-ch6bxnotxfxldxe",
+        "discovered_at": "2026-10-16"
     },
     {
         "name": "Mustuse",
@@ -111393,6 +111503,16 @@
         "discovered_at": "2026-06-01"
     },
     {
+        "name": "Stylebot",
+        "description": "Show HN: Stylebot 4 – restyle any website, by hand or with your coding agent",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stylebot.dev/",
+        "discovered_at": "2026-10-16"
+    },
+    {
         "name": "Subdomains",
         "description": "Show HN: A free API to query 3.5B subdomains",
         "category": "Other",
@@ -112773,6 +112893,16 @@
         "discovered_at": "2026-04-14"
     },
     {
+        "name": "Usebeeline",
+        "description": "Show HN: Beeline Multiplayer Agent Harness",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://usebeeline.app",
+        "discovered_at": "2026-10-16"
+    },
+    {
         "name": "Usecharming",
         "description": "Show HN: Charming – Build and share apps like Google Docs",
         "category": "Other",
@@ -113281,6 +113411,16 @@
         "cors": "unknown",
         "url": "https://www.waxspinner.com",
         "discovered_at": "2026-07-04"
+    },
+    {
+        "name": "Wayseer",
+        "description": "Show HN: Wayseer – A native desktop app for browsing real-time data",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wayseer.app/",
+        "discovered_at": "2026-10-16"
     },
     {
         "name": "Wc-2026-predictions",
@@ -124112,6 +124252,16 @@
         "discovered_at": "2026-09-08"
     },
     {
+        "name": "Au",
+        "description": "Space (AI agent containment sandbox) software open source",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://au.finance.yahoo.com/news/perplexity-open-source-tool-used-180212360.html",
+        "discovered_at": "2026-10-16"
+    },
+    {
         "name": "Axiologic",
         "description": "Show HN:Over 50 AI-assisted books on science fiction and original philosophy",
         "category": "Science",
@@ -124378,6 +124528,16 @@
         "https": true,
         "cors": "yes",
         "url": "http://numbersapi.com/"
+    },
+    {
+        "name": "Perplexity",
+        "description": "Perplexity open-sources SPACE, the sandbox platform behind Computer",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.perplexity.ai/hub/blog/open-sourcing-space",
+        "discovered_at": "2026-10-16"
     },
     {
         "name": "Polynya",
