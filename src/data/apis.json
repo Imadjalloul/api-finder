@@ -2028,6 +2028,16 @@
         "discovered_at": "2026-04-15"
     },
     {
+        "name": "Councilai",
+        "description": "Show HN: Council AI. Spot biases / hallucinations in top AI models",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://councilai.app",
+        "discovered_at": "2026-10-17"
+    },
+    {
         "name": "Crowpay",
         "description": "Show HN: CrowPay – add x402 in a few lines, let AI agents pay per request",
         "category": "AI & Machine Learning",
@@ -4364,6 +4374,16 @@
         "discovered_at": "2026-07-10"
     },
     {
+        "name": "Lumovi",
+        "description": "I built an open-source Kubernetes dashboard where AI agents ask before they act",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lumovi.dev/",
+        "discovered_at": "2026-10-17"
+    },
+    {
         "name": "Lusob",
         "description": "Show HN: Neural window manager, neural network moving windows from mouse actions",
         "category": "AI & Machine Learning",
@@ -4903,6 +4923,16 @@
         "discovered_at": "2026-07-22"
     },
     {
+        "name": "Nevermined",
+        "description": "Show HN: Check if your AI Agent looks good for clients",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nevermined.app/agents-scoring",
+        "discovered_at": "2026-10-17"
+    },
+    {
         "name": "Newrepublic",
         "description": "The AI industry is discovering that the public hates it",
         "category": "AI & Machine Learning",
@@ -4911,6 +4941,16 @@
         "cors": "unknown",
         "url": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
         "discovered_at": "2026-04-26"
+    },
+    {
+        "name": "Next-brain",
+        "description": "Show HN: Brian2 Atlas, a Rust engine for distributed neural simulation",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://next-brain.ai/brian2-atlas/",
+        "discovered_at": "2026-10-17"
     },
     {
         "name": "Nextplatform",
@@ -6719,6 +6759,16 @@
         "cors": "unknown",
         "url": "https://skillscan.chitacloud.dev",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Slopgrid",
+        "description": "Show HN: SlopGrid – Create your own oneshot AI model benchmarks",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://slopgrid.com/",
+        "discovered_at": "2026-10-17"
     },
     {
         "name": "Socket",
@@ -20320,6 +20370,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/APIs-guru/unofficial_openapi_specs/master/stackexchange.com/2.0/openapi.yaml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "2tinteractive",
+        "description": "2TI LMailer – Native Linux email and groupware (Rust, Tauri v2, local Ollama)",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://2tinteractive.com/apps/lmailer/",
+        "discovered_at": "2026-10-17"
     },
     {
         "name": "Abstract SMS",
@@ -97493,6 +97553,16 @@
         "discovered_at": "2026-04-10"
     },
     {
+        "name": "3dvalley",
+        "description": "Show HN: I built a free collection of browser-based 3D tools",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://3dvalley.com",
+        "discovered_at": "2026-10-17"
+    },
+    {
         "name": "43",
         "description": "Show HN: DeepSeek API – 50pct cheaper, no minimum, instant key delivery",
         "category": "Other",
@@ -98071,6 +98141,16 @@
         "cors": "unknown",
         "url": "https://amdson.github.io/blog/crystals/",
         "discovered_at": "2026-04-12"
+    },
+    {
+        "name": "Amictest",
+        "description": "Show HN: Online Microphone Test",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://amictest.com/",
+        "discovered_at": "2026-10-17"
     },
     {
         "name": "Amigafreeware",
@@ -102313,6 +102393,16 @@
         "discovered_at": "2026-05-13"
     },
     {
+        "name": "Fakeipedia",
+        "description": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fakeipedia.org",
+        "discovered_at": "2026-10-17"
+    },
+    {
         "name": "Family-tree-maker",
         "description": "Show HN: Family Tree Maker",
         "category": "Other",
@@ -104043,6 +104133,16 @@
         "discovered_at": "2026-09-01"
     },
     {
+        "name": "Hoverenhance",
+        "description": "HoverEnhance is a free Mac app that surfaces useful stuff on-hover",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hoverenhance.com/",
+        "discovered_at": "2026-10-17"
+    },
+    {
         "name": "Howareu",
         "description": "Show HN: Is he OK? Senior safety monitoring app",
         "category": "Other",
@@ -105533,6 +105633,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Liquid",
+        "description": "D1-Ultra: Introducing the Best Decision Model",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.liquid.ai/blog/d1-ultra",
+        "discovered_at": "2026-10-17"
+    },
+    {
         "name": "Listendock",
         "description": "Show HN: ListenDock now supports free TTS and bring-your-own API keys",
         "category": "Other",
@@ -106613,6 +106723,16 @@
         "discovered_at": "2026-06-03"
     },
     {
+        "name": "Modlit",
+        "description": "Show HN: A fun little app to play with chaos",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://modlit.io/emergence/",
+        "discovered_at": "2026-10-17"
+    },
+    {
         "name": "Modrent",
         "description": "Show HN: Modrent Minecraft Hosting",
         "category": "Other",
@@ -107501,6 +107621,16 @@
         "cors": "unknown",
         "url": "https://omnimod.net",
         "discovered_at": "2026-06-23"
+    },
+    {
+        "name": "Onedeploy",
+        "description": "Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://onedeploy.co",
+        "discovered_at": "2026-10-17"
     },
     {
         "name": "Oneuptime",
@@ -110213,6 +110343,16 @@
         "discovered_at": "2026-07-16"
     },
     {
+        "name": "Scriberpro",
+        "description": "Show HN: Scriber-Pro 2.0, a Mac app that transcribes m3u8 streams from web pages",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://scriberpro.cc/hn2/",
+        "discovered_at": "2026-10-17"
+    },
+    {
         "name": "Scrinly",
         "description": "Show HN: Scrinly – A screenshot API that returns page regions and visual diffs",
         "category": "Other",
@@ -112053,6 +112193,16 @@
         "discovered_at": "2026-09-20"
     },
     {
+        "name": "Thebaffler",
+        "description": "Go Piss, Girl: The plight of the public potty",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thebaffler.com/latest/go-piss-girl-wagner",
+        "discovered_at": "2026-10-17"
+    },
+    {
         "name": "Thecompany",
         "description": "Show HN: MoneyCo – A coding agent built for accounting",
         "category": "Other",
@@ -112851,6 +113001,16 @@
         "cors": "unknown",
         "url": "https://ups.dev/",
         "discovered_at": "2026-03-19"
+    },
+    {
+        "name": "Urpiano",
+        "description": "Show HN: Online Piano – Play a Free Virtual Piano Keyboard",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://urpiano.com/",
+        "discovered_at": "2026-10-17"
     },
     {
         "name": "Uruky",
@@ -115116,6 +115276,16 @@
         "cors": "unknown",
         "url": "https://videm.ai/",
         "discovered_at": "2026-09-04"
+    },
+    {
+        "name": "Videre",
+        "description": "Show HN: Videre – a Rust CLI to manage your photos and videos with joy",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://videre.sh/",
+        "discovered_at": "2026-10-17"
     },
     {
         "name": "Yle",
@@ -122575,6 +122745,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Thingstodoapi",
+        "description": "Show HN: Things to Do API",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thingstodoapi.com/",
+        "discovered_at": "2026-10-17"
+    },
+    {
         "name": "Threads Post Media Downloader 🧵📥",
         "description": "Extract and download high-quality media from Threads.net posts 🧵 Get direct download links for images and videos shared on Threads, perfect for content creators, social media managers, and...",
         "category": "Productivity",
@@ -124211,6 +124391,16 @@
         "cors": "unknown",
         "url": "https://algohol.net/",
         "discovered_at": "2026-07-26"
+    },
+    {
+        "name": "Anima",
+        "description": "Show HN: Anima, interactive biology models from plain English (open source)",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://anima.arcumet.com",
+        "discovered_at": "2026-10-17"
     },
     {
         "name": "App",
@@ -125862,6 +126052,16 @@
         "discovered_at": "2026-08-21"
     },
     {
+        "name": "Blog",
+        "description": "Show HN: Agent Chat in Your Markdown Notes – Chat with Context and Save Response",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.etherpk.com/agent-chat-ask-a-language-model-about-your-notes",
+        "discovered_at": "2026-10-17"
+    },
+    {
         "name": "Boredpeoplechat",
         "description": "Show HN: Bored People Chat – Anonymous global chat room",
         "category": "Social",
@@ -126680,6 +126880,16 @@
         "cors": "unknown",
         "url": "https://www.techtarget.com/searchitoperations/news/366644831/Nvidia-adopts-OpenBao-open-source-fork-of-HashiCorps-Vault",
         "discovered_at": "2026-06-22"
+    },
+    {
+        "name": "Tennis",
+        "description": "Show HN: Tennis, a local/offline context store",
+        "category": "Sports",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tennis.jlachance1.workers.dev/",
+        "discovered_at": "2026-10-17"
     },
     {
         "name": "Testflight",
@@ -129792,6 +130002,16 @@
         "discovered_at": "2026-08-14"
     },
     {
+        "name": "Formatif",
+        "description": "Show HN: 63 media tools in a 54MB Rust app with local phone-to-PC transfer",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://formatif.net/formatif-pro",
+        "discovered_at": "2026-10-17"
+    },
+    {
         "name": "Forum",
         "description": "Sam Altman on Building the Future of AI [video]",
         "category": "Video & Media",
@@ -130944,6 +131164,16 @@
         "cors": "unknown",
         "url": "https://seasonmap.app",
         "discovered_at": "2026-09-17"
+    },
+    {
+        "name": "Stoke",
+        "description": "Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stoke.money",
+        "discovered_at": "2026-10-17"
     },
     {
         "name": "Strataweather",
