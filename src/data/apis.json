@@ -940,6 +940,16 @@
         "discovered_at": "2026-03-27"
     },
     {
+        "name": "Apistack",
+        "description": "Show HN: A free MCP server for facts LLMs get wrong (time zones, holidays, FX)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apistack.online/mcp",
+        "discovered_at": "2026-10-19"
+    },
+    {
         "name": "App",
         "description": "AI Foundry – Flat-Fee Unlimited LLM Inference on Blackwell GPUs in NZ",
         "category": "AI & Machine Learning",
@@ -4342,6 +4352,16 @@
         "cors": "unknown",
         "url": "https://lobsterlair.xyz",
         "discovered_at": "2026-03-12"
+    },
+    {
+        "name": "Local-host",
+        "description": "Show HN: Connecting Captions Local Private AI Interpreter",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://local-host.ai/connectingCaptions/",
+        "discovered_at": "2026-10-19"
     },
     {
         "name": "Longtermemory",
@@ -7787,6 +7807,16 @@
         "cors": "unknown",
         "url": "https://typetab.app/blog/local-llms-on-your-mac",
         "discovered_at": "2026-09-25"
+    },
+    {
+        "name": "Uidesigneditor",
+        "description": "Show HN: Free design canvas for your AI (open source)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://uidesigneditor.com/",
+        "discovered_at": "2026-10-19"
     },
     {
         "name": "Unbubble",
@@ -11504,6 +11534,16 @@
         "cors": "unknown",
         "url": "https://essaycompass.net/",
         "discovered_at": "2026-07-30"
+    },
+    {
+        "name": "Farsidelab",
+        "description": "Show HN: A 3D catalog of rocket engines you can take apart",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://farsidelab.com/concept/rocket-engines/",
+        "discovered_at": "2026-10-19"
     },
     {
         "name": "Finalapp",
@@ -47617,6 +47657,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Visualrambling",
+        "description": "Show HN: Distance Fields Visualization",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://visualrambling.space/distance-fields/",
+        "discovered_at": "2026-10-19"
+    },
+    {
         "name": "Vitals Scraper",
         "description": "Automate your search for medical providers with our Vitals.com data aggregator. Get ratings, reviews, specialties, and contact information without manual effort. Perfect for researchers, medical...",
         "category": "Data & Analytics",
@@ -65276,6 +65326,16 @@
         "cors": "unknown",
         "url": "https://apify.com/pintxuki/pornhub-model-extractor-videos-profile",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Portal",
+        "description": "Deploy a Django app with PostgreSQL for free, with VS Code in the browser",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://portal.uppcoder.com/guides/deploy-django-postgresql",
+        "discovered_at": "2026-10-19"
     },
     {
         "name": "Portal Inmobiliario Property Details Scraper",
@@ -87879,6 +87939,16 @@
         "discovered_at": "2026-06-28"
     },
     {
+        "name": "Digs",
+        "description": "Show HN: Digs – For Passionate Music Explorers (Like Goodreads for Music)",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://digs.fm",
+        "discovered_at": "2026-10-19"
+    },
+    {
         "name": "Dozenal",
         "description": "Show HN: Dozenal – A Game of Spatial Arithmetic",
         "category": "Entertainment",
@@ -88085,6 +88155,16 @@
         "cors": "unknown",
         "url": "https://m2w.ai/en",
         "discovered_at": "2026-08-28"
+    },
+    {
+        "name": "Maestroscore",
+        "description": "Maestro: A new free music notation app",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://maestroscore.app/",
+        "discovered_at": "2026-10-19"
     },
     {
         "name": "Majority-eight",
@@ -88582,6 +88662,16 @@
         "cors": "unknown",
         "url": "https://stardrift.gerlach.dev/",
         "discovered_at": "2026-09-20"
+    },
+    {
+        "name": "Steeltoe777",
+        "description": "I made a combined snake-tron game using free AI",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://steeltoe777.github.io/snakegame/",
+        "discovered_at": "2026-10-19"
     },
     {
         "name": "Stiuvou",
@@ -91404,6 +91494,16 @@
         "discovered_at": "2026-09-15"
     },
     {
+        "name": "Meetcap",
+        "description": "Show HN: MeetCap – Free on-device meeting transcription your AI agent can run",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://meetcap.seacen.dev/",
+        "discovered_at": "2026-10-19"
+    },
+    {
         "name": "Mimicscribe",
         "description": "Show HN: On-device transcriber that's 97% accurate at identifying speakers",
         "category": "IoT & Hardware",
@@ -92598,6 +92698,16 @@
         "cors": "unknown",
         "url": "https://patronus.studio/",
         "discovered_at": "2026-05-14"
+    },
+    {
+        "name": "Ranet3",
+        "description": "Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ranet3.com/",
+        "discovered_at": "2026-10-19"
     },
     {
         "name": "Relaylabs",
@@ -100273,6 +100383,16 @@
         "discovered_at": "2026-09-06"
     },
     {
+        "name": "Chest",
+        "description": "Show HN: Chest – a tiny, open-source menu bar manager for macOS 27",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://chest.boringbar.app/",
+        "discovered_at": "2026-10-19"
+    },
+    {
         "name": "Chestnut",
         "description": "Show HN: Chestnut – The antidote to AI-induced skill atrophy",
         "category": "Other",
@@ -100631,6 +100751,16 @@
         "cors": "unknown",
         "url": "https://comma.ai/shop/chestnut",
         "discovered_at": "2026-08-14"
+    },
+    {
+        "name": "Companyofcraft",
+        "description": "Show HN: IP Lookup API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://companyofcraft.com/ip-lookup",
+        "discovered_at": "2026-10-19"
     },
     {
         "name": "Composables",
@@ -102721,6 +102851,16 @@
         "cors": "unknown",
         "url": "https://www.firezone.dev/blog/rest-api-ga",
         "discovered_at": "2026-08-22"
+    },
+    {
+        "name": "Firmendaten",
+        "description": "Show HN: Firmendaten: Parsed balance sheets for every Austrian company",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://firmendaten.researchly.at/bilanzen/vergleichen",
+        "discovered_at": "2026-10-19"
     },
     {
         "name": "Fitchratings",
@@ -110893,6 +111033,16 @@
         "discovered_at": "2026-04-10"
     },
     {
+        "name": "Simpleflying",
+        "description": "Chicago O'Hare Digs Up 50-Ton Boulder Under Airfield, Asks Public for Name Ideas",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
+        "discovered_at": "2026-10-19"
+    },
+    {
         "name": "Simplerouting",
         "description": "Show HN: Simple Routing – Low Cost Vehicle Routing APIs",
         "category": "Other",
@@ -113391,6 +113541,16 @@
         "cors": "unknown",
         "url": "https://vetkuro.com/show-hn",
         "discovered_at": "2026-06-03"
+    },
+    {
+        "name": "Viablesystems",
+        "description": "Why we decided to open source Relate",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://viablesystems.ai/writing/why-we-decided-to-open-source-relate",
+        "discovered_at": "2026-10-19"
     },
     {
         "name": "Vibeleaderboard",
@@ -117384,6 +117544,16 @@
         "cors": "unknown",
         "url": "https://apify.com/pintostudio/invest-crypto-overview",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Csvfile",
+        "description": "Show HN: I built a CSV viewer and editor on the one true productivity layout",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://csvfile.tools/viewer",
+        "discovered_at": "2026-10-19"
     },
     {
         "name": "Currency Converter",
@@ -128621,6 +128791,16 @@
         "discovered_at": "2026-09-17"
     },
     {
+        "name": "Panelfont",
+        "description": "Show HN: Panel Font-AI Manga Translator",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.panelfont.com/",
+        "discovered_at": "2026-10-19"
+    },
+    {
         "name": "Purgomalum",
         "description": "Free profanity filter for user-generated content",
         "category": "Text & Language",
@@ -130241,6 +130421,16 @@
         "discovered_at": "2026-07-17"
     },
     {
+        "name": "Hq",
+        "description": "Free Hub for P2P Sharing, QR-Gen, File Converting, YouTube Video Extraction",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hq.freedev.app/",
+        "discovered_at": "2026-10-19"
+    },
+    {
         "name": "Hushbook",
         "description": "Show HN: Read while you listen to your Audiobooks",
         "category": "Video & Media",
@@ -130581,6 +130771,16 @@
         "discovered_at": "2026-04-27"
     },
     {
+        "name": "Reducer",
+        "description": "Show HN: Stream Reducer – Podcast/Video AI Summarization at Scale",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://reducer.xgoose.org/",
+        "discovered_at": "2026-10-19"
+    },
+    {
         "name": "Removebackgroundnoise",
         "description": "Remove background noise from audio/video in the browser, free preview",
         "category": "Video & Media",
@@ -130848,6 +131048,16 @@
         "cors": "unknown",
         "url": "https://www.turboscribeai.org/",
         "discovered_at": "2026-10-18"
+    },
+    {
+        "name": "Turboscribeai",
+        "description": "TurboScribe AI: Free Video to Text, Audio to Text – No Sign Up",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.turboscribeai.net/",
+        "discovered_at": "2026-10-19"
     },
     {
         "name": "Video-commander",
