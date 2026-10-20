@@ -4424,6 +4424,16 @@
         "discovered_at": "2026-05-14"
     },
     {
+        "name": "Maali",
+        "description": "Show HN: Maali – Privacy-first personal finance app with a local AI analyst",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://maali.app/",
+        "discovered_at": "2026-10-20"
+    },
+    {
         "name": "Magicbookshelf",
         "description": "Magicbookshelf.org – Using AI to create a spoiler-free companion to any book",
         "category": "AI & Machine Learning",
@@ -6799,6 +6809,16 @@
         "cors": "unknown",
         "url": "https://www.skillhound.ai/",
         "discovered_at": "2026-06-03"
+    },
+    {
+        "name": "Skills",
+        "description": "Show HN: One-click AI PR review buttons (no API keys, no CI)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.skills.sh/tdk-landscape/tdk-skills/tdk-pr-review-buttons",
+        "discovered_at": "2026-10-20"
     },
     {
         "name": "Skillscan",
@@ -11584,6 +11604,16 @@
         "cors": "unknown",
         "url": "https://api.swaggerhub.com/apis/pcraig3/groundhog-day-api/1.2.1",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Jeffyclassify",
+        "description": "Show HN: Free text classification piece for Activepieces",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jeffyclassify.com/blog/activepieces-jeffy/",
+        "discovered_at": "2026-10-20"
     },
     {
         "name": "Justif",
@@ -20781,6 +20811,16 @@
         "discovered_at": "2026-06-25"
     },
     {
+        "name": "Driftwatch",
+        "description": "Show HN: Driftwatch – breaking-change alerts for the third-party APIs you call",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://driftwatch.et",
+        "discovered_at": "2026-10-20"
+    },
+    {
         "name": "Ebookaloud",
         "description": "Show HN: eBook to audiobook narration with realistic AI voices",
         "category": "Communication",
@@ -21467,6 +21507,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://docs.sendgrid.com/"
+    },
+    {
+        "name": "Sendreward",
+        "description": "Show HN: SendReward – gift cards at face value, dashboard or one API call",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sendreward.com/",
+        "discovered_at": "2026-10-20"
     },
     {
         "name": "Sensecollect",
@@ -70456,6 +70506,16 @@
         "discovered_at": "2026-06-26"
     },
     {
+        "name": "Vibetown",
+        "description": "Show HN: Vibetown – public sandboxes to vibecode with strangers",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vibetown.social",
+        "discovered_at": "2026-10-20"
+    },
+    {
         "name": "Victorribeiro",
         "description": "Show HN: I used Claude Code to address the HN comments on my 2019 game",
         "category": "Development",
@@ -85261,6 +85321,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Xtract-production-2efc",
+        "description": "Show HN: Search for AI-agents and usefulness score",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://xtract-production-2efc.up.railway.app/",
+        "discovered_at": "2026-10-20"
+    },
+    {
         "name": "Xxxlutz Scraper",
         "description": "xxxlutz Scraper: Apify Actor extracts product data (name, price, images, SKU, description) from xxxlutz.de using German residential proxies. Returns structured JSON for market analysis and inventory..",
         "category": "E-Commerce",
@@ -92244,6 +92314,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "12axestest",
+        "description": "Show HN: Axes Test – Client-side multi-axis political spectrum mapper",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://12axestest.org",
+        "discovered_at": "2026-10-20"
+    },
+    {
         "name": "Aisbf",
         "description": "Show HN: Aisbf, a self-hostable OpenAI-compatible AI proxy/router",
         "category": "Maps & Transport",
@@ -92738,6 +92818,16 @@
         "cors": "unknown",
         "url": "https://reticleops.com/",
         "discovered_at": "2026-06-17"
+    },
+    {
+        "name": "Rouler",
+        "description": "Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rouler.io/",
+        "discovered_at": "2026-10-20"
     },
     {
         "name": "Routebase",
@@ -97923,6 +98013,16 @@
         "discovered_at": "2026-09-23"
     },
     {
+        "name": "Adampaigge",
+        "description": "Show HN: An Open Source Aircraft",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://adampaigge.github.io/openplane/",
+        "discovered_at": "2026-10-20"
+    },
+    {
         "name": "Adcreator-ai",
         "description": "Show HN: Free ad-headline generator that labels the persuasion technique used",
         "category": "Other",
@@ -98031,6 +98131,16 @@
         "cors": "unknown",
         "url": "https://www.agentmcp.studio",
         "discovered_at": "2026-04-26"
+    },
+    {
+        "name": "Agentmemories",
+        "description": "Should agent-memory benchmarks test stale information?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agentmemories.ai/home",
+        "discovered_at": "2026-10-20"
     },
     {
         "name": "Agentplace",
@@ -101533,6 +101643,16 @@
         "discovered_at": "2026-09-11"
     },
     {
+        "name": "Demo",
+        "description": "Show HN: ULDA – Client-side encryption with a simple JavaScript API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://demo.ulda.io/",
+        "discovered_at": "2026-10-20"
+    },
+    {
         "name": "Demoday",
         "description": "Show HN: Beautiful Clickable Demos",
         "category": "Other",
@@ -101961,6 +102081,16 @@
         "cors": "unknown",
         "url": "https://dorkly.stanl.ink/download/",
         "discovered_at": "2026-03-15"
+    },
+    {
+        "name": "Dovepass",
+        "description": "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dovepass.com",
+        "discovered_at": "2026-10-20"
     },
     {
         "name": "Dragonruby",
@@ -103971,6 +104101,16 @@
         "cors": "unknown",
         "url": "https://grooved.okat.best/",
         "discovered_at": "2026-09-13"
+    },
+    {
+        "name": "Groupcommit",
+        "description": "Show HN: Create commitments that only begin once enough people have signed up",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://groupcommit.org/",
+        "discovered_at": "2026-10-20"
     },
     {
         "name": "Guestlist",
@@ -109923,6 +110063,16 @@
         "discovered_at": "2026-09-11"
     },
     {
+        "name": "Resourcedeck",
+        "description": "Show HN: Resourcedeck, free and open source resource and portfolio planning",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://resourcedeck.app/",
+        "discovered_at": "2026-10-20"
+    },
+    {
         "name": "Resources",
         "description": "Show HN: Open-source CLI to generate UI tests from user flows",
         "category": "Other",
@@ -113913,6 +114063,16 @@
         "discovered_at": "2026-04-03"
     },
     {
+        "name": "Wedecide",
+        "description": "Show HN: WeDecide – A tool for easier decision making for group trips",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wedecide.now",
+        "discovered_at": "2026-10-20"
+    },
+    {
         "name": "Weejur",
         "description": "Show HN: A free tool for non-technical folks to easily publish a website",
         "category": "Other",
@@ -115866,6 +116026,16 @@
         "cors": "unknown",
         "url": "https://apify.com/easyapi/gumroad-reviews-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "3anddoneapp",
+        "description": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://3anddoneapp.com/try",
+        "discovered_at": "2026-10-20"
     },
     {
         "name": "99acres.com Scraper 🏠",
