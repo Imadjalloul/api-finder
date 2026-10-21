@@ -1190,6 +1190,16 @@
         "discovered_at": "2026-03-18"
     },
     {
+        "name": "Asktori",
+        "description": "Show HN: Tori by TalkJS. AI support that's actually good",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://asktori.ai",
+        "discovered_at": "2026-10-21"
+    },
+    {
         "name": "Asticouisland",
         "description": "Testing in the Open Air: a shared test range for AI agents",
         "category": "AI & Machine Learning",
@@ -3994,6 +4004,16 @@
         "discovered_at": "2026-04-10"
     },
     {
+        "name": "Koody",
+        "description": "Show HN: Koody for Business – AI bookkeeping for people who aren't accountants",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://koody.com/business",
+        "discovered_at": "2026-10-21"
+    },
+    {
         "name": "Korben",
         "description": "REA – I tested AI agent reverse engineering",
         "category": "AI & Machine Learning",
@@ -6291,6 +6311,16 @@
         "discovered_at": "2026-04-17"
     },
     {
+        "name": "Respawnfirst",
+        "description": "Demands for AI Filter on Steam Grow as Next Fest Is Flooded with AI Slop",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://respawnfirst.com/demands-for-ai-filter-steam-next-fest-ai-slop/",
+        "discovered_at": "2026-10-21"
+    },
+    {
         "name": "Reteach",
         "description": "Show HN: Reteach – AI tutor that feels human",
         "category": "AI & Machine Learning",
@@ -6951,6 +6981,16 @@
         "discovered_at": "2026-04-24"
     },
     {
+        "name": "Squidbrake",
+        "description": "Show HN: We replayed 12 real AI agent incidents against our open-source tool",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://squidbrake.com/benchmark",
+        "discovered_at": "2026-10-21"
+    },
+    {
         "name": "Srikanth",
         "description": "AI vs. Open Source, Part 1: The Empty Grant",
         "category": "AI & Machine Learning",
@@ -7498,6 +7538,16 @@
         "cors": "unknown",
         "url": "https://thepiece.app/en",
         "discovered_at": "2026-06-04"
+    },
+    {
+        "name": "Therobotreport",
+        "description": "AWS launches open-source Physical AI Toolchain for robotics",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/",
+        "discovered_at": "2026-10-21"
     },
     {
         "name": "Thesean",
@@ -12232,6 +12282,16 @@
         "discovered_at": "2026-06-16"
     },
     {
+        "name": "Alterauth",
+        "description": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://alterauth.com/",
+        "discovered_at": "2026-10-21"
+    },
+    {
         "name": "Asimovaddendum",
         "description": "The Apache Lesson for AI",
         "category": "Auth & Identity",
@@ -13469,6 +13529,16 @@
         "cors": "unknown",
         "url": "https://codefloe.com/rabc/albums-vault",
         "discovered_at": "2026-08-31"
+    },
+    {
+        "name": "Csvpath",
+        "description": "Show HN: Open-source edge data governance library",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.csvpath.org",
+        "discovered_at": "2026-10-21"
     },
     {
         "name": "Cutthroat",
@@ -60921,6 +60991,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Ign",
+        "description": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+        "discovered_at": "2026-10-21"
+    },
+    {
         "name": "Ikea Product Availability",
         "description": "The IKEA Product Availability Actor is a web scraping tool that helps you check the availability of IKEA products across different stores.",
         "category": "Development",
@@ -88197,6 +88277,16 @@
         "url": "https://v2.jokeapi.dev/"
     },
     {
+        "name": "Kinorogames",
+        "description": "Show HN: Circix: Rewired – a Hashi-style circuit puzzle rebuilt in PixiJS",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kinorogames.itch.io/circix-rewired",
+        "discovered_at": "2026-10-21"
+    },
+    {
         "name": "Letterphile",
         "description": "Show HN: I created a Scrabble-like word game with simple rules and fun combos",
         "category": "Entertainment",
@@ -89342,6 +89432,16 @@
         "cors": "unknown",
         "url": "https://shouldiswap.com/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Smartercurrency",
+        "description": "Show HN: iOS location based traveler's currency conversion with tax estimations",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.smartercurrency.app",
+        "discovered_at": "2026-10-21"
     },
     {
         "name": "Spread",
@@ -91462,6 +91562,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/rithvikvibhu/GHLocalApi/master/GoogleHome.openapi3.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Gradium",
+        "description": "Gradium open-sourced its on-device TTS",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gradium.ai/phonon",
+        "discovered_at": "2026-10-21"
     },
     {
         "name": "Hackster",
@@ -104313,6 +104423,16 @@
         "discovered_at": "2026-06-18"
     },
     {
+        "name": "Heyida",
+        "description": "Show HN: Ida, the Mac assistant Siri should have been",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.heyida.ai/",
+        "discovered_at": "2026-10-21"
+    },
+    {
         "name": "Heyrepairo",
         "description": "Show HN: Repairo-I built CLI tool that detects breaking API changes and fixes it",
         "category": "Other",
@@ -104663,6 +104783,16 @@
         "discovered_at": "2026-08-27"
     },
     {
+        "name": "Idealab",
+        "description": "1,208,577 business ideas. Free",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://idealab.ai/",
+        "discovered_at": "2026-10-21"
+    },
+    {
         "name": "Idontuselinkedin",
         "description": "Show HN: Idontuselinkedin.com",
         "category": "Other",
@@ -104751,6 +104881,16 @@
         "cors": "unknown",
         "url": "https://www.implicitmarkets.com/",
         "discovered_at": "2026-04-02"
+    },
+    {
+        "name": "Incacad",
+        "description": "Show HN: Inca – a free, open-source 3D app that works like Maya 2020",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://incacad.com/",
+        "discovered_at": "2026-10-21"
     },
     {
         "name": "Incidentary",
@@ -105671,6 +105811,16 @@
         "cors": "unknown",
         "url": "https://kyulauncher.com/",
         "discovered_at": "2026-06-05"
+    },
+    {
+        "name": "Lab4",
+        "description": "Db4 is open source: local RAG on Postgres in a browser tab",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lab4.app/blog/db4-is-now-open-source/",
+        "discovered_at": "2026-10-21"
     },
     {
         "name": "Labcompass",
@@ -106953,6 +107103,16 @@
         "discovered_at": "2026-08-13"
     },
     {
+        "name": "Minuteoffame",
+        "description": "Show HN: Minute of Fame – own one minute of the day, it airs live every day",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://minuteoffame.lol",
+        "discovered_at": "2026-10-21"
+    },
+    {
         "name": "Mirrorball",
         "description": "Show HN: Mirrorball – easy port forwarding for remote dev hosts",
         "category": "Other",
@@ -106961,6 +107121,16 @@
         "cors": "unknown",
         "url": "https://mirrorball.sanil.co/",
         "discovered_at": "2026-06-24"
+    },
+    {
+        "name": "Misfitdev",
+        "description": "Show HN: Daisy – macOS software KVM with native trackpad gestures",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://misfitdev.github.io/daisy/",
+        "discovered_at": "2026-10-21"
     },
     {
         "name": "Missionlocal",
@@ -108543,6 +108713,16 @@
         "discovered_at": "2026-07-23"
     },
     {
+        "name": "Pagecritic",
+        "description": "Show HN: My attempt to get Claude to run a business",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pagecritic.app/",
+        "discovered_at": "2026-10-21"
+    },
+    {
         "name": "Paintlustrator",
         "description": "Show HN: Paintlustrator – a free iPad app to draw and export SVGs",
         "category": "Other",
@@ -108681,6 +108861,16 @@
         "cors": "unknown",
         "url": "https://pastesheet.com",
         "discovered_at": "2026-07-15"
+    },
+    {
+        "name": "Patchwave",
+        "description": "Show HN: PatchWave - Add static analysis and automerge to Dependabot",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://patchwave.ai/",
+        "discovered_at": "2026-10-21"
     },
     {
         "name": "PatientView",
@@ -108831,6 +109021,16 @@
         "cors": "unknown",
         "url": "https://phulin.me/blog/simtower",
         "discovered_at": "2026-05-01"
+    },
+    {
+        "name": "Pianotry",
+        "description": "Show HN: PianoTry, Play and remix beautiful chord progressions",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pianotry.com",
+        "discovered_at": "2026-10-21"
     },
     {
         "name": "Piecely",
@@ -112021,6 +112221,16 @@
         "cors": "unknown",
         "url": "https://strudai.com",
         "discovered_at": "2026-06-01"
+    },
+    {
+        "name": "Studio",
+        "description": "Show HN: What if Instinct and GrokBot had a baby?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://studio.sharenow.today/",
+        "discovered_at": "2026-10-21"
     },
     {
         "name": "Stylebot",
@@ -115221,6 +115431,16 @@
         "cors": "unknown",
         "url": "https://imagemetadataextractor.com/",
         "discovered_at": "2026-06-13"
+    },
+    {
+        "name": "Jevcards",
+        "description": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jevcards.com",
+        "discovered_at": "2026-10-21"
     },
     {
         "name": "Kilnimage",
@@ -125806,6 +126026,16 @@
         "discovered_at": "2026-03-17"
     },
     {
+        "name": "Dailycrack",
+        "description": "Show HN: Daily password puzzle game with real passwords from data breaches",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dailycrack.app",
+        "discovered_at": "2026-10-21"
+    },
+    {
         "name": "Depwarden",
         "description": "Show HN: DepWarden – free, anonymous dependency vulnerability scanner",
         "category": "Security",
@@ -129078,6 +129308,16 @@
         "cors": "unknown",
         "url": "https://api.tcgdex.net/v2/openapi.yaml",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "The-last-word",
+        "description": "Show HN: A retro arcade style tower climber where your only weapon is a shield",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://the-last-word.ca/return-to-sender/",
+        "discovered_at": "2026-10-21"
     },
     {
         "name": "Theodorehq",
