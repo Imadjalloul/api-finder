@@ -10,6 +10,16 @@
         "discovered_at": "2026-06-16"
     },
     {
+        "name": "100toolkit",
+        "description": "Show HN: Qwen3-4B with the AI writing tics trained out",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://100toolkit.com/blog/deslop-model/",
+        "discovered_at": "2026-10-22"
+    },
+    {
         "name": "12gramsofcarbon",
         "description": "OSS Maintainers Need an Answer to AI Clean Rooms",
         "category": "AI & Machine Learning",
@@ -528,6 +538,16 @@
         "cors": "unknown",
         "url": "https://aifreeaistack.com/",
         "discovered_at": "2026-06-26"
+    },
+    {
+        "name": "Aifreetoday",
+        "description": "Show HN: Continue a ChatGPT/Claude/Gemini chat in another free AI at the limit",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aifreetoday.com/us/transfer-chat/",
+        "discovered_at": "2026-10-22"
     },
     {
         "name": "Aihub",
@@ -2537,6 +2557,16 @@
         "discovered_at": "2026-07-15"
     },
     {
+        "name": "Editor",
+        "description": "A free agentic app builder where LLMs only write what deterministic tools can't",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://editor.besser-pearl.org/",
+        "discovered_at": "2026-10-22"
+    },
+    {
         "name": "Edotenv",
         "description": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
         "category": "AI & Machine Learning",
@@ -2615,6 +2645,26 @@
         "cors": "unknown",
         "url": "https://erickxdev.vercel.app/en/blog/ai-didnt-break-open-source/",
         "discovered_at": "2026-08-11"
+    },
+    {
+        "name": "Eurohpc-ju",
+        "description": "EuroHPC AI Factories: free supercomputing access for EU AI startups – calls open",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.eurohpc-ju.europa.eu/ai-factories/ai-factories-access-modes_en",
+        "discovered_at": "2026-10-22"
+    },
+    {
+        "name": "Explain-ai",
+        "description": "Show HN: ExplAIn, a free directory of compliance scores for AI tools",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.explain-ai.com",
+        "discovered_at": "2026-10-22"
     },
     {
         "name": "Explyt",
@@ -2705,6 +2755,16 @@
         "cors": "unknown",
         "url": "https://find-best-job.com/en/blog/agent-job-search-real-numbers",
         "discovered_at": "2026-07-25"
+    },
+    {
+        "name": "Firmenza",
+        "description": "Show HN: Firmenza – An AI employee for SAM.gov",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://firmenza.com",
+        "discovered_at": "2026-10-22"
     },
     {
         "name": "First-breath-website",
@@ -6479,6 +6539,16 @@
         "cors": "unknown",
         "url": "https://rustfoundation.org/resource/rust-and-ai-position-statement/",
         "discovered_at": "2026-07-09"
+    },
+    {
+        "name": "Rustoffrails",
+        "description": "Rust off Rails: The opinionated web stack for the AI era",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rustoffrails.org/",
+        "discovered_at": "2026-10-22"
     },
     {
         "name": "Ryvos",
@@ -11547,6 +11617,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Certavert",
+        "description": "Show HN: CertAvert – Free SSL/TLS tools and certificate expiry alerts",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://certavert.com",
+        "discovered_at": "2026-10-22"
+    },
+    {
         "name": "Certleaf",
         "description": "Show HN: CertLeaf helps event organizers issue verifiable E-certificates",
         "category": "Animals",
@@ -11764,6 +11844,16 @@
         "cors": "unknown",
         "url": "https://naveensrinivasan.com/posts/2026-08-07-finding-hidden-internal-apps-through-public-certificate-logs/",
         "discovered_at": "2026-08-08"
+    },
+    {
+        "name": "Neoinbox",
+        "description": "Show HN: NeoInbox, a recreation of Google Inbox as a Thunderbird extension",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://neoinbox.freakified.net/",
+        "discovered_at": "2026-10-22"
     },
     {
         "name": "Nookipedia",
@@ -12447,6 +12537,16 @@
         "cors": "unknown",
         "url": "https://jamesoclaire.com/2026/06/10/scan-any-ios-or-android-app-for-sdks-and-api-calls-for-free-with-appgoblin-no-login/",
         "discovered_at": "2026-06-11"
+    },
+    {
+        "name": "Jev-browser",
+        "description": "Show HN: Jev drives a browser – HN login and search in 8s for half a cent",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jev-browser.rovira.sh",
+        "discovered_at": "2026-10-22"
     },
     {
         "name": "Kith",
@@ -21338,6 +21438,16 @@
         "cors": "unknown",
         "url": "https://mocca.run/",
         "discovered_at": "2026-06-30"
+    },
+    {
+        "name": "Moin",
+        "description": "Show HN: Moin – A P2P voice app built on iroh and Media over QUIC",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://moin.chat/",
+        "discovered_at": "2026-10-22"
     },
     {
         "name": "Nexmo Conversion API",
@@ -59703,6 +59813,16 @@
         "url": "https://docs.gitlab.com/ee/api/"
     },
     {
+        "name": "Gitpushups",
+        "description": "Show HN: GitPushups, block your code if you don't do pushups during your workday",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gitpushups.com",
+        "discovered_at": "2026-10-22"
+    },
+    {
         "name": "Gitsu",
         "description": "Show HN: Gitsu.app – A Linear-alternative built on GitHub Projects",
         "category": "Development",
@@ -62598,6 +62718,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Lemoncode",
+        "description": "Lemoncode, Free Coding Agent",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lemoncode.ai/",
+        "discovered_at": "2026-10-22"
+    },
+    {
         "name": "lemontree",
         "description": "a lemontree with lemons",
         "category": "Development",
@@ -65176,6 +65306,16 @@
         "cors": "unknown",
         "url": "https://apify.com/getdataforme/pepto-reviews-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Peras",
+        "description": "Show HN: Peras – Pause Claude Code and Codex before they burn your weekly limit",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://peras.vertias.eu/",
+        "discovered_at": "2026-10-22"
     },
     {
         "name": "Pest Daily Blog Scraper",
@@ -68784,6 +68924,16 @@
         "cors": "unknown",
         "url": "https://apify.com/karamelo/test-youtube-structured-transcript-extractor",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Testaapp",
+        "description": "Sharing a project: How we built a marketplace to connect app developers and test",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://testaapp.com.br/",
+        "discovered_at": "2026-10-22"
     },
     {
         "name": "Testberichte.de Reviews Scraper",
@@ -88626,6 +88776,16 @@
         "discovered_at": "2026-08-18"
     },
     {
+        "name": "Playgroundarcade",
+        "description": "Show HN: AI-built browser games, collected in one place",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://playgroundarcade.com/",
+        "discovered_at": "2026-10-22"
+    },
+    {
         "name": "Playhyperbubble",
         "description": "Show HN: I asked Claude to turn 20 years of my research into a game",
         "category": "Entertainment",
@@ -94209,6 +94369,16 @@
         "discovered_at": "2026-04-28"
     },
     {
+        "name": "Chinaready",
+        "description": "Show HN: A stateless MCP server over our docs – search, list_topics, get_article",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://chinaready.co/docs/api/",
+        "discovered_at": "2026-10-22"
+    },
+    {
         "name": "Clair",
         "description": "Show HN: Clair – open-source semantic news API",
         "category": "News",
@@ -99263,6 +99433,16 @@
         "discovered_at": "2026-06-18"
     },
     {
+        "name": "Attendee",
+        "description": "Attendee – open-source API for building meeting bots",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://attendee.dev/",
+        "discovered_at": "2026-10-22"
+    },
+    {
         "name": "Auditledge",
         "description": "Show HN: Auditledge – Hosted Audit Log API for SaaS",
         "category": "Other",
@@ -100023,6 +100203,16 @@
         "discovered_at": "2026-09-17"
     },
     {
+        "name": "Bluefacts",
+        "description": "Show HN: BlueFacts – Bluesky stats and feeds via MCP",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bluefacts.app/bluesky-mcp",
+        "discovered_at": "2026-10-22"
+    },
+    {
         "name": "Bluhe",
         "description": "Show HN: I Built the Best Google Alternative for Gen-Z, Googling Like TikToking",
         "category": "Other",
@@ -100241,6 +100431,16 @@
         "cors": "unknown",
         "url": "https://www.bucksbuddy.com/",
         "discovered_at": "2026-06-05"
+    },
+    {
+        "name": "Buford",
+        "description": "I told people I'm a convicted felon after 20 years of hiding it",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://buford.bg/",
+        "discovered_at": "2026-10-22"
     },
     {
         "name": "Bughunters",
@@ -101673,6 +101873,16 @@
         "discovered_at": "2026-09-03"
     },
     {
+        "name": "Defaultsolitaire",
+        "description": "Show HN: Overdesigned Simple Solitaire",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://defaultsolitaire.app/",
+        "discovered_at": "2026-10-22"
+    },
+    {
         "name": "Deiko",
         "description": "Show HN: Deiko – point at your screen, talk, and hand the brief to your agent",
         "category": "Other",
@@ -102453,6 +102663,16 @@
         "discovered_at": "2026-05-14"
     },
     {
+        "name": "Elegant-chebakia-7aee64",
+        "description": "Show HN: Is there a YC advantage for sales?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://elegant-chebakia-7aee64.netlify.app/",
+        "discovered_at": "2026-10-22"
+    },
+    {
         "name": "Eli",
         "description": "Show HN: Explain Like I'm Five for ArXiv Papers",
         "category": "Other",
@@ -102481,6 +102701,16 @@
         "cors": "unknown",
         "url": "https://emavan.com/blog/2026/constant-time-rust-llvm-aliasing/",
         "discovered_at": "2026-06-13"
+    },
+    {
+        "name": "Embodsi",
+        "description": "Show HN: Embodsi – Embodied Super Intelligence",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://embodsi.com/",
+        "discovered_at": "2026-10-22"
     },
     {
         "name": "Emergencyapi",
@@ -107863,6 +108093,16 @@
         "discovered_at": "2026-03-01"
     },
     {
+        "name": "Nodepick",
+        "description": "Show HN: Global Compute, you pick. One API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.nodepick.ai/",
+        "discovered_at": "2026-10-22"
+    },
+    {
         "name": "Nodex",
         "description": "Show HN: Offline Typing Mastery",
         "category": "Other",
@@ -109801,6 +110041,16 @@
         "cors": "unknown",
         "url": "https://quip.network",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Quirkyagents",
+        "description": "Show HN: Tinytowns, a small model to generate realistic sounding town names",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://quirkyagents.com/wizard/projects/tinytowns/",
+        "discovered_at": "2026-10-22"
     },
     {
         "name": "Qunabu",
@@ -114713,6 +114963,16 @@
         "discovered_at": "2026-10-03"
     },
     {
+        "name": "Zegrapher",
+        "description": "Show HN: ZeGrapher v4: modern math plotter",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://zegrapher.com/en/",
+        "discovered_at": "2026-10-22"
+    },
+    {
         "name": "Zerofs",
         "description": "Building a Linux filesystem module in almost pure Rust",
         "category": "Other",
@@ -115906,6 +116166,16 @@
         "cors": "unknown",
         "url": "https://videre.sh/",
         "discovered_at": "2026-10-17"
+    },
+    {
+        "name": "Wallpaper",
+        "description": "Rebrand of Apple Music using sound to drive the visuals",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.wallpaper.com/art/music/apple-musics-new-visual-identity-turns-sound-into-liquid-with-help-from-fred-again",
+        "discovered_at": "2026-10-22"
     },
     {
         "name": "Yle",
@@ -122405,6 +122675,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Riffcalendar",
+        "description": "Show HN: Riff – An iPhone calendar you zoom instead of switching views",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://riffcalendar.com",
+        "discovered_at": "2026-10-22"
+    },
+    {
         "name": "Rightmove Full Address House Number Finder",
         "description": "Find full address including house number and street from rightmove.co.uk from rightmove property sale/rent real listing from United Kingdom. Our Rightmove Full Address House Number Finder helps you...",
         "category": "Productivity",
@@ -125936,6 +126216,16 @@
         "discovered_at": "2026-04-30"
     },
     {
+        "name": "Aiqualityhq",
+        "description": "Show HN: AIQualityHQ – Browser-native prompt QA and security guardrails",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aiqualityhq.com",
+        "discovered_at": "2026-10-22"
+    },
+    {
         "name": "Aivillage",
         "description": "Show HN: AI Village: AI security, tested in public.",
         "category": "Security",
@@ -128902,6 +129192,16 @@
         "cors": "unknown",
         "url": "https://dmerullo.github.io/project-espanol/",
         "discovered_at": "2026-08-03"
+    },
+    {
+        "name": "Euspell",
+        "description": "Show HN: Euspell – Spelling reform: an enginnering approach",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://euspell.org/try/",
+        "discovered_at": "2026-10-22"
     },
     {
         "name": "Fabscene",
