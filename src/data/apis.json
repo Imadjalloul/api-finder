@@ -3774,6 +3774,16 @@
         "discovered_at": "2026-09-30"
     },
     {
+        "name": "Installplango",
+        "description": "Show HN: Secure your AI agents on Mac",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://installplango.com/",
+        "discovered_at": "2026-10-23"
+    },
+    {
         "name": "Interconnects",
         "description": "Banning Open Source AI Would Be a Mistake",
         "category": "AI & Machine Learning",
@@ -4811,6 +4821,16 @@
         "cors": "unknown",
         "url": "https://model-x.up.railway.app/",
         "discovered_at": "2026-04-22"
+    },
+    {
+        "name": "Modelcompare",
+        "description": "Six months later, the best AI costs 20× less",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.modelcompare.ai/blog/ai-model-prices-over-time",
+        "discovered_at": "2026-10-23"
     },
     {
         "name": "Modelfuzz",
@@ -6401,6 +6421,16 @@
         "discovered_at": "2026-09-21"
     },
     {
+        "name": "Returnledger",
+        "description": "Show HN: Return Ledger free portfolio TWR/XIRR tracker with AI PDF import",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://returnledger.site",
+        "discovered_at": "2026-10-23"
+    },
+    {
         "name": "Reuters",
         "description": "China AI labs face growing open-source dilemma",
         "category": "AI & Machine Learning",
@@ -7508,6 +7538,16 @@
         "cors": "unknown",
         "url": "https://terminai.app",
         "discovered_at": "2026-07-06"
+    },
+    {
+        "name": "Ternlux",
+        "description": "Show HN: Ternlux – Free, local-first, bring-your-own-key AI pipeline builder",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.ternlux.com/online-demo/",
+        "discovered_at": "2026-10-23"
     },
     {
         "name": "Testkube",
@@ -13959,6 +13999,16 @@
         "discovered_at": "2026-06-29"
     },
     {
+        "name": "Oneshotprompts",
+        "description": "I built a free library of 900 motion design techniques you can recreate with AI",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://oneshotprompts.com/",
+        "discovered_at": "2026-10-23"
+    },
+    {
         "name": "Open Library",
         "description": "One web page for every book ever published",
         "category": "Books",
@@ -19906,6 +19956,16 @@
         "url": "https://www.dropbox.com/developers"
     },
     {
+        "name": "Evabench",
+        "description": "Show HN: Fastagent – Deploy a chat agent API to your own Cloud Run",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://evabench.dev/fastagent/",
+        "discovered_at": "2026-10-23"
+    },
+    {
         "name": "Extension API",
         "description": "The Vonage Business Cloud Extension API enables you to retrieve information about extensions.\n\nYour application must subscribe to the Provisioning API suite to use this API.",
         "category": "Cloud & Storage",
@@ -20332,6 +20392,16 @@
         "discovered_at": "2026-09-11"
     },
     {
+        "name": "S3-client-nu",
+        "description": "Created a free intuitive app to browse S3",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://s3-client-nu.vercel.app/",
+        "discovered_at": "2026-10-23"
+    },
+    {
         "name": "Scalix",
         "description": "Show HN: Scalix World – AI native Neo cloud built by two engineers in Rust",
         "category": "Cloud & Storage",
@@ -20470,6 +20540,16 @@
         "cors": "unknown",
         "url": "https://vask.dev",
         "discovered_at": "2026-05-06"
+    },
+    {
+        "name": "Velmet44",
+        "description": "Show HN: RMBG – remove backgrounds from images in the browser (no uploads)",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://velmet44.github.io/rmbg/",
+        "discovered_at": "2026-10-23"
     },
     {
         "name": "Vram",
@@ -62818,6 +62898,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Lightscroll",
+        "description": "Show HN: I built an app to stop doomscrolling while waiting for Codex to finish",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.lightscroll.app/",
+        "discovered_at": "2026-10-23"
+    },
+    {
         "name": "Link Extractor",
         "description": "Extract links from an Array of different paths/users parsed with a baseUrl and a pageFunction.",
         "category": "Development",
@@ -83002,6 +83092,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Skillstore-jk",
+        "description": "Show HN: Skillstore – Expert skills your coding agent fetches as it works",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://skillstore-jk.fly.dev/developers",
+        "discovered_at": "2026-10-23"
+    },
+    {
         "name": "Skinnydip London Scraper",
         "description": "Scrape Skinnydip London and extract data on mobile and wireless accessories from skinnydiplondon.com. Our Skinnydip London API lets you crawl product information and pricing. The saved data can be...",
         "category": "E-Commerce",
@@ -88684,6 +88784,16 @@
         "cors": "unknown",
         "url": "https://onlymusic.ai",
         "discovered_at": "2026-08-26"
+    },
+    {
+        "name": "Otaku",
+        "description": "Show HN: Best otaku AI to chat about Anime with",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://otaku.animearray.site/",
+        "discovered_at": "2026-10-23"
     },
     {
         "name": "Petrichor",
@@ -94468,6 +94578,16 @@
         "discovered_at": "2026-03-12"
     },
     {
+        "name": "Dedoomify",
+        "description": "Show HN: Dedoomify – AI news, minus the doom",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dedoomify.com/",
+        "discovered_at": "2026-10-23"
+    },
+    {
         "name": "Detroitnews",
         "description": "Pilot program offering free bus rides to Detroit students to become permanent",
         "category": "News",
@@ -94486,6 +94606,16 @@
         "cors": "unknown",
         "url": "https://dialyourshot.com/",
         "discovered_at": "2026-09-04"
+    },
+    {
+        "name": "Distribute",
+        "description": "Show HN: An automated news site Distribute Software",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://distribute.software/",
+        "discovered_at": "2026-10-23"
     },
     {
         "name": "Dreaming",
@@ -94704,6 +94834,16 @@
         "cors": "unknown",
         "url": "https://independent-wire.org/",
         "discovered_at": "2026-06-29"
+    },
+    {
+        "name": "Journalismfutures",
+        "description": "Public-Interest Information in an AI-Intermediated Age",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.journalismfutures.org/three-layer-cake",
+        "discovered_at": "2026-10-23"
     },
     {
         "name": "Middleeastainews",
@@ -99993,6 +100133,16 @@
         "discovered_at": "2026-07-24"
     },
     {
+        "name": "Blisswriter",
+        "description": "Show HN: Bliss Writer – Screenwriting TUI Built with Roc",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blisswriter.app/",
+        "discovered_at": "2026-10-23"
+    },
+    {
         "name": "Blitzgraph",
         "description": "Show HN: BlitzGraph – graph-based Supabase built for agents",
         "category": "Other",
@@ -104363,6 +104513,16 @@
         "discovered_at": "2026-10-15"
     },
     {
+        "name": "Gornak40",
+        "description": "Ordered list of open-source software with the No-AI policy",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gornak40.org/soulful-software",
+        "discovered_at": "2026-10-23"
+    },
+    {
         "name": "Gpu",
         "description": "Show HN: Will Jev pull the lever in the trolley problem?",
         "category": "Other",
@@ -104501,6 +104661,16 @@
         "cors": "unknown",
         "url": "https://hackney.app/",
         "discovered_at": "2026-07-14"
+    },
+    {
+        "name": "Halv",
+        "description": "Show HN: Halv – open-source agent coding software that reduces your usage",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://halv.ai/",
+        "discovered_at": "2026-10-23"
     },
     {
         "name": "Hamy",
@@ -107173,6 +107343,16 @@
         "discovered_at": "2026-05-29"
     },
     {
+        "name": "Menlo",
+        "description": "Asimov-1 $20000 open source DIY human robot",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://menlo.ai/asimov-1",
+        "discovered_at": "2026-10-23"
+    },
+    {
         "name": "Mentwire",
         "description": "Show HN: Built Paul Graham's Intellectual CAPTCHA Idea",
         "category": "Other",
@@ -109403,6 +109583,16 @@
         "discovered_at": "2026-09-17"
     },
     {
+        "name": "Plasma",
+        "description": "Show HN: Linear A decipherment open-sourced",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.plasma.ai/research/linear-a",
+        "discovered_at": "2026-10-23"
+    },
+    {
         "name": "Plastron",
         "description": "Show HN: Plastron – A spreadsheet you grow into an app, in one index.html",
         "category": "Other",
@@ -109521,6 +109711,16 @@
         "cors": "unknown",
         "url": "https://postgres.saneengineer.com",
         "discovered_at": "2026-07-08"
+    },
+    {
+        "name": "Postmelee",
+        "description": "Show HN: Pear – A Windows Steam Launcher for Apple Silicon Macs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://postmelee.github.io/pear/",
+        "discovered_at": "2026-10-23"
     },
     {
         "name": "Postsfromtemplates",
@@ -111261,6 +111461,16 @@
         "cors": "unknown",
         "url": "https://sedona.apache.org/latest/blog/2026/06/26/sedonadb-04-gpu-accelerated-spatial-joins/",
         "discovered_at": "2026-06-27"
+    },
+    {
+        "name": "Seekpeek",
+        "description": "Show HN: I made new search engine with DeepSeek's search API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://seekpeek.pages.dev",
+        "discovered_at": "2026-10-23"
     },
     {
         "name": "Seenshot",
@@ -119096,6 +119306,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Forums",
+        "description": "I built a free iPad handwriting notes app that puts the page on your Mac",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://forums.macrumors.com/threads/i-built-a-free-ipad-handwriting-notes-app-that-puts-the-page-on-your-mac-no-account-no-servers.2492349/",
+        "discovered_at": "2026-10-23"
+    },
+    {
         "name": "Forward dataset as POST data",
         "description": "This actor forwards the results of an Actor to an endpoint, instead of having to fetch the results manually. It will download the dataset and attach it to the body of a POST request you will specify..",
         "category": "Productivity",
@@ -126585,6 +126805,16 @@
         "discovered_at": "2026-05-23"
     },
     {
+        "name": "Raduloff",
+        "description": "Google's no-code tool is still a phishing vector, despite public reports",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://raduloff.dev/blog/2026-10-22-appsheet-is-still-a-phishing-vector/",
+        "discovered_at": "2026-10-23"
+    },
+    {
         "name": "Rewarelabs",
         "description": "Show HN: Security Cards – Reducing insecure AI-generated code by 72%",
         "category": "Security",
@@ -129144,6 +129374,16 @@
         "cors": "unknown",
         "url": "https://cranki.app",
         "discovered_at": "2026-03-29"
+    },
+    {
+        "name": "Cryptex-vault",
+        "description": "Show HN: Cryptex Vault – A password manager designed to outlive its creator",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.cryptex-vault.com/",
+        "discovered_at": "2026-10-23"
     },
     {
         "name": "Dailyworder",
