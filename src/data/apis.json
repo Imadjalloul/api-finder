@@ -2078,6 +2078,16 @@
         "discovered_at": "2026-10-17"
     },
     {
+        "name": "Cowagent",
+        "description": "CowAgent – Open-Source Super AI Assistant",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cowagent.ai/en/",
+        "discovered_at": "2026-10-24"
+    },
+    {
         "name": "Crowpay",
         "description": "Show HN: CrowPay – add x402 in a few lines, let AI agents pay per request",
         "category": "AI & Machine Learning",
@@ -8069,6 +8079,16 @@
         "discovered_at": "2026-09-22"
     },
     {
+        "name": "Useinstantsearch",
+        "description": "Show HN: Instant – Local AI search with a 95% hit rate (uses Perplexity models)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://useinstantsearch.com/",
+        "discovered_at": "2026-10-24"
+    },
+    {
         "name": "Useknowable",
         "description": "Show HN: AI Tutoring with Visual Grounding",
         "category": "AI & Machine Learning",
@@ -12657,6 +12677,16 @@
         "cors": "unknown",
         "url": "https://mcp-shark.github.io/aauth-explorer/",
         "discovered_at": "2026-04-24"
+    },
+    {
+        "name": "Messh",
+        "description": "Show HN: Web Bot Auth SDK and SSH Utilty",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://messh.io",
+        "discovered_at": "2026-10-24"
     },
     {
         "name": "Mu",
@@ -94658,6 +94688,16 @@
         "discovered_at": "2026-07-05"
     },
     {
+        "name": "Espresso",
+        "description": "Open Source Is Dead and I Killed It",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://espresso.ai/post/self-hosted-grafana",
+        "discovered_at": "2026-10-24"
+    },
+    {
         "name": "Eunews",
         "description": "Ban on broadcasting: EU Court clarifies that it also applies to free websites",
         "category": "News",
@@ -94706,6 +94746,16 @@
         "cors": "unknown",
         "url": "https://www.foxnews.com/media/flock-safety-ceo-calls-national-compromise-amid-camera-sabotage-public-revolt",
         "discovered_at": "2026-08-27"
+    },
+    {
+        "name": "Gking",
+        "description": "AI Article Reviews Dominate Human Peer Reviews at Their Best",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gking.harvard.edu/peerless/",
+        "discovered_at": "2026-10-24"
     },
     {
         "name": "GNews",
@@ -94983,6 +95033,16 @@
         "cors": "unknown",
         "url": "https://news.ycombinator.lol",
         "discovered_at": "2026-10-08"
+    },
+    {
+        "name": "News",
+        "description": "Show HN: Automated newsletter built with Grok bot",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://news.devs.dev",
+        "discovered_at": "2026-10-24"
     },
     {
         "name": "NewsAPI",
@@ -103143,6 +103203,16 @@
         "discovered_at": "2026-04-12"
     },
     {
+        "name": "Explainx",
+        "description": "Modular MAX 26.7 open on October 22 2026",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://explainx.ai/blog/modular-max-source-available-26-7-graph-compiler-runtime-max-license-claimed-vs-verified-2026",
+        "discovered_at": "2026-10-24"
+    },
+    {
         "name": "Exsitu",
         "description": "Show HN: Ex Situ, open-source spatial index of displaced cultural artifacts",
         "category": "Other",
@@ -103901,6 +103971,16 @@
         "cors": "unknown",
         "url": "https://garden-of-flowers.heikkilotvonen.com/",
         "discovered_at": "2026-06-16"
+    },
+    {
+        "name": "Gasfree",
+        "description": "Show HN: Gasfree.app a Rack of Synthetizers in the Browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gasfree.app/",
+        "discovered_at": "2026-10-24"
     },
     {
         "name": "Gasnearme",
@@ -106001,6 +106081,16 @@
         "cors": "unknown",
         "url": "https://www.kevinold.com/blog/a-week-maintaining-wait-on",
         "discovered_at": "2026-10-03"
+    },
+    {
+        "name": "Kimi",
+        "description": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+        "discovered_at": "2026-10-24"
     },
     {
         "name": "Kinetk",
@@ -108181,6 +108271,16 @@
         "cors": "unknown",
         "url": "https://www.nevertwenty.com/",
         "discovered_at": "2026-09-09"
+    },
+    {
+        "name": "Newyorker",
+        "description": "\"Slow Horses,\" Apple TV's Best Show",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.newyorker.com/culture/on-television/slow-horses-apple-tvs-best-show-retains-its-pungent-relevance",
+        "discovered_at": "2026-10-24"
     },
     {
         "name": "Next",
@@ -112061,6 +112161,16 @@
         "cors": "unknown",
         "url": "https://slopely.app/",
         "discovered_at": "2026-10-05"
+    },
+    {
+        "name": "Slopsidy",
+        "description": "Show HN: The cost of slop. Subscription-adjusted",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://slopsidy.com/",
+        "discovered_at": "2026-10-24"
     },
     {
         "name": "Smartbuildlabs",
