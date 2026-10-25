@@ -1040,6 +1040,16 @@
         "discovered_at": "2026-10-05"
     },
     {
+        "name": "App",
+        "description": "Show HN: AI agent swarms test if new CVEs are exploitable in your env",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.enclave.ai/threat-feed",
+        "discovered_at": "2026-10-25"
+    },
+    {
         "name": "Apply-tracker",
         "description": "Apply Tracker, Free AI CV, Cover Letter and Job Tracker",
         "category": "AI & Machine Learning",
@@ -2136,6 +2146,16 @@
         "cors": "unknown",
         "url": "https://www.ctxoverflow.dev/",
         "discovered_at": "2026-03-21"
+    },
+    {
+        "name": "Dadgptcostume",
+        "description": "Show HN: Dadgpt Open Source Halloween Costume",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dadgptcostume.vercel.app/",
+        "discovered_at": "2026-10-25"
     },
     {
         "name": "Dageno",
@@ -6641,6 +6661,16 @@
         "discovered_at": "2026-07-20"
     },
     {
+        "name": "Sampact",
+        "description": "AgentProbe – test AI agents by making the systems around them fail",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sampact.com/",
+        "discovered_at": "2026-10-25"
+    },
+    {
         "name": "Sanitycheck",
         "description": "AI agents that QA-test your web app like real users",
         "category": "AI & Machine Learning",
@@ -6789,6 +6819,16 @@
         "cors": "unknown",
         "url": "https://seodraft.app/tools/ai-slop",
         "discovered_at": "2026-09-29"
+    },
+    {
+        "name": "Seowins",
+        "description": "Free SEO audit and AI search tools. No sign-up",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://seowins.net/",
+        "discovered_at": "2026-10-25"
     },
     {
         "name": "Serendb",
@@ -20859,6 +20899,16 @@
         "cors": "unknown",
         "url": "https://anypost.com",
         "discovered_at": "2026-07-22"
+    },
+    {
+        "name": "Apinator",
+        "description": "Apinator – A free Pusher alternative (presence, private channels, webhooks)",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apinator.io/",
+        "discovered_at": "2026-10-25"
     },
     {
         "name": "App",
@@ -53317,6 +53367,16 @@
         "discovered_at": "2026-10-03"
     },
     {
+        "name": "Aiweekly",
+        "description": "Anthropic's Claude Code Sandbox",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aiweekly.co/alerts/anthropic-open-sources-claude-code-sandbox-under-apache-20",
+        "discovered_at": "2026-10-25"
+    },
+    {
         "name": "Ajio Product Scraper",
         "description": "This Apify scraper collects product data from Ajio, including titles, prices, discounts, images, and categories. Ideal for price tracking, competitor analysis, and e-commerce research with structured.",
         "category": "Development",
@@ -59713,6 +59773,16 @@
         "cors": "unknown",
         "url": "https://git.talksik.com/FlowyLabs/adhd",
         "discovered_at": "2026-10-04"
+    },
+    {
+        "name": "Git-ing-over-it",
+        "description": "Show HN: Git-ing Over it, learn Git like you'll use it IRL",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://git-ing-over-it.vercel.app/",
+        "discovered_at": "2026-10-25"
     },
     {
         "name": "Gitagent",
@@ -67534,6 +67604,16 @@
         "cors": "unknown",
         "url": "https://apify.com/conduit/seznam-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Sharebucks",
+        "description": "I vibe coded an alternative to splitwise free",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sharebucks.app/",
+        "discovered_at": "2026-10-25"
     },
     {
         "name": "Sharechat Scraper",
@@ -102063,6 +102143,16 @@
         "discovered_at": "2026-09-29"
     },
     {
+        "name": "Deepsearch",
+        "description": "Show HN: DeepSearch – Search engine built on DeepSeek API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://deepsearch.ing/",
+        "discovered_at": "2026-10-25"
+    },
+    {
         "name": "Deepswe",
         "description": "DeepSWE: A contamination-free benchmark for long-horizon coding agents",
         "category": "Other",
@@ -102281,6 +102371,16 @@
         "cors": "unknown",
         "url": "https://www.devreel.tech/",
         "discovered_at": "2026-03-03"
+    },
+    {
+        "name": "Dexerto",
+        "description": "Apple's iPhone Duo fails JerryRigEverything's durability test",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.dexerto.com/entertainment/apples-iphone-duo-fails-jerryrigeverythings-durability-test-3421515/",
+        "discovered_at": "2026-10-25"
     },
     {
         "name": "DFlight API",
@@ -103121,6 +103221,16 @@
         "cors": "unknown",
         "url": "https://esploro.app/",
         "discovered_at": "2026-05-14"
+    },
+    {
+        "name": "Essaypod",
+        "description": "Show HN: A Platform to Find Essays, personally recommended to you",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://essaypod.com/",
+        "discovered_at": "2026-10-25"
     },
     {
         "name": "Essays",
@@ -105993,6 +106103,16 @@
         "discovered_at": "2026-08-21"
     },
     {
+        "name": "Kat-assessment",
+        "description": "Show HN: A client-side adaptive cognitive test measuring micro-hesitations",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kat-assessment.com/",
+        "discovered_at": "2026-10-25"
+    },
+    {
         "name": "Kaxil",
         "description": "Server-Side MCP vs. CLIs vs. REST APIs: When Each Wins",
         "category": "Other",
@@ -106071,6 +106191,16 @@
         "cors": "unknown",
         "url": "https://kerkour.com/open-source-golden-age-ai",
         "discovered_at": "2026-06-07"
+    },
+    {
+        "name": "Kevinkelly",
+        "description": "Kevin Kelly – We don't want the best AI, we want the only AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kevinkelly.substack.com/p/most-improbable-agent-of-you",
+        "discovered_at": "2026-10-25"
     },
     {
         "name": "Kevinold",
@@ -112881,6 +113011,16 @@
         "cors": "unknown",
         "url": "https://supapool.io/",
         "discovered_at": "2026-07-30"
+    },
+    {
+        "name": "Super-swan-a311d2",
+        "description": "Daily Path – A minimal 1-minute visual memory challenge.Just a daily brain test",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://super-swan-a311d2.netlify.app/",
+        "discovered_at": "2026-10-25"
     },
     {
         "name": "Supercov",
