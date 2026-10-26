@@ -620,6 +620,16 @@
         "discovered_at": "2026-09-17"
     },
     {
+        "name": "Airetro",
+        "description": "Show HN: Retro AI Concept",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://airetro.vercel.app",
+        "discovered_at": "2026-10-26"
+    },
+    {
         "name": "Airlock",
         "description": "Show HN: I built Airlock, to sandbox your AI agent and know what it's doing",
         "category": "AI & Machine Learning",
@@ -4132,6 +4142,16 @@
         "cors": "unknown",
         "url": "https://www.kota.place/",
         "discovered_at": "2026-08-03"
+    },
+    {
+        "name": "Kouh",
+        "description": "Show HN: AI text detector that never sees your text (runs 100% in-browser)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kouh.me/ai-text-detector",
+        "discovered_at": "2026-10-26"
     },
     {
         "name": "Kradle",
@@ -8047,6 +8067,16 @@
         "cors": "unknown",
         "url": "https://uidesigneditor.com/",
         "discovered_at": "2026-10-19"
+    },
+    {
+        "name": "Uipalooza",
+        "description": "Show HN: UIPalooza – Do AI models have a recognizable design taste?",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://uipalooza.ai/",
+        "discovered_at": "2026-10-26"
     },
     {
         "name": "Unbubble",
@@ -87021,6 +87051,16 @@
         "discovered_at": "2026-08-10"
     },
     {
+        "name": "Game",
+        "description": "Show HN: Ultimidi – piano learning web game",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://game.ultimidi.com/",
+        "discovered_at": "2026-10-26"
+    },
+    {
         "name": "Gotrivia",
         "description": "Show HN: GoTrivia – Free multiplayer browser party games, no signups or ads",
         "category": "Education",
@@ -94379,6 +94419,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Ai",
+        "description": "Show HN: AI Heat Map Sourced from over 140 News Feeds",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ai.jagular.io",
+        "discovered_at": "2026-10-26"
+    },
+    {
         "name": "Aiact",
         "description": "Free EU AI Act Article 50 compliance checker for indie SaaS",
         "category": "News",
@@ -95212,6 +95262,16 @@
         "cors": "unknown",
         "url": "https://www.passages.ink/",
         "discovered_at": "2026-05-02"
+    },
+    {
+        "name": "Pizd",
+        "description": "PIZD, a Rust compressor exploring structural deduplication",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pizd.spedo.dev/",
+        "discovered_at": "2026-10-26"
     },
     {
         "name": "Places",
@@ -99213,6 +99273,16 @@
         "discovered_at": "2026-09-20"
     },
     {
+        "name": "Api",
+        "description": "Show HN: Clara – a decision model that returns a probability for every answer",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://api.saanora.com/docs",
+        "discovered_at": "2026-10-26"
+    },
+    {
         "name": "API",
         "description": "Web API for TL mobile and web app",
         "category": "Other",
@@ -102153,6 +102223,16 @@
         "discovered_at": "2026-10-25"
     },
     {
+        "name": "Deepswapp",
+        "description": "Show HN: Deepswapp Browser: browser the browser with another browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://deepswapp.com",
+        "discovered_at": "2026-10-26"
+    },
+    {
         "name": "Deepswe",
         "description": "DeepSWE: A contamination-free benchmark for long-horizon coding agents",
         "category": "Other",
@@ -103983,6 +104063,16 @@
         "discovered_at": "2026-07-17"
     },
     {
+        "name": "Freehire",
+        "description": "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://freehire.me/",
+        "discovered_at": "2026-10-26"
+    },
+    {
         "name": "Freenet",
         "description": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
         "category": "Other",
@@ -104361,6 +104451,16 @@
         "cors": "unknown",
         "url": "https://getpostchi.com",
         "discovered_at": "2026-04-23"
+    },
+    {
+        "name": "Getrad",
+        "description": "Show HN: Radian, an agent puts development workflow on autopilot",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getrad.dev",
+        "discovered_at": "2026-10-26"
     },
     {
         "name": "Getreel",
@@ -109111,6 +109211,16 @@
         "cors": "unknown",
         "url": "https://opensource.mainstreetwealth.ai",
         "discovered_at": "2026-10-03"
+    },
+    {
+        "name": "Opensourcealternatives",
+        "description": "Show HN: Find Open Source Alternatives to Paid Software",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.opensourcealternatives.to",
+        "discovered_at": "2026-10-26"
     },
     {
         "name": "Opentrailpaper",
