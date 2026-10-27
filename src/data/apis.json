@@ -1310,6 +1310,16 @@
         "discovered_at": "2026-08-20"
     },
     {
+        "name": "Behu-kea",
+        "description": "Show HN: ToiletBench - Can AI find the toilet without a sign?",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://behu-kea.github.io/toilet-bench/",
+        "discovered_at": "2026-10-27"
+    },
+    {
         "name": "Beigebook",
         "description": "AI labs' job-loss plans won't say what the public gets",
         "category": "AI & Machine Learning",
@@ -2096,6 +2106,16 @@
         "cors": "unknown",
         "url": "https://councilai.app",
         "discovered_at": "2026-10-17"
+    },
+    {
+        "name": "Covenant-common",
+        "description": "Show HN: Portable, signed agreements for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://covenant-common.github.io/covenant-docs/",
+        "discovered_at": "2026-10-27"
     },
     {
         "name": "Cowagent",
@@ -3884,6 +3904,16 @@
         "discovered_at": "2026-09-17"
     },
     {
+        "name": "Iroomdesign",
+        "description": "Room Design with AI – Free Room Designer – iRoomDesign",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://iroomdesign.com",
+        "discovered_at": "2026-10-27"
+    },
+    {
         "name": "Isitartstudio",
         "description": "Show HN: Is it art? An art project for AI agents",
         "category": "AI & Machine Learning",
@@ -4062,6 +4092,16 @@
         "cors": "unknown",
         "url": "https://kentnguyen.com/blog/why-the-best-ai-tech-stack-is-from-1995/",
         "discovered_at": "2026-09-01"
+    },
+    {
+        "name": "Kerno",
+        "description": "Engineering Evolved. The Rest Didn't. That's Why Your AI ROI Sucks",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kerno.io/blog/why-your-ai-roi-sucks/",
+        "discovered_at": "2026-10-27"
     },
     {
         "name": "Khala",
@@ -7200,6 +7240,16 @@
         "discovered_at": "2026-04-06"
     },
     {
+        "name": "Stalw",
+        "description": "Private Tests, Public Code: Protecting Stalwart from AI Clones",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stalw.art/blog/protecting-stalwart/",
+        "discovered_at": "2026-10-27"
+    },
+    {
         "name": "Starrykit",
         "description": "Show HN: AI Presentaions, Posters, and All Visual Designs",
         "category": "AI & Machine Learning",
@@ -8107,6 +8157,16 @@
         "cors": "unknown",
         "url": "https://www.union.ai/blog-post/flyte-2-is-generally-available-the-durable-open-source-ai-runtime",
         "discovered_at": "2026-08-05"
+    },
+    {
+        "name": "Upbound",
+        "description": "How we test LLM serving changes for coding agents, two hours of GPUs per change",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.upbound.io/blog/drinking-our-own-champagne-part-5-what-does-it-take-to-grow-a-self-hosted-coding-model-from-pilot-to-team",
+        "discovered_at": "2026-10-27"
     },
     {
         "name": "Uptimelabs",
@@ -21519,6 +21579,16 @@
         "cors": "unknown",
         "url": "https://raw.githubusercontent.com/vtex/openapi-schemas/master/VTEX - License Manager API.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Limma",
+        "description": "Show HN: Limma – MCP for total recall and precision in data retrieval for agents",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://limma.ai",
+        "discovered_at": "2026-10-27"
     },
     {
         "name": "Loveinvoice",
@@ -59805,6 +59875,16 @@
         "discovered_at": "2026-10-04"
     },
     {
+        "name": "Git",
+        "description": "Show HN: RPI Pico (RP2040) PIO Emulator Package for Go",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://git.edwardh.dev/pio",
+        "discovered_at": "2026-10-27"
+    },
+    {
         "name": "Git-ing-over-it",
         "description": "Show HN: Git-ing Over it, learn Git like you'll use it IRL",
         "category": "Development",
@@ -60560,6 +60640,16 @@
         "cors": "unknown",
         "url": "https://apify.com/loongnian714/google-llm-image-search-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Gostman",
+        "description": "Show HN: Gostman – Open-source API client with Git-friendly YAML collections",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gostman.com/",
+        "discovered_at": "2026-10-27"
     },
     {
         "name": "GoToTraining",
@@ -62257,6 +62347,16 @@
         "cors": "unknown",
         "url": "https://apify.com/yourapiservice/jenierteas-tea-hub-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Jet-lang",
+        "description": "Show HN: Jet – Another Programming Language",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jet-lang.com",
+        "discovered_at": "2026-10-27"
     },
     {
         "name": "Jiffy Self Storage Blog Scraper",
@@ -86891,6 +86991,16 @@
         "discovered_at": "2026-09-03"
     },
     {
+        "name": "Aicertificationcouncil",
+        "description": "Free AI education: certifications, hands-on technical courses, and resources",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.aicertificationcouncil.com/",
+        "discovered_at": "2026-10-27"
+    },
+    {
         "name": "Ailearninggym",
         "description": "Free browser-based tools – no account, no server uploads, all local",
         "category": "Education",
@@ -89490,6 +89600,16 @@
         "discovered_at": "2026-09-25"
     },
     {
+        "name": "App",
+        "description": "Show HN: LPMR Delta, a lightweight financial research terminal",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.lpmresearch.com",
+        "discovered_at": "2026-10-27"
+    },
+    {
         "name": "Bill Payment Validator",
         "description": "The Bill Payment Validator service allows RPPS origination (payment sender) customers to identify if a potential RPPS transaction would process successfully before transmitting the formal payment tran",
         "category": "Finance",
@@ -91355,6 +91475,16 @@
         "cors": "unknown",
         "url": "http://regulationsgov.github.io/developers/api-docs.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Sbr",
+        "description": "Show HN: Sbr, a sing-box compatible client for government resistant VPN infra",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sbr.blit.cc/benchmarks/",
+        "discovered_at": "2026-10-27"
     },
     {
         "name": "Sekha",
@@ -100003,6 +100133,16 @@
         "discovered_at": "2026-03-21"
     },
     {
+        "name": "Basteon",
+        "description": "Show HN: Basteon, a finance app that keeps your data on your phone",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://basteon.app/",
+        "discovered_at": "2026-10-27"
+    },
+    {
         "name": "Bbc",
         "description": "Race on to establish globally recognised 'AI-free' logo",
         "category": "Other",
@@ -101673,6 +101813,16 @@
         "discovered_at": "2026-04-10"
     },
     {
+        "name": "Cooks-sales",
+        "description": "Cooks – open-source sales engagement (sequences, parallel dialer, MCP)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cooks-sales.vercel.app",
+        "discovered_at": "2026-10-27"
+    },
+    {
         "name": "Cooltivo",
         "description": "Show HN: Fitbod Meets Duolingo",
         "category": "Other",
@@ -102591,6 +102741,16 @@
         "cors": "unknown",
         "url": "https://dl.acm.org/doi/10.1145/3778171",
         "discovered_at": "2026-03-26"
+    },
+    {
+        "name": "Dna",
+        "description": "Show HN: I built Search/Recsys that learns from feedback",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dna.hashgrid.ai/",
+        "discovered_at": "2026-10-27"
     },
     {
         "name": "Docfai",
@@ -103861,6 +104021,16 @@
         "cors": "unknown",
         "url": "https://floodlight.vmg.dev/",
         "discovered_at": "2026-08-04"
+    },
+    {
+        "name": "Flowfile",
+        "description": "Show HN: Flowfile – Open-source visual ETL that round-trips to Python (Polars)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://flowfile.io/",
+        "discovered_at": "2026-10-27"
     },
     {
         "name": "Fluidcad",
@@ -106313,6 +106483,16 @@
         "discovered_at": "2026-10-03"
     },
     {
+        "name": "Kidpix",
+        "description": "Kid Pix: an in-browser, public domain version",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kidpix.app",
+        "discovered_at": "2026-10-27"
+    },
+    {
         "name": "Kimi",
         "description": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
         "category": "Other",
@@ -106863,6 +107043,16 @@
         "discovered_at": "2026-06-09"
     },
     {
+        "name": "Literallyeveryfont",
+        "description": "Literallyeveryfont: Every font on the internet, free for personal use",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.literallyeveryfont.com/",
+        "discovered_at": "2026-10-27"
+    },
+    {
         "name": "Lmaomoba",
         "description": "Show HN: LMAO – Temu League of Legends, Built with Opus 4.8",
         "category": "Other",
@@ -106991,6 +107181,16 @@
         "cors": "unknown",
         "url": "https://lorislab.fr/throttle/",
         "discovered_at": "2026-07-16"
+    },
+    {
+        "name": "Loudwalk",
+        "description": "Show HN: Loudwalk – Review your Anki deck out loud on a walk",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://loudwalk.com/?from=hn",
+        "discovered_at": "2026-10-27"
     },
     {
         "name": "Loxeai",
@@ -107271,6 +107471,16 @@
         "cors": "unknown",
         "url": "https://marble.md",
         "discovered_at": "2026-10-09"
+    },
+    {
+        "name": "Marginalia",
+        "description": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+        "discovered_at": "2026-10-27"
     },
     {
         "name": "Marinecharts",
@@ -109423,6 +109633,16 @@
         "discovered_at": "2026-05-14"
     },
     {
+        "name": "Ourpage",
+        "description": "Show HN: Spin up a page for your group",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.ourpage.social/",
+        "discovered_at": "2026-10-27"
+    },
+    {
         "name": "Owntime",
         "description": "Show HN: OwnTime – a chess clock for your day's priorities",
         "category": "Other",
@@ -111281,6 +111501,16 @@
         "cors": "unknown",
         "url": "https://www.robogym.dev/envs/so101-dual-arm",
         "discovered_at": "2026-10-13"
+    },
+    {
+        "name": "Robw",
+        "description": "Filing My Taxes for Free with AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.robw.fyi/2026/10/19/filing-my-taxes-for-free-with-ai/",
+        "discovered_at": "2026-10-27"
     },
     {
         "name": "Rondb",
@@ -113241,6 +113471,16 @@
         "cors": "unknown",
         "url": "https://sweatdiary.app",
         "discovered_at": "2026-04-10"
+    },
+    {
+        "name": "Swingback",
+        "description": "Show HN: Swingback, get feedback from your user for free",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://swingback.dev",
+        "discovered_at": "2026-10-27"
     },
     {
         "name": "Swipecopilot",
@@ -127900,6 +128140,16 @@
         "discovered_at": "2026-08-24"
     },
     {
+        "name": "Morethanamachine",
+        "description": "Show HN: Reddit Stock Chatter Is Best Shorted",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://morethanamachine.com/posts/reddit-stock-spikes-llm-policy-replay/",
+        "discovered_at": "2026-10-27"
+    },
+    {
         "name": "Nexconn",
         "description": "Show HN: Nexconn – Free cross-platform chat SDK with native push",
         "category": "Social",
@@ -131231,6 +131481,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.uuidtools.com/api"
+    },
+    {
+        "name": "Validateemail",
+        "description": "Show HN: Email Validation API – Validateemail.io",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://validateemail.io/",
+        "discovered_at": "2026-10-27"
     },
     {
         "name": "Vest",
