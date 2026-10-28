@@ -2148,6 +2148,16 @@
         "discovered_at": "2026-07-23"
     },
     {
+        "name": "Crulon",
+        "description": "Show HN: Crulon – Business phone where AI does the work, humans make the calls",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://crulon.ai/#talk",
+        "discovered_at": "2026-10-28"
+    },
+    {
         "name": "Csv-analyzer-green",
         "description": "Show HN: CSV Analyzer – drag-and-drop data analysis with AI insights",
         "category": "AI & Machine Learning",
@@ -5812,6 +5822,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Persuasion",
+        "description": "AI Can Save the Public Sphere",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.persuasion.community/p/ai-can-save-the-public-sphere",
+        "discovered_at": "2026-10-28"
+    },
+    {
         "name": "Phail",
         "description": "Show HN: PhAIL – Real-robot benchmark for AI models",
         "category": "AI & Machine Learning",
@@ -6819,6 +6839,16 @@
         "cors": "unknown",
         "url": "https://www.sdi-protocol.org",
         "discovered_at": "2026-08-26"
+    },
+    {
+        "name": "Sectr",
+        "description": "Show HN: Sectr – Serverless backend platform for easy deployment of AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sectr.dev",
+        "discovered_at": "2026-10-28"
     },
     {
         "name": "Selbonds",
@@ -11768,6 +11798,16 @@
         "discovered_at": "2026-09-09"
     },
     {
+        "name": "Blog",
+        "description": "The piano test for program verification (2011)",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.regehr.org/archives/364",
+        "discovered_at": "2026-10-28"
+    },
+    {
         "name": "Bookdna",
         "description": "My favorite nonfiction animal books that make you go holy shit",
         "category": "Animals",
@@ -13600,6 +13640,16 @@
         "cors": "unknown",
         "url": "https://usetokenless.com/",
         "discovered_at": "2026-07-30"
+    },
+    {
+        "name": "Withnative",
+        "description": "Show HN: Markdown is 40× more token-efficient with SQLite",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.withnative.ai/research-and-posts/markdown-context-benchmark",
+        "discovered_at": "2026-10-28"
     },
     {
         "name": "Yolo-auto",
@@ -20991,6 +21041,16 @@
         "discovered_at": "2026-07-22"
     },
     {
+        "name": "Api",
+        "description": "Show HN: Company data from official French and European registers, paid per call",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://api.sirenic.eu/en",
+        "discovered_at": "2026-10-28"
+    },
+    {
         "name": "Apinator",
         "description": "Apinator – A free Pusher alternative (presence, private channels, webhooks)",
         "category": "Communication",
@@ -21708,6 +21768,16 @@
         "cors": "unknown",
         "url": "https://moin.chat/",
         "discovered_at": "2026-10-22"
+    },
+    {
+        "name": "Mybotsai",
+        "description": "Show HN: FreeApply Free Job Application MCP, runs locally with your existing LLM",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.mybotsai.com/",
+        "discovered_at": "2026-10-28"
     },
     {
         "name": "Nexmo Conversion API",
@@ -83712,6 +83782,16 @@
         "discovered_at": "2026-08-27"
     },
     {
+        "name": "Storerouter",
+        "description": "Show HN: Shop via CLI; for agents and software engineers",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://storerouter.ai/playground",
+        "discovered_at": "2026-10-28"
+    },
+    {
         "name": "Stradivarius",
         "description": "Scrape products from stradivarius.com websites. All countries and languages. Scrape the full website or scrape by product category or individual product. Fast and efficient.",
         "category": "E-Commerce",
@@ -100363,6 +100443,16 @@
         "discovered_at": "2026-06-05"
     },
     {
+        "name": "Binary",
+        "description": "Show HN: Binary – hiring tool (ATS) for startups that is MCP friendly",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://binary.so",
+        "discovered_at": "2026-10-28"
+    },
+    {
         "name": "Bioengineer",
         "description": "Stratos: Open-source software speeds airship design from hull to fabric",
         "category": "Other",
@@ -102633,6 +102723,16 @@
         "discovered_at": "2026-05-15"
     },
     {
+        "name": "Diagonals",
+        "description": "Show HN: Diagonals (Diago) – a chess variation where the pieces stay diagonally",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://diagonals.vercel.app/",
+        "discovered_at": "2026-10-28"
+    },
+    {
         "name": "Diaryof",
         "description": "Show HN: A static personal site with post-quantum signed and encrypted URLs",
         "category": "Other",
@@ -102681,6 +102781,16 @@
         "cors": "unknown",
         "url": "https://dimmsum.com/",
         "discovered_at": "2026-07-09"
+    },
+    {
+        "name": "Dinemic",
+        "description": "Show HN: Dinemic – self-hosted ingress across multiple providers (DNS, LB, TLS)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dinemic.com/",
+        "discovered_at": "2026-10-28"
     },
     {
         "name": "Dingofind",
@@ -104131,6 +104241,16 @@
         "cors": "unknown",
         "url": "https://formplume.com/",
         "discovered_at": "2026-07-17"
+    },
+    {
+        "name": "Formstep",
+        "description": "Show HN: Formstep, Request information from customers without the back-and-forth",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://formstep.io/",
+        "discovered_at": "2026-10-28"
     },
     {
         "name": "Forst-lang",
@@ -108441,6 +108561,16 @@
         "cors": "unknown",
         "url": "https://mrzk.io/posts/ppgrid-fast-continentscale-raster-interpolation/",
         "discovered_at": "2026-09-27"
+    },
+    {
+        "name": "Mst-us",
+        "description": "Show HN: MST – Free BOM and drawing-check tools for equipment engineers",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mst-us.ai/tools/",
+        "discovered_at": "2026-10-28"
     },
     {
         "name": "Mumbli",
@@ -114443,6 +114573,16 @@
         "discovered_at": "2026-08-17"
     },
     {
+        "name": "Trvlrr",
+        "description": "Show HN: I built Trvlrr, home for all your travels",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://trvlrr.app/",
+        "discovered_at": "2026-10-28"
+    },
+    {
         "name": "Tryardent",
         "description": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
         "category": "Other",
@@ -116650,6 +116790,16 @@
         "cors": "unknown",
         "url": "https://www.oldroll.io/",
         "discovered_at": "2026-10-09"
+    },
+    {
+        "name": "Paste-for-linkedin",
+        "description": "Show HN: Ctrl+V for Images on LinkedIn",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://paste-for-linkedin.peachjam.app/",
+        "discovered_at": "2026-10-28"
     },
     {
         "name": "Peelaway",
