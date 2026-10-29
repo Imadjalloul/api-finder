@@ -1060,6 +1060,16 @@
         "discovered_at": "2026-10-25"
     },
     {
+        "name": "App",
+        "description": "Show HN: Coding agent spots your AI practices and the ones you're missing",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.userrank.ai/",
+        "discovered_at": "2026-10-29"
+    },
+    {
         "name": "Apply-tracker",
         "description": "Apply Tracker, Free AI CV, Cover Letter and Job Tracker",
         "category": "AI & Machine Learning",
@@ -1510,6 +1520,16 @@
         "discovered_at": "2026-08-06"
     },
     {
+        "name": "Blog",
+        "description": "Rent the model, own the harness: how to build a model-agnostic AI agent",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.getwerk.ai/posts/rent-the-model-own-the-harness",
+        "discovered_at": "2026-10-29"
+    },
+    {
         "name": "Boesch",
         "description": "Show HN: Letting an LLM write robot programs",
         "category": "AI & Machine Learning",
@@ -1798,6 +1818,16 @@
         "cors": "unknown",
         "url": "https://chatpanel.net/",
         "discovered_at": "2026-07-22"
+    },
+    {
+        "name": "Checker",
+        "description": "Show HN: A free 16-point check for how AI assistants see your website",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://checker.visiblebyagents.com/self-check.html",
+        "discovered_at": "2026-10-29"
     },
     {
         "name": "Chicagomaroon",
@@ -7460,6 +7490,16 @@
         "discovered_at": "2026-10-07"
     },
     {
+        "name": "Supermhel",
+        "description": "Show HN: Fengarde–OCSF-native open-source SIEM with local AI triage (Apache-2.0)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://supermhel.github.io/fengarde/",
+        "discovered_at": "2026-10-29"
+    },
+    {
         "name": "Superserve",
         "description": "Show HN: Superserve – Firecracker microVM sandboxes for long-running AI agents",
         "category": "AI & Machine Learning",
@@ -8347,6 +8387,16 @@
         "cors": "unknown",
         "url": "https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Veqen-app",
+        "description": "Show HN: Veqen – Catch a leaked AI API key by its spend, within the hour",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://veqen-app.com/",
+        "discovered_at": "2026-10-29"
     },
     {
         "name": "Verkyyi",
@@ -13165,6 +13215,16 @@
         "discovered_at": "2026-06-09"
     },
     {
+        "name": "Blockchainiq",
+        "description": "Show HN: X402 integrations for an AI-agent data API, checked in a clean room",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.blockchainiq.co/blog/x402-integrations-from-the-build-bounty",
+        "discovered_at": "2026-10-29"
+    },
+    {
         "name": "BlockCypher",
         "description": "Bitcoin, Ethereum, and Litecoin blockchain APIs",
         "category": "Blockchain",
@@ -13281,6 +13341,16 @@
         "cors": "unknown",
         "url": "https://easiest.ai/",
         "discovered_at": "2026-09-18"
+    },
+    {
+        "name": "Endlesstokens",
+        "description": "Show HN: Endlesstokens – an LLM API billed by time, not tokens",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://endlesstokens.ai/",
+        "discovered_at": "2026-10-29"
     },
     {
         "name": "Etherscan",
@@ -66976,6 +67046,16 @@
         "discovered_at": "2026-06-22"
     },
     {
+        "name": "Releases",
+        "description": "Local Code by Draw Things: open-source frontier intelligence on your Mac",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://releases.drawthings.ai/p/local-code-by-draw-things-open-source",
+        "discovered_at": "2026-10-29"
+    },
+    {
         "name": "REMAX Real Estate Scraper",
         "description": "Supercharge your real estate research with our REMAX Scraper! Automate daily scrapes of all REMAX property listings, saving time and ensuring you get the most accurate, up-to-date data. Stop relying..",
         "category": "Development",
@@ -71264,6 +71344,16 @@
         "cors": "unknown",
         "url": "https://apify.com/benthepythondev/vscode-extensions-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Vulang",
+        "description": "Show HN: Vu – a new programming language designed for AI. Rust speeds, Py syntax",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vulang.org/",
+        "discovered_at": "2026-10-29"
     },
     {
         "name": "W3C Html Reporter",
@@ -93383,6 +93473,16 @@
         "discovered_at": "2026-07-10"
     },
     {
+        "name": "Linesofrelief",
+        "description": "Show HN: Linesofrelief] – Opinionated contour map in Rose Pine",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://linesofrelief.ink/",
+        "discovered_at": "2026-10-29"
+    },
+    {
         "name": "Manveerc",
         "description": "Stop Looking for the Best Way to Retrieve Context for AI Agents. Build a Router",
         "category": "Maps & Transport",
@@ -93420,6 +93520,16 @@
         "cors": "unknown",
         "url": "https://meanwhilemap.com/",
         "discovered_at": "2026-10-06"
+    },
+    {
+        "name": "Metromaneuver",
+        "description": "Show HN: I Made a Public Transit Optimization Puzzle Game",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://metromaneuver.com/",
+        "discovered_at": "2026-10-29"
     },
     {
         "name": "Modelmap",
@@ -95512,6 +95622,16 @@
         "cors": "unknown",
         "url": "https://pressaudit.org/f/findings/underreported-in-the-us",
         "discovered_at": "2026-09-21"
+    },
+    {
+        "name": "Pureart-xyz",
+        "description": "Show HN: Pure Particles, an open source art particle toy built with Three.js",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pureart-xyz.vercel.app/",
+        "discovered_at": "2026-10-29"
     },
     {
         "name": "Rsscal",
@@ -99243,6 +99363,16 @@
         "discovered_at": "2026-04-05"
     },
     {
+        "name": "Altertable",
+        "description": "Time to Go Deep",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://altertable.ai/blog/2026-10-27-the-best-time-to-go-deep",
+        "discovered_at": "2026-10-29"
+    },
+    {
         "name": "Amdson",
         "description": "Show HN: A General Purpose KMC Crystal Growth Simulator in Rust-WASM",
         "category": "Other",
@@ -100841,6 +100971,16 @@
         "cors": "unknown",
         "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
         "discovered_at": "2026-04-05"
+    },
+    {
+        "name": "Bmjgroup",
+        "description": "3 out of 4 responses to UK smoke-free generation consultation were AI-generated",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bmjgroup.com/3-out-of-4-responses-to-uk-smoke-free-generation-consultation-were-ai-bot-generated/",
+        "discovered_at": "2026-10-29"
     },
     {
         "name": "Boosterpack",
@@ -102891,6 +103031,16 @@
         "cors": "unknown",
         "url": "https://docking.cc",
         "discovered_at": "2026-04-07"
+    },
+    {
+        "name": "Docloop",
+        "description": "Show HN: Alignment Interview Challenge",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://docloop.com/careers/engineering-alignment-quiz",
+        "discovered_at": "2026-10-29"
     },
     {
         "name": "Docpenny",
@@ -105543,6 +105693,16 @@
         "discovered_at": "2026-04-05"
     },
     {
+        "name": "Honeywired",
+        "description": "Show HN: A free interactive typeface made of spirals",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://honeywired.com/apps/hypnotype/",
+        "discovered_at": "2026-10-29"
+    },
+    {
         "name": "Hopmembers",
         "description": "How to Turn a Free Community into $8K+/Mo Without Losing Members",
         "category": "Other",
@@ -105801,6 +105961,16 @@
         "cors": "unknown",
         "url": "https://ifso.io",
         "discovered_at": "2026-08-26"
+    },
+    {
+        "name": "Ifttt",
+        "description": "IFTTT ends unlimited runs on its free plan",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ifttt.com/explore/put-ai-to-work-for-you",
+        "discovered_at": "2026-10-29"
     },
     {
         "name": "Iggy",
@@ -112803,6 +112973,16 @@
         "discovered_at": "2026-05-21"
     },
     {
+        "name": "Snapfirers",
+        "description": "Show HN: SnapFire FSR: Full Stack Web Apps Served via Rust IR Engine",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://snapfirers.com/",
+        "discovered_at": "2026-10-29"
+    },
+    {
         "name": "Snapname",
         "description": "Show HN: I made a Gemma 4 Mac app that names screenshots with local AI",
         "category": "Other",
@@ -115533,6 +115713,16 @@
         "discovered_at": "2026-04-06"
     },
     {
+        "name": "Wherewhen",
+        "description": "Show HN: I got tired of travel spreadsheets so I made a travel planner app",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.wherewhen.cc",
+        "discovered_at": "2026-10-29"
+    },
+    {
         "name": "Whimfiles",
         "description": "Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)",
         "category": "Other",
@@ -116521,6 +116711,16 @@
         "cors": "unknown",
         "url": "https://etchv.com",
         "discovered_at": "2026-10-09"
+    },
+    {
+        "name": "Fabivo",
+        "description": "Show HN: Fabivo – Furniture design from a photo to a numbered cut list",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.fabivo.app/en",
+        "discovered_at": "2026-10-29"
     },
     {
         "name": "Facefork",
@@ -130421,6 +130621,16 @@
         "discovered_at": "2026-06-20"
     },
     {
+        "name": "Mealwords",
+        "description": "Show HN: MealWords – Show waiters what you can't eat, in their language",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mealwords.com/",
+        "discovered_at": "2026-10-29"
+    },
+    {
         "name": "Meelang",
         "description": "Show HN: I built a real-time translator for Google Meet",
         "category": "Text & Language",
@@ -130728,6 +130938,16 @@
         "cors": "unknown",
         "url": "https://wordnamefire.com/",
         "discovered_at": "2026-06-28"
+    },
+    {
+        "name": "Wordstodata",
+        "description": "Show HN: Local, Tracked, Versioned, Legal Research Databases",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.wordstodata.com/",
+        "discovered_at": "2026-10-29"
     },
     {
         "name": "Woxi",
@@ -132778,6 +132998,16 @@
         "cors": "unknown",
         "url": "https://www.turboscribeai.net/",
         "discovered_at": "2026-10-19"
+    },
+    {
+        "name": "Vibegif",
+        "description": "Show HN: Vibegif – 750 GIFs and animated WebP made by Opus 5.5 (public domain)",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vibegif.direct-img.link/",
+        "discovered_at": "2026-10-29"
     },
     {
         "name": "Video-commander",
