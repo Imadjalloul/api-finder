@@ -7380,6 +7380,16 @@
         "discovered_at": "2026-05-12"
     },
     {
+        "name": "Strictllm",
+        "description": "Show HN: StrictLLM – For when you need human-in-the-loop",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://strictllm.com",
+        "discovered_at": "2026-10-30"
+    },
+    {
         "name": "Studio",
         "description": "Show HN: Swiper Studio v2 – Visual slider builder with AI agent support (MCP)",
         "category": "AI & Machine Learning",
@@ -80025,6 +80035,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Letterboxd",
+        "description": "By Popular Demand – community's film picks to rent on Letterboxd Video Store",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://letterboxd.com/journal/by-popular-demand-fall-2026-letterboxd-video-store/",
+        "discovered_at": "2026-10-30"
+    },
+    {
         "name": "LIEWOOD Scraper",
         "description": "Scrape LIEWOOD and extract data on bed and bath from liewood.com. Our LIEWOOD API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and XML.",
         "category": "E-Commerce",
@@ -87561,6 +87581,16 @@
         "discovered_at": "2026-10-05"
     },
     {
+        "name": "Stackapella",
+        "description": "Show HN: Stackapella, an open source web app for learning vocal harmony",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stackapella.com/",
+        "discovered_at": "2026-10-30"
+    },
+    {
         "name": "Steadcast",
         "description": "Show HN: Steadcast – Free Mac podcast player for learning, not background noise",
         "category": "Education",
@@ -87589,6 +87619,16 @@
         "cors": "unknown",
         "url": "https://taskrouter.com",
         "discovered_at": "2026-10-03"
+    },
+    {
+        "name": "Terrytao",
+        "description": "AI, Mathematics, Education, and a public goods problem",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://terrytao.wordpress.com/2026/10/29/ai-mathematics-education-and-a-public-goods-problem/",
+        "discovered_at": "2026-10-30"
     },
     {
         "name": "Tesoro",
@@ -90231,6 +90271,16 @@
         "cors": "unknown",
         "url": "https://www.usenino.com/",
         "discovered_at": "2026-07-09"
+    },
+    {
+        "name": "Withpanta",
+        "description": "Show HN: Panta – Open Swiss job market data",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://withpanta.com/",
+        "discovered_at": "2026-10-30"
     },
     {
         "name": "X402-api",
@@ -99803,6 +99853,26 @@
         "discovered_at": "2026-09-16"
     },
     {
+        "name": "App",
+        "description": "Show HN: I created a spreadsheet in a plain text file",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.ordinate.dev",
+        "discovered_at": "2026-10-30"
+    },
+    {
+        "name": "Appdoesit",
+        "description": "Show HN: AppDoesIt – 155 free browser tools, no sign-up, all client-side",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://appdoesit.com/category/programmer",
+        "discovered_at": "2026-10-30"
+    },
+    {
         "name": "Apple",
         "description": "AirPods 5",
         "category": "Other",
@@ -102551,6 +102621,16 @@
         "cors": "unknown",
         "url": "https://dblift.com/",
         "discovered_at": "2026-08-27"
+    },
+    {
+        "name": "Deadapis",
+        "description": "Show HN: Dead APIs – a graveyard for the integrations that left us",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://deadapis.dev/",
+        "discovered_at": "2026-10-30"
     },
     {
         "name": "Deadeclipse666",
@@ -107153,6 +107233,16 @@
         "discovered_at": "2026-09-23"
     },
     {
+        "name": "Leadgen",
+        "description": "Romanian company registry as an MCP server and REST API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://leadgen.adrianhomelab.com/en",
+        "discovered_at": "2026-10-30"
+    },
+    {
         "name": "Leadlu",
         "description": "I compared every Apollo alternative built for local business outreach",
         "category": "Other",
@@ -109123,6 +109213,16 @@
         "discovered_at": "2026-10-22"
     },
     {
+        "name": "Noderesearch",
+        "description": "Show HN: Node research browser for knowledge networking",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://noderesearch.app/",
+        "discovered_at": "2026-10-30"
+    },
+    {
         "name": "Nodex",
         "description": "Show HN: Offline Typing Mastery",
         "category": "Other",
@@ -109943,6 +110043,16 @@
         "discovered_at": "2026-10-27"
     },
     {
+        "name": "Outcrop",
+        "description": "Show HN: Point your camera at a landscape to learn about its geology",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://outcrop.rocks/",
+        "discovered_at": "2026-10-30"
+    },
+    {
         "name": "Owntime",
         "description": "Show HN: OwnTime – a chess clock for your day's priorities",
         "category": "Other",
@@ -110143,6 +110253,16 @@
         "discovered_at": "2026-07-15"
     },
     {
+        "name": "Patchclock",
+        "description": "Show HN: Free check of how ready your PHP app is for the EU Cyber Resilience Act",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://patchclock.com/",
+        "discovered_at": "2026-10-30"
+    },
+    {
         "name": "Patchwave",
         "description": "Show HN: PatchWave - Add static analysis and automerge to Dependabot",
         "category": "Other",
@@ -110243,6 +110363,16 @@
         "discovered_at": "2026-09-09"
     },
     {
+        "name": "Penligent",
+        "description": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
+        "discovered_at": "2026-10-30"
+    },
+    {
         "name": "Pentad",
         "description": "Why our agent OS runs on Gleam and Zig, not Python or Rust",
         "category": "Other",
@@ -110261,6 +110391,16 @@
         "cors": "unknown",
         "url": "https://services.scideas.net/perfectpdf/resources/openapi3.0.0-perfectpdf-1.0.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Permaura",
+        "description": "Show HN: Coding agents need a tap from your watch, not API keys",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://permaura.com",
+        "discovered_at": "2026-10-30"
     },
     {
         "name": "Perryts",
@@ -113103,6 +113243,16 @@
         "discovered_at": "2026-10-06"
     },
     {
+        "name": "Sorryharvey",
+        "description": "Sorry Harvey! I Made a Free Open-Source Alternative to Your Overpriced Legal AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sorryharvey.com/",
+        "discovered_at": "2026-10-30"
+    },
+    {
         "name": "Sos-vault",
         "description": "Show HN: A tool to analyze and manage sosreports",
         "category": "Other",
@@ -113393,6 +113543,16 @@
         "discovered_at": "2026-06-20"
     },
     {
+        "name": "Statebase",
+        "description": "Show HN: Backend for Agents and Builders who don't need one yet – Statebase",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://statebase.dev",
+        "discovered_at": "2026-10-30"
+    },
+    {
         "name": "Stateofopensource",
         "description": "The state of open source AI",
         "category": "Other",
@@ -113621,6 +113781,16 @@
         "cors": "unknown",
         "url": "https://sudoreport.com/",
         "discovered_at": "2026-08-28"
+    },
+    {
+        "name": "Sunlight",
+        "description": "Show HN: Sunlight – the camera-based infinite canvas window manager for Mac",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sunlight.software/",
+        "discovered_at": "2026-10-30"
     },
     {
         "name": "Sunsetmesasoftware",
@@ -115531,6 +115701,16 @@
         "cors": "unknown",
         "url": "https://wave-studio.pages.dev/",
         "discovered_at": "2026-10-07"
+    },
+    {
+        "name": "Wavefunction",
+        "description": "Show HN: Wavefunction – a minimal, open-source desktop coding agent for Mac",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.wavefunction.si/",
+        "discovered_at": "2026-10-30"
     },
     {
         "name": "Wavehouse",
@@ -125433,6 +125613,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Usenua",
+        "description": "Show HN: Artificer by Nua: Frontier robotics task evaluation in 4B parameters",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://usenua.com/blog/artificer",
+        "discovered_at": "2026-10-30"
+    },
+    {
         "name": "Vauxhall Parts Catalog",
         "description": "Explore the Vauxhall Parts Catalog featuring genuine OEM and certified aftermarket components. From engines and brakes to interiors and lighting, find reliable Vauxhall parts built for safety,...",
         "category": "Productivity",
@@ -127733,6 +127923,16 @@
         "cors": "unknown",
         "url": "https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Openteams",
+        "description": "How Open Source Communities Help Respond Quickly to Security Risks",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://openteams.com/engineering-blog/emudhra-pip-install-hijacked/",
+        "discovered_at": "2026-10-30"
     },
     {
         "name": "Paraxial",
@@ -130619,6 +130819,16 @@
         "cors": "unknown",
         "url": "https://longform.occultist.dev",
         "discovered_at": "2026-06-20"
+    },
+    {
+        "name": "Manalect",
+        "description": "Show HN: Google translate replacement for language learners",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://manalect.com/",
+        "discovered_at": "2026-10-30"
     },
     {
         "name": "Mealwords",
