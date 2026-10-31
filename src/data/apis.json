@@ -1360,6 +1360,16 @@
         "discovered_at": "2026-07-16"
     },
     {
+        "name": "Beolis",
+        "description": "Show HN: Beolis – Manage your coding AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://beolis.com",
+        "discovered_at": "2026-10-31"
+    },
+    {
         "name": "Bestofai",
         "description": "Show HN: Best of AI – Handpicked and Curated Open-Source List of AI Tools",
         "category": "AI & Machine Learning",
@@ -2046,6 +2056,16 @@
         "cors": "unknown",
         "url": "https://www.computerweekly.com/opinion/Flood-warning-How-citizens-AI-agents-will-swamp-public-services",
         "discovered_at": "2026-08-07"
+    },
+    {
+        "name": "Computerworld",
+        "description": "There are several ways your AI chat conversations can be made public",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.computerworld.com/article/4242386/dont-trust-ai-to-keep-your-secrets.html",
+        "discovered_at": "2026-10-31"
     },
     {
         "name": "Con-dog",
@@ -5363,6 +5383,16 @@
         "discovered_at": "2026-09-26"
     },
     {
+        "name": "Nomorehappypath",
+        "description": "Show HN: AI agent needs process to build a commercial application",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nomorehappypath.com/",
+        "discovered_at": "2026-10-31"
+    },
+    {
         "name": "Nonlineartransform",
         "description": "AI rent can save humanity",
         "category": "AI & Machine Learning",
@@ -5690,6 +5720,16 @@
         "cors": "unknown",
         "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
         "discovered_at": "2026-08-30"
+    },
+    {
+        "name": "Optio",
+        "description": "Show HN: Optio – A self-hosted orchestration platform for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://optio.host/",
+        "discovered_at": "2026-10-31"
     },
     {
         "name": "Organ",
@@ -12719,6 +12759,16 @@
         "cors": "unknown",
         "url": "https://barrasso.me/posts/2026-04-09-on-device-coding-with-apple-intelligence/",
         "discovered_at": "2026-04-10"
+    },
+    {
+        "name": "Casdoor",
+        "description": "Casdoor v4 – open-source IAM with OAuth for MCP servers",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://casdoor.ai/blog/casdoor-v4/",
+        "discovered_at": "2026-10-31"
     },
     {
         "name": "Clerk",
@@ -87501,6 +87551,16 @@
         "discovered_at": "2026-03-24"
     },
     {
+        "name": "Prepd",
+        "description": "Show HN: Free system design learning path with animated architecture diagrams",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://prepd.tech/learning",
+        "discovered_at": "2026-10-31"
+    },
+    {
         "name": "Professorgoose",
         "description": "Show HN: I solved my study problems by talking to a goose",
         "category": "Education",
@@ -89306,6 +89366,16 @@
         "discovered_at": "2026-09-13"
     },
     {
+        "name": "Picoplayer",
+        "description": "Show HN: PicoPlayer – A tiny, open-source website for playing quality webgames",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://picoplayer.net/",
+        "discovered_at": "2026-10-31"
+    },
+    {
         "name": "Pip",
         "description": "Show HN: River Rescue – Game mechanic for 3yo",
         "category": "Entertainment",
@@ -89374,6 +89444,16 @@
         "cors": "unknown",
         "url": "https://playhyperbubble.com/",
         "discovered_at": "2026-08-15"
+    },
+    {
+        "name": "Playnightmare",
+        "description": "Show HN: Play Nightmare – the 1991 VHS board game, with a TV and phones",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://playnightmare.app/",
+        "discovered_at": "2026-10-31"
     },
     {
         "name": "Playtiao",
@@ -93612,6 +93692,16 @@
         "discovered_at": "2026-03-04"
     },
     {
+        "name": "Opencommerce",
+        "description": "Show HN: Opencommerce – OpenRouter for commerce, one API for AI agents to buy",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://opencommerce.sh",
+        "discovered_at": "2026-10-31"
+    },
+    {
         "name": "Openenergytransition",
         "description": "Open Source Will Eat AI",
         "category": "Maps & Transport",
@@ -95394,6 +95484,16 @@
         "cors": "unknown",
         "url": "https://www.journalismfutures.org/three-layer-cake",
         "discovered_at": "2026-10-23"
+    },
+    {
+        "name": "Kitepod",
+        "description": "Show HN: Kitepod – A free WordPress MCP with staging, approvals and undo",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kitepod.com/",
+        "discovered_at": "2026-10-31"
     },
     {
         "name": "Middleeastainews",
@@ -100433,6 +100533,16 @@
         "discovered_at": "2026-03-21"
     },
     {
+        "name": "Beamdisk",
+        "description": "Show HN: BeamDisk – High Performance iSCSI Initiator for macOS",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://beamdisk.app/",
+        "discovered_at": "2026-10-31"
+    },
+    {
         "name": "Beavercheck",
         "description": "Show HN: Free Web audit over 100 checks",
         "category": "Other",
@@ -102853,6 +102963,16 @@
         "discovered_at": "2026-10-09"
     },
     {
+        "name": "Designboom",
+        "description": "Tree-mounted machines connect to web app to let users knock on wood remotely",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/",
+        "discovered_at": "2026-10-31"
+    },
+    {
         "name": "Desktalk",
         "description": "Show HN: DeskTalk – talk to your desktop to build and modify local apps",
         "category": "Other",
@@ -104021,6 +104141,16 @@
         "cors": "unknown",
         "url": "https://fancanon.com/",
         "discovered_at": "2026-10-12"
+    },
+    {
+        "name": "Fastbrowse",
+        "description": "Show HN: Fastbrowse, Browser agent that picks clicks with a System One model",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.fastbrowse.ai/",
+        "discovered_at": "2026-10-31"
     },
     {
         "name": "Fastbusinessapi",
@@ -109293,6 +109423,16 @@
         "discovered_at": "2026-08-01"
     },
     {
+        "name": "Nozomi-xi",
+        "description": "Show HN: I made an interactive Sakura tree that runs in the browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nozomi-xi.vercel.app",
+        "discovered_at": "2026-10-31"
+    },
+    {
         "name": "Npgsqlrest",
         "description": "PostgreSQL REST API from SQL Scripts",
         "category": "Other",
@@ -110873,6 +111013,16 @@
         "discovered_at": "2026-09-27"
     },
     {
+        "name": "Progressiverobot",
+        "description": "AIs Fail to Reliably Detect AIs in Reverse Turing Tests",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.progressiverobot.com/2026/10/27/reverse-turing-test-ais-fail-to-detect-ais/",
+        "discovered_at": "2026-10-31"
+    },
+    {
         "name": "Project-estimator",
         "description": "Show HN: Project Estimator – a free, no sign-up software cost estimator",
         "category": "Other",
@@ -112123,6 +112273,16 @@
         "discovered_at": "2026-06-01"
     },
     {
+        "name": "Safata",
+        "description": "Local agent with multivendors, free, you own your context",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://safata.ai/",
+        "discovered_at": "2026-10-31"
+    },
+    {
         "name": "Safebots",
         "description": "In 2026: we now have a third way between Open Source and Closed Corporations",
         "category": "Other",
@@ -112941,6 +113101,16 @@
         "cors": "unknown",
         "url": "https://sk500.online/tech/fixing-yum-indexing-on-sonatype-nexus-and-the-non-opensource-upgrade/",
         "discovered_at": "2026-10-13"
+    },
+    {
+        "name": "Sketch",
+        "description": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sketch.wakeshift.ai/games/q5ucru",
+        "discovered_at": "2026-10-31"
     },
     {
         "name": "Skillswitch",
@@ -126942,6 +127112,16 @@
         "discovered_at": "2026-05-27"
     },
     {
+        "name": "Multispace",
+        "description": "Show HN: Free Unlimited Virtual Monitors+Watch Claude Work on Them+Community",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://multispace.dev/",
+        "discovered_at": "2026-10-31"
+    },
+    {
         "name": "Mux0",
         "description": "Show HN: Mux0 – Open-source macOS terminal with workspace tabs and agent hooks",
         "category": "Science",
@@ -130426,6 +130606,16 @@
         "discovered_at": "2026-09-09"
     },
     {
+        "name": "Aaivu",
+        "description": "Show HN: KuralHub 1.0, Speech emotion datasets for 70 languages in one place",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aaivu.github.io/KuralHub/datasets.html",
+        "discovered_at": "2026-10-31"
+    },
+    {
         "name": "Aiclonevoicefree",
         "description": "MixVoice – Free voice cloning in the browser (646 languages, no sign-up)",
         "category": "Text & Language",
@@ -131857,6 +132047,16 @@
         "discovered_at": "2026-05-19"
     },
     {
+        "name": "Ocrbench",
+        "description": "Show HN: Free OCR Cost Calculator – Estimate multi-provider LLM token costs",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ocrbench.app/blog/llm-ocr-cost-calculator/",
+        "discovered_at": "2026-10-31"
+    },
+    {
         "name": "Openaitoolshub",
         "description": "Show HN: AI tools index with free LLM latency and cost calculators",
         "category": "Utilities",
@@ -132601,6 +132801,16 @@
         "discovered_at": "2026-07-18"
     },
     {
+        "name": "Independent",
+        "description": "BBC licence fee expected to top £200 amid row over 'YouTube tax'",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.independent.co.uk/news/uk/politics/bbc-licence-fee-price-rise-youtube-tax-b3076318.html",
+        "discovered_at": "2026-10-31"
+    },
+    {
         "name": "Instantvideos",
         "description": "Show HN: InstantVideos.org – short documentaries in ~30 seconds",
         "category": "Video & Media",
@@ -132619,6 +132829,16 @@
         "cors": "unknown",
         "url": "https://internals.rust-lang.org/t/infinite-precision-intermediate-arithmetic-how-much-would-break/24383",
         "discovered_at": "2026-06-11"
+    },
+    {
+        "name": "Jplebreton",
+        "description": "Playscii – open-source ASCII art/animation/game creation",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jplebreton.com/playscii/",
+        "discovered_at": "2026-10-31"
     },
     {
         "name": "JSON2Video API",
