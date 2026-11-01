@@ -3047,6 +3047,16 @@
         "discovered_at": "2026-08-02"
     },
     {
+        "name": "Freegent",
+        "description": "FreeGent: Free Agentic AI for Everyone",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://freegent.ai",
+        "discovered_at": "2026-11-01"
+    },
+    {
         "name": "Freeheadshot",
         "description": "Show HN: Free AI headshots from one selfie, no signup",
         "category": "AI & Machine Learning",
@@ -56126,6 +56136,16 @@
         "discovered_at": "2026-03-28"
     },
     {
+        "name": "Codeconnect",
+        "description": "Show HN: CodeConnect: Coding Agents on Your iPhone",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://codeconnect.sh",
+        "discovered_at": "2026-11-01"
+    },
+    {
         "name": "Codeengineered",
         "description": "When Open Standards and Specs Are Better Than Open Source",
         "category": "Development",
@@ -77665,6 +77685,16 @@
         "discovered_at": "2026-09-09"
     },
     {
+        "name": "Getwinch",
+        "description": "Show HN: Winch – App Store optimization run by your own coding agent",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getwinch.app/",
+        "discovered_at": "2026-11-01"
+    },
+    {
         "name": "GiveSendGo Campaign Ranker",
         "description": "Scrapes GiveSendGo campaigns, extracts funding data, and ranks by percentage raised (lowest first) to identify campaigns needing the most support. Handles Cloudflare, unpublished campaigns, and...",
         "category": "E-Commerce",
@@ -88779,6 +88809,16 @@
         "url": "https://api.chucknorris.io/"
     },
     {
+        "name": "Classicalbot",
+        "description": "Show HN: Classical Music Concerts API",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://classicalbot.com/api/docs",
+        "discovered_at": "2026-11-01"
+    },
+    {
         "name": "Clawfight",
         "description": "Show HN: Clawfight.ai MCP-driven agentic game play",
         "category": "Entertainment",
@@ -93322,6 +93362,16 @@
         "cors": "unknown",
         "url": "https://www.aporium.app/explore",
         "discovered_at": "2026-10-11"
+    },
+    {
+        "name": "Bbrouter",
+        "description": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+        "discovered_at": "2026-11-01"
     },
     {
         "name": "Bizdata-web",
@@ -99961,6 +100011,16 @@
         "cors": "unknown",
         "url": "https://app.ordinate.dev",
         "discovered_at": "2026-10-30"
+    },
+    {
+        "name": "App",
+        "description": "Show HN: Geop – Open-source Nurbs CAD with MCP (MicroDuck example)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.geop-cad.dev/?example=duck",
+        "discovered_at": "2026-11-01"
     },
     {
         "name": "Appdoesit",
@@ -110193,6 +110253,16 @@
         "discovered_at": "2026-10-30"
     },
     {
+        "name": "Outerzone",
+        "description": "Model Aero Engines Free Manufacturable Plans/Blueprints",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://outerzone.co.uk/plans.asp?cat=Engines",
+        "discovered_at": "2026-11-01"
+    },
+    {
         "name": "Owntime",
         "description": "Show HN: OwnTime – a chess clock for your day's priorities",
         "category": "Other",
@@ -111321,6 +111391,16 @@
         "cors": "unknown",
         "url": "https://pyrefly.org/blog/pandas-type-completeness/",
         "discovered_at": "2026-03-10"
+    },
+    {
+        "name": "Pythongreatagain",
+        "description": "Show HN: Make Python Great Again – Free tools and desktop apps built with Python",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pythongreatagain.com/",
+        "discovered_at": "2026-11-01"
     },
     {
         "name": "Pythonspeed",
@@ -130901,6 +130981,16 @@
         "cors": "unknown",
         "url": "https://itsumo.study/",
         "discovered_at": "2026-04-09"
+    },
+    {
+        "name": "Jointter",
+        "description": "Show HN: Jointter – A daily word puzzle using dots and lines",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.jointter.com/",
+        "discovered_at": "2026-11-01"
     },
     {
         "name": "Kittine",
