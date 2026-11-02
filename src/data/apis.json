@@ -820,6 +820,16 @@
         "discovered_at": "2026-09-02"
     },
     {
+        "name": "Anonce",
+        "description": "Show HN: Nonce – Open-source, least-privilege Gmail access for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.anonce.io/",
+        "discovered_at": "2026-11-02"
+    },
+    {
         "name": "Anothertodo",
         "description": "Show HN: A $4/mo AI todo app – 3 todos free, pay for the 4th",
         "category": "AI & Machine Learning",
@@ -7049,6 +7059,16 @@
         "cors": "unknown",
         "url": "https://shiporslop.xyz",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Shodenltd",
+        "description": "Improve AI Visibility",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://shodenltd.com/free-ai-visibility-report/",
+        "discovered_at": "2026-11-02"
     },
     {
         "name": "Shop",
@@ -22297,6 +22317,16 @@
         "cors": "unknown",
         "url": "https://api.hubspot.com/api-catalog-public/v1/apis/communication-preferences/v3",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Syscall",
+        "description": "Show HN: I've updated my Linux System Call website and API",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://syscall.sh/",
+        "discovered_at": "2026-11-02"
     },
     {
         "name": "Tabmail",
@@ -89811,6 +89841,16 @@
         "url": "https://www.tvmaze.com/api"
     },
     {
+        "name": "Uncracked",
+        "description": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://uncracked.city",
+        "discovered_at": "2026-11-02"
+    },
+    {
         "name": "Variety",
         "description": "Oliver Tree, 'Alien Boy' Musician, Dies at 32 in Helicopter Crash",
         "category": "Entertainment",
@@ -92354,6 +92394,16 @@
         "discovered_at": "2026-08-11"
     },
     {
+        "name": "Calvinyz",
+        "description": "Show HN: Corollary, LaTeX Editor for Mac with On-Device Apple Foundation Models",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://calvinyz.github.io/corollary/",
+        "discovered_at": "2026-11-02"
+    },
+    {
         "name": "Cottage-sync",
         "description": "Show HN: Own Your Secrets – Sync encrypted secrets from any repo to any device",
         "category": "IoT & Hardware",
@@ -93631,6 +93681,16 @@
         "cors": "unknown",
         "url": "https://ionrouter.io",
         "discovered_at": "2026-03-13"
+    },
+    {
+        "name": "Kilasec",
+        "description": "Show HN: Building an AI Traffic Guardrail(kilasec)",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kilasec.com",
+        "discovered_at": "2026-11-02"
     },
     {
         "name": "Krouter",
@@ -105063,6 +105123,16 @@
         "discovered_at": "2026-09-03"
     },
     {
+        "name": "Getfaro",
+        "description": "Show HN: Faro, an unofficial Signal client for the terminal",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getfaro.dev/",
+        "discovered_at": "2026-11-02"
+    },
+    {
         "name": "Getfluiq",
         "description": "Show HN: Fluiq – detect prompt injection, PII, Crescendo attack 2 line of Python",
         "category": "Other",
@@ -106181,6 +106251,16 @@
         "cors": "unknown",
         "url": "https://iconsdb.app",
         "discovered_at": "2026-09-21"
+    },
+    {
+        "name": "Id-le",
+        "description": "Show HN: 2D world SIM where each creature runs a text classifier in the browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://id-le.com/?lab&halloween",
+        "discovered_at": "2026-11-02"
     },
     {
         "name": "Ideakache",
@@ -110133,6 +110213,16 @@
         "discovered_at": "2026-08-11"
     },
     {
+        "name": "Orielformac",
+        "description": "I used Claude to build and ship Oriel – a free, native-feeling macOS notch app",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://orielformac.pages.dev",
+        "discovered_at": "2026-11-02"
+    },
+    {
         "name": "Oriflow",
         "description": "Show HN: Oriflow - A Vibe Coding Platform for Building Personal Apps",
         "category": "Other",
@@ -110593,6 +110683,16 @@
         "discovered_at": "2026-10-07"
     },
     {
+        "name": "Peopleyouk",
+        "description": "Show HN: People you know, an end-to-end encrypted private Instagram replacement",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://peopleyouk.now/",
+        "discovered_at": "2026-11-02"
+    },
+    {
         "name": "perfectpdf api",
         "description": "The perfectpdf api does one thing, perfectly: it converts html to pdf. The perfectpdf api uses headless Google Chrome to provide a low cost, high quality, simple to use service.",
         "category": "Other",
@@ -110641,6 +110741,16 @@
         "cors": "unknown",
         "url": "https://personalwebsites.org/",
         "discovered_at": "2026-03-19"
+    },
+    {
+        "name": "Pewpewpew",
+        "description": "Show HN: PewPewPew – Multiplayer Asteroids with deterministic rollback at 60hz",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pewpewpew.io/",
+        "discovered_at": "2026-11-02"
     },
     {
         "name": "Phulin",
@@ -127190,6 +127300,16 @@
         "cors": "unknown",
         "url": "https://www.mirdel.ai",
         "discovered_at": "2026-05-27"
+    },
+    {
+        "name": "Mistake-trainer",
+        "description": "Show HN: Mistake Trainer – Spaced repetition from your own Lichess games",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mistake-trainer.pages.dev/",
+        "discovered_at": "2026-11-02"
     },
     {
         "name": "Multispace",
