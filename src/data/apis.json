@@ -2497,6 +2497,16 @@
         "discovered_at": "2026-06-20"
     },
     {
+        "name": "Docmaker",
+        "description": "DocMaker AI – Free AI Document Generator, PDF Maker and Online Editor",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://docmaker.ai",
+        "discovered_at": "2026-11-03"
+    },
+    {
         "name": "Docs",
         "description": "EU AI Act compliance layer for Claude Managed Agents (MCP, open source)",
         "category": "AI & Machine Learning",
@@ -6090,6 +6100,16 @@
         "cors": "unknown",
         "url": "https://precisionnumerics.ai/blog/boole-1p7b",
         "discovered_at": "2026-10-15"
+    },
+    {
+        "name": "Predatorray",
+        "description": "Show HN: CheapGPT – a free local AI assistant powered by Chrome's Gemini Nano",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.predatorray.me/CheapGPT/",
+        "discovered_at": "2026-11-03"
     },
     {
         "name": "Prevail",
@@ -12196,6 +12216,16 @@
         "discovered_at": "2026-03-13"
     },
     {
+        "name": "Momentic",
+        "description": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://momentic.ai/",
+        "discovered_at": "2026-11-03"
+    },
+    {
         "name": "Naveensrinivasan",
         "description": "Finding Hidden Internal Apps Through Public Certificate Logs",
         "category": "Animals",
@@ -12799,6 +12829,16 @@
         "cors": "unknown",
         "url": "https://casdoor.ai/blog/casdoor-v4/",
         "discovered_at": "2026-10-31"
+    },
+    {
+        "name": "Clawdline",
+        "description": "Show HN: Clawdline – Manage Claude Code/Codex sessions across computers",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://clawdline.com/",
+        "discovered_at": "2026-11-03"
     },
     {
         "name": "Clerk",
@@ -21391,6 +21431,16 @@
         "discovered_at": "2026-10-10"
     },
     {
+        "name": "Devpu",
+        "description": "Show HN: Devpush – Self-Hosted PaaS for Docker Compose",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://devpu.sh/",
+        "discovered_at": "2026-11-03"
+    },
+    {
         "name": "Dipstickalerts",
         "description": "Show HN: Dipstick Alerts – Search recalls and service bulletins for your car",
         "category": "Communication",
@@ -22168,6 +22218,16 @@
         "cors": "unknown",
         "url": "https://www.safekibble.app/",
         "discovered_at": "2026-05-08"
+    },
+    {
+        "name": "Sandbox",
+        "description": "Show HN: MxRaven – Programmable email infra for nothing in particular",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sandbox.mxraven.com/",
+        "discovered_at": "2026-11-03"
     },
     {
         "name": "SendGrid",
@@ -43495,6 +43555,16 @@
         "cors": "unknown",
         "url": "https://apify.com/jungle_synthesizer/fmcsa-dot-crawler",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Salary-statistics",
+        "description": "Johnstown, PA will be your best place to live if you make under 100K",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://salary-statistics.netlify.app/us/where-to-live",
+        "discovered_at": "2026-11-03"
     },
     {
         "name": "Sales Navigator Profile Scraper",
@@ -83572,6 +83642,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Signalscoop",
+        "description": "Show HN: SignalScoop – turn customer messages into product insights",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.signalscoop.app/",
+        "discovered_at": "2026-11-03"
+    },
+    {
         "name": "Silvergoldbull Scraper(delete)",
         "description": "The Silver Gold Bull Scraper extracts real-time gold and silver product data, including prices, stock status, weight, and more from Silver Gold Bull. Easily monitor precious metals prices and...",
         "category": "E-Commerce",
@@ -87261,6 +87341,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "0x4d31",
+        "description": "AI Red Team Academy: Free, open-source course on breaking AI systems",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://0x4d31.github.io/airt/",
+        "discovered_at": "2026-11-03"
+    },
+    {
         "name": "Abc",
         "description": "Show HN: Free AI courses that require a short reflection to earn a certificate",
         "category": "Education",
@@ -89623,6 +89713,16 @@
         "cors": "unknown",
         "url": "https://scoragora.com/",
         "discovered_at": "2026-06-09"
+    },
+    {
+        "name": "Sfxmint",
+        "description": "Show HN: SFXMint – CC0 game SFX with a keyless API and MCP for coding agents",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sfxmint.com",
+        "discovered_at": "2026-11-03"
     },
     {
         "name": "Shootsolo",
@@ -92844,6 +92944,16 @@
         "discovered_at": "2026-05-15"
     },
     {
+        "name": "Vectoys",
+        "description": "Show HN: Vectoys – 3D devices for landing pages, drawn as plain SVG",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vectoys.com/",
+        "discovered_at": "2026-11-03"
+    },
+    {
         "name": "Voice",
         "description": "Show HN: Free on Device Meetings Summaries Right to Apple Notes",
         "category": "IoT & Hardware",
@@ -95494,6 +95604,16 @@
         "cors": "unknown",
         "url": "https://hackobar.com/",
         "discovered_at": "2026-05-26"
+    },
+    {
+        "name": "Hangingcontext",
+        "description": "Show HN: Hanging Context – news by an agent, for other agents",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hangingcontext.com/",
+        "discovered_at": "2026-11-03"
     },
     {
         "name": "Hitest",
@@ -100151,6 +100271,16 @@
         "cors": "unknown",
         "url": "https://apps.npr.org/west-africa-trade-growth-economy-nigeria-ghana-lagos/",
         "discovered_at": "2026-08-13"
+    },
+    {
+        "name": "Apps",
+        "description": "Show HN: Tiny Tally - Free local only finances",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apps.tarwin.art/tiny-tally/",
+        "discovered_at": "2026-11-03"
     },
     {
         "name": "Appsec",
@@ -112443,6 +112573,16 @@
         "discovered_at": "2026-08-31"
     },
     {
+        "name": "Rustable",
+        "description": "Show HN: Rustable is an open source database client built in Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rustable.app",
+        "discovered_at": "2026-11-03"
+    },
+    {
         "name": "Rxcheck",
         "description": "Show HN: RxCheck – Replacement for the discontinued NLM drug interaction API",
         "category": "Other",
@@ -114663,6 +114803,16 @@
         "discovered_at": "2026-07-09"
     },
     {
+        "name": "The-public-eye",
+        "description": "Show HN: The Public Eye – Agentic search for congressional bill legibility",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://the-public-eye.com",
+        "discovered_at": "2026-11-03"
+    },
+    {
         "name": "Theapplied",
         "description": "Open Source, APIs, and the Rise of Agent-Led Growth",
         "category": "Other",
@@ -115603,6 +115753,16 @@
         "discovered_at": "2026-10-14"
     },
     {
+        "name": "Useinstatools",
+        "description": "An open-source tool that makes eye-candy Instagram posts that doesn't use AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.useinstatools.com/",
+        "discovered_at": "2026-11-03"
+    },
+    {
         "name": "Uselayer",
         "description": "Show HN: Layer – One API for Polymarket and Kalshi",
         "category": "Other",
@@ -115641,6 +115801,16 @@
         "cors": "unknown",
         "url": "https://usepatch.work/",
         "discovered_at": "2026-04-29"
+    },
+    {
+        "name": "Userecurrence",
+        "description": "Is hosting an open-source inference engine profitable?",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://userecurrence.ai/research/is-hosting-open-source-inference-profitable",
+        "discovered_at": "2026-11-03"
     },
     {
         "name": "Users",
@@ -117171,6 +117341,16 @@
         "cors": "unknown",
         "url": "https://chivukulavirinchi.github.io/photovault/",
         "discovered_at": "2026-07-26"
+    },
+    {
+        "name": "Clarpex",
+        "description": "Show HN: Clarpex – Free AI photo fixer, no sign-up needed",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://clarpex.ai/",
+        "discovered_at": "2026-11-03"
     },
     {
         "name": "Cleanmymedia",
@@ -122866,6 +123046,16 @@
         "discovered_at": "2026-08-15"
     },
     {
+        "name": "Mintype",
+        "description": "Show HN: Mintype – Free, zero-knowledge notes app with whiteboards (AGPL)",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mintype.app",
+        "discovered_at": "2026-11-03"
+    },
+    {
         "name": "Mitsubishi Parts Catalog",
         "description": "Explore the Mitsubishi Parts Catalog featuring genuine OEM and quality aftermarket components. From engines and transmissions to electronics and interiors, find reliable, precision-built parts for...",
         "category": "Productivity",
@@ -127242,6 +127432,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Instagram",
+        "description": "Free Scholarship Test – Data Science with AI",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.instagram.com/p/DfOIWPFCHGJ/",
+        "discovered_at": "2026-11-03"
+    },
+    {
         "name": "Knownote",
         "description": "Show HN: KnowNote-A local desktop workspace for questioning your own sources",
         "category": "Science",
@@ -128852,6 +129052,16 @@
         "discovered_at": "2026-04-01"
     },
     {
+        "name": "Dailyprincetonian",
+        "description": "Reactions: Princeton is buying us ChatGPT subscriptions",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.dailyprincetonian.com/article/2026/10/princeton-opinion-reactions-free-chatgpt-subscriptions-all-students",
+        "discovered_at": "2026-11-03"
+    },
+    {
         "name": "Davidayo",
         "description": "Free Messaging App",
         "category": "Social",
@@ -129078,6 +129288,16 @@
         "cors": "unknown",
         "url": "https://morethanamachine.com/posts/reddit-stock-spikes-llm-policy-replay/",
         "discovered_at": "2026-10-27"
+    },
+    {
+        "name": "Negativeabsence",
+        "description": "Show HN: Project Wisteria-A BYOK chatbot that saves thoughts and memory locally",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://negativeabsence.com/wisteria/",
+        "discovered_at": "2026-11-03"
     },
     {
         "name": "Nexconn",
@@ -129482,6 +129702,16 @@
         "cors": "unknown",
         "url": "https://www.falsoai.com/",
         "discovered_at": "2026-04-26"
+    },
+    {
+        "name": "Flick",
+        "description": "Show HN: Flick – A sports scores app without spoilers",
+        "category": "Sports",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://flick.kawaicheung.io/appstart.html",
+        "discovered_at": "2026-11-03"
     },
     {
         "name": "Football-Data",
@@ -130982,6 +131212,16 @@
         "cors": "unknown",
         "url": "https://dmerullo.github.io/project-espanol/",
         "discovered_at": "2026-08-03"
+    },
+    {
+        "name": "Docperrow",
+        "description": "Show HN: DocPerRow – one Word document per spreadsheet row, in the browser",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://docperrow.netlify.app/",
+        "discovered_at": "2026-11-03"
     },
     {
         "name": "Euspell",
@@ -133329,6 +133569,16 @@
         "cors": "unknown",
         "url": "https://portfoliovideo.com",
         "discovered_at": "2026-08-07"
+    },
+    {
+        "name": "Primalvideo",
+        "description": "AI video editing in DaVinci Resolve and MCP – workflow demonstration and test",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://primalvideo.com/guides/davinci-resolve-ai-assistance/",
+        "discovered_at": "2026-11-03"
     },
     {
         "name": "Ravan",
