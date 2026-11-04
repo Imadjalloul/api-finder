@@ -3705,6 +3705,16 @@
         "discovered_at": "2026-03-22"
     },
     {
+        "name": "Hn-hiring-2019-2026",
+        "description": "Show HN: 8 years of \"Who's Hiring?\" in charts (hiring boom, bust, and AI trends)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hn-hiring-2019-2026.lancecj.chatgpt.site/",
+        "discovered_at": "2026-11-04"
+    },
+    {
         "name": "Hodor",
         "description": "Show HN: Hodor – a 701KB native macOS prompt launcher for AI tools",
         "category": "AI & Machine Learning",
@@ -4012,6 +4022,16 @@
         "cors": "unknown",
         "url": "https://isitartstudio.com",
         "discovered_at": "2026-04-28"
+    },
+    {
+        "name": "Isitslop",
+        "description": "Show HN: Isitslop.org: AI Can build anything. Was it worth it?",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://isitslop.org",
+        "discovered_at": "2026-11-04"
     },
     {
         "name": "Ismylandingpagevalid",
@@ -4724,6 +4744,16 @@
         "discovered_at": "2026-08-30"
     },
     {
+        "name": "Mallard-ai",
+        "description": "Show HN: Mallard: Git for the age of AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mallard-ai.com/home",
+        "discovered_at": "2026-11-04"
+    },
+    {
         "name": "Mallopal",
         "description": "Show HN: Mallo – An iOS AI companion that remembers you and checks in daily",
         "category": "AI & Machine Learning",
@@ -5031,6 +5061,16 @@
         "cors": "unknown",
         "url": "https://modelparams.dev/",
         "discovered_at": "2026-06-19"
+    },
+    {
+        "name": "Modelpeers",
+        "description": "Show HN: Modelpeers – a changelog for the AI models and agents you use",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://modelpeers.com",
+        "discovered_at": "2026-11-04"
     },
     {
         "name": "Monkepay",
@@ -6709,6 +6749,16 @@
         "cors": "unknown",
         "url": "https://www.ringee.io",
         "discovered_at": "2026-09-15"
+    },
+    {
+        "name": "Rivermark",
+        "description": "Show HN: Rivermark, a superfast AI graphic design canvas",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rivermark.ai/",
+        "discovered_at": "2026-11-04"
     },
     {
         "name": "Rnz",
@@ -11936,6 +11986,16 @@
         "cors": "unknown",
         "url": "https://bekasbah.com/",
         "discovered_at": "2026-03-05"
+    },
+    {
+        "name": "Bleuio",
+        "description": "Developing a Desktop BLE Air-Quality Application with Rust",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.bleuio.com/blog/developing-a-desktop-ble-air-quality-application-with-rust-dioxus-and-bleuio/",
+        "discovered_at": "2026-11-04"
     },
     {
         "name": "Blog",
@@ -68066,6 +68126,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Shadowgraph",
+        "description": "Show HN: I got tired of GitHub trending, so I built my own",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://shadowgraph.io",
+        "discovered_at": "2026-11-04"
+    },
+    {
         "name": "Sharebucks",
         "description": "I vibe coded an alternative to splitwise free",
         "category": "Development",
@@ -76914,6 +76984,16 @@
         "cors": "unknown",
         "url": "https://apify.com/allanjblythe/price-monitor",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Ecommerceresearch",
+        "description": "Can Advertising Fund Free AI? Evidence from ChatGPT's Advertising Rollout",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ecommerceresearch.org/chatgpt-ads/",
+        "discovered_at": "2026-11-04"
     },
     {
         "name": "Electric Scraper",
@@ -104333,6 +104413,16 @@
         "discovered_at": "2026-05-13"
     },
     {
+        "name": "Fairats",
+        "description": "Tips to get the best-suited candidates to apply to your job opening",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fairats.com/blog/tips-to-get-the-best-suited-candidates-to-apply/",
+        "discovered_at": "2026-11-04"
+    },
+    {
         "name": "Fakeipedia",
         "description": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
         "category": "Other",
@@ -104571,6 +104661,16 @@
         "cors": "unknown",
         "url": "https://www.findborg.com/",
         "discovered_at": "2026-07-22"
+    },
+    {
+        "name": "Findfreeapi",
+        "description": "Show HN: FindFreeAPI – Free public API directory with in-browser test sandbox",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://findfreeapi.com",
+        "discovered_at": "2026-11-04"
     },
     {
         "name": "Finqual",
@@ -113881,6 +113981,16 @@
         "cors": "unknown",
         "url": "https://splitsense.ai/tools/free-landing-page-review",
         "discovered_at": "2026-04-12"
+    },
+    {
+        "name": "Spooler",
+        "description": "Show HN: Spooler – a simple, managed message queue",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://spooler.sh/",
+        "discovered_at": "2026-11-04"
     },
     {
         "name": "Spotthecue",
@@ -129419,6 +129529,16 @@
         "discovered_at": "2026-05-29"
     },
     {
+        "name": "Samewindow",
+        "description": "Show HN: Backup your ChatGPT and Claude conversation free",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.samewindow.com/",
+        "discovered_at": "2026-11-04"
+    },
+    {
         "name": "Schedpilot",
         "description": "Show HN: I made a social media scheduler with API for AI Agents",
         "category": "Social",
@@ -132853,6 +132973,16 @@
         "discovered_at": "2026-04-09"
     },
     {
+        "name": "Audioenhancer",
+        "description": "Audio Enhancer – Free Online AI Audio Enhancer and Noise Remover",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://audioenhancer.io",
+        "discovered_at": "2026-11-04"
+    },
+    {
         "name": "Audioreality",
         "description": "Show HN: Audioreality.ai – email to private daily podcast summary show",
         "category": "Video & Media",
@@ -133779,6 +133909,16 @@
         "cors": "unknown",
         "url": "https://studio.academa.ai/",
         "discovered_at": "2026-07-29"
+    },
+    {
+        "name": "Tahaygun",
+        "description": "Show HN: Pauseless – Free silence/filler-word remover from videos, on-browser",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tahaygun.github.io/pauseless/",
+        "discovered_at": "2026-11-04"
     },
     {
         "name": "Tenor",
