@@ -1780,6 +1780,16 @@
         "discovered_at": "2026-06-19"
     },
     {
+        "name": "Catchkill9",
+        "description": "AI isn't slop. It's just the generic average. And not you",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.catchkill9.dev/posts/voiceprint-open-source.html",
+        "discovered_at": "2026-11-05"
+    },
+    {
         "name": "Cc",
         "description": "Show HN: Command Center, the AI coding env for people who care about quality",
         "category": "AI & Machine Learning",
@@ -3543,6 +3553,16 @@
         "cors": "unknown",
         "url": "https://gruhn.me/blog/2026-08-16/",
         "discovered_at": "2026-08-18"
+    },
+    {
+        "name": "Gtmshortlist",
+        "description": "Show HN: GTMshortlist – I asked Claude for the best AI SDR. It wasn't yours",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gtmshortlist.ai/",
+        "discovered_at": "2026-11-05"
     },
     {
         "name": "Guardianreplay",
@@ -7660,6 +7680,16 @@
         "discovered_at": "2026-07-22"
     },
     {
+        "name": "Swarm-world",
+        "description": "Show HN: Swarm World – local LLM creatures living in a little tile world",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://swarm-world.4rc4de.com/public/app/",
+        "discovered_at": "2026-11-05"
+    },
+    {
         "name": "Swarmed",
         "description": "Show HN: Swarmed.DEV – The Autonomous AI Development Swarm",
         "category": "AI & Machine Learning",
@@ -8657,6 +8687,16 @@
         "cors": "unknown",
         "url": "https://www.visualbuild.me",
         "discovered_at": "2026-06-26"
+    },
+    {
+        "name": "Vllm",
+        "description": "Kinference: Open-source inference control plane for vLLM",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vllm.ai/blog/2026-11-04-introducing-kinference",
+        "discovered_at": "2026-11-05"
     },
     {
         "name": "Vm-price-board",
@@ -20357,6 +20397,16 @@
         "discovered_at": "2026-07-23"
     },
     {
+        "name": "Cloudy",
+        "description": "Free AI for Everyone",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cloudy.chat",
+        "discovered_at": "2026-11-05"
+    },
+    {
         "name": "Codelabs",
         "description": "Show HN: Catch abnormal usage of your API keys on Google Cloud",
         "category": "Cloud & Storage",
@@ -20621,6 +20671,16 @@
         "cors": "unknown",
         "url": "https://www.light-cloud.com/",
         "discovered_at": "2026-09-27"
+    },
+    {
+        "name": "Mahocommerce",
+        "description": "Maho 26.11: open-source ecommerce with AI assistant, page builder, S3 storage",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mahocommerce.com/blog/2026/11/01/maho-26110-is-out-today/",
+        "discovered_at": "2026-11-05"
     },
     {
         "name": "Mantledb",
@@ -20910,6 +20970,16 @@
         "cors": "unknown",
         "url": "https://www.smplogs.com",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Support",
+        "description": "Apple Will Scan Public iCloud Links for Harmful Content Starting in iOS 27.3",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://support.apple.com/en-us/149168",
+        "discovered_at": "2026-11-05"
     },
     {
         "name": "Suse",
@@ -34085,6 +34155,16 @@
         "cors": "unknown",
         "url": "https://apify.com/benthepythondev/hacker-news-intelligence",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Hackerdatasets",
+        "description": "Show HN: HackerDatasets-Discover remarkable datasets on HN",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hackerdatasets.remyli.com/en/",
+        "discovered_at": "2026-11-05"
     },
     {
         "name": "Hackernews Job Scraper",
@@ -64818,6 +64898,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Mooring",
+        "description": "Show HN: Mooring, an agentic development environment for Claude Code",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mooring.sh/download",
+        "discovered_at": "2026-11-05"
+    },
+    {
         "name": "Morrisons Product Scraper",
         "description": "Scrape Morrison to get your product details insight at a cheap rate, just 2.5$ per 1000 products",
         "category": "Development",
@@ -80475,6 +80565,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Lowkey",
+        "description": "Show HN: A calm app for car shopping (MIT)",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lowkey.autos",
+        "discovered_at": "2026-11-05"
+    },
+    {
         "name": "Luxe Bedding– Bed Threads Scraper",
         "description": "Scrape Luxe Bedding– Bed Threads and extract data on bed and bath from bedthreads.com.au. Our Luxe Bedding– Bed Threads API lets you crawl product information and pricing. The saved data can be...",
         "category": "E-Commerce",
@@ -89317,6 +89417,16 @@
         "discovered_at": "2026-06-26"
     },
     {
+        "name": "Levievans",
+        "description": "Show HN: X402 Music – API to search, license, and stream pre-cleared music stems",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://levievans.cloud",
+        "discovered_at": "2026-11-05"
+    },
+    {
         "name": "Llamalegends",
         "description": "Show HN: Llama Legends - A 100% free Card Game with RPG elements",
         "category": "Entertainment",
@@ -89355,6 +89465,16 @@
         "cors": "unknown",
         "url": "https://majority-eight.vercel.app/",
         "discovered_at": "2026-09-19"
+    },
+    {
+        "name": "Makeworks98",
+        "description": "Show HN: MakeWorks 98 – a game in a desktop simulation",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://makeworks98.com/",
+        "discovered_at": "2026-11-05"
     },
     {
         "name": "Manager",
@@ -90158,6 +90278,16 @@
         "cors": "unknown",
         "url": "https://app.lpmresearch.com",
         "discovered_at": "2026-10-27"
+    },
+    {
+        "name": "App",
+        "description": "Show HN: Aggregate Finance, your financial data in a spreadsheet you own",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.aggregatefi.com/",
+        "discovered_at": "2026-11-05"
     },
     {
         "name": "Bill Payment Validator",
@@ -91777,6 +91907,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://disease.sh/docs/"
+    },
+    {
+        "name": "Crmhuolto",
+        "description": "Free CRM health check – see how much pipeline money is stale",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://crmhuolto.fi",
+        "discovered_at": "2026-11-05"
     },
     {
         "name": "Datasociety",
@@ -95189,6 +95329,16 @@
         "discovered_at": "2026-10-26"
     },
     {
+        "name": "Ai-news",
+        "description": "Show HN: AI Heat Map generated real-time from over 140 News Feeds",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ai-news.jagular.io/",
+        "discovered_at": "2026-11-05"
+    },
+    {
         "name": "Aiact",
         "description": "Free EU AI Act Article 50 compliance checker for indie SaaS",
         "category": "News",
@@ -96251,6 +96401,16 @@
         "cors": "unknown",
         "url": "https://www.usedragonfly.xyz",
         "discovered_at": "2026-09-23"
+    },
+    {
+        "name": "Wordfence",
+        "description": "CVE-2026-93389: LiteSpeed Cache serves WordPress/WooCommerce data to anyone",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/litespeed-cache/litespeed-cache-791-unauthenticated-sensitive-information-disclosure-woocommerce-store-api-cartcheckout-pii-cart-token-via-public-rest-caching",
+        "discovered_at": "2026-11-05"
     },
     {
         "name": "Accountants General, Tripura",
@@ -99953,6 +100113,16 @@
         "discovered_at": "2026-03-25"
     },
     {
+        "name": "Anirudhb11",
+        "description": "The Limits of Test-Time Compute for Self-Evaluation",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://anirudhb11.github.io/blog/scorpio/",
+        "discovered_at": "2026-11-05"
+    },
+    {
         "name": "Antejavor",
         "description": "What is the best data model for AI?",
         "category": "Other",
@@ -102103,6 +102273,16 @@
         "discovered_at": "2026-06-11"
     },
     {
+        "name": "Ciphero",
+        "description": "Show HN: Cassandra – free tool to check if you got affected by the Cursor hack",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ciphero.ai/cassandra/hn",
+        "discovered_at": "2026-11-05"
+    },
+    {
         "name": "Circleit",
         "description": "Show HN: CircleIt – Circle something on a web page, your coding agent fixes it",
         "category": "Other",
@@ -104133,6 +104313,16 @@
         "discovered_at": "2026-10-08"
     },
     {
+        "name": "Engine",
+        "description": "Show HN: See an AI-drafted LinkedIn post and quote graphic, no signup or card",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://engine.goviralpromo.com/try",
+        "discovered_at": "2026-11-05"
+    },
+    {
         "name": "Engram",
         "description": "Show HN: Engram – Open-source agent memory that beats Mem0 by 20% on LOCOMO",
         "category": "Other",
@@ -105551,6 +105741,16 @@
         "cors": "unknown",
         "url": "https://www.gettextile.app",
         "discovered_at": "2026-06-02"
+    },
+    {
+        "name": "Getvector",
+        "description": "Show HN: Vector – a macOS app for engineering with agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getvector.sh",
+        "discovered_at": "2026-11-05"
     },
     {
         "name": "Ghostklan",
@@ -111583,6 +111783,16 @@
         "discovered_at": "2026-08-21"
     },
     {
+        "name": "Pub-a941bfd863a24f91a60e6c4979c18a84",
+        "description": "Cold-start test: 8 agent sites, 2 cold writes, 97 logged requests",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pub-a941bfd863a24f91a60e6c4979c18a84.r2.dev/pi-sandbox-uploads/362853802061074432/2026-11-05/1793853557213-869eca17-6f40-4338-9d1b-6b75ee0ae224-audit.html",
+        "discovered_at": "2026-11-05"
+    },
+    {
         "name": "Public",
         "description": "Quake Version 1.07 on RS/6000 Systems",
         "category": "Other",
@@ -112983,6 +113193,16 @@
         "discovered_at": "2026-08-29"
     },
     {
+        "name": "Scrollhope",
+        "description": "Show HN: I built a Bible verse feed to replace doomscrolling",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://scrollhope.com/",
+        "discovered_at": "2026-11-05"
+    },
+    {
         "name": "Scry",
         "description": "Show HN: Scry, programmable internet search w/ congestion pricing",
         "category": "Other",
@@ -113171,6 +113391,16 @@
         "cors": "unknown",
         "url": "https://seoscoreapi.com",
         "discovered_at": "2026-03-02"
+    },
+    {
+        "name": "Septaro",
+        "description": "Septaro, an AI-powered weekly reset to help you pursue your goals",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://septaro.com",
+        "discovered_at": "2026-11-05"
     },
     {
         "name": "Serendipity",
@@ -113411,6 +113641,16 @@
         "cors": "unknown",
         "url": "https://sigabrt.dev",
         "discovered_at": "2026-09-20"
+    },
+    {
+        "name": "Sigmajp",
+        "description": "Show HN: Sigmajp – Integrated Japanese Reader",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sigmajp.works/",
+        "discovered_at": "2026-11-05"
     },
     {
         "name": "Signal-memo",
@@ -116143,6 +116383,16 @@
         "discovered_at": "2026-05-23"
     },
     {
+        "name": "Vivonco",
+        "description": "Show HN: Vivonco – match patient's cancer reports to targeted drugs and trials",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vivonco.com/",
+        "discovered_at": "2026-11-05"
+    },
+    {
         "name": "Viztools",
         "description": "Show HN: VizTools – 16 free tools for PMs and freelancers, deliberately no AI",
         "category": "Other",
@@ -117711,6 +117961,16 @@
         "cors": "unknown",
         "url": "https://www.lightwindow.app",
         "discovered_at": "2026-07-06"
+    },
+    {
+        "name": "Linum",
+        "description": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.linum.ai/field-notes/pjit-21k",
+        "discovered_at": "2026-11-05"
     },
     {
         "name": "Lorem Picsum",
@@ -126293,6 +126553,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Vc067",
+        "description": "Show HN: Win Stats – open-source system monitoring in the Windows taskbar",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vc067.github.io/win-stats/",
+        "discovered_at": "2026-11-05"
+    },
+    {
         "name": "Vector Db Migrator",
         "description": "Migrate embeddings between Pinecone, Weaviate, Chroma, and Qdrant with metadata preservation and validation. No free migration tools exist in the market.",
         "category": "Productivity",
@@ -133919,6 +134189,16 @@
         "cors": "unknown",
         "url": "https://tahaygun.github.io/pauseless/",
         "discovered_at": "2026-11-04"
+    },
+    {
+        "name": "Tejas-h5",
+        "description": "Web immediate-mode API that uses control-flow annotations instead of diffing",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tejas-h5.github.io/imcf/?test=Overview",
+        "discovered_at": "2026-11-05"
     },
     {
         "name": "Tenor",
