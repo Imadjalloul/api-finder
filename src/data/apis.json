@@ -4744,6 +4744,16 @@
         "discovered_at": "2026-10-20"
     },
     {
+        "name": "Magertron",
+        "description": "Show HN: Magertron – AI Orchestrator for agents' tools, APIs, LLMs and streams",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://magertron.com/#install",
+        "discovered_at": "2026-11-06"
+    },
+    {
         "name": "Magicbookshelf",
         "description": "Magicbookshelf.org – Using AI to create a spoiler-free companion to any book",
         "category": "AI & Machine Learning",
@@ -73316,6 +73326,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Zenith",
+        "description": "Show HN: Zenith, a developer platform for shipping and selling your app",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://zenith.hosting/developers",
+        "discovered_at": "2026-11-06"
+    },
+    {
         "name": "Zerolith",
         "description": "Show HN: Easily deploy vibecode apps through MCP",
         "category": "Development",
@@ -104883,6 +104903,16 @@
         "discovered_at": "2026-08-05"
     },
     {
+        "name": "Firenook",
+        "description": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://firenook.dev/",
+        "discovered_at": "2026-11-06"
+    },
+    {
         "name": "Fireworks",
         "description": "Matching frontier performance through training and harness engineering",
         "category": "Other",
@@ -106151,6 +106181,16 @@
         "cors": "unknown",
         "url": "https://hackaday.com/2026/08/06/calculus-free-pid-almost-in-a-spreadsheet/",
         "discovered_at": "2026-08-08"
+    },
+    {
+        "name": "Hackerrepos",
+        "description": "Show HN: HackerRepos – HackerTube for repos mentioned on HN",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://HackerRepos.fyi/",
+        "discovered_at": "2026-11-06"
     },
     {
         "name": "Hackney",
@@ -107561,6 +107601,16 @@
         "cors": "unknown",
         "url": "https://kidpix.app",
         "discovered_at": "2026-10-27"
+    },
+    {
+        "name": "Kidsshelf",
+        "description": "Show HN: Kids Shelf, your kids' own little internet",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kidsshelf.org/",
+        "discovered_at": "2026-11-06"
     },
     {
         "name": "Kimi",
@@ -110211,6 +110261,16 @@
         "cors": "unknown",
         "url": "https://off-heap.vercel.app/",
         "discovered_at": "2026-07-09"
+    },
+    {
+        "name": "Okstays",
+        "description": "Show HN: I paid Claude US$1,070 to read the worst reviews of 30k places to stay",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://okstays.com",
+        "discovered_at": "2026-11-06"
     },
     {
         "name": "Omnimod",
@@ -128594,6 +128654,16 @@
         "cors": "unknown",
         "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
         "discovered_at": "2026-07-18"
+    },
+    {
+        "name": "Ceplang",
+        "description": "Show HN: CLI for Cybersecurity Triage",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ceplang.org/start.html",
+        "discovered_at": "2026-11-06"
     },
     {
         "name": "Cifer-security",
