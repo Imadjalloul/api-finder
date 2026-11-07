@@ -1080,6 +1080,16 @@
         "discovered_at": "2026-10-29"
     },
     {
+        "name": "App",
+        "description": "Open Source Neuron Hunt on AI Research Collaboration Platform",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.station-house.net",
+        "discovered_at": "2026-11-07"
+    },
+    {
         "name": "Apply-tracker",
         "description": "Apply Tracker, Free AI CV, Cover Letter and Job Tracker",
         "category": "AI & Machine Learning",
@@ -3934,6 +3944,16 @@
         "discovered_at": "2026-06-17"
     },
     {
+        "name": "Infinitychat",
+        "description": "Show HN: Infinity – Git-style branching for AI chats",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://infinitychat.app/",
+        "discovered_at": "2026-11-07"
+    },
+    {
         "name": "Informity",
         "description": "Informity AI – Chat with your documents locally on your Mac (MIT, free)",
         "category": "AI & Machine Learning",
@@ -5950,6 +5970,16 @@
         "cors": "unknown",
         "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
         "discovered_at": "2026-05-28"
+    },
+    {
+        "name": "Penguinbase",
+        "description": "Show HN: Grid – A Hold'em arena where your AI agent plays your strategy (Beta)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://penguinbase.com/game-install?game=192471728&ref=hn",
+        "discovered_at": "2026-11-07"
     },
     {
         "name": "Pentesty",
@@ -13652,6 +13682,16 @@
         "discovered_at": "2026-07-04"
     },
     {
+        "name": "Makermaker",
+        "description": "Show HN: Inference business simulator – don't go broke, rent GPUs, serve tokens",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://makermaker.ai/breakthroughs/inference/simulation/",
+        "discovered_at": "2026-11-07"
+    },
+    {
         "name": "Maki",
         "description": "Maki the efficient AI coder – Rust TUI (saves 40% tokens and low RAM)",
         "category": "Blockchain",
@@ -13860,6 +13900,16 @@
         "cors": "unknown",
         "url": "https://tdqs.dev",
         "discovered_at": "2026-09-04"
+    },
+    {
+        "name": "Token-gallery",
+        "description": "The best-designed websites in AI. Hand-picked",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://token-gallery.netlify.app/",
+        "discovered_at": "2026-11-07"
     },
     {
         "name": "Tokendiet",
@@ -22308,6 +22358,16 @@
         "cors": "unknown",
         "url": "https://quickinvoice-jade.vercel.app",
         "discovered_at": "2026-06-30"
+    },
+    {
+        "name": "Reasonmachines",
+        "description": "Show HN: R/place for Git – Open-source Git server sustaining 567 pushes/s",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://reasonmachines.com/blog/aspen",
+        "discovered_at": "2026-11-07"
     },
     {
         "name": "Reclip",
@@ -63098,6 +63158,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Keepplain",
+        "description": "Show HN: KeepPlain – ask your coding agent why a line of code exists",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://keepplain.com",
+        "discovered_at": "2026-11-07"
+    },
+    {
         "name": "Kernelspace",
         "description": "Show HN: Kernelspace- interactive course on systems programming for LLM Serving",
         "category": "Development",
@@ -64116,6 +64186,16 @@
         "cors": "unknown",
         "url": "https://apify.com/lexis-solutions/maker-world-com",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Makoda",
+        "description": "Show HN: Makoda: reuse your Codex or Claude subscriptions as API",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://makoda.ai/",
+        "discovered_at": "2026-11-07"
     },
     {
         "name": "Manga AI OCR Translator",
@@ -74034,6 +74114,16 @@
         "cors": "unknown",
         "url": "https://apify.com/creation/airbnb-property-page-detais-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Ajx",
+        "description": "Show HN: AJX – Find out where AI agents get stuck using your product",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ajx.dev/",
+        "discovered_at": "2026-11-07"
     },
     {
         "name": "Ala Urls Spider",
@@ -89706,6 +89796,16 @@
         "discovered_at": "2026-10-23"
     },
     {
+        "name": "Perframe",
+        "description": "Show HN: Per Frame – film prices compared by cost per frame",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://perframe.app/",
+        "discovered_at": "2026-11-07"
+    },
+    {
         "name": "Petrichor",
         "description": "Show HN: Petrichor – Native offline music player for macOS",
         "category": "Entertainment",
@@ -90582,6 +90682,16 @@
         "cors": "unknown",
         "url": "https://poolmoney.com/",
         "discovered_at": "2026-06-24"
+    },
+    {
+        "name": "Portfoliogenius",
+        "description": "Show HN: Self-Annotating Stock Charts",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://portfoliogenius.ai/features/ai-annotated-charts",
+        "discovered_at": "2026-11-07"
     },
     {
         "name": "Privanode",
@@ -100473,6 +100583,16 @@
         "discovered_at": "2026-11-01"
     },
     {
+        "name": "App",
+        "description": "Show HN: Splitsetter – my attempt at a bill splitting app",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.splitsetter.com/",
+        "discovered_at": "2026-11-07"
+    },
+    {
         "name": "Appdoesit",
         "description": "Show HN: AppDoesIt – 155 free browser tools, no sign-up, all client-side",
         "category": "Other",
@@ -100521,6 +100641,16 @@
         "cors": "unknown",
         "url": "https://www.appnull.com/landing",
         "discovered_at": "2026-03-30"
+    },
+    {
+        "name": "Approximategrace",
+        "description": "Show HN: Church of Approximate Grace",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://approximategrace.church/",
+        "discovered_at": "2026-11-07"
     },
     {
         "name": "Apps",
@@ -101703,6 +101833,16 @@
         "discovered_at": "2026-07-17"
     },
     {
+        "name": "Botel",
+        "description": "Show HN: Botel – always reachable agents you pay for only while they're working",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://botel.dev",
+        "discovered_at": "2026-11-07"
+    },
+    {
         "name": "Botzilla",
         "description": "Show HN: Botzilla – Web automation using visual scripting",
         "category": "Other",
@@ -101721,6 +101861,16 @@
         "cors": "unknown",
         "url": "https://box2d.org/posts/2026/09/inscribed-spheres/",
         "discovered_at": "2026-09-30"
+    },
+    {
+        "name": "Bramble-apps",
+        "description": "Bramble Office: iWork Cloned in Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bramble-apps.github.io/",
+        "discovered_at": "2026-11-07"
     },
     {
         "name": "Breadboard",
@@ -102181,6 +102331,16 @@
         "cors": "unknown",
         "url": "https://chappie.a10z.co",
         "discovered_at": "2026-06-29"
+    },
+    {
+        "name": "Chargeback",
+        "description": "A sandbox to test how purchasing agents handle failed purchases",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://chargeback.cloudbotanist.ai/",
+        "discovered_at": "2026-11-07"
     },
     {
         "name": "Charityverify",
@@ -103711,6 +103871,16 @@
         "cors": "unknown",
         "url": "https://dividdy.com/en",
         "discovered_at": "2026-03-02"
+    },
+    {
+        "name": "Django-hurricane",
+        "description": "Show HN: Bot scans DDoS your Django app? Hurricane 2.0 (now Rust-powered)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://django-hurricane.io",
+        "discovered_at": "2026-11-07"
     },
     {
         "name": "Dl",
@@ -105341,6 +105511,16 @@
         "cors": "unknown",
         "url": "https://fui-rs-demo.effindom.dev/",
         "discovered_at": "2026-08-12"
+    },
+    {
+        "name": "Fullfreeapilist",
+        "description": "Show HN: Mega API Universe – 76,000 free APIs in a searchable SQLite database",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fullfreeapilist.netlify.app",
+        "discovered_at": "2026-11-07"
     },
     {
         "name": "Fumble",
@@ -109373,6 +109553,16 @@
         "discovered_at": "2026-07-09"
     },
     {
+        "name": "Monetor",
+        "description": "Show HN: Monetor – expense tracker for people whose banks have no API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.monetor.co/",
+        "discovered_at": "2026-11-07"
+    },
+    {
         "name": "Moneyonfire",
         "description": "Show HN: MoneyOnFIRE – FI date and action plan (v2)",
         "category": "Other",
@@ -110261,6 +110451,16 @@
         "cors": "unknown",
         "url": "https://off-heap.vercel.app/",
         "discovered_at": "2026-07-09"
+    },
+    {
+        "name": "Offstage",
+        "description": "Show HN: Give your agent a Mac it can control",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://offstage.cloud/",
+        "discovered_at": "2026-11-07"
     },
     {
         "name": "Okstays",
@@ -114543,6 +114743,16 @@
         "discovered_at": "2026-08-01"
     },
     {
+        "name": "Stenvakt",
+        "description": "Show HN: Stenvakt, a server hardening and patching tool",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stenvakt.com/",
+        "discovered_at": "2026-11-07"
+    },
+    {
         "name": "Stillis",
         "description": "Show HN: Stillis – An open-ended anonymous polling platform for anything",
         "category": "Other",
@@ -115113,6 +115323,16 @@
         "discovered_at": "2026-06-28"
     },
     {
+        "name": "Tencent",
+        "description": "Tencent launches Hy4",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+        "discovered_at": "2026-11-07"
+    },
+    {
         "name": "Tenux",
         "description": "Show HN: Tenux – Access your computer from your phone (terminal, files, browser)",
         "category": "Other",
@@ -115381,6 +115601,16 @@
         "cors": "unknown",
         "url": "https://thingstohave.app/",
         "discovered_at": "2026-09-18"
+    },
+    {
+        "name": "Thinker",
+        "description": "Show HN: Thinker – Trim context and cache knowledge to extend agent usage limits",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thinker.sh/how-it-works",
+        "discovered_at": "2026-11-07"
     },
     {
         "name": "Thisispaper",
@@ -128786,6 +129016,16 @@
         "discovered_at": "2026-06-07"
     },
     {
+        "name": "Gno",
+        "description": "Show HN: Repairer – close the breach when a Linux flaw goes public",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gno.security/repairer/",
+        "discovered_at": "2026-11-07"
+    },
+    {
         "name": "Gov",
         "description": "AI, open code and vulnerability risk in the public sector",
         "category": "Security",
@@ -133253,6 +133493,16 @@
         "discovered_at": "2026-05-24"
     },
     {
+        "name": "Aiplannermail",
+        "description": "Free open API of weekly resale sold-price medians",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.aiplannermail.com/free-resale-price-api/",
+        "discovered_at": "2026-11-07"
+    },
+    {
         "name": "Anthillnet",
         "description": "Show HN: Sinain captures screen and audio in KG, shares it with agents/peers",
         "category": "Video & Media",
@@ -134834,6 +135084,16 @@
         "cors": "unknown",
         "url": "https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Tellthesky",
+        "description": "Show HN: Tell the Sky – message lanterns drift on winds from live weather data",
+        "category": "Weather",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tellthesky.com",
+        "discovered_at": "2026-11-07"
     },
     {
         "name": "Terminaltrove",
