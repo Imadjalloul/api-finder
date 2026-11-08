@@ -4784,6 +4784,16 @@
         "discovered_at": "2026-07-03"
     },
     {
+        "name": "Maildignity",
+        "description": "Show HN: I made a guardrail against AI outreach slop (API/MCP)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://maildignity.com/",
+        "discovered_at": "2026-11-08"
+    },
+    {
         "name": "Makralabs",
         "description": "Show HN: AI Agents for Osint/Sigint",
         "category": "AI & Machine Learning",
@@ -6650,6 +6660,16 @@
         "cors": "unknown",
         "url": "https://regadvisor.co.uk/",
         "discovered_at": "2026-05-08"
+    },
+    {
+        "name": "Regescode",
+        "description": "Show HN: Reges Code – a free AI code editor that runs on local models",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://regescode.com/",
+        "discovered_at": "2026-11-08"
     },
     {
         "name": "Relayevals",
@@ -12264,6 +12284,16 @@
         "cors": "unknown",
         "url": "https://jeffyclassify.com/blog/activepieces-jeffy/",
         "discovered_at": "2026-10-20"
+    },
+    {
+        "name": "Jobrequester",
+        "description": "JobRequester: I built this free Chrome extension that tracks job applications",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jobrequester.com/",
+        "discovered_at": "2026-11-08"
     },
     {
         "name": "Justif",
@@ -54547,6 +54577,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Apiiro",
+        "description": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+        "discovered_at": "2026-11-08"
+    },
+    {
         "name": "Apiloadtest",
         "description": "Show HN: Alt – No-code API load testing tool",
         "category": "Development",
@@ -76826,6 +76866,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Dopaminechic",
+        "description": "Show HN: An online shop where your friends can hurry the courier",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.dopaminechic.com/",
+        "discovered_at": "2026-11-08"
+    },
+    {
         "name": "Douyin Search Scraper",
         "description": "This scraper can help you to get search data from https://www.douyin.com/ 抖音 which is Chinese Version of tiktok.",
         "category": "E-Commerce",
@@ -88031,6 +88081,16 @@
         "discovered_at": "2026-04-20"
     },
     {
+        "name": "Quiztoolkit",
+        "description": "Show HN: I built a free trivia hosting app with no accounts or subscriptions",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://quiztoolkit.com/",
+        "discovered_at": "2026-11-08"
+    },
+    {
         "name": "Quizzy",
         "description": "Show HN: FIFA 2026 bracket predictor – see live crowd % as picks come in",
         "category": "Education",
@@ -90714,6 +90774,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Quotelinks",
+        "description": "Show HN: SEC Fundamentals – free financial API",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.quotelinks.com/api/sec-fundamentals/",
+        "discovered_at": "2026-11-08"
+    },
+    {
         "name": "Rayfinance",
         "description": "Show HN: Ray – an open-source AI financial advisor that runs in your terminal",
         "category": "Finance",
@@ -92087,6 +92157,16 @@
         "cors": "unknown",
         "url": "https://eve.new/login",
         "discovered_at": "2026-04-11"
+    },
+    {
+        "name": "Eyesrhythm",
+        "description": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+        "category": "Government & Health",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://eyesrhythm.com/",
+        "discovered_at": "2026-11-08"
     },
     {
         "name": "Flyingpenguin",
@@ -107773,6 +107853,16 @@
         "discovered_at": "2026-10-03"
     },
     {
+        "name": "Keycontain",
+        "description": "Show HN: KeyContain – Fine-grained access to APIs your agents use",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://keycontain.com",
+        "discovered_at": "2026-11-08"
+    },
+    {
         "name": "Kidpix",
         "description": "Kid Pix: an in-browser, public domain version",
         "category": "Other",
@@ -114393,6 +114483,16 @@
         "discovered_at": "2026-08-30"
     },
     {
+        "name": "Specstream",
+        "description": "Show HN: SpecStream, a web search API for questions with many answers",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://specstream.ai/search-api",
+        "discovered_at": "2026-11-08"
+    },
+    {
         "name": "Spectrallabs",
         "description": "A Turing Test for Physical Engineering",
         "category": "Other",
@@ -114621,6 +114721,16 @@
         "cors": "unknown",
         "url": "https://stanceoftheday.com/",
         "discovered_at": "2026-09-24"
+    },
+    {
+        "name": "Stardelt",
+        "description": "Show HN: stardelt.io – a self-hosted lakehouse on k8s (pre-alpha)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stardelt.io/",
+        "discovered_at": "2026-11-08"
     },
     {
         "name": "Startupfortune",
@@ -117033,6 +117143,16 @@
         "discovered_at": "2026-04-23"
     },
     {
+        "name": "Weekspro",
+        "description": "Best Gym Management Software",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://weekspro.com",
+        "discovered_at": "2026-11-08"
+    },
+    {
         "name": "Westernhighwayalerts",
         "description": "Show HN: Western Highway Alerts",
         "category": "Other",
@@ -118539,6 +118659,16 @@
         "discovered_at": "2026-08-20"
     },
     {
+        "name": "Renderpixels",
+        "description": "Show HN: RenderPixels – Generate images from any AI via MCP, 50 free renders",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://renderpixels.com",
+        "discovered_at": "2026-11-08"
+    },
+    {
         "name": "Renderpop",
         "description": "Show HN: RenderPop – Free browser-based AI image and video generator",
         "category": "Photography",
@@ -118627,6 +118757,16 @@
         "cors": "unknown",
         "url": "https://tabushield.com/",
         "discovered_at": "2026-08-27"
+    },
+    {
+        "name": "Tancky",
+        "description": "Show HN: Image to Image AI: Free AI Image Editor Online – Tancky AI",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tancky.io/",
+        "discovered_at": "2026-11-08"
     },
     {
         "name": "Terraink",
@@ -127913,6 +128053,16 @@
         "discovered_at": "2026-04-23"
     },
     {
+        "name": "App",
+        "description": "Show HN: Stitch.ai – New all-in-one workspace with Stitchy the AI assistant",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.stitch.ai/auth/signup",
+        "discovered_at": "2026-11-08"
+    },
+    {
         "name": "arXiv",
         "description": "Open access to scientific papers in multiple fields",
         "category": "Science",
@@ -130156,6 +130306,16 @@
         "cors": "unknown",
         "url": "https://www.socialcrawl.dev/",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Solous",
+        "description": "Show HN: Solous, a journaling app like a social media for emotions inside of you",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://solous.net/",
+        "discovered_at": "2026-11-08"
     },
     {
         "name": "Stream Chat API",
@@ -132488,6 +132648,16 @@
         "cors": "unknown",
         "url": "https://wordnamefire.com/",
         "discovered_at": "2026-06-28"
+    },
+    {
+        "name": "Wordspies",
+        "description": "Show HN: NLP capabilities of Opus, Astra, Argon measured by Codenames skills",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wordspies.com/hn",
+        "discovered_at": "2026-11-08"
     },
     {
         "name": "Wordstodata",
