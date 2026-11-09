@@ -640,6 +640,16 @@
         "discovered_at": "2026-10-12"
     },
     {
+        "name": "Airlock",
+        "description": "Show HN: Airlock – Policy-as-code for fleets of AI coding agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://airlock.lunareng.com/docs",
+        "discovered_at": "2026-11-09"
+    },
+    {
         "name": "Airposture",
         "description": "AirPosture – AirPods as AI posture coach (Open source)",
         "category": "AI & Machine Learning",
@@ -12723,6 +12733,16 @@
         "cors": "unknown",
         "url": "https://sunranker.com",
         "discovered_at": "2026-08-14"
+    },
+    {
+        "name": "Taskandpurpose",
+        "description": "Drones built to look like birds evaded detection at Air Force tech exercise",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
+        "discovered_at": "2026-11-09"
     },
     {
         "name": "TheCatAPI",
@@ -66398,6 +66418,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Playground",
+        "description": "Show HN: APC Playground – Stop AI agents from modifying your API tool calls",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://playground.alephapc.com/",
+        "discovered_at": "2026-11-09"
+    },
+    {
         "name": "Playstore Top Apps/games scraper",
         "description": "Scrape trending Google Play apps by country, language, category, and chart type. This actor retrieves detailed app data from top free, paid, and grossing charts perfect for market research, competitor",
         "category": "Development",
@@ -71664,6 +71694,16 @@
         "cors": "unknown",
         "url": "https://apify.com/trev0n/vehis-vehicle-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Velork",
+        "description": "Show HN: Velork – Design and Code, Together",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://velork.com",
+        "discovered_at": "2026-11-09"
     },
     {
         "name": "Verity",
@@ -89270,6 +89310,16 @@
         "discovered_at": "2026-08-26"
     },
     {
+        "name": "Chiptunes",
+        "description": "Show HN: A free Gameboy–style music tracker in the browser with shareable URLs",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://chiptunes.studio/",
+        "discovered_at": "2026-11-09"
+    },
+    {
         "name": "Chuck Norris Jokes",
         "description": "Random Chuck Norris jokes from a curated database",
         "category": "Entertainment",
@@ -89447,6 +89497,16 @@
         "cors": "unknown",
         "url": "https://film.jashtechno.com",
         "discovered_at": "2026-10-15"
+    },
+    {
+        "name": "Firesidefolio",
+        "description": "Show HN: Fireside Folio – free books, comics and news editions for reMarkable",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://firesidefolio.com/",
+        "discovered_at": "2026-11-09"
     },
     {
         "name": "Gamefound",
@@ -93242,6 +93302,16 @@
         "cors": "unknown",
         "url": "https://raymate.app/",
         "discovered_at": "2026-09-21"
+    },
+    {
+        "name": "Rsnel",
+        "description": "Show HN: Cross-device passkey auth on Android 9, synced with Bitwarden",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rsnel.github.io/passkeychain/",
+        "discovered_at": "2026-11-09"
     },
     {
         "name": "Sentient-os",
@@ -103763,6 +103833,16 @@
         "discovered_at": "2026-08-04"
     },
     {
+        "name": "Detailkeeper",
+        "description": "Show HN: Teach a speech model (en) a name by saying it once, on your Mac",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://detailkeeper.com/",
+        "discovered_at": "2026-11-09"
+    },
+    {
         "name": "Devbar",
         "description": "Show HN: Devbar – Point at what to change. Leave a comment. Your agent ships it",
         "category": "Other",
@@ -107213,6 +107293,16 @@
         "discovered_at": "2026-03-19"
     },
     {
+        "name": "Inhouse",
+        "description": "Show HN: Jurex in House – Handles Legal Side of Your Business with AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://inhouse.jurex.ai/login",
+        "discovered_at": "2026-11-09"
+    },
+    {
         "name": "Inkfeed",
         "description": "Show HN: Inkfeed – RSS Reader for Kindle",
         "category": "Other",
@@ -107831,6 +107921,16 @@
         "cors": "unknown",
         "url": "https://kerkour.com/open-source-golden-age-ai",
         "discovered_at": "2026-06-07"
+    },
+    {
+        "name": "Ketchup3d",
+        "description": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ketchup3d.github.io/app/",
+        "discovered_at": "2026-11-09"
     },
     {
         "name": "Kevinkelly",
@@ -108671,6 +108771,16 @@
         "cors": "unknown",
         "url": "https://lyonesse.app/blog/speaker-diarization-benchmark.html",
         "discovered_at": "2026-09-01"
+    },
+    {
+        "name": "M-reschreiter",
+        "description": "I fixed my Mac's window mess with a tiny free app",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://m-reschreiter.at/en/blog/i-fixed-my-macs-window-mess?utm_source=hn",
+        "discovered_at": "2026-11-09"
     },
     {
         "name": "Machine0",
@@ -110281,6 +110391,16 @@
         "cors": "unknown",
         "url": "https://www.norirobotics.com/",
         "discovered_at": "2026-09-02"
+    },
+    {
+        "name": "Nosaka",
+        "description": "Show HN: Sentient, Your Coding Agent Shouldn't Be a Black Box",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nosaka.ai/sentient/",
+        "discovered_at": "2026-11-09"
     },
     {
         "name": "Notgen",
@@ -113931,6 +114051,16 @@
         "cors": "unknown",
         "url": "https://shujisado.org/2026/04/15/why-the-world-needs-open-source-ai/",
         "discovered_at": "2026-04-16"
+    },
+    {
+        "name": "Shutdownwatch",
+        "description": "Show HN: Shutdown Watch – App shutdowns, export deadlines, and alternatives",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://shutdownwatch.com/",
+        "discovered_at": "2026-11-09"
     },
     {
         "name": "Sidekins",
@@ -133236,6 +133366,16 @@
         "cors": "unknown",
         "url": "https://fascinating-crepe-d7b325.netlify.app/",
         "discovered_at": "2026-05-08"
+    },
+    {
+        "name": "Fastidious-crisp-cee4e9",
+        "description": "Free Local-first KSeF 2027 and tax limit calculator for Poland",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fastidious-crisp-cee4e9.netlify.app",
+        "discovered_at": "2026-11-09"
     },
     {
         "name": "Fluttertime",
