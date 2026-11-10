@@ -700,6 +700,16 @@
         "discovered_at": "2026-08-21"
     },
     {
+        "name": "Aivisionindex",
+        "description": "Show HN: AI Vision Index, private tests of how well 36 AI models see",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aivisionindex.com/",
+        "discovered_at": "2026-11-10"
+    },
+    {
         "name": "Aki",
         "description": "Aki.io – Open-source AI models via API on EU infrastructure (OpenAI-compatible)",
         "category": "AI & Machine Learning",
@@ -3486,6 +3496,16 @@
         "discovered_at": "2026-09-26"
     },
     {
+        "name": "Grai",
+        "description": "Show HN: Grai – A deterministic cadence gate for AI drafts",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://grai.page/#test",
+        "discovered_at": "2026-11-10"
+    },
+    {
         "name": "Graphify",
         "description": "Graphify – Open-Source Knowledge Graph Skill for AI Coding Assistants",
         "category": "AI & Machine Learning",
@@ -4282,6 +4302,16 @@
         "cors": "unknown",
         "url": "https://kinopipe.com/",
         "discovered_at": "2026-08-31"
+    },
+    {
+        "name": "Kiosk",
+        "description": "Show HN: Kiosk, a first-class AI assistants' intefrace to online services",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kiosk.tech/",
+        "discovered_at": "2026-11-10"
     },
     {
         "name": "Knowable",
@@ -13385,6 +13415,16 @@
         "cors": "unknown",
         "url": "https://www.syntro.fun/",
         "discovered_at": "2026-03-08"
+    },
+    {
+        "name": "Teamonly",
+        "description": "Show HN: TeamOnly, free hosting for AI-built apps behind your company login",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://teamonly.dev/",
+        "discovered_at": "2026-11-10"
     },
     {
         "name": "Togetherletters",
@@ -64468,6 +64508,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Mddog",
+        "description": "Show HN: View Markdown like you would on GitHub/Obsidian, right in your terminal",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mddog.pages.dev",
+        "discovered_at": "2026-11-10"
+    },
+    {
         "name": "Media Expert Product Details Scraper",
         "description": "Powerful Mediaexpert.pl product scraper extracts comprehensive e-commerce data from Poland's largest electronics retailer. Get real-time pricing, inventory, specifications, and market insights from...",
         "category": "Development",
@@ -100573,6 +100623,16 @@
         "discovered_at": "2026-10-10"
     },
     {
+        "name": "Apiclay",
+        "description": "Show HN: ApiClay – Turn a Website, Google Sheet or Database into a Paid API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apiclay.com",
+        "discovered_at": "2026-11-10"
+    },
+    {
         "name": "Apiflowstudio",
         "description": "Show HN:APIFlow Studio – Open-source, offline-first Postman alternative",
         "category": "Other",
@@ -105453,6 +105513,16 @@
         "discovered_at": "2026-05-12"
     },
     {
+        "name": "Foldableflight",
+        "description": "Foldable Flight: The Best Paper Airplanes",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.foldableflight.com",
+        "discovered_at": "2026-11-10"
+    },
+    {
         "name": "Forensicdbg",
         "description": "Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes",
         "category": "Other",
@@ -109401,6 +109471,16 @@
         "cors": "unknown",
         "url": "https://mentwire.com/",
         "discovered_at": "2026-03-31"
+    },
+    {
+        "name": "Meowdisplay",
+        "description": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://meowdisplay.app/",
+        "discovered_at": "2026-11-10"
     },
     {
         "name": "Meritcapit",
@@ -113623,6 +113703,16 @@
         "discovered_at": "2026-05-21"
     },
     {
+        "name": "Screen",
+        "description": "Show HN: A sanctions and PEP screening API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://screen.unbackoffice.com/",
+        "discovered_at": "2026-11-10"
+    },
+    {
         "name": "Screenrecords",
         "description": "Show HN: Screen Records – edit demo or how-to recordings with MCP",
         "category": "Other",
@@ -114031,6 +114121,16 @@
         "cors": "unknown",
         "url": "https://shotglass.app",
         "discovered_at": "2026-05-13"
+    },
+    {
+        "name": "Showcase",
+        "description": "Show HN: Brick Atlas: Explore 1000+ LEGO sets on one zoomable canvas",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://showcase.zoomhub.net/ecommerce/brick-atlas",
+        "discovered_at": "2026-11-10"
     },
     {
         "name": "Shp",
@@ -114541,6 +114641,16 @@
         "cors": "unknown",
         "url": "https://solyto.app",
         "discovered_at": "2026-04-20"
+    },
+    {
+        "name": "Someonewashere",
+        "description": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://someonewashere.app/",
+        "discovered_at": "2026-11-10"
     },
     {
         "name": "Somniavault",
@@ -133497,6 +133607,16 @@
         "discovered_at": "2026-03-03"
     },
     {
+        "name": "Modelfold",
+        "description": "Show HN: Calculators for token costs and Claude Code API budgets",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://modelfold.ai/tools/claude-code-cost",
+        "discovered_at": "2026-11-10"
+    },
+    {
         "name": "Myuuid",
         "description": "Show HN: MyUUIDshop, Generate UUIDs and never worry about duplicates",
         "category": "Utilities",
@@ -133831,6 +133951,16 @@
         "cors": "unknown",
         "url": "https://api.bettervideo.io/developers",
         "discovered_at": "2026-07-01"
+    },
+    {
+        "name": "App",
+        "description": "Show HN: Emma, a real-time AI video persona from Nuance Labs",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.nuancelabs.ai/try",
+        "discovered_at": "2026-11-10"
     },
     {
         "name": "Askchannel",
