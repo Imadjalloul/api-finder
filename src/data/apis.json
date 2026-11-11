@@ -2069,6 +2069,16 @@
         "discovered_at": "2026-06-30"
     },
     {
+        "name": "Coderot",
+        "description": "Is AI code rotting open source? 450 repos, 12 months",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://coderot.ai/blog/ai-code-rot-in-open-source",
+        "discovered_at": "2026-11-11"
+    },
+    {
         "name": "Cohere",
         "description": "NLP models for text generation, classification, embeddings",
         "category": "AI & Machine Learning",
@@ -4142,6 +4152,16 @@
         "cors": "unknown",
         "url": "https://jacobee.netlify.app/",
         "discovered_at": "2026-06-22"
+    },
+    {
+        "name": "Japantimes",
+        "description": "Sakana AI may go public in 2027",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.japantimes.co.jp/business/2026/11/10/companies/sakana-ai-ipo/",
+        "discovered_at": "2026-11-11"
     },
     {
         "name": "Jasondoyle",
@@ -7958,6 +7978,16 @@
         "cors": "unknown",
         "url": "https://www.techdirt.com/2026/03/25/ai-might-be-our-best-shot-at-taking-back-the-open-web/",
         "discovered_at": "2026-03-27"
+    },
+    {
+        "name": "Technode",
+        "description": "Ant Group's Robbyant open-sources tactile AI model for robot hands",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://technode.com/2026/11/10/ant-groups-robbyant-open-sources-tactile-ai-model-for-robot-hands/",
+        "discovered_at": "2026-11-11"
     },
     {
         "name": "Techradar",
@@ -14517,6 +14547,16 @@
         "cors": "unknown",
         "url": "https://jakubhalmes.com/library/",
         "discovered_at": "2026-07-12"
+    },
+    {
+        "name": "Kinsona",
+        "description": "Show HN: Kinsona – a hotel booking site that shows its cut on every booking",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kinsona.com/",
+        "discovered_at": "2026-11-11"
     },
     {
         "name": "Lelu-ai",
@@ -21581,6 +21621,16 @@
         "discovered_at": "2026-07-01"
     },
     {
+        "name": "Ardc",
+        "description": "Open-Source HF Communications for Remote Communities and Experimenters",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/",
+        "discovered_at": "2026-11-11"
+    },
+    {
         "name": "Boilerroom",
         "description": "Show HN: Boilerroom: dialer, call recording, and managed follow-up",
         "category": "Communication",
@@ -22717,6 +22767,16 @@
         "cors": "unknown",
         "url": "https://thelawin.dev/",
         "discovered_at": "2026-04-27"
+    },
+    {
+        "name": "Thunderphone",
+        "description": "Show HN: Zeus – Claude Code for AI voice agents",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thunderphone.com/blog/introducing-zeus",
+        "discovered_at": "2026-11-11"
     },
     {
         "name": "Topmail",
@@ -74896,6 +74956,16 @@
         "discovered_at": "2026-08-29"
     },
     {
+        "name": "Apptraction",
+        "description": "Show HN: AppTraction – A Native Mac App for Apple's App Store Connect",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apptraction.dev",
+        "discovered_at": "2026-11-11"
+    },
+    {
         "name": "Apt2B Scraper",
         "description": "Scrape Apt2B and extract data on living room furniture from apt2b.com. Our Apt2B API lets you crawl product information and pricing. The saved data can be downloaded as HTML, JSON, CSV, Excel, and...",
         "category": "E-Commerce",
@@ -93014,6 +93084,16 @@
         "discovered_at": "2026-04-14"
     },
     {
+        "name": "Ameetmadan",
+        "description": "Show HN: Lautli, Swiss German transcriptions on-device",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ameetmadan.github.io/lautli/",
+        "discovered_at": "2026-11-11"
+    },
+    {
         "name": "Appdevforall",
         "description": "Show HN: Code on the Go, an IDE for Android with On-Device Debugging (GPLv3)",
         "category": "IoT & Hardware",
@@ -93422,6 +93502,16 @@
         "cors": "unknown",
         "url": "https://www.speakcrisper.com/",
         "discovered_at": "2026-05-20"
+    },
+    {
+        "name": "Specialist-ai",
+        "description": "Specialist: Open-source hardware, data pipeline, training, and deployment",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://specialist-ai.github.io/",
+        "discovered_at": "2026-11-11"
     },
     {
         "name": "Sprocket-demo",
@@ -94052,6 +94142,16 @@
         "cors": "unknown",
         "url": "https://alit.dev/",
         "discovered_at": "2026-04-28"
+    },
+    {
+        "name": "Amagi",
+        "description": "Show HN: Glitch/Distorion page transitions with HTML-in-Canvas",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://amagi.dev/vfx-js-transitions/",
+        "discovered_at": "2026-11-11"
     },
     {
         "name": "Apimade",
@@ -100163,6 +100263,16 @@
         "discovered_at": "2026-07-23"
     },
     {
+        "name": "Aircad",
+        "description": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aircad.com",
+        "discovered_at": "2026-11-11"
+    },
+    {
         "name": "Airma",
         "description": "Show HN: Airmash – HTML5 Massively Multiplayer Missile Warfare",
         "category": "Other",
@@ -101171,6 +101281,16 @@
         "cors": "unknown",
         "url": "https://auditledge.com",
         "discovered_at": "2026-05-20"
+    },
+    {
+        "name": "Auric",
+        "description": "Show HN: Ember.js, Re-Born in Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://auric.spa",
+        "discovered_at": "2026-11-11"
     },
     {
         "name": "Automata Market Intelligence API",
@@ -105703,6 +105823,16 @@
         "discovered_at": "2026-05-22"
     },
     {
+        "name": "Freyaui",
+        "description": "Freya: Build cross-platform, performant, accessible and unique apps with Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://freyaui.dev/",
+        "discovered_at": "2026-11-11"
+    },
+    {
         "name": "Friendlybet",
         "description": "FriendlyBet – A free, ad-free World Cup prediction pool with no sign-up wall",
         "category": "Other",
@@ -106001,6 +106131,16 @@
         "cors": "unknown",
         "url": "https://getfluiq.com/",
         "discovered_at": "2026-06-01"
+    },
+    {
+        "name": "Getghostrunner",
+        "description": "Show HN: Ghost Runner – Race your past self on Apple Watch",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getghostrunner.com/",
+        "discovered_at": "2026-11-11"
     },
     {
         "name": "Gethandler",
@@ -109603,6 +109743,16 @@
         "discovered_at": "2026-04-30"
     },
     {
+        "name": "Mimzie",
+        "description": "Show HN: Mimzie, an agent-neutral alternative to the Claude Suite/Claude Cowork",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mimzie.com/",
+        "discovered_at": "2026-11-11"
+    },
+    {
         "name": "Minimumconnectiontime",
         "description": "Free API for minimum connection times at airports worldwide",
         "category": "Other",
@@ -109861,6 +110011,16 @@
         "cors": "unknown",
         "url": "https://monghoul.com/",
         "discovered_at": "2026-05-14"
+    },
+    {
+        "name": "Monity",
+        "description": "Show HN: Monity – Free website change monitoring that runs on your computer",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://monity.ai/desktop/",
+        "discovered_at": "2026-11-11"
     },
     {
         "name": "Monochess",
@@ -110151,6 +110311,16 @@
         "cors": "unknown",
         "url": "https://n3mo.vercel.app",
         "discovered_at": "2026-07-29"
+    },
+    {
+        "name": "Namar0x0309",
+        "description": "Show HN: Socialize/Presence multiplayer interaction on blog posts",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://namar0x0309.com/blog/2026/05/the-kind-of-ai-adoption-i-actually-believe-in/",
+        "discovered_at": "2026-11-11"
     },
     {
         "name": "Nano",
@@ -111613,6 +111783,16 @@
         "discovered_at": "2026-07-24"
     },
     {
+        "name": "Pdfmeasure",
+        "description": "Show HN: PDFMeasure – Measure PDF files in the browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pdfmeasure.com/",
+        "discovered_at": "2026-11-11"
+    },
+    {
         "name": "Pdfpipe",
         "description": "Show HN: PDFPipe – HTML-to-PDF API with a playground you can try without sign up",
         "category": "Other",
@@ -112621,6 +112801,16 @@
         "cors": "unknown",
         "url": "https://radiodock.app/",
         "discovered_at": "2026-07-14"
+    },
+    {
+        "name": "Ramble",
+        "description": "Show HN: Ramble – Message your agent directly from your Apple Watch",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ramble.watch",
+        "discovered_at": "2026-11-11"
     },
     {
         "name": "Rankparse",
@@ -113691,6 +113881,16 @@
         "cors": "unknown",
         "url": "https://scoutlayer.io",
         "discovered_at": "2026-08-31"
+    },
+    {
+        "name": "Scrabbleoffline",
+        "description": "Show HN: My app: Scrabble Offline for Scrabble lovers",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://scrabbleoffline.com/",
+        "discovered_at": "2026-11-11"
     },
     {
         "name": "Scrapewithruno",
@@ -115491,6 +115691,16 @@
         "cors": "unknown",
         "url": "https://tablething.com/",
         "discovered_at": "2026-06-18"
+    },
+    {
+        "name": "Tabstinence",
+        "description": "Show HN: Screen time monitor and self control app Tabstinence",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tabstinence.com",
+        "discovered_at": "2026-11-11"
     },
     {
         "name": "Tachyonmcp",
@@ -117813,6 +118023,16 @@
         "discovered_at": "2026-09-13"
     },
     {
+        "name": "Youraitester",
+        "description": "AI-first browser test automation at $0.01 per step",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.yourAItester.com",
+        "discovered_at": "2026-11-11"
+    },
+    {
         "name": "Zebu",
         "description": "Show HN: Zebu - time tracking/invoicing for freelancers and small teams",
         "category": "Other",
@@ -118828,6 +119048,16 @@
         "cors": "unknown",
         "url": "https://pixfinder.app/",
         "discovered_at": "2026-07-15"
+    },
+    {
+        "name": "Pixlpal",
+        "description": "Show HN: Lovable for Photoshop",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pixlpal.com/",
+        "discovered_at": "2026-11-11"
     },
     {
         "name": "Pixshot",
@@ -130497,6 +130727,16 @@
         "cors": "unknown",
         "url": "https://www.runcord.com/",
         "discovered_at": "2026-05-29"
+    },
+    {
+        "name": "Rystic",
+        "description": "Show HN: Rystic – Stateful Local Simulators of Slack, GitHub and Linear",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.rystic.ai",
+        "discovered_at": "2026-11-11"
     },
     {
         "name": "Samewindow",
