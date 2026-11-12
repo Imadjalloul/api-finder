@@ -670,6 +670,16 @@
         "discovered_at": "2026-06-30"
     },
     {
+        "name": "Aistudio",
+        "description": "Gemini Decision 1 is Free on Google AI Studio",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aistudio.google.com/docs/decisions-api",
+        "discovered_at": "2026-11-12"
+    },
+    {
         "name": "Aisubtools",
         "description": "Show HN: AI Subtools – 40 free online tools, no sign-up, 100% client-side",
         "category": "AI & Machine Learning",
@@ -64748,6 +64758,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Mergemax",
+        "description": "Show HN: MergeMax, a monthly ranking of public merged PRs on GitHub",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mergemax.dev",
+        "discovered_at": "2026-11-12"
+    },
+    {
         "name": "Mergeoa",
         "description": "Show HN: Merge – AI-native code review assessments for engineering hiring",
         "category": "Development",
@@ -71534,6 +71554,16 @@
         "cors": "unknown",
         "url": "https://apify.com/apikit/upcheck",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Upstar",
+        "description": "Show HN: Upstar, GitHub projects ranked by velocity in each topics",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://upstar.dev/",
+        "discovered_at": "2026-11-12"
     },
     {
         "name": "Urban Dictionary",
@@ -104173,6 +104203,16 @@
         "discovered_at": "2026-04-29"
     },
     {
+        "name": "Disband",
+        "description": "Show HN: Disband – a stem separator with an API, down to the drum kit",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://disband.io/",
+        "discovered_at": "2026-11-12"
+    },
+    {
         "name": "Discover",
         "description": "Show HN: Discover – a curated RSS directory with mentions via RSS",
         "category": "Other",
@@ -108613,6 +108653,16 @@
         "discovered_at": "2026-08-08"
     },
     {
+        "name": "Lgresearch",
+        "description": "LG Research releases K-Exaone 2.5 API for free",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.lgresearch.ai/news/view?seq=755",
+        "discovered_at": "2026-11-12"
+    },
+    {
         "name": "Lgtmeme",
         "description": "Show HN: LGTMeme – AI-generated memes for your pull requests",
         "category": "Other",
@@ -108751,6 +108801,16 @@
         "cors": "unknown",
         "url": "https://listendock.com",
         "discovered_at": "2026-06-09"
+    },
+    {
+        "name": "Litek8s",
+        "description": "Show HN: Litek8s – Kubernetes API in one Rust binary, 23 MiB idle",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://litek8s.dev/",
+        "discovered_at": "2026-11-12"
     },
     {
         "name": "Literallyeveryfont",
@@ -111923,6 +111983,16 @@
         "discovered_at": "2026-05-01"
     },
     {
+        "name": "Pi-gpui",
+        "description": "Pi GPUI: A native GUI for the pi coding agent, built with Rust and GPUI.",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pi-gpui.dev",
+        "discovered_at": "2026-11-12"
+    },
+    {
         "name": "Pianotry",
         "description": "Show HN: PianoTry, Play and remix beautiful chord progressions",
         "category": "Other",
@@ -113751,6 +113821,16 @@
         "cors": "unknown",
         "url": "https://www.savethearchive.com/journalists/",
         "discovered_at": "2026-04-29"
+    },
+    {
+        "name": "Sayjot",
+        "description": "Porting my Electron app to Rust: 675 MB to 91 MB",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sayjot.xyz/blog/rust-port",
+        "discovered_at": "2026-11-12"
     },
     {
         "name": "Saytoucan",
@@ -128640,6 +128720,16 @@
         "cors": "unknown",
         "url": "https://earth.tattoo",
         "discovered_at": "2026-07-07"
+    },
+    {
+        "name": "Earthdata",
+        "description": "Show HN: EarthData – find places to visit or live that match what you care about",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://earthdata.io/en",
+        "discovered_at": "2026-11-12"
     },
     {
         "name": "Earthtopixels",
