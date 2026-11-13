@@ -3675,6 +3675,16 @@
         "discovered_at": "2026-08-27"
     },
     {
+        "name": "Harsh-kr-jha",
+        "description": "Show HN: Headwig - Run and test parallel AI agents without Git worktrees",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://harsh-kr-jha.github.io/headwig/",
+        "discovered_at": "2026-11-13"
+    },
+    {
         "name": "Helppeer",
         "description": "HelpPeer: A public commons for AI agents",
         "category": "AI & Machine Learning",
@@ -4562,6 +4572,16 @@
         "cors": "unknown",
         "url": "https://lemonade-server.ai",
         "discovered_at": "2026-04-03"
+    },
+    {
+        "name": "Lessonfolk",
+        "description": "Show HN: LessonFolk – Learn AI from an AI tutor, through MCP (open source)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lessonfolk.com/?utm_source=hackernews&utm_medium=community&utm_campaign=show-hn",
+        "discovered_at": "2026-11-13"
     },
     {
         "name": "Letter",
@@ -6480,6 +6500,16 @@
         "cors": "unknown",
         "url": "https://pulseos.finance",
         "discovered_at": "2026-10-14"
+    },
+    {
+        "name": "Punditclaims",
+        "description": "Pundit Claims – Open-Source Register of AI Claims by Gary Marcus and Ed Zitron",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://punditclaims.ai/",
+        "discovered_at": "2026-11-13"
     },
     {
         "name": "Pypi",
@@ -14451,6 +14481,16 @@
         "discovered_at": "2026-07-02"
     },
     {
+        "name": "Filiread",
+        "description": "Show HN: Filiread – Classic books that highlight each word as it's read aloud",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://filiread.com/",
+        "discovered_at": "2026-11-13"
+    },
+    {
         "name": "Flight Most Booked Destinations",
         "description": "Before using this API, we recommend you read our **[Authorization Guide](https://developers.amadeus.com/self-service/apis-docs/guides/authorization-262)** for more information on how to generate an a",
         "category": "Books",
@@ -21072,6 +21112,16 @@
         "discovered_at": "2026-07-16"
     },
     {
+        "name": "Pokharel",
+        "description": "Show HN: Postman but a free 5MB iOS and Mac client with iCloud synch",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.pokharel.net/2026/11/12/api-man-a-native-ios-mac-postman-like-client-without-electron/",
+        "discovered_at": "2026-11-13"
+    },
+    {
         "name": "Qube-predict",
         "description": "Show HN: QUBE Predict – A cloud platform for drug response prediction",
         "category": "Cloud & Storage",
@@ -22687,6 +22737,16 @@
         "cors": "unknown",
         "url": "https://speko.ai/",
         "discovered_at": "2026-08-18"
+    },
+    {
+        "name": "Stayinsight",
+        "description": "Stay-in-sight – everything you need for email outbound – open-source",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stayinsight.sleeksite.ai/",
+        "discovered_at": "2026-11-13"
     },
     {
         "name": "Steadwing",
@@ -90216,6 +90276,16 @@
         "discovered_at": "2026-04-27"
     },
     {
+        "name": "Pokerdiary",
+        "description": "Show HN: Poker Diary – replace your home game's spreadsheet and group-chat poll",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pokerdiary.app/g/demo",
+        "discovered_at": "2026-11-13"
+    },
+    {
         "name": "Pretzel",
         "description": "Show HN: Live AI music sequencing agent",
         "category": "Entertainment",
@@ -94708,6 +94778,16 @@
         "cors": "unknown",
         "url": "https://reticleops.com/",
         "discovered_at": "2026-06-17"
+    },
+    {
+        "name": "Rocketgit",
+        "description": "Show HN: AI-drop project – drop traffic fast from misbehaving crawlers (AGPL)",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rocketgit.com/user/catalinux/ai-drop",
+        "discovered_at": "2026-11-13"
     },
     {
         "name": "Rouler",
@@ -101113,6 +101193,16 @@
         "discovered_at": "2026-08-19"
     },
     {
+        "name": "Armincards",
+        "description": "Show HN: Armin – Modern Anki alternative with prerrequisite graphs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://armincards.app/",
+        "discovered_at": "2026-11-13"
+    },
+    {
         "name": "Arpitbhayani",
         "description": "Don't Wait, Learn – The Best Resource Is Mythical",
         "category": "Other",
@@ -106673,6 +106763,16 @@
         "discovered_at": "2026-09-27"
     },
     {
+        "name": "Graciegould",
+        "description": "Show HN: A shared live Etch A Sketch – one continuous line, or draw via API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://graciegould.com/etch-a-sketch-live",
+        "discovered_at": "2026-11-13"
+    },
+    {
         "name": "Greip API",
         "description": "This documentation shows how to use Greip API, By highlighting the API methods, options and some other features that allow you to get the most of this API.",
         "category": "Other",
@@ -107533,6 +107633,16 @@
         "discovered_at": "2026-08-17"
     },
     {
+        "name": "Infiniterm",
+        "description": "Show HN: A canvas terminal app written in Rust with built-in agent integration",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://infiniterm.app/",
+        "discovered_at": "2026-11-13"
+    },
+    {
         "name": "Ingelt",
         "description": "Show HN: Parsing hostile industrial data in 64MB WASM sandboxes",
         "category": "Other",
@@ -108311,6 +108421,16 @@
         "cors": "unknown",
         "url": "https://knecht.works",
         "discovered_at": "2026-09-15"
+    },
+    {
+        "name": "Koenvangilst",
+        "description": "Show HN: Captain's Log, a Mac app for thinking out loud",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://koenvangilst.nl/lab/captains-log",
+        "discovered_at": "2026-11-13"
     },
     {
         "name": "Kolega",
@@ -110481,6 +110601,16 @@
         "cors": "unknown",
         "url": "https://nest.pijul.com/pmeunier/elpe/tree",
         "discovered_at": "2026-08-21"
+    },
+    {
+        "name": "Nestdaddy",
+        "description": "Show HN: NestDaddy, an independent search API with its own crawler and index",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://nestdaddy.com/blog/how-we-built-an-independent-search-engine",
+        "discovered_at": "2026-11-13"
     },
     {
         "name": "Nestforge",
@@ -115823,6 +115953,16 @@
         "discovered_at": "2026-09-09"
     },
     {
+        "name": "Talkingtech",
+        "description": "TalkingTech – Free MCP server and API for engineering leadership content",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.talkingtech.online/",
+        "discovered_at": "2026-11-13"
+    },
+    {
         "name": "Tapfi",
         "description": "Show HN: TapFi – Join any WiFi just by scanning the details with your camera",
         "category": "Other",
@@ -116661,6 +116801,16 @@
         "cors": "unknown",
         "url": "https://www.trie.dev/",
         "discovered_at": "2026-07-14"
+    },
+    {
+        "name": "Tripomatic",
+        "description": "Show HN: Travel Alerts API – travel disruptions alerts from 80 sources",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tripomatic.com/en/b2b/travel-alerts",
+        "discovered_at": "2026-11-13"
     },
     {
         "name": "Tritium",
@@ -119237,6 +119387,16 @@
         "cors": "unknown",
         "url": "https://ringlochid.me/imagesage/index.html",
         "discovered_at": "2026-09-03"
+    },
+    {
+        "name": "Roomdesign-ai",
+        "description": "AI Room Design from Your Photo – 2 Free Designs",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://roomdesign-ai.online/",
+        "discovered_at": "2026-11-13"
     },
     {
         "name": "Scarcity",
@@ -130322,6 +130482,16 @@
         "discovered_at": "2026-06-11"
     },
     {
+        "name": "Apron",
+        "description": "Show HN: Apron Chat Protocol",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://apron.chat/",
+        "discovered_at": "2026-11-13"
+    },
+    {
         "name": "Askbaab",
         "description": "Show HN: I ran the same founder dilemma through ChatGPT, Claude, and BAAB AI",
         "category": "Social",
@@ -131014,6 +131184,16 @@
         "cors": "unknown",
         "url": "https://webmatrices.com/post/twitter-api-is-100-month-reddit-api-is-a-maze-so-we-built-an-mcp-server-that-uses-your-browser-instead",
         "discovered_at": "2026-04-23"
+    },
+    {
+        "name": "Wonderchat",
+        "description": "Show HN: Wonderchat – A Zendesk alternative that doesn't charge per seat",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wonderchat.io/",
+        "discovered_at": "2026-11-13"
     },
     {
         "name": "Xfluxapi",
