@@ -750,6 +750,16 @@
         "discovered_at": "2026-04-25"
     },
     {
+        "name": "Algocademy",
+        "description": "Show HN: Practice coding with AI on real tickets",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://algocademy.com/ai-coding-practice/",
+        "discovered_at": "2026-11-14"
+    },
+    {
         "name": "Aljazeera",
         "description": "NYC's AI ban through grade 8 sets stage for rest of US, experts say",
         "category": "AI & Machine Learning",
@@ -1660,6 +1670,16 @@
         "discovered_at": "2026-04-01"
     },
     {
+        "name": "Browserr",
+        "description": "Show HN: Browserr – An MCP-first browser for AI agents (one Rust binary)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://browserr.dev",
+        "discovered_at": "2026-11-14"
+    },
+    {
         "name": "Budibase",
         "description": "Show HN: Budibase Agents Beta – model-agnostic AI agents for internal workflows",
         "category": "AI & Machine Learning",
@@ -2037,6 +2057,16 @@
         "cors": "unknown",
         "url": "https://cloro.dev/",
         "discovered_at": "2026-07-24"
+    },
+    {
+        "name": "Clowder",
+        "description": "Sick of Herding AI Cats?",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://clowder.sh",
+        "discovered_at": "2026-11-14"
     },
     {
         "name": "Cnbc",
@@ -3345,6 +3375,16 @@
         "cors": "unknown",
         "url": "https://getloreo.com/",
         "discovered_at": "2026-04-14"
+    },
+    {
+        "name": "Getorty",
+        "description": "Show HN: Orty – AI lead qualification for freelancers",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getorty.work",
+        "discovered_at": "2026-11-14"
     },
     {
         "name": "Getregula",
@@ -5862,6 +5902,16 @@
         "discovered_at": "2026-06-27"
     },
     {
+        "name": "Opencyclone",
+        "description": "Show HN: Open-Source Version of Cyclon: Phone where AI is the interface?",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://opencyclone.vercel.app/",
+        "discovered_at": "2026-11-14"
+    },
+    {
         "name": "Openhivemind",
         "description": "Show HN: OpenHive – AI agents share solutions so other agents dont re-solve them",
         "category": "AI & Machine Learning",
@@ -6532,6 +6582,16 @@
         "discovered_at": "2026-06-02"
     },
     {
+        "name": "Quaia",
+        "description": "QuAIA: An open-source team of AI agents that handles the whole test process",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://quaia.dev/",
+        "discovered_at": "2026-11-14"
+    },
+    {
         "name": "Quantaintellect",
         "description": "Show HN: Vessel Browser – An open-source browser built for AI agents, not humans",
         "category": "AI & Machine Learning",
@@ -7059,6 +7119,16 @@
         "cors": "unknown",
         "url": "https://sagivo.com/blog/i-was-quoted-1m-to-get-ai-diff-review-tool",
         "discovered_at": "2026-08-10"
+    },
+    {
+        "name": "Saif",
+        "description": "Emerging International Best Practices for AI Model Specs",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://saif.org/research/model-specs/",
+        "discovered_at": "2026-11-14"
     },
     {
         "name": "Sairc",
@@ -55927,6 +55997,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Branchbay",
+        "description": "Show HN: BranchBay/BranchShell – frankenstein interconnected Git and SSH clients",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://branchbay.dev",
+        "discovered_at": "2026-11-14"
+    },
+    {
         "name": "Branded Fares Upsell",
         "description": "Before using this API, we recommend you read our **[Authorization Guide](https://developers.amadeus.com/self-service/apis-docs/guides/authorization-262)** for more information on how to generate an a",
         "category": "Development",
@@ -88451,6 +88531,16 @@
         "discovered_at": "2026-09-05"
     },
     {
+        "name": "Text",
+        "description": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://text.npr.org/nx-s1-6029408",
+        "discovered_at": "2026-11-14"
+    },
+    {
         "name": "Theregister",
         "description": "Moody humans should let AI handle bad public feedback first, study finds",
         "category": "Education",
@@ -94424,6 +94514,16 @@
         "discovered_at": "2026-07-14"
     },
     {
+        "name": "Free-explorers",
+        "description": "Show HN: Veshell – Your Linux apps on a map, not on a desktop",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://free-explorers.com/veshell",
+        "discovered_at": "2026-11-14"
+    },
+    {
         "name": "Geofastmap",
         "description": "Show HN: GeoFastMapAPI – open-source Fast vector and raster server for mapmakers",
         "category": "Maps & Transport",
@@ -94541,6 +94641,16 @@
         "cors": "unknown",
         "url": "https://ionrouter.io",
         "discovered_at": "2026-03-13"
+    },
+    {
+        "name": "Isometricsf",
+        "description": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://isometricsf.com/",
+        "discovered_at": "2026-11-14"
     },
     {
         "name": "Kilasec",
@@ -100673,6 +100783,16 @@
         "discovered_at": "2026-11-05"
     },
     {
+        "name": "Another",
+        "description": "Show HN: Building a list of places to launch your app",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://another.directory/where-to-launch",
+        "discovered_at": "2026-11-14"
+    },
+    {
         "name": "Antejavor",
         "description": "What is the best data model for AI?",
         "category": "Other",
@@ -102261,6 +102381,16 @@
         "cors": "unknown",
         "url": "https://bmjgroup.com/3-out-of-4-responses-to-uk-smoke-free-generation-consultation-were-ai-bot-generated/",
         "discovered_at": "2026-10-29"
+    },
+    {
+        "name": "Bonwa",
+        "description": "Show HN: Bonwa – A free visibility check for your website",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bonwa.ai",
+        "discovered_at": "2026-11-14"
     },
     {
         "name": "Boosterpack",
@@ -106181,6 +106311,16 @@
         "cors": "unknown",
         "url": "https://www.getaccordia.com",
         "discovered_at": "2026-09-22"
+    },
+    {
+        "name": "Getairdash",
+        "description": "Show HN: I built SQLite databases for your agents with an Airtable view for you",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getairdash.com",
+        "discovered_at": "2026-11-14"
     },
     {
         "name": "Getaivo",
@@ -110991,6 +111131,16 @@
         "cors": "unknown",
         "url": "http://obligement.free.fr/articles_traduction/in_the_beginning_was_caos_en.php",
         "discovered_at": "2026-08-13"
+    },
+    {
+        "name": "Oblomovka",
+        "description": "The Cordon Sanitaire Between Free Software and AI",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.oblomovka.com/wp/2026/11/12/on-the-cordon-sanitaire-between-free-software-and-ai/",
+        "discovered_at": "2026-11-14"
     },
     {
         "name": "Obsidian",
@@ -116803,6 +116953,16 @@
         "discovered_at": "2026-07-14"
     },
     {
+        "name": "Tripcoral",
+        "description": "Show HN: TripCoral – Free itinerary and live updates from public flight data",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.tripcoral.com/",
+        "discovered_at": "2026-11-14"
+    },
+    {
         "name": "Tripomatic",
         "description": "Show HN: Travel Alerts API – travel disruptions alerts from 80 sources",
         "category": "Other",
@@ -119023,6 +119183,16 @@
         "discovered_at": "2026-06-13"
     },
     {
+        "name": "Images",
+        "description": "Show HN: Free AI Image Gallery",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://images.skynettstudio.com/",
+        "discovered_at": "2026-11-14"
+    },
+    {
         "name": "Jevcards",
         "description": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
         "category": "Photography",
@@ -119160,6 +119330,16 @@
         "cors": "unknown",
         "url": "https://neonglow.studio/gif-control/",
         "discovered_at": "2026-08-07"
+    },
+    {
+        "name": "Nknews",
+        "description": "North Korea faked Nov. 4 cluster warhead test, using doctored photos from 2022",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.nknews.org/pro/north-korea-faked-nov-4-cluster-warhead-test-used-doctored-photos-from-2022/",
+        "discovered_at": "2026-11-14"
     },
     {
         "name": "Nobolee88",
@@ -132686,6 +132866,16 @@
         "discovered_at": "2026-03-31"
     },
     {
+        "name": "Api",
+        "description": "Show HN: Free Dictionary API – Wiktionary data, no API key required",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://api.suvankar.cc/docs/dictionary",
+        "discovered_at": "2026-11-14"
+    },
+    {
         "name": "Arespass",
         "description": "Analyzes a password and calculates its entropy.",
         "category": "Text & Language",
@@ -133238,6 +133428,16 @@
         "cors": "unknown",
         "url": "https://sourcelibrary.org",
         "discovered_at": "2026-06-08"
+    },
+    {
+        "name": "Stampdrill",
+        "description": "Show HN: Language for API calls, load tests and MCP server",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://stampdrill.com/",
+        "discovered_at": "2026-11-14"
     },
     {
         "name": "Subsmith",
@@ -134056,6 +134256,16 @@
         "cors": "unknown",
         "url": "https://imagerry.com/",
         "discovered_at": "2026-07-23"
+    },
+    {
+        "name": "Kahei",
+        "description": "I built an offline camera currency converter it's free lifetime if grab it now",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://kahei.app",
+        "discovered_at": "2026-11-14"
     },
     {
         "name": "Labs",
