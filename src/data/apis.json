@@ -14571,6 +14571,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Flipbook-foundry",
+        "description": "Show HN: Flipbook Foundry – animated stick figures baked into a font",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://flipbook-foundry.pages.dev/",
+        "discovered_at": "2026-11-15"
+    },
+    {
         "name": "Frequal",
         "description": "Show HN: DRM-Free Books",
         "category": "Books",
@@ -100323,6 +100333,16 @@
         "discovered_at": "2026-03-11"
     },
     {
+        "name": "Agentic-system-lab",
+        "description": "Show HN: Harness Relay – the coding agents you have, working together",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://agentic-system-lab.github.io/harness-relay/",
+        "discovered_at": "2026-11-15"
+    },
+    {
         "name": "Agentikus",
         "description": "Show HN: Agentikus",
         "category": "Other",
@@ -104723,6 +104743,16 @@
         "discovered_at": "2026-10-20"
     },
     {
+        "name": "Downforreal",
+        "description": "Show HN: DownForReal – Kuma Hosted from 3 regions",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://downforreal.com/",
+        "discovered_at": "2026-11-15"
+    },
+    {
         "name": "Dragonruby",
         "description": "DragonRuby Jam License – Free to All",
         "category": "Other",
@@ -104841,6 +104871,16 @@
         "cors": "unknown",
         "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
         "discovered_at": "2026-09-20"
+    },
+    {
+        "name": "Dynaura",
+        "description": "Show HN: Dynaura – Dynamic Island toasts for the web",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dynaura.ashutoshswamy.in",
+        "discovered_at": "2026-11-15"
     },
     {
         "name": "Dystroy",
@@ -112383,6 +112423,16 @@
         "discovered_at": "2026-08-03"
     },
     {
+        "name": "Pixijs",
+        "description": "PixiJS 3D Open Sourced",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pixijs.com/blog/pixi-3d-open-beta",
+        "discovered_at": "2026-11-15"
+    },
+    {
         "name": "Pixtrava",
         "description": "Show HN: Pixtrava – Public Profiles for Our Persistent 3D Voxel World",
         "category": "Other",
@@ -115233,6 +115283,16 @@
         "discovered_at": "2026-10-06"
     },
     {
+        "name": "Sorona",
+        "description": "Get Paid For Bugs in 475 Open Source Projects",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sorona.xyz/",
+        "discovered_at": "2026-11-15"
+    },
+    {
         "name": "Sorryharvey",
         "description": "Sorry Harvey! I Made a Free Open-Source Alternative to Your Overpriced Legal AI",
         "category": "Other",
@@ -115431,6 +115491,16 @@
         "cors": "unknown",
         "url": "https://sprogeny.com/",
         "discovered_at": "2026-05-01"
+    },
+    {
+        "name": "Sproutings",
+        "description": "Show HN: App to help parents find, plan, and review outings with their kids",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sproutings.app/",
+        "discovered_at": "2026-11-15"
     },
     {
         "name": "Spryly",
@@ -117471,6 +117541,16 @@
         "cors": "unknown",
         "url": "https://www.vaquill.ai",
         "discovered_at": "2026-04-15"
+    },
+    {
+        "name": "Varinomics",
+        "description": "Show HN: Yet another agent manager (but we needed it)",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://varinomics.com/logonomic/",
+        "discovered_at": "2026-11-15"
     },
     {
         "name": "Vatnode",
