@@ -1280,6 +1280,16 @@
         "discovered_at": "2026-04-08"
     },
     {
+        "name": "Artificialliabilities",
+        "description": "Show HN: AI Infra Finance tracker (Data-vis project)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://artificialliabilities.com/",
+        "discovered_at": "2026-11-16"
+    },
+    {
         "name": "Asaagent",
         "description": "Show HN: I built an AI agent that does marketing for my apps",
         "category": "AI & Machine Learning",
@@ -1338,6 +1348,16 @@
         "cors": "unknown",
         "url": "https://atomprophet.io/tools/cascade/",
         "discovered_at": "2026-06-24"
+    },
+    {
+        "name": "Attest-framework",
+        "description": "Show HN: Attest – Test what AI agents do, not just what they say",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://attest-framework.github.io/",
+        "discovered_at": "2026-11-16"
     },
     {
         "name": "Auditbadger",
@@ -12436,6 +12456,16 @@
         "discovered_at": "2026-07-09"
     },
     {
+        "name": "Flintty",
+        "description": "Show HN: Flintty a Mac terminal that catches leaked API keys in your output",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://flintty.com/",
+        "discovered_at": "2026-11-16"
+    },
+    {
         "name": "GoToWebinar",
         "description": "The GoToWebinar API provides seamless integration of webinar registrant and attendee data into your existing infrastructure or third-party applications. The ability to register participants, as well a",
         "category": "Animals",
@@ -14369,6 +14399,16 @@
         "cors": "unknown",
         "url": "https://bkmker.com",
         "discovered_at": "2026-03-22"
+    },
+    {
+        "name": "Blackoutapp",
+        "description": "Show HN: A tiny macOS app that turns off the MacBook display [free license]",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blackoutapp.io/",
+        "discovered_at": "2026-11-16"
     },
     {
         "name": "Bookidoro",
@@ -21432,6 +21472,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Widefleet",
+        "description": "Show HN: Widefleet Cloud - Deploy agent-built internal apps with SSO and storage",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://widefleet.com/",
+        "discovered_at": "2026-11-16"
+    },
+    {
         "name": "Widen",
         "description": "Show HN: Widen – Open-source Mac Postgres GUI with local or cloud text-to-SQL",
         "category": "Cloud & Storage",
@@ -22221,6 +22271,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Invoice-funnel",
+        "description": "Show HN: Small service for moving invoices from Cliniko to QuickBooks",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://invoice-funnel.com",
+        "discovered_at": "2026-11-16"
+    },
+    {
         "name": "Jade",
         "description": "Show HN: Jade Email. Unlimited emails for your domain plus AI Agent support",
         "category": "Communication",
@@ -22329,6 +22389,16 @@
         "cors": "unknown",
         "url": "https://limma.ai",
         "discovered_at": "2026-10-27"
+    },
+    {
+        "name": "Localhost2137",
+        "description": "Show HN: Localhost2137 – Emulate external APIs locally, without API keys",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://localhost2137.dev/",
+        "discovered_at": "2026-11-16"
     },
     {
         "name": "Loveinvoice",
@@ -63149,6 +63219,16 @@
         "discovered_at": "2026-06-17"
     },
     {
+        "name": "Jakub",
+        "description": "All AI-generated code should be Open Source",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+        "discovered_at": "2026-11-16"
+    },
+    {
         "name": "James Edition Real Estate Scraper",
         "description": "Effortlessly collect detailed luxury real estate listings from James Edition with our advanced data collection tool. Designed for real estate professionals, investors, and market researchers, this...",
         "category": "Development",
@@ -67474,6 +67554,16 @@
         "cors": "unknown",
         "url": "https://apify.com/lofomachines/ransomware-dark-web-data-breach-monitor",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Rbit",
+        "description": "Show HN: Rbit – Self Hosted Git Forge in Rust",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rbit.sh/",
+        "discovered_at": "2026-11-16"
     },
     {
         "name": "React Component Crawler",
@@ -89729,6 +89819,16 @@
         "discovered_at": "2026-08-03"
     },
     {
+        "name": "Daventry",
+        "description": "Show HN: Daventry.io – browser game engine inspired by Sierra, ZZT, and D&D",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://daventry.io/making-of",
+        "discovered_at": "2026-11-16"
+    },
+    {
         "name": "Decomp-academy",
         "description": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
         "category": "Entertainment",
@@ -103073,6 +103173,16 @@
         "discovered_at": "2026-10-12"
     },
     {
+        "name": "Claktor",
+        "description": "Show HN: Claktor – a refactoring CLI for coding agents",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://claktor.com/",
+        "discovered_at": "2026-11-16"
+    },
+    {
         "name": "Clarena",
         "description": "Show HN: Ear Training Exercise",
         "category": "Other",
@@ -109123,6 +109233,16 @@
         "discovered_at": "2026-10-27"
     },
     {
+        "name": "Livoni",
+        "description": "Show HN: I made macOS's brightness slider work on non-Apple displays",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://livoni.software/candela/",
+        "discovered_at": "2026-11-16"
+    },
+    {
         "name": "Lmaomoba",
         "description": "Show HN: LMAO – Temu League of Legends, Built with Opus 4.8",
         "category": "Other",
@@ -109141,6 +109261,16 @@
         "cors": "unknown",
         "url": "https://local.cloud/blog/run-dataproc-locally-docker/",
         "discovered_at": "2026-10-02"
+    },
+    {
+        "name": "Locan",
+        "description": "Show HN: Websites for local businesses built fom reviews, keeping upto date",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://locan.ai/",
+        "discovered_at": "2026-11-16"
     },
     {
         "name": "Lockwood",
@@ -114441,6 +114571,16 @@
         "cors": "unknown",
         "url": "https://secondseat.ai/verify",
         "discovered_at": "2026-04-30"
+    },
+    {
+        "name": "Securevibe-dev",
+        "description": "Show HN: SecureVibe – Find and trace vulnerabilities before shipping",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://securevibe-dev.vercel.app/",
+        "discovered_at": "2026-11-16"
     },
     {
         "name": "Sedona",
