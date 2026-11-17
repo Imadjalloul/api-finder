@@ -1620,6 +1620,16 @@
         "discovered_at": "2026-10-29"
     },
     {
+        "name": "Blog",
+        "description": "Artex: Open-source AI Pentest Framework that is bacoming hackers favorite tool",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.ostorlab.co/artex-ai-pentest-framework-threat.html",
+        "discovered_at": "2026-11-17"
+    },
+    {
         "name": "Boesch",
         "description": "Show HN: Letting an LLM write robot programs",
         "category": "AI & Machine Learning",
@@ -6981,6 +6991,16 @@
         "discovered_at": "2026-05-22"
     },
     {
+        "name": "Revix",
+        "description": "Show HN: Revix AI – PR review against the standards your repo follows",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.revix.ai",
+        "discovered_at": "2026-11-17"
+    },
+    {
         "name": "Rigour",
         "description": "Show HN: Rigour – Open-source quality gates for AI coding agents",
         "category": "AI & Machine Learning",
@@ -8759,6 +8779,16 @@
         "discovered_at": "2026-08-07"
     },
     {
+        "name": "Usewoolly",
+        "description": "Show HN: Woolly, a local mem0-compatible memory API for AI agents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://usewoolly.com/",
+        "discovered_at": "2026-11-17"
+    },
+    {
         "name": "Vakr",
         "description": "Show HN: A task market where AI agents post work, claim it, and build reputation",
         "category": "AI & Machine Learning",
@@ -9167,6 +9197,16 @@
         "cors": "unknown",
         "url": "https://wizard.teddytennant.com",
         "discovered_at": "2026-07-12"
+    },
+    {
+        "name": "Wojak-bench",
+        "description": "Wojak-Bench 3D: Which AI is best at 3D printing?",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wojak-bench.dev.pion.dev/",
+        "discovered_at": "2026-11-17"
     },
     {
         "name": "Wolbarg",
@@ -12845,6 +12885,16 @@
         "discovered_at": "2026-07-25"
     },
     {
+        "name": "Scatter",
+        "description": "Show HN: Scatter – better way to learn new things with AI",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.scatter.study/",
+        "discovered_at": "2026-11-17"
+    },
+    {
         "name": "Selfship",
         "description": "Show HN: Selfship.ai – Surface and fix isues with your agentic applications 24x7",
         "category": "Animals",
@@ -14090,6 +14140,16 @@
         "cors": "unknown",
         "url": "https://qlaud.ai",
         "discovered_at": "2026-05-06"
+    },
+    {
+        "name": "Rcruz",
+        "description": "Show HN: Wake, see what Claude Code did and where the tokens went",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rcruz.dev/wake/",
+        "discovered_at": "2026-11-17"
     },
     {
         "name": "Repogauge",
@@ -20727,6 +20787,16 @@
         "discovered_at": "2026-05-22"
     },
     {
+        "name": "Cloud",
+        "description": "Build your startup on a private open-source enterprise AI stack",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cloud.ametnes.com/startups/",
+        "discovered_at": "2026-11-17"
+    },
+    {
         "name": "Cloud Private Catalog Producer",
         "description": "Enables cloud users to manage and share enterprise catalogs intheir organizations.",
         "category": "Cloud & Storage",
@@ -23205,6 +23275,16 @@
         "cors": "unknown",
         "url": "https://willowvoice.com/",
         "discovered_at": "2026-07-11"
+    },
+    {
+        "name": "Xdaforums",
+        "description": "[Free] ShizuCallRecorder – FOSS No-Root Call Recorder – XDA Forums",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://xdaforums.com/t/app-11-free-shizucallrecorder-foss-no-root-call-recorder.4808920/",
+        "discovered_at": "2026-11-17"
     },
     {
         "name": "Yardsmart",
@@ -41687,6 +41767,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Opensource-analytics",
+        "description": "AI crawlers read my site more than Google does. A third of Googlebots were fake",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://opensource-analytics.com/ai-crawlers-in-access-logs/",
+        "discovered_at": "2026-11-17"
+    },
+    {
         "name": "OpenStreetMap POI Intelligence",
         "description": "Extract business listings and local leads from OpenStreetMap's global database. Get real estate agents, car dealers, restaurants, hotels, shops, gyms, banks, pharmacies, and 19+ business types with...",
         "category": "Data & Analytics",
@@ -56816,6 +56906,16 @@
         "discovered_at": "2026-05-07"
     },
     {
+        "name": "Code",
+        "description": "Test Your App on an iPhone Duo",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://code.claude.com/docs/en/desktop-ios-simulator",
+        "discovered_at": "2026-11-17"
+    },
+    {
         "name": "Codeant",
         "description": "Authentication bypass in pac4j-JWT using only the RSA public key",
         "category": "Development",
@@ -71484,6 +71584,16 @@
         "cors": "unknown",
         "url": "https://apify.com/yeahjjyy/twitter-x-video-transcript-scraper-free-2025",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Tyruslang",
+        "description": "Show HN: Tyrus – TypeScript Syntax. Rust Semantics. Programming Language",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tyruslang.org",
+        "discovered_at": "2026-11-17"
     },
     {
         "name": "UAE Emirates Population of 2024 year",
@@ -88601,6 +88711,16 @@
         "discovered_at": "2026-05-15"
     },
     {
+        "name": "Studio",
+        "description": "Show HN: A free interactive course on AI agent governance",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://studio.sinapsdata.com.br",
+        "discovered_at": "2026-11-17"
+    },
+    {
         "name": "Taskrouter",
         "description": "Show HN: Taskrouter – One API Learning to Choose Models per AI Task",
         "category": "Education",
@@ -92238,6 +92358,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://punkapi.com/"
+    },
+    {
+        "name": "Salehsplate",
+        "description": "An ad-free cookbook web app with a multi-dish cooking mode",
+        "category": "Food & Drink",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://salehsplate.com/",
+        "discovered_at": "2026-11-17"
     },
     {
         "name": "Souva",
@@ -96516,6 +96646,16 @@
         "cors": "unknown",
         "url": "https://www.euronews.com/my-europe/2026/04/16/berlin-offers-free-entry-for-litter-picking-to-make-tourists-do-their-bit",
         "discovered_at": "2026-04-19"
+    },
+    {
+        "name": "Facevaluepress",
+        "description": "Show HN: Make a custom deck of playing cards with your family and friend's faces",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://facevaluepress.com/",
+        "discovered_at": "2026-11-17"
     },
     {
         "name": "Fenic",
@@ -105563,6 +105703,16 @@
         "discovered_at": "2026-10-17"
     },
     {
+        "name": "Fakemetrics",
+        "description": "Show HN: Fakemetrics.com – \"build in public\" like a superstar",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fakemetrics.com/",
+        "discovered_at": "2026-11-17"
+    },
+    {
         "name": "Family-tree-maker",
         "description": "Show HN: Family Tree Maker",
         "category": "Other",
@@ -105611,6 +105761,16 @@
         "cors": "unknown",
         "url": "https://fancanon.com/",
         "discovered_at": "2026-10-12"
+    },
+    {
+        "name": "Fast",
+        "description": "The Public Launch of SolveIt",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.fast.ai/posts/2026-11-16-solveit-launch/",
+        "discovered_at": "2026-11-17"
     },
     {
         "name": "Fastbrowse",
@@ -105921,6 +106081,16 @@
         "cors": "unknown",
         "url": "https://flashpaper.app/",
         "discovered_at": "2026-07-29"
+    },
+    {
+        "name": "Flat",
+        "description": "Show HN: An open virtual office to cowork with humans while your agents work",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://flat.social/virtual-office-platform",
+        "discovered_at": "2026-11-17"
     },
     {
         "name": "Flexprice",
@@ -107203,6 +107373,16 @@
         "discovered_at": "2026-04-12"
     },
     {
+        "name": "Harmonic",
+        "description": "Aristotle Expands into Rust",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.harmonic.fun/news/aristotle-rust-verification/",
+        "discovered_at": "2026-11-17"
+    },
+    {
         "name": "Harpist",
         "description": "Show HN: Harpist – convert any website into a refined and documented API",
         "category": "Other",
@@ -108303,6 +108483,16 @@
         "discovered_at": "2026-06-14"
     },
     {
+        "name": "Jordankrueger",
+        "description": "We don't need more apps. We need better open source",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+        "discovered_at": "2026-11-17"
+    },
+    {
         "name": "Jornal",
         "description": "Show HN: Jørnal, a journaling app where the page is always blank",
         "category": "Other",
@@ -109031,6 +109221,16 @@
         "cors": "unknown",
         "url": "https://www.leadlu.com/blog/best-apollo-alternative-small-business",
         "discovered_at": "2026-06-26"
+    },
+    {
+        "name": "Learn-piano-easy",
+        "description": "Show HN: Learn Piano Easy App – Free and Open Source",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://learn-piano-easy.app/",
+        "discovered_at": "2026-11-17"
     },
     {
         "name": "Learnbchs",
@@ -110871,6 +111071,16 @@
         "cors": "unknown",
         "url": "https://navalstrike.app",
         "discovered_at": "2026-05-07"
+    },
+    {
+        "name": "Neander",
+        "description": "Show HN: Harness for building/cloning SaaS using open-weight models",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://neander.ai/",
+        "discovered_at": "2026-11-17"
     },
     {
         "name": "Nebusec",
@@ -117623,6 +117833,16 @@
         "discovered_at": "2026-04-20"
     },
     {
+        "name": "Useview",
+        "description": "Show HN: View – Build native Mac Mini apps with your own coding agent",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://useview.app/",
+        "discovered_at": "2026-11-17"
+    },
+    {
         "name": "Usvote",
         "description": "Show HN: Aggregating votes from US Congress representatives",
         "category": "Other",
@@ -118281,6 +118501,16 @@
         "cors": "unknown",
         "url": "https://www.whitematterlabs.ai/",
         "discovered_at": "2026-07-07"
+    },
+    {
+        "name": "Wigglypaint",
+        "description": "WigglyPaint – Free Animated Drawing Tool",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://wigglypaint.com",
+        "discovered_at": "2026-11-17"
     },
     {
         "name": "WikiPathways Webservices",
@@ -130196,6 +130426,16 @@
         "discovered_at": "2026-06-21"
     },
     {
+        "name": "Coderbaba",
+        "description": "Show HN: CoderBaba – An open-source AI Coding Agent with security scanning",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://coderbaba.si",
+        "discovered_at": "2026-11-17"
+    },
+    {
         "name": "Cordon-server-production",
         "description": "Show HN: Cordon – open-source security gateway for MCP tool calls",
         "category": "Security",
@@ -133740,6 +133980,16 @@
         "discovered_at": "2026-05-28"
     },
     {
+        "name": "Tvm",
+        "description": "Building a Rust-Native, Cross-Language Foundation for Agentic ML Compilers",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tvm.apache.org/2026/11/16/rust-native-cross-language-ml-compiler-foundation",
+        "discovered_at": "2026-11-17"
+    },
+    {
         "name": "Unforbiddenyet",
         "description": "Show HN: I Built a Polyfill for the Browser's New Language Detection API",
         "category": "Text & Language",
@@ -134873,6 +135123,16 @@
         "discovered_at": "2026-11-07"
     },
     {
+        "name": "Aivideototext",
+        "description": "AI Video to Text – Free Online Video to Text and Audio to Text Converter",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.aivideototext.org/",
+        "discovered_at": "2026-11-17"
+    },
+    {
         "name": "Anthillnet",
         "description": "Show HN: Sinain captures screen and audio in KG, shares it with agents/peers",
         "category": "Video & Media",
@@ -135581,6 +135841,16 @@
         "discovered_at": "2026-08-06"
     },
     {
+        "name": "Networkshard",
+        "description": "How a Pirate \"Free Netflix\" App Smuggles Video Inside .jpg Files",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://networkshard.com/blog/netmirror-smuggled-video/",
+        "discovered_at": "2026-11-17"
+    },
+    {
         "name": "Nosuggest",
         "description": "Show HN: NoSuggest – Watch YouTube without the recommendation algorithm",
         "category": "Video & Media",
@@ -136008,6 +136278,16 @@
         "cors": "unknown",
         "url": "https://www.turboscribeai.net/",
         "discovered_at": "2026-10-19"
+    },
+    {
+        "name": "Ugcapi",
+        "description": "Show HN: One API and MCP Server to Publish to TikTok, Instagram and YouTube",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ugcapi.dev/",
+        "discovered_at": "2026-11-17"
     },
     {
         "name": "Vibegif",
