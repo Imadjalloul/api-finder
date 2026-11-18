@@ -660,6 +660,16 @@
         "discovered_at": "2026-06-26"
     },
     {
+        "name": "Aispar",
+        "description": "Show HN: AI Spar – Turn conflicting AI answers into a structured debate",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aispar.app",
+        "discovered_at": "2026-11-18"
+    },
+    {
         "name": "Aistorygenerator",
         "description": "AI Story Generator for Game Masters – Free D&D and RPG Tools",
         "category": "AI & Machine Learning",
@@ -2166,6 +2176,16 @@
         "cors": "unknown",
         "url": "https://colliepwa.dev/",
         "discovered_at": "2026-09-10"
+    },
+    {
+        "name": "Comepass",
+        "description": "Show HN: Korean company registry for AI agents – free MCP server and CSV batch",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://comepass.xyz/?lang=en",
+        "discovered_at": "2026-11-18"
     },
     {
         "name": "Computearena",
@@ -3713,6 +3733,16 @@
         "cors": "unknown",
         "url": "https://guessthellm.com/",
         "discovered_at": "2026-10-16"
+    },
+    {
+        "name": "Haas",
+        "description": "Show HN: Hallucination-as-a-service – API for AI excuses",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://haas.antoniorodriguez.no/hallucination",
+        "discovered_at": "2026-11-18"
     },
     {
         "name": "Hahooh",
@@ -13308,6 +13338,16 @@
         "cors": "unknown",
         "url": "https://copylasso.com/",
         "discovered_at": "2026-08-20"
+    },
+    {
+        "name": "Crosshead",
+        "description": "Show HN: Crosshead - Working memory and persistent identity for agents",
+        "category": "Auth & Identity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://crosshead.sh/",
+        "discovered_at": "2026-11-18"
     },
     {
         "name": "Display",
@@ -89820,6 +89860,16 @@
         "discovered_at": "2026-06-09"
     },
     {
+        "name": "Brdgm",
+        "description": "Brdgm.me – open-source web applications helping playing board games in solo mode",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://brdgm.me/",
+        "discovered_at": "2026-11-18"
+    },
+    {
         "name": "Canvasformusic",
         "description": "Show HN: CanvasForMusic – I made a free Spotify Canvas maker that doesn't suck",
         "category": "Entertainment",
@@ -89969,6 +90019,16 @@
         "discovered_at": "2026-10-19"
     },
     {
+        "name": "Directorslookbook",
+        "description": "Show HN: Director's Lookbook, named looks for image, video and music prompts",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://directorslookbook.app/",
+        "discovered_at": "2026-11-18"
+    },
+    {
         "name": "Dozenal",
         "description": "Show HN: Dozenal – A Game of Spatial Arithmetic",
         "category": "Entertainment",
@@ -90097,6 +90157,26 @@
         "cors": "unknown",
         "url": "https://geochess.org",
         "discovered_at": "2026-07-20"
+    },
+    {
+        "name": "Glyphic",
+        "description": "Show HN: Finished my letter tile game",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://glyphic.florianschroedl.com/",
+        "discovered_at": "2026-11-18"
+    },
+    {
+        "name": "Grandtreasureisland",
+        "description": "Show HN: Grand Treasure Island – GTA-style game on a real island, modeled by AI",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://grandtreasureisland.vercel.app/",
+        "discovered_at": "2026-11-18"
     },
     {
         "name": "Hankydoodle",
@@ -100531,6 +100611,16 @@
         "cors": "unknown",
         "url": "https://www.aegisoptikon.com/security-demo.html",
         "discovered_at": "2026-03-15"
+    },
+    {
+        "name": "Aethelgard",
+        "description": "Show HN: Paste a Link. See the Bias",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aethelgard.news/",
+        "discovered_at": "2026-11-18"
     },
     {
         "name": "Ag2b",
@@ -113543,6 +113633,16 @@
         "discovered_at": "2026-07-14"
     },
     {
+        "name": "Rallywith",
+        "description": "Show HN: Open-source multi-player artifacts that update themselves",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rallywith.ai/",
+        "discovered_at": "2026-11-18"
+    },
+    {
         "name": "Ramble",
         "description": "Show HN: Ramble – Message your agent directly from your Apple Watch",
         "category": "Other",
@@ -113731,6 +113831,16 @@
         "cors": "unknown",
         "url": "https://www.reactor.inc/",
         "discovered_at": "2026-05-08"
+    },
+    {
+        "name": "Readplace",
+        "description": "Show HN: Readplace read-it-later self-registration Public API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://readplace.com/developers",
+        "discovered_at": "2026-11-18"
     },
     {
         "name": "Reassign",
@@ -115771,6 +115881,16 @@
         "cors": "unknown",
         "url": "https://spice.ai/blog/spice-2-0-is-now-available",
         "discovered_at": "2026-07-10"
+    },
+    {
+        "name": "Spillwayapp",
+        "description": "Show HN: Spillway – HTTP API load testing on macOS",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://spillwayapp.com/",
+        "discovered_at": "2026-11-18"
     },
     {
         "name": "Spliit",
@@ -133386,6 +133506,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Clearofficehub",
+        "description": "Show HN: ClearOffice Hub – Build Enterprise Apps with Natural Language",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.clearofficehub.com/",
+        "discovered_at": "2026-11-18"
+    },
+    {
         "name": "Clipto",
         "description": "Show HN: Clipto-fully local, natural language search over terabytes of media",
         "category": "Text & Language",
@@ -133828,6 +133958,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.purgomalum.com/"
+    },
+    {
+        "name": "Quebec",
+        "description": "Show HN: An API for word timestamps from speech, 75% within 20ms",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://quebec.yarn.so",
+        "discovered_at": "2026-11-18"
     },
     {
         "name": "Readthetape",
