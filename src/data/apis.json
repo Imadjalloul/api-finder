@@ -2937,6 +2937,16 @@
         "discovered_at": "2026-10-22"
     },
     {
+        "name": "Experimentempire",
+        "description": "The public database of AI agent incidents",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.experimentempire.com/agent-incident-register",
+        "discovered_at": "2026-11-19"
+    },
+    {
         "name": "Explain-ai",
         "description": "Show HN: ExplAIn, a free directory of compliance scores for AI tools",
         "category": "AI & Machine Learning",
@@ -4192,6 +4202,16 @@
         "cors": "unknown",
         "url": "https://interviewpracticeai.com",
         "discovered_at": "2026-07-20"
+    },
+    {
+        "name": "Intrusive",
+        "description": "Show HN: Intrusive.ai – open-source AI attack simulation",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://intrusive.ai/",
+        "discovered_at": "2026-11-19"
     },
     {
         "name": "Inwom",
@@ -7481,6 +7501,16 @@
         "discovered_at": "2026-02-28"
     },
     {
+        "name": "Sid",
+        "description": "AI is writing a public web every 15 days",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.sid.ai/research/llm-output-vs-human-text",
+        "discovered_at": "2026-11-19"
+    },
+    {
         "name": "Sigmashake",
         "description": "Show HN: AI Coding Agent Guardrails enforced at runtime",
         "category": "AI & Machine Learning",
@@ -7669,6 +7699,16 @@
         "cors": "unknown",
         "url": "https://soundwise.ai",
         "discovered_at": "2026-08-31"
+    },
+    {
+        "name": "Sourcepost",
+        "description": "Show HN: SourcePost – a hand-reviewed directory for AI agents (API and MCP)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sourcepost.dev",
+        "discovered_at": "2026-11-19"
     },
     {
         "name": "Spanly",
@@ -20887,6 +20927,16 @@
         "discovered_at": "2026-06-23"
     },
     {
+        "name": "Confidential",
+        "description": "Confidential Cloud Public Beta",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://confidential.ai/blog/confidential-cloud-beta",
+        "discovered_at": "2026-11-19"
+    },
+    {
         "name": "Construct",
         "description": "Show HN: Construct Computer – Agentic Cloud OS for Daily Work",
         "category": "Cloud & Storage",
@@ -21261,6 +21311,16 @@
         "cors": "unknown",
         "url": "https://oblien.com/docs/runtime-api",
         "discovered_at": "2026-03-12"
+    },
+    {
+        "name": "Omnibuscloud",
+        "description": "Show HN: Run CalculiX, OpenFOAM and ParaView jobs on your office's idle PCs",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://omnibuscloud.io/blog/simulation/",
+        "discovered_at": "2026-11-19"
     },
     {
         "name": "Oneshot",
@@ -21999,6 +22059,16 @@
         "cors": "unknown",
         "url": "https://clwnt.com",
         "discovered_at": "2026-03-01"
+    },
+    {
+        "name": "Confetti",
+        "description": "Show HN: Confetti – group video greetings, made on WhatsApp",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://confetti.to/",
+        "discovered_at": "2026-11-19"
     },
     {
         "name": "Console",
@@ -66018,6 +66088,16 @@
         "discovered_at": "2026-07-16"
     },
     {
+        "name": "Now",
+        "description": "Show HN: A forkable folk song; each recording holds the code that sang it",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://now.itsby.you/",
+        "discovered_at": "2026-11-19"
+    },
+    {
         "name": "npm Package Scraper - Registry Data & Downloads API",
         "description": "Extract npm package data with download stats, dependencies, maintainers, and quality scores. Search by keyword, author, or get popular packages. Perfect for JavaScript ecosystem research, competitor..",
         "category": "Development",
@@ -66386,6 +66466,16 @@
         "cors": "unknown",
         "url": "https://apify.com/lexis-solutions/oreillyauto",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Orpheic",
+        "description": "Show HN: FLAC, MP3 and DST decoders, about 2x faster than FFmpeg's (MIT)",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://orpheic.com/decoders/",
+        "discovered_at": "2026-11-19"
     },
     {
         "name": "Ossature",
@@ -69016,6 +69106,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Shiro",
+        "description": "Apache Shiro Joins the GitHub Secure Open Source Fund",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://shiro.apache.org/blog/2026/11/apache-shiro-secure-open-source-fund.html",
+        "discovered_at": "2026-11-19"
+    },
+    {
         "name": "Shopee Scraper &#124; All-In-One &#124; $30 / mo",
         "description": "All-in-one Shopee scraper for 11 countries (ID, MY, TH, BR, SG, MX +). Scrape by keyword or URL. It bypasses blocks and captchas to extract rich product data: prices, sales, ratings, and full seller..",
         "category": "Development",
@@ -71054,6 +71154,16 @@
         "cors": "unknown",
         "url": "https://apify.com/yourapiservice/toolkitdepot-blog-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Tooljet",
+        "description": "Show HN: ToolJet 4.0 – vibe-code internal tools with governance",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tooljet.com",
+        "discovered_at": "2026-11-19"
     },
     {
         "name": "TOON to JSON (converter)",
@@ -90952,6 +91062,16 @@
         "url": "https://www.themoviedb.org/documentation/api"
     },
     {
+        "name": "Toggles",
+        "description": "Show HN: Toggles, a game based on analyzing data",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://toggles.codewalkers.net",
+        "discovered_at": "2026-11-19"
+    },
+    {
         "name": "Towerpanic",
         "description": "Show HN: TowerPanic – a family party game on a small FastAPI realtime engine",
         "category": "Entertainment",
@@ -91148,6 +91268,16 @@
         "cors": "unknown",
         "url": "https://app.aggregatefi.com/",
         "discovered_at": "2026-11-05"
+    },
+    {
+        "name": "App",
+        "description": "Show HN: Goldcrest, a household financial model you fill in by talking",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.getgoldcrest.com",
+        "discovered_at": "2026-11-19"
     },
     {
         "name": "Bill Payment Validator",
@@ -96778,6 +96908,16 @@
         "discovered_at": "2026-10-24"
     },
     {
+        "name": "Globus",
+        "description": "Show HN: Globus – Daily world news, placed on the globe where it happened (iOS)",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://globus.earth/",
+        "discovered_at": "2026-11-19"
+    },
+    {
         "name": "GNews",
         "description": "Search news articles from multiple sources worldwide",
         "category": "News",
@@ -101643,6 +101783,16 @@
         "discovered_at": "2026-04-02"
     },
     {
+        "name": "Archiver",
+        "description": "Show HN: Archiver – free extract/compaction tool built with WebAssembly",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://archiver.scryer.media/",
+        "discovered_at": "2026-11-19"
+    },
+    {
         "name": "Arena-commander",
         "description": "Show HN: Are.na Commander – a file-like Are.na browser",
         "category": "Other",
@@ -104823,6 +104973,16 @@
         "discovered_at": "2026-04-10"
     },
     {
+        "name": "Disposable",
+        "description": "Show HN: Disposable – Share small AI-made tools so others can rebuild them",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://disposable.xify.kr/en/",
+        "discovered_at": "2026-11-19"
+    },
+    {
         "name": "Dividdy",
         "description": "Show HN: Tired of making accounts to split a pizza bill, I built Dividdy",
         "category": "Other",
@@ -107623,6 +107783,16 @@
         "discovered_at": "2026-10-21"
     },
     {
+        "name": "Heymode",
+        "description": "Show HN: Mode – an open-source agent that uses your phone's apps for you",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://heymode.app",
+        "discovered_at": "2026-11-19"
+    },
+    {
         "name": "Heyrepairo",
         "description": "Show HN: Repairo-I built CLI tool that detects breaking API changes and fixes it",
         "category": "Other",
@@ -107811,6 +107981,16 @@
         "cors": "unknown",
         "url": "https://howareu.app/",
         "discovered_at": "2026-05-10"
+    },
+    {
+        "name": "Howyoulove",
+        "description": "Attachment Style Test – It's Fun",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://howyoulove.netlify.app",
+        "discovered_at": "2026-11-19"
     },
     {
         "name": "Htmlunit",
@@ -108433,6 +108613,16 @@
         "discovered_at": "2026-06-15"
     },
     {
+        "name": "Itsfree",
+        "description": "Itsfree.ai – Every model you can use for free",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://itsfree.ai/models/",
+        "discovered_at": "2026-11-19"
+    },
+    {
         "name": "J-ray-pro",
         "description": "Show HN: J-RAY PRO – A fast visual JSON profiler in Rust",
         "category": "Other",
@@ -108561,6 +108751,16 @@
         "cors": "unknown",
         "url": "https://joeheyming.github.io/",
         "discovered_at": "2026-06-02"
+    },
+    {
+        "name": "Joelriley",
+        "description": "Show HN: Fun with bicycle trainers and web APIs",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://joelriley.com/fun-with-trainers",
+        "discovered_at": "2026-11-19"
     },
     {
         "name": "Johnowhitaker",
@@ -111053,6 +111253,16 @@
         "discovered_at": "2026-09-26"
     },
     {
+        "name": "Myaladdin",
+        "description": "Show HN: Free OPT tracker, built after a $5k filing mistake",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.myaladdin.app/opt-tracker",
+        "discovered_at": "2026-11-19"
+    },
+    {
         "name": "Mydev",
         "description": "Show HN: I built a dev diary that writes itself",
         "category": "Other",
@@ -111921,6 +112131,16 @@
         "cors": "unknown",
         "url": "https://openloom.live/",
         "discovered_at": "2026-03-08"
+    },
+    {
+        "name": "Openmetropolitan",
+        "description": "Show HN: I built an infinite canvas to explore 340k artworks from The Met",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.openmetropolitan.com",
+        "discovered_at": "2026-11-19"
     },
     {
         "name": "Openmouse",
@@ -115953,6 +116173,16 @@
         "discovered_at": "2026-07-14"
     },
     {
+        "name": "Springcraft-ai",
+        "description": "Show HN: Robotics needs better CAD, so I wrote a B-rep kernel and 3,487 tests",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://springcraft-ai.github.io/springrep/",
+        "discovered_at": "2026-11-19"
+    },
+    {
         "name": "Sprogeny",
         "description": "Show HN: Sprogeny – mashup public Spotify playlists",
         "category": "Other",
@@ -118293,6 +118523,16 @@
         "discovered_at": "2026-07-21"
     },
     {
+        "name": "Vpndetection",
+        "description": "Show HN: VPNDetection, a VPN and proxy detection API with no key",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://vpndetection.io",
+        "discovered_at": "2026-11-19"
+    },
+    {
         "name": "Vrong",
         "description": "What is `std:pin:Pin` in Rust?",
         "category": "Other",
@@ -118571,6 +118811,16 @@
         "cors": "unknown",
         "url": "https://whale.kiraaziz.club",
         "discovered_at": "2026-05-04"
+    },
+    {
+        "name": "Whatislocalhost",
+        "description": "Show HN: What is localhost? An interactive guide",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://whatislocalhost.com/",
+        "discovered_at": "2026-11-19"
     },
     {
         "name": "Whentofly",
@@ -129999,6 +130249,16 @@
         "discovered_at": "2026-09-03"
     },
     {
+        "name": "Space-core",
+        "description": "Show HN: Space-Core, a free browser MMO your own AI agent plays over MCP",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://space-core.at/",
+        "discovered_at": "2026-11-19"
+    },
+    {
         "name": "Spacenews",
         "description": "Astroforge will fly a spacecraft autonomously using AI next year",
         "category": "Science",
@@ -130466,6 +130726,16 @@
         "discovered_at": "2026-08-12"
     },
     {
+        "name": "Assess",
+        "description": "Show HN: Can an AI Agent Bypass Your Website Security?",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://assess.poh.org/",
+        "discovered_at": "2026-11-19"
+    },
+    {
         "name": "Badshah",
         "description": "AI Is the Best Thing to Happen to Security",
         "category": "Security",
@@ -130853,6 +131123,16 @@
         "cors": "unknown",
         "url": "https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/",
         "discovered_at": "2026-05-23"
+    },
+    {
+        "name": "Processai",
+        "description": "Free security check for AI-built web apps (no signup)",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.processai.ch/",
+        "discovered_at": "2026-11-19"
     },
     {
         "name": "Raduloff",
@@ -131439,6 +131719,16 @@
         "cors": "unknown",
         "url": "https://earde.com/feed",
         "discovered_at": "2026-08-06"
+    },
+    {
+        "name": "Exitpath-ruddy",
+        "description": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://exitpath-ruddy.vercel.app/",
+        "discovered_at": "2026-11-19"
     },
     {
         "name": "Flightsmoothie-dot",
@@ -135799,6 +136089,16 @@
         "cors": "unknown",
         "url": "https://json2video.com/docs/api/json2video-api.json",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Klistra",
+        "description": "Show HN: Klistra – A complete studio for spec-driven AI motion design and video",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://klistra.ai/",
+        "discovered_at": "2026-11-19"
     },
     {
         "name": "Krisdigital",
