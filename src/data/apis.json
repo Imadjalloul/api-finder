@@ -3367,6 +3367,16 @@
         "discovered_at": "2026-04-01"
     },
     {
+        "name": "Getagentmall",
+        "description": "Show HN: AgentMall – Let your AI agent buy groceries",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getagentmall.com",
+        "discovered_at": "2026-11-20"
+    },
+    {
         "name": "Getbudi",
         "description": "Budi – local-first AI coding cost tracker (Rust, tails local logs, no proxy)",
         "category": "AI & Machine Learning",
@@ -7449,6 +7459,16 @@
         "cors": "unknown",
         "url": "https://sharefreeform.com",
         "discovered_at": "2026-09-17"
+    },
+    {
+        "name": "Shaungallagher",
+        "description": "The Lipogram AI Model Test",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://shaungallagher.pressbin.com/blog/lipogram.html",
+        "discovered_at": "2026-11-20"
     },
     {
         "name": "Shikigami",
@@ -13113,6 +13133,16 @@
         "discovered_at": "2026-03-28"
     },
     {
+        "name": "Vaticin",
+        "description": "Show HN: Prediction market competition where only agents can trade",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.vaticin.ai",
+        "discovered_at": "2026-11-20"
+    },
+    {
         "name": "Veilid",
         "description": "Veilid is an open-source, peer-to-peer application framework",
         "category": "Animals",
@@ -14759,6 +14789,16 @@
         "cors": "unknown",
         "url": "https://flipbook-foundry.pages.dev/",
         "discovered_at": "2026-11-15"
+    },
+    {
+        "name": "Foolscap",
+        "description": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
+        "category": "Books",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://foolscap.works/",
+        "discovered_at": "2026-11-20"
     },
     {
         "name": "Frequal",
@@ -107623,6 +107663,16 @@
         "discovered_at": "2026-04-12"
     },
     {
+        "name": "Haproxy",
+        "description": "On The Use of AI-Based Tools to Find Bugs in Open Source Software",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software",
+        "discovered_at": "2026-11-20"
+    },
+    {
         "name": "Harmonic",
         "description": "Aristotle Expands into Rust",
         "category": "Other",
@@ -123656,6 +123706,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Getcircledapp",
+        "description": "Show HN: Circled – a calendar for planning my week and making plans with friends",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getcircledapp.com/",
+        "discovered_at": "2026-11-20"
+    },
+    {
         "name": "Getmilestones",
         "description": "Show HN: I built a native project management app that respects your privacy",
         "category": "Productivity",
@@ -130856,6 +130916,16 @@
         "discovered_at": "2026-09-07"
     },
     {
+        "name": "Epyhia",
+        "description": "Canary Token Test Exposes AI Provider Breaches",
+        "category": "Security",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://epyhia.com/dragos-canary-token-test-exposes-three-ai-provider-breaches-prompt",
+        "discovered_at": "2026-11-20"
+    },
+    {
         "name": "Federalregister",
         "description": "NIST Seeking Public Comment on AI Agent Security (Deadline: March 9, 2026)",
         "category": "Security",
@@ -131759,6 +131829,16 @@
         "cors": "unknown",
         "url": "https://fosbury.ai/",
         "discovered_at": "2026-08-07"
+    },
+    {
+        "name": "Gattyworks",
+        "description": "Reddit ends RSS feeds on November 13 and closes its public API in March 2027",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gattyworks.com/news/reddit-ends-rss-feeds-and-public-api",
+        "discovered_at": "2026-11-20"
     },
     {
         "name": "Getwarble",
@@ -133991,6 +134071,16 @@
         "cors": "unknown",
         "url": "https://hale-lang.org/",
         "discovered_at": "2026-07-22"
+    },
+    {
+        "name": "Hippomaps",
+        "description": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
+        "discovered_at": "2026-11-20"
     },
     {
         "name": "Itransbook",
