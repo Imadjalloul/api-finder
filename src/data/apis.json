@@ -1280,6 +1280,16 @@
         "discovered_at": "2026-04-22"
     },
     {
+        "name": "Arkviz",
+        "description": "Show HN: ArkViz – AI generated software architecture diagrams",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://arkviz.io",
+        "discovered_at": "2026-11-21"
+    },
+    {
         "name": "Arthur",
         "description": "AI Agent Guardrails: Pre-LLM and Post-LLM Best Practices",
         "category": "AI & Machine Learning",
@@ -3477,6 +3487,16 @@
         "discovered_at": "2026-07-31"
     },
     {
+        "name": "Getsniffy",
+        "description": "Show HN: Sniffy – a free AI detector and Chrome extension",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getsniffy.com/",
+        "discovered_at": "2026-11-21"
+    },
+    {
         "name": "Getsotto",
         "description": "Show HN: Sotto – AI interview assistant for Mac",
         "category": "AI & Machine Learning",
@@ -3654,6 +3674,16 @@
         "cors": "unknown",
         "url": "https://grassdx.com/",
         "discovered_at": "2026-06-16"
+    },
+    {
+        "name": "Greatai",
+        "description": "Show HN: Greatai Review – free AI and human code review for open source",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://greatai.dev/clinic",
+        "discovered_at": "2026-11-21"
     },
     {
         "name": "Grigio",
@@ -6932,6 +6962,16 @@
         "discovered_at": "2026-10-01"
     },
     {
+        "name": "Relic-app",
+        "description": "Show HN: Relic – An AI that only answers from what you've saved",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://relic-app.com",
+        "discovered_at": "2026-11-21"
+    },
+    {
         "name": "Remove-anything",
         "description": "Show HN: Remove Anything – AI Background Removal Tool",
         "category": "AI & Machine Learning",
@@ -7299,6 +7339,16 @@
         "cors": "unknown",
         "url": "https://www.satisfice.com/blog/archives/488148",
         "discovered_at": "2026-06-21"
+    },
+    {
+        "name": "Saturnsql",
+        "description": "Show HN: SaturnSQL Context, telling AI tools what the database means",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://saturnsql.com/context-layer",
+        "discovered_at": "2026-11-21"
     },
     {
         "name": "Savemarkdown",
@@ -12466,6 +12516,16 @@
         "cors": "unknown",
         "url": "https://brasilia-phi.vercel.app",
         "discovered_at": "2026-04-12"
+    },
+    {
+        "name": "Cashcraft",
+        "description": "Show HN: Cashcraft – free precise budgeting without categories",
+        "category": "Animals",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cashcraft.app/",
+        "discovered_at": "2026-11-21"
     },
     {
         "name": "Cat Facts",
@@ -35757,6 +35817,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Insights",
+        "description": "AI Search Analytics Confirm Higher Ed's LLM Winners Are Large Publics/Nonprofits",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://insights.kolariconsulting.com/p/ai-search-analytics-confirm-higher",
+        "discovered_at": "2026-11-21"
+    },
+    {
         "name": "Insta Scrape Followers",
         "description": "extract all the information from the username, including who they follow.",
         "category": "Data & Analytics",
@@ -46045,6 +46115,16 @@
         "cors": "unknown",
         "url": "https://apify.com/scraper-mind/swiggy-email-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Swiphtgroup",
+        "description": "Show HN: SwiphtNum 3.0 – native Mac statistics with SEM, SQL and scripting",
+        "category": "Data & Analytics",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://swiphtgroup.com/swiphtnum/",
+        "discovered_at": "2026-11-21"
     },
     {
         "name": "Sympla Brazil Event Scraper",
@@ -64088,6 +64168,16 @@
         "discovered_at": "2026-08-26"
     },
     {
+        "name": "Learnmap",
+        "description": "Show HN: Learnmap, learn programming in a playful way",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://learnmap.sh",
+        "discovered_at": "2026-11-21"
+    },
+    {
         "name": "Leasingmarkt.de Scraper",
         "description": "LeasingMarkt.de web scraper for extracting car leasing offers from Germany's leading leasing marketplace - a subsidiary of AutoScout24",
         "category": "Development",
@@ -72264,6 +72354,16 @@
         "cors": "unknown",
         "url": "https://usemerlin.ai",
         "discovered_at": "2026-10-15"
+    },
+    {
+        "name": "Usenunya",
+        "description": "Show HN: Nunya – A \"digital privacy screen\" that makes text illegible from afar",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://usenunya.com/",
+        "discovered_at": "2026-11-21"
     },
     {
         "name": "User Info Generator API",
@@ -88681,6 +88781,16 @@
         "discovered_at": "2026-08-17"
     },
     {
+        "name": "Larpless",
+        "description": "Show HN: LarpLess, open-source study tracker detecting distractions locally",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://larpless.app/",
+        "discovered_at": "2026-11-21"
+    },
+    {
         "name": "Learning-rust",
         "description": "Learning-Rust.Github.io: Labs: Project 1 – RESTful API Workspace",
         "category": "Education",
@@ -90349,6 +90459,16 @@
         "discovered_at": "2026-08-28"
     },
     {
+        "name": "Jam",
+        "description": "Show HN: Jam – A music making game where you play gigs to earn studio gear",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://jam.resonantdsp.com",
+        "discovered_at": "2026-11-21"
+    },
+    {
         "name": "Jarl-game",
         "description": "Procedural Pixel-Art Grass in Rust and WebGPU",
         "category": "Entertainment",
@@ -90565,6 +90685,16 @@
         "cors": "unknown",
         "url": "https://www.msn.com/en-us/money/other/hollywood-fights-ai-in-public-while-quietly-building-it-into-movies/ar-AA28IhCH",
         "discovered_at": "2026-08-04"
+    },
+    {
+        "name": "Muglobe",
+        "description": "Show HN: MuGlobe – Explore the world's music by place on a globe",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://muglobe.com/",
+        "discovered_at": "2026-11-21"
     },
     {
         "name": "Music0",
@@ -92521,6 +92651,16 @@
         "cors": "unknown",
         "url": "http://api2.bigoven.com/swagger/docs/partner",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Bocalito",
+        "description": "Show HN: Bocalito – A Meal Prep Planner",
+        "category": "Food & Drink",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bocalito.com",
+        "discovered_at": "2026-11-21"
     },
     {
         "name": "Butterwell",
@@ -96559,6 +96699,16 @@
         "discovered_at": "2026-08-08"
     },
     {
+        "name": "Assetroom",
+        "description": "SEC filings suggest press releases and executive quotes increasingly using AI",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.assetroom.net/blog/public-companies-using-ai-to-write-press-releases",
+        "discovered_at": "2026-11-21"
+    },
+    {
         "name": "Bais",
         "description": "Show HN: Bais.News – News Neutralization Piepline",
         "category": "News",
@@ -97094,6 +97244,16 @@
         "cors": "unknown",
         "url": "https://independent-wire.org/",
         "discovered_at": "2026-06-29"
+    },
+    {
+        "name": "Infoboxing",
+        "description": "Show HN: Infoboxing – Guess the Wikipedia article from its infobox",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.infoboxing.net/",
+        "discovered_at": "2026-11-21"
     },
     {
         "name": "Journalismfutures",
@@ -102803,6 +102963,16 @@
         "discovered_at": "2026-10-15"
     },
     {
+        "name": "Blog",
+        "description": "Linux/EasyShell, a new Rust RAT implant and beacon aims Linux and macOS",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.malwaremustdie.org/2026/11/mmd-073-2026-linuxeasyshell-new-rust.html",
+        "discovered_at": "2026-11-21"
+    },
+    {
         "name": "Blogmaker",
         "description": "Show HN: I built a blogging platform (5 years in, struggling with distribution)",
         "category": "Other",
@@ -104171,6 +104341,16 @@
         "cors": "unknown",
         "url": "https://craneledger.ai",
         "discovered_at": "2026-04-10"
+    },
+    {
+        "name": "Craoli",
+        "description": "Show HN: Craoli – describe a job in one sentence, it finds real postings",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://craoli.com",
+        "discovered_at": "2026-11-21"
     },
     {
         "name": "Crates",
@@ -105701,6 +105881,16 @@
         "cors": "unknown",
         "url": "https://www.engram.fyi/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Engtest",
+        "description": "Show HN: A Personality Test for Engineers",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://engtest.dev/",
+        "discovered_at": "2026-11-21"
     },
     {
         "name": "Enlarger",
@@ -108173,6 +108363,16 @@
         "discovered_at": "2026-06-30"
     },
     {
+        "name": "Hyprmac",
+        "description": "Show HN: HyprMac: Keyboard-driven tiling window manager for macOS",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hyprmac.app/",
+        "discovered_at": "2026-11-21"
+    },
+    {
         "name": "Ibanforge",
         "description": "Show HN: IBANforge – $6/mo alternative to $9,500/yr IBAN validation APIs",
         "category": "Other",
@@ -109021,6 +109221,16 @@
         "cors": "unknown",
         "url": "https://kat-assessment.com/",
         "discovered_at": "2026-10-25"
+    },
+    {
+        "name": "Katamaran",
+        "description": "Show HN: Katamaran - Open-source Docker and Linux runtime for Apple Silicon",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://katamaran.rs/",
+        "discovered_at": "2026-11-21"
     },
     {
         "name": "Kaxil",
@@ -118043,6 +118253,16 @@
         "discovered_at": "2026-03-01"
     },
     {
+        "name": "Unmark",
+        "description": "Show HN: Stop applying to jobs using AI-generated resume",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://unmark.grandimam.com/",
+        "discovered_at": "2026-11-21"
+    },
+    {
         "name": "Uprightproject",
         "description": "Show HN: Eevo – Consequential Decision Model",
         "category": "Other",
@@ -118591,6 +118811,16 @@
         "cors": "unknown",
         "url": "https://vrong.me/blog/what-is-pinning-in-rust/",
         "discovered_at": "2026-07-02"
+    },
+    {
+        "name": "Waffuru",
+        "description": "Show HN: Pantry an open source scanner that checks what your coding agents run",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://waffuru.ai/products/pantry",
+        "discovered_at": "2026-11-21"
     },
     {
         "name": "Waggle",
@@ -132493,6 +132723,16 @@
         "discovered_at": "2026-05-08"
     },
     {
+        "name": "Mcp",
+        "description": "Show HN: Formbook – MCP server for horse racing data",
+        "category": "Sports",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://mcp.formbook.io",
+        "discovered_at": "2026-11-21"
+    },
+    {
         "name": "Meodai",
         "description": "Show HN: Ray-color, color palettes sampled off a raytraced tennis ball",
         "category": "Sports",
@@ -136022,6 +136262,16 @@
         "discovered_at": "2026-09-07"
     },
     {
+        "name": "Getyoutubetext",
+        "description": "Show HN: Built a cheap and fast YouTube transcription API and MCP",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://getyoutubetext.com/youtube-transcript-api",
+        "discovered_at": "2026-11-21"
+    },
+    {
         "name": "Gifdecider",
         "description": "Show HN: I Built a GIF Decider with Jev",
         "category": "Video & Media",
@@ -136768,6 +137018,16 @@
         "cors": "unknown",
         "url": "https://www.tryjunco.com/",
         "discovered_at": "2026-06-03"
+    },
+    {
+        "name": "Trynotched",
+        "description": "Show HN: Tinnitus frequency finder and audio notch tool",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://trynotched.com/find",
+        "discovered_at": "2026-11-21"
     },
     {
         "name": "Tuberank-ai",
