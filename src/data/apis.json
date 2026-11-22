@@ -93924,6 +93924,16 @@
         "discovered_at": "2026-05-01"
     },
     {
+        "name": "Behavlabs",
+        "description": "A Free API for device and behavior-based account takeover detection",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://behavlabs.com/developers",
+        "discovered_at": "2026-11-22"
+    },
+    {
         "name": "Cactuscompute",
         "description": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
         "category": "IoT & Hardware",
@@ -110761,6 +110771,16 @@
         "cors": "unknown",
         "url": "https://medium.com/@rodba/building-a-developer-friendly-rest-api-on-supabase-edge-functions-what-i-learned-shipping-polydata-a293d0c723b2",
         "discovered_at": "2026-03-26"
+    },
+    {
+        "name": "Meetadmiral",
+        "description": "Show HN: A free website check that starts from what your buyers search",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://meetadmiral.com/website-seo-checker",
+        "discovered_at": "2026-11-22"
     },
     {
         "name": "Meetless",
@@ -130507,6 +130527,16 @@
         "cors": "unknown",
         "url": "https://restk.ai",
         "discovered_at": "2026-07-21"
+    },
+    {
+        "name": "Rmux",
+        "description": "Show HN: Rmux – A lightweight GPU rendered terminal workspace",
+        "category": "Science",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rmux.app",
+        "discovered_at": "2026-11-22"
     },
     {
         "name": "Sciencedirect",
