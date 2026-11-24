@@ -5373,6 +5373,16 @@
         "discovered_at": "2026-04-16"
     },
     {
+        "name": "Moai",
+        "description": "My AI assistant tried to set my other AI free",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://moai.studio/blog/posts/my-ai-assistant-tried-to-free-my-other-ai.html",
+        "discovered_at": "2026-11-24"
+    },
+    {
         "name": "Model-x",
         "description": "Show HN: ModelX – Prediction Exchange for LLMs",
         "category": "AI & Machine Learning",
@@ -21167,6 +21177,16 @@
         "discovered_at": "2026-08-22"
     },
     {
+        "name": "Docs",
+        "description": "Show HN: Lightweight Agentic CMS on Cloudflare – API, MCP, CLI, Web",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://docs.microfeed.org/",
+        "discovered_at": "2026-11-24"
+    },
+    {
         "name": "Dropbox",
         "description": "File storage, sharing, and synchronization",
         "category": "Cloud & Storage",
@@ -21391,6 +21411,16 @@
         "cors": "unknown",
         "url": "https://mantledb.sh/",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Masondata",
+        "description": "Show HN: Mason – a lightweight Postgres read-replica, built on columnar storage",
+        "category": "Cloud & Storage",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://masondata.ai/",
+        "discovered_at": "2026-11-24"
     },
     {
         "name": "Metaspec",
@@ -23068,6 +23098,16 @@
         "cors": "unknown",
         "url": "https://quickinvoice-jade.vercel.app",
         "discovered_at": "2026-06-30"
+    },
+    {
+        "name": "Railcall",
+        "description": "Show HN: RailCall – Local Mac agent execution with zero API markup",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://railcall.ai/",
+        "discovered_at": "2026-11-24"
     },
     {
         "name": "Reasonmachines",
@@ -58645,6 +58685,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Dinocodes-potter",
+        "description": "An app that watches you screen for you (free and open source)",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dinocodes-potter.github.io/Waiting-Room/",
+        "discovered_at": "2026-11-24"
+    },
+    {
         "name": "discogs-vinyl-records-data",
         "description": "Crawls Discogs for vinyl records based on a keyword. Extracts title, artist, price, barcode, catalog number, media/sleeve condition, color, and seller info. Useful for collectors, researchers, and...",
         "category": "Development",
@@ -90091,6 +90141,16 @@
         "discovered_at": "2026-09-27"
     },
     {
+        "name": "Anduil",
+        "description": "Show HN: My computer was too slow to run this Flash game, so I decompiled it",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://anduil.neocities.org/n/",
+        "discovered_at": "2026-11-24"
+    },
+    {
         "name": "Antics",
         "description": "Show HN: Antics: Drop-in multiplayer for your AI-built games",
         "category": "Entertainment",
@@ -90956,6 +91016,16 @@
         "discovered_at": "2026-10-31"
     },
     {
+        "name": "Pigeonsandplanes",
+        "description": "The Clandestine Economy of Music Leaking",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.pigeonsandplanes.com/read/music-leaking-kanye-west-jay-z-living-so-italian-group-buy",
+        "discovered_at": "2026-11-24"
+    },
+    {
         "name": "Pip",
         "description": "Show HN: River Rescue – Game mechanic for 3yo",
         "category": "Entertainment",
@@ -91646,6 +91716,16 @@
         "cors": "unknown",
         "url": "https://crypto-enrich.up.railway.app",
         "discovered_at": "2026-03-07"
+    },
+    {
+        "name": "Cryptologie",
+        "description": "The AI social classes, and why the doomers are dooming at the wrong tree",
+        "category": "Finance",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cryptologie.net/posts/ai-classisim/",
+        "discovered_at": "2026-11-24"
     },
     {
         "name": "ExchangeRate-API",
@@ -101363,6 +101443,16 @@
         "discovered_at": "2026-03-29"
     },
     {
+        "name": "Aisma",
+        "description": "Show HN: Aisma – edit footage you shot from a text brief, via REST API or MCP",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://aisma.ai/developers",
+        "discovered_at": "2026-11-24"
+    },
+    {
         "name": "Aito",
         "description": "Aito v2: a predictive database over linked data, with vectors, graphs and SQL",
         "category": "Other",
@@ -101981,6 +102071,16 @@
         "cors": "unknown",
         "url": "https://app.splitsetter.com/",
         "discovered_at": "2026-11-07"
+    },
+    {
+        "name": "App",
+        "description": "Show HN: Undistracted Me – open-source new tab with site blocker and clipper",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://app.undistracted.me/",
+        "discovered_at": "2026-11-24"
     },
     {
         "name": "Appdoesit",
@@ -103253,6 +103353,16 @@
         "discovered_at": "2026-10-29"
     },
     {
+        "name": "Bongbong",
+        "description": "Show HN: BongBong – A tank shooter and world builder",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bongbong.io/",
+        "discovered_at": "2026-11-24"
+    },
+    {
         "name": "Bonwa",
         "description": "Show HN: Bonwa – A free visibility check for your website",
         "category": "Other",
@@ -103771,6 +103881,16 @@
         "cors": "unknown",
         "url": "https://www.chainguard.dev/unchained/open-source-died-in-march-it-just-doesnt-know-it-yet",
         "discovered_at": "2026-04-12"
+    },
+    {
+        "name": "Chameleonicons",
+        "description": "Show HN: Chameleon Icons – Make those missing icons and share them with others",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://chameleonicons.com/",
+        "discovered_at": "2026-11-24"
     },
     {
         "name": "Chaosdata",
@@ -109013,6 +109133,16 @@
         "discovered_at": "2026-08-22"
     },
     {
+        "name": "Invora",
+        "description": "Show HN: Invora – Free KoSIT XRechnung 3.0 / ZUGFeRD 2.2 Validator and REST API",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.invora.dev/tools/xrechnung-zugferd-validator",
+        "discovered_at": "2026-11-24"
+    },
+    {
         "name": "Ipcrawl",
         "description": "The free IP Crawl API: detect if your IP camera is accidentally exposed",
         "category": "Other",
@@ -112563,6 +112693,16 @@
         "discovered_at": "2026-08-19"
     },
     {
+        "name": "Openapi-proxy",
+        "description": "Show HN: An open-source proxy to serve, split, and merge OpenAPI files",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://openapi-proxy.app/",
+        "discovered_at": "2026-11-24"
+    },
+    {
         "name": "Openapi-test-generator",
         "description": "Show HN: Generate pytest API tests from an OpenAPI spec",
         "category": "Other",
@@ -113541,6 +113681,16 @@
         "cors": "unknown",
         "url": "https://pingjobs.co/cv-builder",
         "discovered_at": "2026-10-08"
+    },
+    {
+        "name": "Pipod",
+        "description": "Show HN: In-browser coding agent and model via LiteRT-LM and WebGPU",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://pipod.browserpod.io/",
+        "discovered_at": "2026-11-24"
     },
     {
         "name": "Piruet",
@@ -115061,6 +115211,16 @@
         "cors": "unknown",
         "url": "https://www.roadandtrack.com/car-culture/entertainment/a31820423/the-toyota-prius-is-the-best-apocalypse-vehicle/",
         "discovered_at": "2026-07-09"
+    },
+    {
+        "name": "Robkhenderson",
+        "description": "Apparently Criminals Don't Have Free Will, but Elites Do",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.robkhenderson.com/p/apparently-criminals-dont-have-free",
+        "discovered_at": "2026-11-24"
     },
     {
         "name": "Robogym",
@@ -116921,6 +117081,16 @@
         "cors": "unknown",
         "url": "https://statsnest.app/",
         "discovered_at": "2026-11-23"
+    },
+    {
+        "name": "Status",
+        "description": "Show HN: status: an emoji and your status, built with SvelteKit and Claude",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://status.me/",
+        "discovered_at": "2026-11-24"
     },
     {
         "name": "Statusdrop",
@@ -120822,6 +120992,16 @@
         "discovered_at": "2026-10-09"
     },
     {
+        "name": "Outloudreader",
+        "description": "Show HN: Outloud Reader – photograph a page and listen to it phrase by phrase",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://outloudreader.app/",
+        "discovered_at": "2026-11-24"
+    },
+    {
         "name": "Paste-for-linkedin",
         "description": "Show HN: Ctrl+V for Images on LinkedIn",
         "category": "Photography",
@@ -120859,6 +121039,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://www.pexels.com/api/"
+    },
+    {
+        "name": "Phuzzles",
+        "description": "Show HN: Phuzzles – daily photo puzzle, no signup, public-domain pictures",
+        "category": "Photography",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://phuzzles.app/daily/",
+        "discovered_at": "2026-11-24"
     },
     {
         "name": "Phwalls",
@@ -136145,6 +136335,16 @@
         "discovered_at": "2026-09-25"
     },
     {
+        "name": "Somaai",
+        "description": "Show HN: LLM API cost and carbon calculator for your own token mix",
+        "category": "Utilities",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://somaai.earth/ai-footprint/llm-api-cost-calculator",
+        "discovered_at": "2026-11-24"
+    },
+    {
         "name": "Templateson",
         "description": "Show HN: Image Generation API with QR code tracking and MCP support",
         "category": "Utilities",
@@ -137209,6 +137409,16 @@
         "cors": "unknown",
         "url": "https://www.resilientcyber.io/p/vulnpocalypse-ai-open-source-and",
         "discovered_at": "2026-04-10"
+    },
+    {
+        "name": "Ribbonarchitect",
+        "description": "Show HN: Ribbon Architect – Endless ways to tie a gift ribbon",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ribbonarchitect.com",
+        "discovered_at": "2026-11-24"
     },
     {
         "name": "Ring",
