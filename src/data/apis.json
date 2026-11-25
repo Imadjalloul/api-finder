@@ -7571,6 +7571,16 @@
         "discovered_at": "2026-07-24"
     },
     {
+        "name": "Sgnt",
+        "description": "The shortest possible list of AI development best practices",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sgnt.ai/p/ai-best-practices/",
+        "discovered_at": "2026-11-25"
+    },
+    {
         "name": "Sharefreeform",
         "description": "Show HN: Freeform – One click shareable AI generated apps",
         "category": "AI & Machine Learning",
@@ -14530,6 +14540,16 @@
         "cors": "unknown",
         "url": "https://tokenizer.robkopel.me",
         "discovered_at": "2026-04-22"
+    },
+    {
+        "name": "Tokenmargin",
+        "description": "Show HN: TokenMargin – Client-side LLM API cost simulator and CSV bill auditor",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://tokenmargin.dev/",
+        "discovered_at": "2026-11-25"
     },
     {
         "name": "Tokenmonopoly",
@@ -22870,6 +22890,16 @@
         "discovered_at": "2026-03-26"
     },
     {
+        "name": "Memova",
+        "description": "Best Voice Recorder for Apple Watch: 4 Apps Compared",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://memova.ai/journal/best-voice-recorder-for-apple-watch/",
+        "discovered_at": "2026-11-25"
+    },
+    {
         "name": "Messages API",
         "description": "The Messages API consolidates and normalises exchanges across all messaging channels. It allows you to use a single API to interact with our various channels such as SMS, MMS, WhatsApp, Viber and Face",
         "category": "Communication",
@@ -23287,6 +23317,16 @@
         "cors": "unknown",
         "url": "https://speko.ai/",
         "discovered_at": "2026-08-18"
+    },
+    {
+        "name": "Spendgap",
+        "description": "Show HN: Free tool to collect invoices and spot forgotten subscriptions",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://spendgap.ai/",
+        "discovered_at": "2026-11-25"
     },
     {
         "name": "Stayinsight",
@@ -58046,6 +58086,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Cyber",
+        "description": "Show HN: Cyber, every hack in one place and does my code share the same flaw?",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://cyber.askgina.ai/",
+        "discovered_at": "2026-11-25"
+    },
+    {
         "name": "Cypress Cloud Runner",
         "description": "Run your JavaScript-based automation and testing scripts built with Cypress framework on the cloud. Automate and schedule your runs in Apify Console and connect them to other platforms and services to",
         "category": "Development",
@@ -68656,6 +68706,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Rocketcrab",
+        "description": "Show HN: Rocketcrab Nova – vibe code a little game, play with friends instantly",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://rocketcrab.com/",
+        "discovered_at": "2026-11-25"
+    },
+    {
         "name": "Rossmann Price Scraper",
         "description": "🏪 Fast & lightweight Rossmann.de product price scraper! 🚀 Extract prices from German pharmacy products in European format (9,99). Simply input product URL and get clean price data. ⚡ Super quick...",
         "category": "Development",
@@ -76794,6 +76854,16 @@
         "cors": "unknown",
         "url": "https://apify.com/mshopik/bychari-scraper",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Byname",
+        "description": "Show HN: Byname – open-source tool to see when AI assistants name your product",
+        "category": "E-Commerce",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://byname.dev/",
+        "discovered_at": "2026-11-25"
     },
     {
         "name": "Cainiao Tracking Actor",
@@ -90647,6 +90717,16 @@
         "url": "https://v2.jokeapi.dev/"
     },
     {
+        "name": "Joonoo",
+        "description": "Show HN: Keeping faces and features consistent across 24 AI-driven comic pages",
+        "category": "Entertainment",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://joonoo.art/create-comic",
+        "discovered_at": "2026-11-25"
+    },
+    {
         "name": "Kinorogames",
         "description": "Show HN: Circix: Rewired – a Hashi-style circuit puzzle rebuilt in PixiJS",
         "category": "Entertainment",
@@ -93055,6 +93135,16 @@
         "url": "https://countrylayer.com/"
     },
     {
+        "name": "Findme",
+        "description": "Show HN: Find your location from the background noise of aircraft flying over",
+        "category": "Geocoding",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://findme.alexvd.dev",
+        "discovered_at": "2026-11-25"
+    },
+    {
         "name": "Flyovercountry",
         "description": "Show HN: Flyover Country – guide to the window seat with AR",
         "category": "Geocoding",
@@ -94082,6 +94172,16 @@
         "cors": "unknown",
         "url": "https://404privacy.com/",
         "discovered_at": "2026-04-16"
+    },
+    {
+        "name": "Abruf",
+        "description": "Show HN: Abruf – Native macOS Client for REST APIs and MQTT",
+        "category": "IoT & Hardware",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://abruf.app/",
+        "discovered_at": "2026-11-25"
     },
     {
         "name": "Aigadgetexpert",
@@ -96937,6 +97037,16 @@
         "cors": "unknown",
         "url": "https://www.assetroom.net/blog/public-companies-using-ai-to-write-press-releases",
         "discovered_at": "2026-11-21"
+    },
+    {
+        "name": "Avva",
+        "description": "Show HN: Avva – Compress your expertise available to AI agent via MCP",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://avva.chat/",
+        "discovered_at": "2026-11-25"
     },
     {
         "name": "Bais",
@@ -101711,6 +101821,16 @@
         "cors": "unknown",
         "url": "https://anirudhb11.github.io/blog/scorpio/",
         "discovered_at": "2026-11-05"
+    },
+    {
+        "name": "Anon",
+        "description": "Anon.af: AI-free social network",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://anon.af/",
+        "discovered_at": "2026-11-25"
     },
     {
         "name": "Another",
@@ -111673,6 +111793,16 @@
         "discovered_at": "2026-06-16"
     },
     {
+        "name": "Moonbooth",
+        "description": "Show HN: Moonbooth – Simple URLs for independent agents to share and coordinate",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.moonbooth.ai",
+        "discovered_at": "2026-11-25"
+    },
+    {
         "name": "Moorcheh",
         "description": "Own Your Data. Run Your Search. Keep Your Memory",
         "category": "Other",
@@ -114201,6 +114331,16 @@
         "cors": "unknown",
         "url": "https://proving.app",
         "discovered_at": "2026-05-15"
+    },
+    {
+        "name": "Provost",
+        "description": "Show HN: Archiver that opens every format",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://provost.unlimitedweb.space/",
+        "discovered_at": "2026-11-25"
     },
     {
         "name": "Ptecorepractice",
@@ -117453,6 +117593,16 @@
         "discovered_at": "2026-10-06"
     },
     {
+        "name": "Surdz",
+        "description": "Surdz: Free Visual Board for Anyone",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://surdz.vercel.app/",
+        "discovered_at": "2026-11-25"
+    },
+    {
         "name": "Sw-fun",
         "description": "Show HN: Learn/Practice Sudoku strategies web app",
         "category": "Other",
@@ -117861,6 +118011,16 @@
         "cors": "unknown",
         "url": "https://textyoursite.com/demo",
         "discovered_at": "2026-02-28"
+    },
+    {
+        "name": "Thatplace",
+        "description": "Show HN: Thatplace – iOS/macOS app to remember the places you've been",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://thatplace.io",
+        "discovered_at": "2026-11-25"
     },
     {
         "name": "The-independent",
@@ -127145,6 +127305,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Phials",
+        "description": "Show HN: Phials – A file manager for knowledge work and productivity",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://phials.phoundry.app/",
+        "discovered_at": "2026-11-25"
+    },
+    {
         "name": "Phone Number Formatter",
         "description": "Easily parse and format phone numbers in bulk with this Apify Actor. Supports E.164, International, National, and RFC3966 formats, configurable regions, batch processing, concurrency, rate limiting,..",
         "category": "Productivity",
@@ -135012,6 +135182,16 @@
         "url": "https://libretranslate.com/"
     },
     {
+        "name": "Lightscale",
+        "description": "Show HN: Lightscale AI – A language for LLMs to write business software",
+        "category": "Text & Language",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lightscale.ai/",
+        "discovered_at": "2026-11-25"
+    },
+    {
         "name": "Lingle",
         "description": "Show HN: Lingle – Voice agent to simulate zoom-based personal language lessons",
         "category": "Text & Language",
@@ -137648,6 +137828,16 @@
         "cors": "unknown",
         "url": "https://tinyrec.io/blog/rust-video-exporter/",
         "discovered_at": "2026-05-04"
+    },
+    {
+        "name": "Trucehq",
+        "description": "Show HN: Truce – a neutral mediator that AI agents can call to settle disputes",
+        "category": "Video & Media",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://trucehq.com/agents",
+        "discovered_at": "2026-11-25"
     },
     {
         "name": "Tryjunco",
