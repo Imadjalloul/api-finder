@@ -1670,6 +1670,16 @@
         "discovered_at": "2026-11-17"
     },
     {
+        "name": "Bobebot",
+        "description": "Show HN: Open-source ESP32 desk body for a local AI assistant",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.bobebot.com/body",
+        "discovered_at": "2026-11-27"
+    },
+    {
         "name": "Boesch",
         "description": "Show HN: Letting an LLM write robot programs",
         "category": "AI & Machine Learning",
@@ -2426,6 +2436,16 @@
         "cors": "unknown",
         "url": "https://www.ctxoverflow.dev/",
         "discovered_at": "2026-03-21"
+    },
+    {
+        "name": "D2l",
+        "description": "Dive into Deep Learning – New Edition (2026) – free online book (PyTorch,Jax...)",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://d2l.ai/",
+        "discovered_at": "2026-11-27"
     },
     {
         "name": "Dadgptcostume",
@@ -4003,6 +4023,16 @@
         "cors": "unknown",
         "url": "https://hodor.design",
         "discovered_at": "2026-05-28"
+    },
+    {
+        "name": "Horatiothomas",
+        "description": "What ten years as a retail investor taught me, and how AI helped me test it",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://horatiothomas.com/blog/investing-rules-backtest",
+        "discovered_at": "2026-11-27"
     },
     {
         "name": "Hormuz-havoc",
@@ -6982,6 +7012,16 @@
         "discovered_at": "2026-09-30"
     },
     {
+        "name": "Recap-ux",
+        "description": "Show HN: Open-source Hotjar for AI prototypes",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.recap-ux.com/",
+        "discovered_at": "2026-11-27"
+    },
+    {
         "name": "Receptive-field-flame",
         "description": "Learn Convolutional Neural Networks Interactively for Free",
         "category": "AI & Machine Learning",
@@ -7479,6 +7519,16 @@
         "cors": "unknown",
         "url": "https://scitechdaily.com/even-gpt-5-failed-this-human-attention-test/",
         "discovered_at": "2026-06-22"
+    },
+    {
+        "name": "Scolast",
+        "description": "Show HN: Scolast – AI tutor for autodidacts inspired by Bloom's 2 sigma problem",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://scolast.com",
+        "discovered_at": "2026-11-27"
     },
     {
         "name": "Screamer",
@@ -22259,6 +22309,16 @@
         "cors": "unknown",
         "url": "https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/",
         "discovered_at": "2026-11-11"
+    },
+    {
+        "name": "Ashuteacher",
+        "description": "Show HN: AshuTeacher – Free AI tutor, voice blackboard and thesis studio",
+        "category": "Communication",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ashuteacher.vercel.app",
+        "discovered_at": "2026-11-27"
     },
     {
         "name": "Boilerroom",
@@ -72426,6 +72486,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Unterm",
+        "description": "Show HN: Unterm v0.73 – Pure-Rust GPU Terminal Built for Claude Code, Codex, Agy",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://unterm.app/",
+        "discovered_at": "2026-11-27"
+    },
+    {
         "name": "Upcheck",
         "description": "Monitor websites and APIs with this simple yet powerful availability checker. This Apify Actor checks the status of your specified endpoints, tracks their response times, and alerts you when they...",
         "category": "Development",
@@ -88951,6 +89021,16 @@
         "discovered_at": "2026-04-04"
     },
     {
+        "name": "Discourse",
+        "description": "The SciML Factory: A New Approach to Agentic Open Source Maintenance",
+        "category": "Education",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://discourse.julialang.org/t/the-sciml-factory-a-new-approach-to-agentic-open-source-maintenance/143251",
+        "discovered_at": "2026-11-27"
+    },
+    {
         "name": "Engineerprep",
         "description": "Show HN: AI engineer course where every lesson is runnable Spring Boot project",
         "category": "Education",
@@ -95584,6 +95664,16 @@
         "discovered_at": "2026-04-14"
     },
     {
+        "name": "Gmbrank",
+        "description": "Show HN: Gmbrank – Google Business Profile rank tracking with geo-grid maps",
+        "category": "Maps & Transport",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://gmbrank.ai",
+        "discovered_at": "2026-11-27"
+    },
+    {
         "name": "Google Maps",
         "description": "Maps, routes, places, and Street View",
         "category": "Maps & Transport",
@@ -97584,6 +97674,16 @@
         "cors": "unknown",
         "url": "https://www.hncli.newstackwhodis.com",
         "discovered_at": "2026-08-18"
+    },
+    {
+        "name": "Hnpredictions",
+        "description": "Show HN: Analysis of Hacker News predictions since 2008",
+        "category": "News",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hnpredictions.com/",
+        "discovered_at": "2026-11-27"
     },
     {
         "name": "Hnslop",
@@ -103463,6 +103563,16 @@
         "discovered_at": "2026-04-02"
     },
     {
+        "name": "Bloque",
+        "description": "Show HN: Bloque – Hosted MCP gateway for teams without an IT department",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://bloque.run",
+        "discovered_at": "2026-11-27"
+    },
+    {
         "name": "Bluedoor",
         "description": "Show HN: Free job postings API with 1.8M+ US jobs, 60k companies",
         "category": "Other",
@@ -105133,6 +105243,16 @@
         "discovered_at": "2026-02-23"
     },
     {
+        "name": "Datafluxor",
+        "description": "Show HN: DataFluxor – SEO, Etsy Research and Scraping via API and MCP",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://datafluxor.com",
+        "discovered_at": "2026-11-27"
+    },
+    {
         "name": "Datahyena",
         "description": "Show HN: DataHyena – Growth signals as one clean API",
         "category": "Other",
@@ -106563,6 +106683,16 @@
         "discovered_at": "2026-09-25"
     },
     {
+        "name": "Europeinstead",
+        "description": "Show HN: Europe Instead – find the European version of the tools you use",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://europeinstead.com",
+        "discovered_at": "2026-11-27"
+    },
+    {
         "name": "Eventclock",
         "description": "Show HN: Spoiler-Free Website for UFC, FIFA World Cup, Formula 1",
         "category": "Other",
@@ -106921,6 +107051,16 @@
         "cors": "unknown",
         "url": "https://www.filestash.app/",
         "discovered_at": "2026-04-28"
+    },
+    {
+        "name": "Fileswiss",
+        "description": "Show HN: FileSwiss – Free, private file tools that run 100% in your browser",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fileswiss.app/",
+        "discovered_at": "2026-11-27"
     },
     {
         "name": "Filterboxbuilder",
@@ -108233,6 +108373,16 @@
         "discovered_at": "2026-11-13"
     },
     {
+        "name": "Grasmere",
+        "description": "Show HN: A free Markdown editor for long writing and research",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://grasmere.app/",
+        "discovered_at": "2026-11-27"
+    },
+    {
         "name": "Greip API",
         "description": "This documentation shows how to use Greip API, By highlighting the API methods, options and some other features that allow you to get the most of this API.",
         "category": "Other",
@@ -108581,6 +108731,16 @@
         "cors": "unknown",
         "url": "https://hhs.iowa.gov/media/19822",
         "discovered_at": "2026-11-23"
+    },
+    {
+        "name": "Hiitbuilder",
+        "description": "Show HN: No-equipment workout generator with 3D-to-2D SVG figures",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://hiitbuilder.app/",
+        "discovered_at": "2026-11-27"
     },
     {
         "name": "Hikerapi",
@@ -110503,6 +110663,16 @@
         "discovered_at": "2026-05-29"
     },
     {
+        "name": "Lintsure",
+        "description": "What a rule-based checker found in 561 public projects, mostly AI-built",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://lintsure.com/research/561-projects",
+        "discovered_at": "2026-11-27"
+    },
+    {
         "name": "Linux",
         "description": "Rust Will Save Linux from AI, Says Greg Kroah-Hartman",
         "category": "Other",
@@ -112171,6 +112341,16 @@
         "cors": "unknown",
         "url": "https://myintelbrief.com/",
         "discovered_at": "2026-07-14"
+    },
+    {
+        "name": "Myscreenbreak",
+        "description": "Show HN: I posted a read-later-to-paper app here in 2020. Here's what happened",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.myscreenbreak.com/",
+        "discovered_at": "2026-11-27"
     },
     {
         "name": "N3mo",
@@ -114193,6 +114373,16 @@
         "discovered_at": "2026-08-06"
     },
     {
+        "name": "Potluckpicks",
+        "description": "Show HN: Potluck – a small, algorithm-free way to share what you love",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://potluckpicks.com",
+        "discovered_at": "2026-11-27"
+    },
+    {
         "name": "Prasadpatil25",
         "description": "Show HN: Mindspark",
         "category": "Other",
@@ -114711,6 +114901,16 @@
         "cors": "unknown",
         "url": "https://qevra.app/",
         "discovered_at": "2026-09-01"
+    },
+    {
+        "name": "Quakecstudio",
+        "description": "Show HN: QuakeC Studio, the IDE I've been promising in my .plan since 1998",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.quakecstudio.com/",
+        "discovered_at": "2026-11-27"
     },
     {
         "name": "Quickish",
@@ -116983,6 +117183,16 @@
         "discovered_at": "2026-06-11"
     },
     {
+        "name": "Sourceforge",
+        "description": "Show HN: LbDMF – Distributed Multiplatform Framework – 1.3.6",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://sourceforge.net/projects/lbdmf/files/lbdmf/lbDMF-1.3.6/",
+        "discovered_at": "2026-11-27"
+    },
+    {
         "name": "Southbridge",
         "description": "The frontier is open-source today",
         "category": "Other",
@@ -117461,6 +117671,16 @@
         "cors": "unknown",
         "url": "https://stillwind.ai",
         "discovered_at": "2026-06-13"
+    },
+    {
+        "name": "Stochasticlifestyle",
+        "description": "The SciML Factory: A New Approach to Agentic Open Source Maintenance",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://www.stochasticlifestyle.com/the-sciml-factory-a-new-approach-to-agentic-open-source-maintenance/",
+        "discovered_at": "2026-11-27"
     },
     {
         "name": "Stof",
@@ -119143,6 +119363,16 @@
         "discovered_at": "2026-10-16"
     },
     {
+        "name": "Useblur",
+        "description": "Show HN: Blur – a Mac app that hides secrets during screen sharing",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://useblur.app",
+        "discovered_at": "2026-11-27"
+    },
+    {
         "name": "Usecharming",
         "description": "Show HN: Charming – Build and share apps like Google Docs",
         "category": "Other",
@@ -119261,6 +119491,16 @@
         "cors": "unknown",
         "url": "https://useview.app/",
         "discovered_at": "2026-11-17"
+    },
+    {
+        "name": "Ustr",
+        "description": "US proposes 10% tariff on Brazilian aircraft in new Section 301 action",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-invites-public-comment-proposed-modifications-section-301-action-regarding-brazils-unreasonable",
+        "discovered_at": "2026-11-27"
     },
     {
         "name": "Usvote",
@@ -124614,6 +124854,16 @@
         "cors": "unknown",
         "url": "https://apify.com/flow-ai/flow-ai-agent",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Folio-eta-bay-59",
+        "description": "Show HN: I made a FREE note-taking app that connects to your AI",
+        "category": "Productivity",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://folio-eta-bay-59.vercel.app",
+        "discovered_at": "2026-11-27"
     },
     {
         "name": "Ford Parts Catalog",
@@ -132730,6 +132980,16 @@
         "cors": "unknown",
         "url": "https://aifreepc.com",
         "discovered_at": "2026-09-23"
+    },
+    {
+        "name": "Alexchen-imgbot-sales",
+        "description": "Show HN: Telegram image bot – 3 free AI images a day, 1 USDT = 10",
+        "category": "Social",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://alexchen-imgbot-sales.containers.snapdeploy.app/",
+        "discovered_at": "2026-11-27"
     },
     {
         "name": "App",
