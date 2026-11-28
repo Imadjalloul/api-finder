@@ -2827,6 +2827,16 @@
         "discovered_at": "2026-09-23"
     },
     {
+        "name": "Drmahfouz",
+        "description": "Woman evicted after landlord's AI assistant told her she could delay rent",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+        "discovered_at": "2026-11-28"
+    },
+    {
         "name": "Duck",
         "description": "Free and private AI chat from DuckDuckGo",
         "category": "AI & Machine Learning",
@@ -3165,6 +3175,16 @@
         "cors": "unknown",
         "url": "https://flaviocopes.com/ai-coding-models/",
         "discovered_at": "2026-09-25"
+    },
+    {
+        "name": "Fleetlayer",
+        "description": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+        "category": "AI & Machine Learning",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://fleetlayer.ai/",
+        "discovered_at": "2026-11-28"
     },
     {
         "name": "Flint",
@@ -14231,6 +14251,16 @@
         "https": true,
         "cors": "yes",
         "url": "https://coinlayer.com/"
+    },
+    {
+        "name": "Costpertoken",
+        "description": "Show HN: CostPerToken – Rank LLM API providers by your monthly bill",
+        "category": "Blockchain",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://costpertoken.vercel.app",
+        "discovered_at": "2026-11-28"
     },
     {
         "name": "CRM cards",
@@ -55407,6 +55437,16 @@
         "discovered_at": "2026-06-15"
     },
     {
+        "name": "Api",
+        "description": "Show HN: Free Temporary and Mock REST API for Front End Developers",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://api.sonojs.com",
+        "discovered_at": "2026-11-28"
+    },
+    {
         "name": "API Doc Mcp",
         "description": "MCP server that scrapes any documentation website and makes it searchable for AI assistants. Configure URLs, then search docs, find code examples, and look up API references directly from Claude.",
         "category": "Development",
@@ -58256,6 +58296,16 @@
         "discovered_at": "2026-09-05"
     },
     {
+        "name": "Damn",
+        "description": "Show HN: Started open source course for DevOps engineers with open governance",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://damn.academy/?lang=en#/profession/devops",
+        "discovered_at": "2026-11-28"
+    },
+    {
         "name": "Danscend Blog Scraper",
         "description": "Danscend Blog Scraper (danscend.teachable.com) lets you extract blog content in HTML, JSON, and plaintext. Get authors, create/update date, images, read time, RSS, titles, SEO titles, featured images.",
         "category": "Development",
@@ -60833,6 +60883,16 @@
         "cors": "unknown",
         "url": "https://apify.com/syntellect_ai/flight-tracker-actor",
         "discovered_at": "2026-02-23"
+    },
+    {
+        "name": "Flowmaps",
+        "description": "Show HN: Flowmaps – the logic layer for agents and developers",
+        "category": "Development",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://flowmaps.ai/",
+        "discovered_at": "2026-11-28"
     },
     {
         "name": "Food Pantry of Jeff Davis County News Scraper",
@@ -102983,6 +103043,16 @@
         "discovered_at": "2026-10-27"
     },
     {
+        "name": "Baxel",
+        "description": "Show HN: Baxel – a collective gallery of 8×8 pixel sprites",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://baxel.art",
+        "discovered_at": "2026-11-28"
+    },
+    {
         "name": "Bbc",
         "description": "Race on to establish globally recognised 'AI-free' logo",
         "category": "Other",
@@ -103521,6 +103591,16 @@
         "cors": "unknown",
         "url": "https://blog.malwaremustdie.org/2026/11/mmd-073-2026-linuxeasyshell-new-rust.html",
         "discovered_at": "2026-11-21"
+    },
+    {
+        "name": "Blog",
+        "description": "Synthetic fuel from sunlight, water and air",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://blog.terraformindustries.com/2026/11/24/terraform-industries-activates-muroc-desert-test-site/",
+        "discovered_at": "2026-11-28"
     },
     {
         "name": "Blogmaker",
@@ -105231,6 +105311,16 @@
         "cors": "unknown",
         "url": "https://dashapply.ai",
         "discovered_at": "2026-07-14"
+    },
+    {
+        "name": "Dashprompts",
+        "description": "Show HN: DashPrompts – describe a dashboard, get a working Power BI file",
+        "category": "Other",
+        "auth": "apiKey",
+        "https": true,
+        "cors": "unknown",
+        "url": "https://dashprompts.com/",
+        "discovered_at": "2026-11-28"
     },
     {
         "name": "Data2CRM.API",
